@@ -58,6 +58,8 @@ output:
   <h4><a href="#ch1">1: Exploring the Basics of JavaScript</a></h4>
   <h4><a href="#ch2">2: Working with Data in JavaScript</a></h4>
   <h4><a href="#ch3">3: Controllion the Plow
+</blockquote>
+
 Chapter 1: Exploring the Basics of JavaScript 9 Introduction to
 JavaScript: Its Importance and Applications Writing Your First
 JavaScript Program: The \"Hello World!\" How JavaScript Works in Web
