@@ -1,25 +1,23 @@
-# JS-Basics-Unlock
-JS Basics Unlock the Power of Web Programming
-<h1>Basics of JavaScript: Unlock the power of Web Programming</h1>
 ---
-title: "W3Cx-5of5-JS.0x: Coursera - Front-End Web Development - JavaScript Introduction"
+title: "JS-Basics-Unlock: JavaScript Introduction"
 author: "bbauska"
-date created: "7/07/2024 Sun 12+pm"
-date last editted: "9/19/2024 Thu 2+pm"
+date created: "11/16/2024 Sat 8+pm"
+date last editted: "11/16/2024 Sat 8+pm"
 
 output: 
   markdown:
     with some style
 ---
 
-<h2 align="center">W3Cx Front-End Web Developer</h2>
+<h1>Basics of JavaScript: Unlock the power of Web Programming</h1>
+<h2 align="center">JS Basics Unlock JavaScript</h2>
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of W3Cx-5of5-JS.0x ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ w3cx logo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  logo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/w3cx-logo.jpg"
+<img src="./images/.jpg"
   style="width:35%"
   align="center"
   title="W3Cx logo"
