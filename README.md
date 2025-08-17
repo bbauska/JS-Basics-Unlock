@@ -3,6 +3,7 @@ title: "JS-Basics-Unlock: JavaScript Introduction"
 author: "bbauska"
 date created: "11/16/2024 Sat 8+pm"
 date last editted: "11/16/2024 Sat 8+pm"
+date last editted: "8/17/2025 Sun 3+pm"
 
 output: 
   markdown:
@@ -13,22 +14,21 @@ output:
 <h2 align="center">JS Basics Unlock JavaScript</h2>
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-basics-unlocked ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  logo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/.jpg"
-  style="width:35%"
+  style="width:3in;"
   align="center"
   title="W3Cx logo"
   alt="W3Cx logo." />
 </p>
-<h3 align="center">W3Cx-5of5-JS.0x - JavaScript Introduction</h3>
+<h3 align="center">Basics of JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. JS Basics Unlocked (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image007.jpg"
-  style="width:65%"
+  style="width:8.3in;"
   title="JS Basics Unlocked logo"
   alt="JS Basics Unlocked logo." />
 </p>
@@ -41,7 +41,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08.  (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image008.jpg"
-  style="width:15%"
+  style="width:1.7in;"
   title=""
   alt="." />
 </p>
@@ -60,26 +60,24 @@ output:
   <h4><a href="#ch3">3: Controllion the Plow
 </blockquote>
 
-Chapter 1: Exploring the Basics of JavaScript 9 Introduction to
-JavaScript: Its Importance and Applications Writing Your First
-JavaScript Program: The \"Hello World!\" How JavaScript Works in Web
-Pages: Linking a JavaScript File
+<h2 id="ch1">Chapter 1: Exploring the Basics of JavaScript 9 Introduction to JavaScript: Its Importance and Applications Writing Your First</h2>
+<h3>JavaScript Program: The &quot;Hello World!&quot; How JavaScript Works in Web<h3>
+<h4>Pages: Linking a JavaScript File</h4>
 
-Chapter 2: Working with Data in JavaScript 13 Understanding JavaScript
-Values and Variables Exploring
+<h2 id="ch2">Chapter 2: Working with Data in JavaScript 13 Understanding JavaScript</h2>
+<h3>Values and Variables Exploring</h3>
 
-Data Types: From Numbers to Strings Declaring Variables: let, const, and
-var
+<h4>Data Types: From Numbers to Strings Declaring Variables: let, const, and var</h4>
 
 Performing Operations: Basic Operators Understanding Operator Precedence
 
-Chapter 3: Controlling the Plow 25 Making Decisions: if/else Statements
+<h2 id="ch3">Chapter 3: Controlling the Plow 25 Making Decisions: if/else Statements</h2>
 
 Repeating Actions: for and while Loops
 
 Iterating over Data: Looping Through Arrays
 
-Chapter 4: Functions and Scope 38 Defining and Invoking Functions
+<h2 id="ch4">Chapter 4: Functions and Scope 38 Defining and Invoking Functions</h2>
 
 Exploring Function Declarations vs. Expressions
 
@@ -87,8 +85,7 @@ Arrow Functions: A Concise Syntax
 
 Scope: Understanding Local vs. Global
 
-Chapter 5: More on Functions 50 Functions Calling Functions: A Deeper
-Dive
+<h2 id="ch5">Chapter 5: More on Functions 50 Functions Calling Functions: A Deeper Dive</h2>
 
 Functions: Passing Values and Reference
 
@@ -96,15 +93,13 @@ The Power of Return Values
 
 Understanding Callback Functions
 
-Chapter 6: Arrays and Objects 64 Introduction to Arrays: Handling
-Collections of Data Basic and Advanced Array Operations
+<h2 id="ch6">Chapter 6: Arrays and Objects 64 Introduction to Arrays: Handling Collections of Data Basic and Advanced Array Operations</h2>
 
 Understanding Objects: Key-Value Pairs
 
 Accessing Object Properties: Dot vs. Bracket Notation
 
-Chapter 7: Deeper into Objects 75 Introduction to Object-Oriented
-JavaScript
+<h2 id="ch7">Chapter 7: Deeper into Objects 75 Introduction to Object-Oriented JavaScript</h2>
 
 Understanding this Keyword
 
@@ -119,7 +114,8 @@ Making HTTP Requests: Fetch API and AJAX
 
 Handling JSON Data
 
-Chapter 9: Modern JavaScript Developments 106 ES6 and Beyond: Arrow
+<h2 id="ch9">Chapter 9: Modern JavaScript Developments</h2>
+<h3>106 ES6 and Beyond: Arrow</h3>
 Functions, Classes, and Modules
 
 Spread and Rest Operators: simplifying Arrays and Objects
@@ -128,8 +124,8 @@ Template Literals: A New Way to Handle Strings
 
 Destructuring: Making Data Extraction Easier
 
-Chapter 10: The Browser Environment 122 Introduction to the DOM
-(Document Object Model)
+<h2 id="ch10">Chapter 10: The Browser Environment</h2>
+Introduction to the DOM (Document Object Model)
 
 Selecting and Manipulating DOM Elements
 
@@ -137,16 +133,17 @@ Handling Events: Responding to User Input
 
 Creating and Navigating Between Pages Dynamically
 
-Chapter 11: Debugging and Error Handling 135 Introduction to Debugging
-in JavaScript
+<h2 id="ch10">Chapter 11: Debugging and Error Handling</h2>
+Introduction to Debugging in JavaScript
 
 Using Browser Developer Tools
 
 Understanding Runtime Errors and Handling Exceptions Best Practices for
 Debugging
 
-Chapter 12: JavaScript in the Real World 146 Building a Simple Web
-Application: Integrating HTML, CSS, and JavaScript Utilizing Local
+<h2 id="ch10">Chapter 12: JavaScript in the Real World</h2>
+
+146 Building a Simple Web Application: Integrating HTML, CSS, and JavaScript Utilizing Local
 Storage for Data Persistence
 
 Deploying Your JavaScript Web Application
@@ -156,7 +153,7 @@ Where to Go from Here: Continuing Your JavaScript Journey
 ## Preface
 
 Welcome to the dynamic and evolving world cf JavaScript programming This
-book, \"Basics cfJavaScript,\' opens the door for those embarking on
+book, &quot;Basics cfJavaScript,&#39; opens the door for those embarking on
 thei_r journey into the vast landscape Of web development, software
 engineering, and beyond. Crafted With the needs Of beginners in mind,
 our goal is to establish a solid foundation in JavaScript, a language
@@ -175,7 +172,7 @@ Node-is, or venturing into the territories of mobile app development and
 the Internet of Things C_roT), JavaScript will be your guide and
 companion
 
-AS you navigate through Basics of JavaScript,\" you will be introduced
+AS you navigate through Basics of JavaScript,&quot; you will be introduced
 to the core principles of JavaScript in manner that is both thorough and
 accessible Our educational philosophy emphasizes clarity and engagement,
 ensuring that beginners can understand the intricacies of JavaScript
@@ -195,7 +192,7 @@ experiment beyond the page. These activities are not just instructional;
 they are invitations to ex• plore the limitless possibilities that
 JavaScript offers.
 
-Commencing with \"Basics of JavaScript\" is merely the first step into a
+Commencing with &quot;Basics of JavaScript&quot; is merely the first step into a
 broadere constantly changing universe ofdevelopment opportunities. The
 field ofJavaScript is vibrant, with new frameworks, libraries, and best
 practices emerging regularly We u_rge you to maintain a spirit of
@@ -203,31 +200,47 @@ exploration, to delve into the expansive ecosystems of front-end and
 back-end JavaScript, and to always seek new problems to solve.
 
 AS we embark on this voyage through the fascinating realm of JavaScript,
-let\'S carry forward the traits of innovation, creativity, and the joy
+let&#39;S carry forward the traits of innovation, creativity, and the joy
 of solving problems that are at the heart of programming Were thrilled
-to guide you on this path and can\'t wait to see the amazing projects
+to guide you on this path and can&#39;t wait to see the amazing projects
 and solutions you!ll craft with JavaScript, Heres to a journey of
 creativity, discovery, and the joy of coding in JavaScript, Welcome to
-\"Basics of JavaScript,\"
+&quot;Basics of JavaScript,&quot;
 
 Happy coding!
 
 ## Acknowledgements
 
-We, at Programming Hub, are thrilled to present this book, \"Basics
-OfJavaScript: Unlock the Power Of Web Programming,\" to the aspiring
+We, at Programming Hub, are thrilled to present this book, &quot;Basics
+OfJavaScript: Unlock the Power Of Web Programming,&quot; to the aspiring
 architects ofthe digital world, This book stands as a testament to the
 collective efforts and unwavering dedication cf our team Ofexperts in
 programming and instructional
-design![](/images/image9.jpg){width="3.125546806649169e-2in"
-height="3.1258748906386705e-2in"}
+design
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image009.jpg"
+  style="width:3.1in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](/images/image009.jpg){width="3.125546806649169e-2in" height="3.1258748906386705e-2in"}  -->
 
 First and foremost, we extend our deepest gratitude to all the engineers
 developers, and educators who have shared their knowledge, expertise,
 and passion Their commitment to excellence and their profound
 understanding ofJavaScript have been pivotal in creating a comprehensive
-guide for learning
-JavaScript![](./images/image010.jpg){width="4.167541557305337e-2in"
+guide for learning JavaScript.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image010.jpg"
+  style="width:4.1in;"
+  title=""
+  alt="." />
+</p>
+![](./images/image010.jpg){width="4.167541557305337e-2in"
 height="2.083880139982502e-2in"}
 
 Our appreciation also goes out to our esteemed authors, who have
@@ -259,7 +272,7 @@ Lastly we acknowledge our entire team at Programming Hub, whose
 relentless pursuit of excellence and dedication to enriching the
 learning experience have brought this endeavor to fruition,
 
-We envisage that \"Basics Of JavaScript: Unlock the Power Of Web
+We envisage that &quot;Basics Of JavaScript: Unlock the Power Of Web
 Programming • Will spark your curiosity, bolster your learning, and
 equip you With the competencies necessary to navigate the vast landscape
 Of JavaScript programming, May your voyage through the world Of
@@ -286,7 +299,7 @@ including forms validation, interactive maps, animated graphics, and
 complex webpage layouts.
 
 Unlike many other programming languages, JavaScript executes on the
-client\'s browser, providing an immediate response to user actions
+client&#39;s browser, providing an immediate response to user actions
 without needing to communicate with the server for every operation. This
 client-side execution capability makes JavaScript a key player in
 creating seamless and dynamic user experiences on the web.
@@ -310,10 +323,10 @@ process because the same language can be used across the entire stack.
 ### I. 1.3 Applications: From Web Pages to Server-Side Development
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-JavaScript\'s applications extend far beyond simple animations and
+JavaScript&#39;s applications extend far beyond simple animations and
 validations on web pages. With the advent of sophisticated frameworks
 and tools, it now powers complex web applications, mobile apps, games,
-and even Internet of Things (IOT) devices. JavaScript\'s non-blocking,
+and even Internet of Things (IOT) devices. JavaScript&#39;s non-blocking,
 event-driven nature makes it particularly well-suited for developing
 real-time applications, such as chatting apps and live content updates.
 
@@ -338,15 +351,15 @@ codebases. They come with pre-written code for common tasks, letting
 developers focus on the unique aspects of their projects rather than
 reinventing the wheel for basic functionalities.
 
-JavaScript\'s importance in the web development landscape cannot be
+JavaScript&#39;s importance in the web development landscape cannot be
 overstated. Its evolution from a simple scripting language to a
 versatile, full-stack development tool demonstrates its vital role in
-crafting modern web experiences. By understanding JavaScript\'s core
+crafting modern web experiences. By understanding JavaScript&#39;s core
 principles and learning to leverage its frameworks and libraries,
 developers can build emcient, interactive, and dynamic web applications
 that stand out in the digital age.
 
-### 1.2 Writing Your First JavaScript Program: The \"Hello World!\"
+### 1.2 Writing Your First JavaScript Program: The &quot;Hello World!&quot;
 
 #### 1.2.1 Understanding the Structure of a JavaScript Program
 
@@ -356,7 +369,7 @@ program can be as simple as a single line of code intended to perform a
 specific task. Each statement in JavaScript is usually followed by a
 semicolon (;) to mark the end of the current
 
-statement, although it\'s important to note that JavaScript engines can
+statement, although it&#39;s important to note that JavaScript engines can
 interpret the end of statements even without the semicolon, thanks to
 Automatic Semicolon Insertion (ASI).
 
@@ -365,50 +378,60 @@ repeating actions, functions to organize code into reusable blocks, and
 much more. The basic structure hinges on these constructs to build more
 complex operations and workflows.
 
-##### 1.2.2 Creating a Simple \"Hello World!\" Script
+##### 1.2.2 Creating a Simple &quot;Hello World!&quot; Script
 
-The \"Hello World!\" program is a simple exercise that prints the string
-\"Hello, World!\" on the screen. It is a traditional way to introduce a
-new programming language. Here\'s how you can create a \"Hello World!\"
+The &quot;Hello World!&quot; program is a simple exercise that prints the string
+&quot;Hello, World!&quot; on the screen. It is a traditional way to introduce a
+new programming language. Here&#39;s how you can create a &quot;Hello World!&quot;
 script in JavaScript:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image011.jpg"
+  style="width:9.7in;"
+  title=""
+  alt="." />
+</p>
 
-#### console. log( \'Hello, World! i ) ;![](./images/image011.jpg){width="9.710341207349082in" height="1.219080271216098in"}
+#### console. log( &#39;Hello, World! i ) ;
+
+![](./images/image011.jpg){width="9.710341207349082in" height="1.219080271216098in"}
 
 This single line of JavaScript code can be included in an HTML file
-within \<script\> tags, or in an external JavaScript file, to display
-the message in the web browser\'s console.
+within &#92;<script&#92;> tags, or in an external JavaScript file, to display
+the message in the web browser&#39;s console.
 
 ##### I .2.3 Using the Browser Console to Execute JavaScript
 
-One of the easiest ways to run JavaScript code is using the browser\'s
+One of the easiest ways to run JavaScript code is using the browser&#39;s
 console. The console is part of the web
 
-browser\'s developer tools, and it provides a way to write, manage, and
+browser&#39;s developer tools, and it provides a way to write, manage, and
 monitor JavaScript on demand.
 
-1.  Open the Console: Right-click on a webpage, select \"Inspect\" (or
-    press F12 / Cmd+Opt+I on Mac), and navigate to the \"Console\" tab
+1.  Open the Console: Right-click on a webpage, select &quot;Inspect&quot; (or
+    press F12 / Cmd+Opt+I on Mac), and navigate to the &quot;Console&quot; tab
 
 2.  Write JavaScript Code: Type your JavaScript code directly into the
-    console. For example, \'console.log(^I^Hello, World!l); and then
+    console. For example, &#39;console.log(^I^Hello, World!l); and then
     press Enter.
 
-3.  View Output: Immediately after execution, you\'ll see the output
-    (\"Hello, World!\") displayed in the console.
+3.  View Output: Immediately after execution, you&#39;ll see the output
+    (&quot;Hello, World!&quot;) displayed in the console.
 
 Using the console is a great way to test and debug small snippets of
 JavaScript code.
 
 ##### I .2.4 Best Practices for Writing and Organizing Your JavaScript Code
 
-As you learn to write more complex JavaScript programs, it\'s important
+As you learn to write more complex JavaScript programs, it&#39;s important
 to follow best practices to ensure your code is readable, maintainable,
 and effcient:
 
 -   Use Meaningful Variable Names: Choose clear and descriptive names
     for variables and functions.
 
--   Stay Consistent with Style: Whether it\'s how you name variables or
+-   Stay Consistent with Style: Whether it&#39;s how you name variables or
     how you layout your code, pick a style and stick with it.
 
 -   Comment Your Code: Use comments to explain the purpose of blocks of
@@ -437,7 +460,7 @@ Working with Data in JavaScript
 
 In JavaScript, the concept of values and variables is foundational. A
 value refers to the actual data represented in the program, such as a
-number (e.g., 5 or 2.14 ^Q^ ), a string (e.g., \' \"Hello, world!\" ),
+number (e.g., 5 or 2.14 ^Q^ ), a string (e.g., &#39; &quot;Hello, world!&quot; ),
 or a Boolean ( true or false Essentially, values are the bits of data
 that we manipulate using our programs.
 
@@ -447,6 +470,15 @@ programs can be understood more clearly by humans and manipulated more
 easily by the computer. For example, instead of remembering that the
 number 3.14 represents the mathematical constant Pi, we can simply store
 it in a variable named
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image012.jpg"
+  style="width:0.7in;"
+  title=""
+  alt="." />
+</p>
+
 ![](./images/image012.jpg){width="0.6980610236220472in"
 height="0.33342410323709537in"}
 
@@ -458,18 +490,18 @@ of data held in memory. When we use a value in a program, we are
 directly referring to that data.
 
 Variables, however, are mutable references to values. A variable does
-not \"contain\" the data; it merely points to the value in memory. This
+not &quot;contain&quot; the data; it merely points to the value in memory. This
 distinction matters when we start performing operations on variables or
 when we assign a new value to a variable. The content of the memory
 location pointed to by the variable can change, but the value itself
-(for example, the number 42 or the string \"hello\" ) is immutable.
+(for example, the number 42 or the string &quot;hello&quot; ) is immutable.
 
 <h3 id="">2.1.3 Declaring Variables in JavaScript</h3>
 
-JavaScript provides three keywords for declaring variables: var let\' ,
+JavaScript provides three keywords for declaring variables: var let&#39; ,
 and const .
 
--   var: Before ES6 (ECMAScript 2015), ^Q^ var\* was the only way to
+-   var: Before ES6 (ECMAScript 2015), ^Q^ var&#42; was the only way to
     declare a variable in JavaScript. Variables declared with var have
     function scope or are globally scoped if declared outside of a
     function, One of the downsides is that var declarations can lead to
@@ -477,7 +509,7 @@ and const .
 
 -   let: Introduced in ES6, ^q^ let allows developers to declare
     block-scoped variables, significantly improving code manageability
-    by confining the variable\'s scope to the block in which it is
+    by confining the variable&#39;s scope to the block in which it is
     declared.
 
 -   const: Also introduced in ES6, const is used to declare variables
@@ -485,9 +517,17 @@ and const .
     reassignment. Like let const is block-scoped.
 
 To declare a variable, you specify the keyword followed by the variable
-name: let age =
-30;![](./images/image013.jpg){width="7.293088363954506e-2in"
-height="7.293635170603674e-2in"}
+name: let age = 30;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image013.jpg"
+  style="width:7.2in;"
+  title=""
+  alt="." />
+</p>
+
+<!-- ![](./images/image013.jpg){width="7.293088363954506e-2in" height="7.293635170603674e-2in"}  -->
 
 <h3 id="">2.1.4 Variable Naming Conventions and Best Practices</h3>
 
@@ -495,27 +535,57 @@ When naming variables in JavaScript, there are several conventions and
 best practices to follow:
 
 -   Use descriptive and meaningful names that clearly indicate what data
-    the variable represents. For example, use userName instead of str\'
-    or ^q^
-    n![](./images/image014.jpg){width="0.20837707786526685in"
-    height="0.26048665791776027in"}
+    the variable represents. For example, use userName instead of str&#39;
+    or ^q^n
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image014.jpg"
+  style="width:0.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image014.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}  -->
 
--   Stick to camelCase for variable names (e.g., \* userProfile
+-   Stick to camelCase for variable names (e.g., &#42; userProfile
     isLoading ).
 
--   For const\* variables that hold constant values, it\'s common to use
+-   For const&#42; variables that hold constant values, it&#39;s common to use
     UPPER_CASE with underscores (e.g.,
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image015.jpg"
+  style="width:5.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image015.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 
- ![](./images/image015.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}MAX_USERS ,
-![](./images/image016.jpg){width="1.5211472003499562in"
-height="0.29174540682414696in"} ).
+MAX_USERS ,
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image016.jpg"
+  style="width:1.5in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image016.jpg){width="1.5211472003499562in" height="0.29174540682414696in"} )  -->
 
--   Avoid using JavaScript reserved words (like new \'class function \'
+-   Avoid using JavaScript reserved words (like new &#39;class function &#39;
     ) as variable names.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image017.jpg"
+  style="width:9.3in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image017.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
 
-![](./images/image017.jpg){width="9.376968503937008e-2in"
-height="2.083880139982502e-2in"}Keep name length reasonable. While
+Keep name length reasonable. While
 descriptive names are good, overly long names can make your code harder
 to read,
 
@@ -548,35 +618,49 @@ manipulating data with numbers and strings.
 
 #### 2.2.2 Understanding Numbers and Mathematical Operations
 
-In JavaScript, the Number\* type represents both integers and
-floating-point numbers. Arithmetic operations such as addition ( \* + \'
-subtraction ( - \' ), multiplication ( \* \' ), and division C / • ) are
+In JavaScript, the Number&#42; type represents both integers and
+floating-point numbers. Arithmetic operations such as addition ( &#42; + &#39;
+subtraction ( - &#39; ), multiplication ( &#42; &#39; ), and division C / • ) are
 available for constructing expressions with numbers. Special numerical
 values under the Number type also exist, including Infinity -Infinity ,
-and \* NaN (Not a Number). Examples of numerical operations:
-
-![](./images/image018.jpg){width="15.430272309711286in"
-height="2.438159448818898in"}
+and &#42; NaN (Not a Number). Examples of numerical operations:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image018.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image018.jpg){width="15.430272309711286in" height="2.438159448818898in"}  -->
 
 JavaScript also includes the Math object, which provides more complex
 mathematical functions and constants, like Math.sqrt() (square root),
-Math.pow() (exponentiation), and
-Math.PI![](./images/image019.jpg){width="0.6980610236220472in"
-height="0.31258530183727035in"}
+Math.pow() (exponentiation), and Math.PI
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image019.jpg"
+  style="width:0.7in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image019.jpg){width="0.6980610236220472in" height="0.31258530183727035in"}  -->
 
 #### 2.2.3 Working with Strings: Creating and Manipulating Text
 
 Strings in JavaScript are sequences of characters used to represent
-text. They can be defined using single quotes ( double quotes C \' or
-backticks (X ^Q^ \\ \* ) for template literals, which allow for
+text. They can be defined using single quotes ( double quotes C &#39; or
+backticks (X ^Q^ &#92;&#92; &#42; ) for template literals, which allow for
 multi-line
 
-strings and embedding variables using \$1) syntax.
+strings and embedding variables using &#36;1) syntax.
 
 String operations and methods are crucial for text manipulation,
 including:
 
--   Concatenation: Combining strings using the + \* operator or the \'
+-   Concatenation: Combining strings using the + &#42; operator or the &#39;
     concat() method.
 
 -   Slicing: Extracting a portion of a string using the slice() method,
@@ -586,18 +670,12 @@ including:
 -   Replacing: Replacing parts of a string with another using the
     replace() method
 
-Example
-
-of
-
-string
-
-manipulation:
+Example of string manipulation:
 
 #### 2.2.4 Boolean, Null, and Undefined: Special Data Types
 
 -   Booleans represent logical values and can be either or . They are
-    often used in control structures like if\' statements to determine
+    often used in control structures like if&#39; statements to determine
     the flow of a program.
 
 -   null is a special value in JavaScript that represents a deliberate
@@ -613,11 +691,17 @@ effectively programming in JavaScript, as they form the foundation upon
 which more complex structures and logic are built.
 
 ### 2.3 Declaring Variables: let const , and var
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image021.jpg"
+  style="width:7.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image021.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}  -->
 
-![](./images/image021.jpg){width="7.29319772528434e-2in"
-height="8.335629921259842e-2in"}
-
-#### 2.3.1 Differences Between let\' , const , and var
+#### 2.3.1 Differences Between let&#39; , const , and var
 
 -   var: This keyword declares a variable, optionally initializing it to
     a value. -declared variables are function-scoped or globally scoped
@@ -625,38 +709,50 @@ height="8.335629921259842e-2in"}
     hoisting (which means they can be referenced in code before they are
     declared).
 
--   let: Introduced in ES6 (ECMAScript 2015), \* let\* allows the
+-   let: Introduced in ES6 (ECMAScript 2015), &#42; let&#42; allows the
     declaration ofblock-scoped variables, significantly reducing the
     scope in which a variable is visible compared to %vrar• . Variables
     declared with
-    ![](./images/image022.jpg){width="0.6563856080489939in"
-    height="0.27090660542432193in"}can be updated but not re-declared
-    within the same scope.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image022.jpg"
+  style="width:0.6in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image022.jpg){width="0.6563856080489939in" height="0.27090660542432193in"}  -->
+    
+can be updated but not re-declared within the same scope.
 
 -   const: Also introduced in ES6, const is used for declaring variables
     that are meant to remain constant after their initial assignment
-    (i.e., they cannot be reassigned). Like \'let const provides
-    block-level scope. It\'s important to note that while the variable
+    (i.e., they cannot be reassigned). Like &#39;let const provides
+    block-level scope. It&#39;s important to note that while the variable
     reference is immutable, the object it points to can still be mutated
     if it is an object.
 
-#### 2.3.2 When to Use let € vs. const![](./images/image023.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}
+#### 2.3.2 When to Use let € vs. const
 
-The choice between let and const should be guided by the intended use
-ofthe variable:
+<!-- ![](./images/image023.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}  -->
 
--   Use const\' by default for declaring variables that should not
+The choice between let and const should be guided by the intended use of the variable:
+
+-   Use const&#39; by default for declaring variables that should not
     change after their initial assignment. This communicates intent to
     other developers and leads to safer, more predictable code.
 
--   Use \*let for variables that are expected to change, such as
+-   Use &#42;let for variables that are expected to change, such as
     counters in a loop, or values that get reassigned during the
     execution of a function.
 
 By following this approach, code maintainability and readability are
 improved.
 
-##### 2.3.3 The Scope of let • , \' const , and var![](./images/image024.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}
+##### 2.3.3 The Scope of let • , &#39; const , and var
+
+![](./images/image024.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}
 
 -   var: Variables declared with •var are either function-scoped or
     global-scoped, meaning they are visible throughout the entire
@@ -664,71 +760,31 @@ improved.
     function.
 
 -   let and const: Both of these keywords allow for block-scoping, which
-    limits the visibility of a variable to the block in which it\'s
+    limits the visibility of a variable to the block in which it&#39;s
     declared (a block is defined by curly braces {l This is a crucial
     feature for managing variable lifecycle and avoiding unintentional
     interference between different parts of a program.
 
 #### 2.3.4 Examples and Common Pitfalls
 
-\- Hoisting: var declarations are hoisted to the top of their scope,
+&#45; Hoisting: var declarations are hoisted to the top of their scope,
 which can lead to surprising behavior if not understood properly.
 
 ![](./images/image025.jpg){width="15.430272309711286in"
 height="1.43788823272091in"}
 
-![](./images/image026.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}let\' and const are also hoisted but
-not initialized, which means they cannot be
+![](./images/image026.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
 
-accessed before their declaration due to the temporal dead zone. - Block
-Scope vs. Function Scope:
+let&#39; and const are also hoisted but not initialized, which means they cannot be
+accessed before their declaration due to the temporal dead zone. 
 
-![](./images/image027.jpg){width="15.430272309711286in"
-height="3.5217858705161853in"}
+- Block Scope vs. Function Scope:
 
-\-
+![](./images/image027.jpg){width="15.430272309711286in" height="3.5217858705161853in"}
 
-Re-declaration
+&#45;
 
-and
-
-Re-assignment:
-
-Understanding
-
-the
-
-differences
-
-between
-
-var
-
-let
-
-,
-
-and
-
-const
-
-,
-
-along
-
-with
-
-their
-
-scopes
-
-and
-
-proper
-
-use
-
+Re-declaration and Re-assignment: Understanding the differences between var let, and const, along with their scopes and proper use
 cases, is critical for writing robust and error-free JavaScript code.
 
 ## 2.4 Performing Operations: Basic Operators
@@ -737,96 +793,91 @@ cases, is critical for writing robust and error-free JavaScript code.
 
 Arithmetic operators in JavaScript include the more familiar ones such
 as addition ( + ), subtraction (
-![](./images/image029.jpg){width="0.6388888888888888in"
-height="0.3194444444444444in"}multiplication ( \* ), and division ( /
+
+![](./images/image029.jpg){width="0.6388888888888888in" height="0.3194444444444444in"}
+multiplication ( &#42; ), and division ( /
 There are also the modulus or remainder operator C % ), which returns
 the remainder of a division, increment ( + + and decrement ( ) operators
 that increase or decrease a number by one, respectively. These operators
 are used to perform mathematical calculations. For example:
 
-![](./images/image030.jpg){width="15.430272309711286in"
-height="2.92787510936133in"}
+![](./images/image030.jpg){width="15.430272309711286in" height="2.92787510936133in"}
 
 #### 2.4.2 String Operators for Concatenation
 
 In JavaScript, the + • operator is also used for concatenating
 strings. When a operator is used with strings, it joins them together
 into one:
->
-let greeting = \"Hello, \' + [\"world!]{.underline} \" , //
-\"[Hello]{.underline}, [world!]{.underline} \"
->
-![](./images/image031.jpg){width="1.0627198162729659in"
-height="4.167760279965004e-2in"}
->
-![](./images/image032.jpg){width="1.3127712160979879in"
-height="0.15629155730533684in"}
+
+let greeting = &quot;Hello, &#39; + [&quot;world!]{.underline} &quot; , //
+&quot;[Hello]{.underline}, [world!]{.underline} &quot;
+
+![](./images/image031.jpg){width="1.0627198162729659in" height="4.167760279965004e-2in"}
+
+![](./images/image032.jpg){width="1.3127712160979879in" height="0.15629155730533684in"}
 
 Template literals, introduced in ES6, offer a more powerful way to
-create and manipulate strings. Enclosed by backticks (\\ \\ they can
-contain placeholders marked by \${expression) , which are replaced by
+create and manipulate strings. Enclosed by backticks (&#92;&#92; &#92;&#92; they can
+contain placeholders marked by &#36;{expression) , which are replaced by
 the values of the expressions:
 
-![](./images/image033.jpg){width="15.430272309711286in"
-height="1.43788823272091in"}
+![](./images/image033.jpg){width="15.430272309711286in" height="1.43788823272091in"}
 
 #### 2.4.3 Comparison Operators and Evaluating Conditions
 
 Comparison operators are used to compare two values and return a Boolean
 value, either true or false . These include:
 
-![](./images/image034.jpg){width="0.8855993000874891in"
-height="0.18755030621172353in"}(equal to)
+![](./images/image034.jpg){width="0.8855993000874891in" height="0.18755030621172353in"}
+(equal to)
 
-![](./images/image035.jpg){width="1.0835575240594926in"
-height="0.19797025371828522in"} (strictly equal to, meaning equal in
-value and type)
+![](./images/image035.jpg){width="1.0835575240594926in" height="0.19797025371828522in"}
+(strictly equal to, meaning equal in value and type)
 
-![](./images/image036.jpg){width="0.781411854768154in"
-height="0.26048665791776027in"}(not equal to)
+![](./images/image036.jpg){width="0.781411854768154in" height="0.26048665791776027in"}
+(not equal to)
 
-![](./images/image037.jpg){width="0.9689501312335957in"
-height="0.26048665791776027in"} (strictly not equal to)
+![](./images/image037.jpg){width="0.9689501312335957in" height="0.26048665791776027in"}
+(strictly not equal to)
 
-![](./images/image038.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"} \> (greater than)
+![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"} 
+&#92;> (greater than)
 
 ![](./images/image039.jpg){width="0.7084798775153106in"
-height="0.21880905511811025in"}(less than)
+height="0.21880905511811025in"}
+(less than)
 
 ![](./images/image040.jpg){width="0.8855993000874891in"
-height="0.21880905511811025in"} (greater than or equal to)
+height="0.21880905511811025in"}
+(greater than or equal to)
 
 ![](./images/image041.jpg){width="0.7397364391951006in"
-height="0.14587270341207348in"}(less than or equal to)
+height="0.14587270341207348in"}
+(less than or equal to)
 
 For example:
 
-![](./images/image042.jpg){width="15.430272309711286in"
-height="1.8963462379702538in"}
+![](./images/image042.jpg){width="15.430272309711286in" height="1.8963462379702538in"}
 
 #### 2.4.4 Logical Operators: Combining Conditions
 
-Logical operators allow you to combine multiple conditions. They
-include:
+Logical operators allow you to combine multiple conditions. They include:
 
 ![](./images/image043.jpg){width="1.000206692913386in"
 height="0.26048665791776027in"} (logical AND): Returns true if both
 operands are true.
 
-![](./images/image044.jpg){width="0.30214566929133857in"
-height="0.18755030621172353in"} I l (logical OR): Returns true if one or
-both operands are true.
+![](./images/image044.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}
+! l (logical OR): Returns true if one or both operands are true.
 
-![](./images/image038.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"} ! (logical NOT): Returns true if the
+![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}
+! (logical NOT): Returns true if the
 operand is false, and vice versa,
 
 These operators are commonly used in conditionals to combine multiple
 conditions:
 
-![](./images/image045.jpg){width="15.22189523184602in"
-height="3.438429571303587in"}
+![](./images/image045.jpg){width="15.22189523184602in" height="3.438429571303587in"}
 
 Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
@@ -867,20 +918,21 @@ Examples of operator precedence levels from highest to lower:
 
 -   Unary Operators: Such as ++ ! and typeof.
 
--   Multiplication and Division: ^s^ / \' , and Yo ^q^ . - Addition and
+-   Multiplication and Division: ^s^ / &#39; , and Yo ^q^ . - Addition and
     Subtraction: + and
 
 -   Relational:
 
 -   Equality:
 
-##### - Logical AND: \'
+##### - Logical AND: &#39;
 
 -   Logical OR:
 
 -   Assignment: ,
-    and![](./images/image046.jpg){width="0.7397364391951006in"
-    height="0.2813254593175853in"}
+    and
+
+![](./images/image046.jpg){width="0.7397364391951006in" height="0.2813254593175853in"}
 
 #### 2.5.3 Overriding Default Precedence: The Use of Parentheses
 
@@ -909,26 +961,23 @@ adding
 
 2.  With Parentheses:
 
-![](./images/image048.jpg){width="15.430272309711286in"
-height="1.0627876202974629in"}
+![](./images/image048.jpg){width="15.430272309711286in" height="1.0627876202974629in"}
 
 Parentheses alter the natural precedence, so 3 is added to 4 before the
 result is multiplied by 5.
 
 3.  Combining Different Types:
 
-![](./images/image049.jpg){width="15.430272309711286in"
-height="1.0836253280839896in"}
+![](./images/image049.jpg){width="15.430272309711286in" height="1.0836253280839896in"}
 
 Multiplication is performed first, followed by addition and subtraction
 from left to right according to their associativity.
 
 4.  Logical Operators:
 
-![](./images/image050.jpg){width="15.430272309711286in"
-height="0.9169149168853893in"}
+![](./images/image050.jpg){width="15.430272309711286in" height="0.9169149168853893in"}
 
-Logical AND ( && ) has a higher precedence than logical OR ( I l \* ),
+Logical AND ( && ) has a higher precedence than logical OR ( I l &#42; ),
 but using parentheses can change the evaluation order for clarity or to
 alter the result.
 
@@ -942,7 +991,7 @@ developing logical and effcient code.
 
 The ability to conditionally execute code allows programs to make
 decisions based on various criteria, making if/else statements
-fundamental in programming. Here we\'ll explore how to use these control
+fundamental in programming. Here we&#39;ll explore how to use these control
 structures in JavaScript.
 
 #### 3.1.1 Understanding if Statements
@@ -951,41 +1000,37 @@ An i? statement is the simplest form of control flow, allowing you to
 execute a block of code only if a given condition is true. Its basic
 syntax is:
 
-![](./images/image051.jpg){width="15.430272309711286in"
-height="1.8546675415573053in"}
+![](./images/image051.jpg){width="15.430272309711286in" height="1.8546675415573053in"}
 
 Example:
 
-![](./images/image052.jpg){width="15.430272309711286in"
-height="2.3027055993000873in"}
+![](./images/image052.jpg){width="15.430272309711286in" height="2.3027055993000873in"}
 
 Here, the message is logged to the console only if the temperature is
 greater than 30.
 
 ##### 3.1.2 Utilizing else and else if Clauses
 
-To provide an alternative path when the if\* condition is false, you can
+To provide an alternative path when the if&#42; condition is false, you can
 use an else clause. For multiple conditions, else if can be used,
 Syntax:
 
-![](./images/image053.jpg){width="15.430272309711286in"
-height="3.8864665354330707in"}
+![](./images/image053.jpg){width="15.430272309711286in" height="3.8864665354330707in"}
 
 Example:
 
-![](./images/image054.jpg){width="15.430272309711286in"
-height="4.094856736657918in"}
+![](./images/image054.jpg){width="15.430272309711286in" height="4.094856736657918in"}
 
 <h3 id="">3.1.3 Nested if Statements</h3>
 
-![](./images/image055.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"} if\' statements can be nested within
+![](./images/image055.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}
+
+if&#39; statements can be nested within
 each other, allowing for more complex decisionmaking.
 
 Example:
 
-![](./images/image056.jpg){width="15.430272309711286in"
-height="4.084436789151356in"}
+![](./images/image056.jpg){width="15.430272309711286in" height="4.084436789151356in"}
 
 This structure tests another condition (whether the sky is clear) inside
 an outer condition (whether the temperature is greater than 20).
@@ -995,19 +1040,18 @@ an outer condition (whether the temperature is greater than 20).
 For simple conditions, the ternary operator provides a concise
 alternative to if/else statements. It takes three operands: a condition,
 an expression to execute if the condition is true, and an expression to
-execute if it\'s false.
+execute if it&#39;s false.
 
 Syntax:
 
-![](./images/image057.jpg){width="1.4482163167104112in"
-height="0.26048665791776027in"}condition ? exprIfTrue
-exprIfFaIse;![](./images/image058.jpg){width="8.460082020997376in"
-height="0.9481725721784777in"}
+![](./images/image057.jpg){width="1.4482163167104112in" height="0.26048665791776027in"}
+condition ? exprIfTrue
+exprIfFaIse;
+![](./images/image058.jpg){width="8.460082020997376in" height="0.9481725721784777in"}
 
 Example:
 
-![](./images/image059.jpg){width="15.44069116360455in"
-height="1.7921511373578303in"}
+![](./images/image059.jpg){width="15.44069116360455in" height="1.7921511373578303in"}
 
 Here, message is assigned one of the two strings based on whether
 temperature is greater than 30.
@@ -1025,12 +1069,11 @@ and controlling loop execution.
 
 3.2.1 Introduction to for Loops
 
-The ^Q^ for\' loop is one of the most commonly used loops. Its
+The ^Q^ for&#39; loop is one of the most commonly used loops. Its
 particularly useful when the number of iterations is known beforehand,
 Syntax:
 
-![](./images/image060.jpg){width="15.430272309711286in"
-height="2.000541338582677in"}
+![](./images/image060.jpg){width="15.430272309711286in" height="2.000541338582677in"}
 
 -   initialExpression: Initializes a counter variable.
 
@@ -1042,8 +1085,7 @@ height="2.000541338582677in"}
 
 Example:
 
-![](./images/image061.jpg){width="15.430272309711286in"
-height="1.9276038932633421in"}
+![](./images/image061.jpg){width="15.430272309711286in" height="1.9276038932633421in"}
 
 This loop prints a message five times, with ^s^ i representing the
 current iteration number from O to 4.
@@ -1068,7 +1110,7 @@ different syntax and approach.
 
 <h3 id="">3.2.3 The do-while Loop Variation</h3>
 
-The ^Q^ do-while \' loop is similar to the while loop, with one key
+The ^Q^ do-while &#39; loop is similar to the while loop, with one key
 difference: the code block is executed at least once before the
 condition is tested. Syntax:
 
@@ -1076,15 +1118,13 @@ do {
 
 // code [blo]{.underline}ck to be executed
 
-![](./images/image065.jpg){width="0.9897878390201225in"
-height="6.251749781277341e-2in"}
+![](./images/image065.jpg){width="0.9897878390201225in" height="6.251749781277341e-2in"}
 >
 } while (condition);
 
 Example:
 
-![](./images/image066.jpg){width="15.430272309711286in"
-height="3.0216502624671917in"}
+![](./images/image066.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
 
 Even if the condition evaluates to false on the first try, the code
 block would still have executed once due to the nature of the do-while
@@ -1098,24 +1138,20 @@ iteration and moves on to the next one.
 
 Break Example:
 
-for (let i = e; i \< 10; i++) {
+for (let i = e; i &#92;< 10; i++) {
 
-![](./images/image067.jpg){width="1.531567147856518in"
-height="6.251749781277341e-2in"}
+![](./images/image067.jpg){width="1.531567147856518in" height="6.251749781277341e-2in" 
 
 if (i break; // Exits [the]{.underline} Loop [when]{.underline} is S
 
 =
 
-![](./images/image069.jpg){width="2.9797823709536306in"
-height="9.377515310586176e-2in"}
->
-console.log( \'i is
-![](./images/image070.jpg){width="1.4169597550306212in"
-height="0.5001356080489939in"}
->
-![](./images/image071.jpg){width="4.344647856517935in"
-height="0.12503390201224848in"}
+![](./images/image069.jpg){width="2.9797823709536306in" height="9.377515310586176e-2in"}
+
+console.log( &#39;i is
+![](./images/image070.jpg){width="1.4169597550306212in" height="0.5001356080489939in"}
+
+![](./images/image071.jpg){width="4.344647856517935in" height="0.12503390201224848in"}
 
 Continue
 
@@ -1141,7 +1177,7 @@ Example:
 
 Here,
 
-fruits\[i\]
+fruits&#92;[i&#92;]
 
 represents
 
@@ -1171,7 +1207,7 @@ to
 
 fruits.length
 
-\-
+&#45;
 
 <h3 id="">3.3.2 The forEach Method</h3>
 
@@ -1181,56 +1217,24 @@ element in the array.
 
 Syntax:
 
-![](./images/image074.jpg){width="15.430272309711286in"
-height="1.0419488188976378in"}
+![](./images/image074.jpg){width="15.430272309711286in" height="1.0419488188976378in"}
 
 Example:
 
-![](./images/image075.jpg){width="15.430272309711286in"
-height="2.9695527121609797in"}
+![](./images/image075.jpg){width="15.430272309711286in" height="2.9695527121609797in"}
 
 This method is preferred for its readability and functional approach to
 iteration.
 
-<h3 id="">3.3.3 Using for\...ofLoops</h3>
+<h3 id="">3.3.3 Using for&#8230;ofLoops</h3>
 
-The for\...off loop, introduced in ES6, simplifies iteration over
+The for&#8230;off loop, introduced in ES6, simplifies iteration over
 iterable objects like arrays, maps, and sets. It directly accesses each
 element without needing an index.
 
 Example:
 
-The
-
-loop
-
-offers
-
-a
-
-clean
-
-intuitive
-
-syntax,
-
-especially
-
-useful
-
-when
-
-only
-
-the
-
-values
-
-of
-
-elements
-
-are needed.
+The loop offers a clean intuitive syntax, especially useful when only the values of elements are needed.
 
 <h3 id="">3.3.4 Array Methods for Iteration: map, filter, and reduce</h3>
 
@@ -1241,27 +1245,24 @@ arrays or values based on the provided callback functions.
 -   map() creates a new array populated with the results of calling a
     provided function on every element in the calling array. Example:
 
-![](./images/image077.jpg){width="15.430272309711286in"
-height="2.0526377952755905in"}
+![](./images/image077.jpg){width="15.430272309711286in" height="2.0526377952755905in"}
 
 -   filter() creates a new array with all elements that pass the test
     implemented by the provided function. Example:
 
-![](./images/image078.jpg){width="15.430272309711286in"
-height="1.979701443569554in"}
+![](./images/image078.jpg){width="15.430272309711286in" height="1.979701443569554in"}
 
 -   reduce() applies a reducer function on each element of the array,
     leading to a single output value. Example:
 
-![](./images/image079.jpg){width="15.430272309711286in"
-height="1.8650874890638671in"}
+![](./images/image079.jpg){width="15.430272309711286in" height="1.8650874890638671in"}
 
 Understanding and using these array iteration techniques effectively can
 lead to cleaner, more expressive, and effcient code. Each method offers
 unique benefits for handling array data, helping to solve common
 programming challenges.
 
-##### 3.4 Advanced Flow Control: Switch Statements and Error Handling
+<h2 id="">3.4 Advanced Flow Control: Switch Statements and Error Handling</h2>
 
 Beyond simple conditional and loop structures, JavaScript provides
 advanced flow control mechanisms like switch statements for multi2branch
@@ -1269,59 +1270,30 @@ decision-making and try/catch/finally blocks for error handling, This
 section explores these features and the concept of throwing custom
 errors to better manage program execution flow.
 
-3.4.1 Using Switch Statements for Multi-branch Decision Making
+<h3 id="">3.4.1 Using Switch Statements for Multi-branch Decision Making</h3>
 
-The switch \' statement allows you to execute different parts of code
+The switch &#39; statement allows you to execute different parts of code
 based on the value of an expression.
 
-It\'s particularly useful when you have multiple potential conditions
-and actions.
+It&#39;s particularly useful when you have multiple potential conditions and actions.
 
 Syntax:
 
-This
-
-code
-
-prints
-
-\"Bananas
-
-are
-
-yellow.\"
-
-because
-
-the
-
-value
-
-of
-
-fruit
-
-matches
-
-the
-
-case
+This code prints &quot;Bananas are yellow.&quot; because the value of fruit matches the case
 
 <h3 id="">3.4.2 Error Handling with try/catch/finally Blocks</h3>
 
-JavaScript uses \* try/catch/finally blocks to handle exceptions and
+JavaScript uses &#42; try/catch/finally blocks to handle exceptions and
 perform cleanups. You can catch errors
-
 or exceptions using the catch block, which prevents the program from
 crashing.
 
 Syntax:
 
-![](./images/image081.jpg){width="15.430272309711286in"
-height="3.9177252843394577in"}
+![](./images/image081.jpg){width="15.430272309711286in" height="3.9177252843394577in"}
 
 This example demonstrates error handling by catching an error when
-calling a function that doesn\'t exist.
+calling a function that doesn&#39;t exist.
 
 <h3 id="">3.4.3 Throwing Custom Errors</h3>
 
@@ -1331,15 +1303,15 @@ handling exceptions in a specific way.
 
 Syntax:
 
-![](./images/image082.jpg){width="2.396327646544182in"
-height="0.3751017060367454in"}throw new Error(\"Custom error
-message\");![](./images/image083.jpg){width="9.668664698162729in"
-height="0.7189446631671041in"}
+![](./images/image082.jpg){width="2.396327646544182in" height="0.3751017060367454in"}
+
+throw new Error(&quot;Custom error message&quot;);
+
+![](./images/image083.jpg){width="9.668664698162729in" height="0.7189446631671041in"}
 
 Example:
 
-![](./images/image084.jpg){width="15.430272309711286in"
-height="6.470498687664042in"}
+![](./images/image084.jpg){width="15.430272309711286in" height="6.470498687664042in"}
 
 This code throws an error if the dimensions for calculating an area are
 not positive, demonstrating how custom errors can control the flow of a
@@ -1349,9 +1321,9 @@ Advanced flow control techniques like switch statements, error handling
 blocks, and custom errors enhance your ability to manage complex logic,
 make your programs more robust, and improve debugging and maintenance.
 
-## Functions and Scope
+<h2 id="">Functions and Scope</h2>
 
-### 4.1 Defining and Invoking Functions
+<h3 id="">4.1 Defining and Invoking Functions</h3>
 
 Functions are one of the fundamental building blocks in JavaScript,
 allowing you to define blocks of code that can be executed multiple
@@ -1362,25 +1334,21 @@ concerns.
 
 A function is declared using the function keyword, followed by a name, a
 list of parameters enclosed in parentheses , and a block of code
-enclosed in curly braces
-O![](./images/image085.jpg){width="0.20837707786526685in"
-height="0.26048665791776027in"}
+enclosed in curly braces O
+![](./images/image085.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
 
-![](./images/image086.jpg){width="15.430272309711286in"
-height="2.104735345581802in"}
+![](./images/image086.jpg){width="15.430272309711286in" height="2.104735345581802in"}
 
 Example:
 
-![](./images/image087.jpg){width="15.430272309711286in"
-height="2.0109601924759404in"}
+![](./images/image087.jpg){width="15.430272309711286in" height="2.0109601924759404in"}
 
 To invoke or call the function, you use the function name followed by
 parentheses:
 
-![](./images/image088.jpg){width="15.430272309711286in"
-height="0.9377537182852144in"}
+![](./images/image088.jpg){width="15.430272309711286in" height="0.9377537182852144in"}
 
-#### 4.1.2 Parameters and Arguments
+<h3 id="">4.1.2 Parameters and Arguments</h3>
 
 Functions can take parameters. Parameters act as variables that the
 function uses to perform its task. When a function is called, you can
@@ -1389,9 +1357,9 @@ pass values to these parameters. These values are known as arguments.
 Example:
 
 In this example, name is a parameter of the greet function, and
-\"Alice\" is the argument passed to the function.
+&quot;Alice&quot; is the argument passed to the function.
 
-##### 4.1.3 Function Return Values
+<h3 id="">4.1.3 Function Return Values</h3>
 
 Functions can return values using the return statement. Once a return
 statement is executed, the function stops executing and returns the
@@ -1399,13 +1367,11 @@ specified value.
 
 Example:
 
-![](./images/image090.jpg){width="15.430272309711286in"
-height="3.7301760717410324in"}
+![](./images/image090.jpg){width="15.430272309711286in" height="3.7301760717410324in"}
 
-If a function doesn\'t specify a return value, it returns undefined by
-default.
+If a function doesn&#39;t specify a return value, it returns undefined by default.
 
-##### 4.1.4 Immediate Invocation and Functions as First-Class Citizens
+<h3 id="">4.1.4 Immediate Invocation and Functions as First-Class Citizens</h3>
 
 Functions in JavaScript are first-class citizens, meaning they can be
 treated like any other value---they can be assigned to variables, passed
@@ -1425,8 +1391,7 @@ global namespace.
 
 Example with Parameters:
 
-![](./images/image092.jpg){width="15.430272309711286in"
-height="2.094316491688539in"}
+![](./images/image092.jpg){width="15.430272309711286in" height="2.094316491688539in"}
 
 Functions as first-class citizens allow for flexible and powerful
 programming patterns, including callbacks, function factories, and more.
@@ -1435,7 +1400,7 @@ This section introduces the core concepts of defining and invoking
 functions, setting the foundation for more advanced topics in function
 usage and behavior in JavaScript.
 
-### 4.2 Exploring Function Declarations vs. Expressions
+<h2 id="">4.2 Exploring Function Declarations vs. Expressions</h2>
 
 In JavaScript, functions can be created in several ways, each with its
 own nuances and implications for use. Understanding the differences
@@ -1443,7 +1408,7 @@ between function declarations and expressions, and how naming and
 hoisting affect their behavior, is essential for effective JavaScript
 development.
 
-#### Function Declarations
+<h3 id="">Function Declarations</h3>
 
 A function declaration defines a named function. One of the key features
 of function declarations is that they are hoisted, meaning the function
@@ -1451,13 +1416,11 @@ can be called before its declaration in the code.
 
 Syntax:
 
-![](./images/image093.jpg){width="15.430272309711286in"
-height="2.0838965441819775in"}
+![](./images/image093.jpg){width="15.430272309711286in" height="2.0838965441819775in"}
 
 Example:
 
-![](./images/image094.jpg){width="15.430272309711286in"
-height="3.355073272090989in"}
+![](./images/image094.jpg){width="15.430272309711286in" height="3.355073272090989in"}
 
 Despite sum being called before it appears in the code, the program can
 execute it without error due to hoisting.
@@ -1470,8 +1433,7 @@ be called before they are defined in the code.
 
 Syntax:
 
-![](./images/image095.jpg){width="15.430272309711286in"
-height="2.0317989938757655in"}
+![](./images/image095.jpg){width="15.430272309711286in" height="2.0317989938757655in"}
 
 Example:
 
@@ -1484,8 +1446,7 @@ Function expressions can be anonymous (as seen above) or named.
 
 Named Function Expression:
 
-![](./images/image097.jpg){width="15.430272309711286in"
-height="1.9588626421697288in"}
+![](./images/image097.jpg){width="15.430272309711286in" height="1.9588626421697288in"}
 
 A key difference is in debugging: named functions can be easier to
 identify in a stack trace. However, within the function body, you use
@@ -1494,8 +1455,7 @@ call.
 
 Anonymous Function Expression:
 
-![](./images/image098.jpg){width="15.430272309711286in"
-height="1.9692825896762904in"}
+![](./images/image098.jpg){width="15.430272309711286in" height="1.9692825896762904in"}
 
 Anonymous functions are common, especially as arguments to other
 functions or in IIFEs. The absence of a name simplifies the syntax but
@@ -1510,11 +1470,11 @@ and expressions.
 
 -   Function Declarations: Are fully hoisted, meaning the entire
     function is moved to the top of its scope and can be used before
-    it\'s declared in the source code.
+    it&#39;s declared in the source code.
 
 -   Function Expressions: The variable declaration is hoisted, but not
     the function assignment. If you try to invoke a function expression
-    before its definition, you\'ll encounter an error as the function
+    before its definition, you&#39;ll encounter an error as the function
     will not be defined yet.
 
 Example
@@ -1525,73 +1485,69 @@ Understanding the distinctions between declarations and expressions, and
 how hoisting affects each, is crucial for writing predictable and
 bug-free JavaScript code.
 
-### 4.3 Arrow Functions: A Concise Syntax
+<h2 id="">4.3 Arrow Functions: A Concise Syntax</h2>
 
 Arrow functions, introduced in ECMAScript 6 (ES6), offer a more concise
 syntax for writing function expressions. They are particularly useful
 for short functions and situations where preserving the lexical scope of
 this is desired.
 
-#### 4.3.1 Syntax and Basic Usage
+<h3 id="">4.3.1 Syntax and Basic Usage</h3>
 
 Arrow function syntax allows you to write functions with fewer lines of
-code. The function keyword is omitted, and the =\> arrow is used
+code. The function keyword is omitted, and the =&#92;> arrow is used
 instead.
 
 Basic Syntax:
 
-![](./images/image100.jpg){width="15.430555555555555in"
-height="2.0833333333333335in"}
+![](./images/image100.jpg){width="15.430555555555555in" height="2.0833333333333335in"}
 
 Without Parameters:
 
-+-----------------------------------+-----------------------------------+
-| const sayHe110 = ( )            | console. log( \"Hello! \" ) •     |
-|                                   |                                   |
-| With a Single Parameter:          |                                   |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+const sayHe110 = ( )
+console. log( &quot;Hello! &quot; )
+
+With a Single Parameter:          |                                   |
 
 ![](./images/image101.jpg){width="1.4444444444444444in"
-height="0.2986111111111111in"}![](./images/image102.jpg){width="1.4444444444444444in"
-height="0.3402777777777778in"}const greet = name console. log(
-![](./images/image103.jpg){width="8.944444444444445in"
-height="0.9861111111111112in"}\"Hello,
+height="0.2986111111111111in"}
+![](./images/image102.jpg){width="1.4444444444444444in"
+height="0.3402777777777778in"}
+const greet = name console. log(
+![](./images/image103.jpg){width="8.944444444444445in" height="0.9861111111111112in"}
+&quot;Hello,
 
 With Multiple Parameters:
 
-  ---------------------------------------------------------------------------------------------------
-  const sum = (a, b) ![](./images/image104.jpg){width="9.944444444444445in"
-  height="0.4791666666666667in"}![](./images/image105.jpg){width="9.944444444444445in"
-  height="0.2013888888888889in"}![](./images/image106.jpg){width="9.944444444444445in"
-  height="0.3472222222222222in"}
-  ---------------------------------------------------------------------------------------------------
+   const sum = (a, b) 
 
-  ---------------------------------------------------------------------------------------------------
+![](./images/image104.jpg){width="9.944444444444445in" height="0.4791666666666667in"}
+![](./images/image105.jpg){width="9.944444444444445in" height="0.2013888888888889in"}
+![](./images/image106.jpg){width="9.944444444444445in" height="0.3472222222222222in"}
 
 Returning Objects:
 
-![](./images/image107.jpg){width="15.430272309711286in"
-height="0.9377537182852144in"}
+![](./images/image107.jpg){width="15.430272309711286in" height="0.9377537182852144in"}
 
-#### 4.3.2 Arrow Functions and the this Keyword
+<h3 id="">4.3.2 Arrow Functions and the this Keyword</h3>
 
 One of the most beneficial features of arrow functions is how they
-handle the keyword. Unlike traditional functions, the value of this \'
+handle the keyword. Unlike traditional functions, the value of this &#39;
 inside an arrow function is determined by the surrounding (enclosing)
 lexical context and not by how the function is called.
 
 Example:
 
-![](./images/image108.jpg){width="15.430272309711286in"
-height="5.084708005249344in"}
+![](./images/image108.jpg){width="15.430272309711286in" height="5.084708005249344in"}
 
 In this example, this inside the arrow function correctly refers to the
 Timer object because it inherits
-![](./images/image109.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}this from the surrounding code.
 
-#### 4.3.3 Limitations and Features
+![](./images/image109.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+
+this from the surrounding code.
+
+<h3 id="">4.3.3 Limitations and Features</h3>
 
 While arrow functions have several advantages, they come with
 limitations:
@@ -1599,46 +1555,43 @@ limitations:
 -No new Keyword: Arrow functions cannot be used as constructors, and
 attempting to do so will result in an error.
 
--No arguments Object: Arrow functions do not have their own arguments\*
+-No arguments Object: Arrow functions do not have their own arguments&#42;
 object, However, you can achieve similar functionality using rest
 parameters.
 
-\- Cannot Change \' this : The value of this \' is lexically bound,
+&#45; Cannot Change &#39; this : The value of this &#39; is lexically bound,
 meaning it cannot be altered with methods like •call %
 or![](./images/image110.jpg){width="1.0835575240594926in"
 height="0.27090660542432193in"}
 
-##### 4.3.4 Practical Uses ofArrow Functions
+<h3 id="">4.3.4 Practical Uses ofArrow Functions</h3>
 
 Arrow functions shine in several scenarios:
 
 -   Callbacks and Higher-Order Functions: Theyre perfect for short
     callback functions passed to methods
 
-![](./images/image111.jpg){width="15.430272309711286in"
-height="2.7090660542432197in"}
+![](./images/image111.jpg){width="15.430272309711286in" height="2.7090660542432197in"}
 
-![](./images/image112.jpg){width="15.430272309711286in"
-height="2.542354549431321in"}
+![](./images/image112.jpg){width="15.430272309711286in" height="2.542354549431321in"}
 
 -   Asynchronous Operations: Arrow functions are widely used in promises
     and asynchronous functions.
 
-![](./images/image113.jpg){width="15.44069116360455in"
-height="2.4902569991251093in"}
+![](./images/image113.jpg){width="15.44069116360455in" height="2.4902569991251093in"}
 
 Understanding when and how to use arrow functions effectively can
 greatly simplify your JavaScript code and help maintain this context in
 asynchronous operations, leading to cleaner and more maintainable code.
 
-#### 4.4 Scope: Understanding Local vs. Global
+<h3 id="">4.4 Scope: Understanding Local vs. Global</h3>
 
 Scope is a fundamental concept in JavaScript, determining the
 accessibility of variables and functions in various parts of your code.
 Understanding scope is essential for managing the lifecycle of variables
 and avoiding conflicts and bugs.
 
-4.4.1 What is Scope?
+<h3 id="">4.4.1 What is Scope?</h3>
 
 Scope in JavaScript refers to the context in which a variable or
 function is accessible. JavaScript has three main types of scope:
@@ -1651,32 +1604,29 @@ function is accessible. JavaScript has three main types of scope:
     inside a block I) are only accessible within that block This concept
     applies when using ^4^ let and const keywords.
 
-##### 4.4.2 Local (Function) Scope vs. Block Scope
+<h3 id="">4.4.2 Local (Function) Scope vs. Block Scope</h3>
 
--Function Scope:Variables declared with \'var\* within a function cannot
-be accessed from outside the
+-Function Scope:Variables declared with &#39;var&#42; within a function cannot
+be accessed from outside the function.
 
-function.
+&#39;
 
-\'
-
-\- Block Scope:lntroduced with ES6, variables declared with \'let ^Q^
+&#45; Block Scope:lntroduced with ES6, variables declared with &#39;let ^Q^
 and const are scoped to the nearest enclosing block, not just to
 function blocks.
 
-![](./images/image115.jpg){width="15.430272309711286in"
-height="3.0216502624671917in"}
+![](./images/image115.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
 
 <h3 id="">4.4.3 Global Scope</h3>
 
 Variables declared in the global scope are accessible from any part of
 the program. However, polluting the global scope can lead to name
-conflicts and hard-to-track bugs, so it\'s generally best to minimize
+conflicts and hard-to-track bugs, so it&#39;s generally best to minimize
 the use of global variables.
 
-<h3 id="">4.4.4 The let and const \" Keywords</h3>
+<h3 id="">4.4.4 The let and const &quot; Keywords</h3>
 
-Introduced in ES6, let and const\* provide block-level scoping, offering
+Introduced in ES6, let and const&#42; provide block-level scoping, offering
 more control than var , which is function-scoped or globally-scoped.
 
 -   let allows you to declare variables that are limited in scope to the
@@ -1694,8 +1644,7 @@ Variable shadowing occurs when a variable of the same name is declared
 within a nested scope, effectively overshadowing the variable in the
 outer scope.
 
-![](./images/image116.jpg){width="15.430272309711286in"
-height="5.001351706036745in"}
+![](./images/image116.jpg){width="15.430272309711286in" height="5.001351706036745in"}
 
 The scope chain is the mechanism by which JavaScript searches for
 variables and functions: starting from the innermost scope and moving
@@ -1730,8 +1679,7 @@ libraries such as jQuery or Lodash.
 
 Example of Composition: Example of Function Chaining:
 
-![](./images/image117.jpg){width="15.430272309711286in"
-height="7.022731846019248in"}
+![](./images/image117.jpg){width="15.430272309711286in" height="7.022731846019248in"}
 
 <h3 id="">5.1.2 Recursive Functions</h3>
 
@@ -1741,8 +1689,7 @@ especially those that can be divided into similar subproblems.
 
 Example:
 
-![](./images/image118.jpg){width="15.430272309711286in"
-height="4.438699693788276in"}
+![](./images/image118.jpg){width="15.430272309711286in" height="4.438699693788276in"}
 
 Recursive functions must have a base condition to stop the recursion,
 preventing infinite loops and stack overflow errors.
@@ -1763,21 +1710,22 @@ always produce the same output and do not cause any side effects
 
 No Side Effects Example:
 
-##### ![](./images/image120.jpg){width="15.430272309711286in" height="1.8650863954505688in"}function sum(a, b) {
+![](./images/image120.jpg){width="15.430272309711286in" height="1.8650863954505688in"}
+
+function sum(a, b) {
 
 With Side Effects Example:
 
-![](./images/image121.jpg){width="15.430272309711286in"
-height="3.042489063867017in"}
+![](./images/image121.jpg){width="15.430272309711286in" height="3.042489063867017in"}
 
 Pure functions improve readability, testability, and maintainability of
-code as they don\'t depend on, nor modify the state outside their scope.
+code as they don&#39;t depend on, nor modify the state outside their scope.
 
 Understanding these advanced concepts lets developers write more
 emcient, clear, and scalable JavaScript, leveraging the full potential
 of functions beyond basic usage.
 
-#### 5.2 Functions: Passing Values and Reference
+<h3 id="">5.2 Functions: Passing Values and Reference</h3>
 
 In JavaScript, understanding how data is passed --- as value or
 reference --- is crucial for mastering function behavior, especially in
@@ -1791,29 +1739,27 @@ original state, alongside common pitfalls and tips for avoiding them.
 Primitive Types are stored directly in the location that the variable
 accesses. These include types such as
 
-![](./images/image122.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}number string & ,
-![](./images/image123.jpg){width="1.760780839895013in"
-height="0.3230041557305337in"}undefined null symbol , and
-![](./images/image124.jpg){width="1.2815146544181977in"
-height="0.333423009623797in"}They are passed to functions by value,
-meaning a copy of the value is made.
+![](./images/image122.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+number string & ,
 
-![](./images/image125.jpg){width="15.430272309711286in"
-height="2.438159448818898in"}
+![](./images/image123.jpg){width="1.760780839895013in" height="0.3230041557305337in"}
+undefined null symbol , and
 
+![](./images/image124.jpg){width="1.2815146544181977in" height="0.333423009623797in"}
+They are passed to functions by value, meaning a copy of the value is made.
+
+![](./images/image125.jpg){width="15.430272309711286in" height="2.438159448818898in"}
 Reference Types include objects, arrays, and functions. They are passed
 to functions by reference, meaning that a pointer to the original data
 is passed, and modifications within the function affect the original
 data,
 
-![](./images/image126.jpg){width="15.430272309711286in"
-height="2.448578302712161in"}
+![](./images/image126.jpg){width="15.430272309711286in" height="2.448578302712161in"}
 
 <h3 id="">5.2.2 Mutability and Immutability</h3>
 
 -   Mutability refers to the capability of a data structure to be
-    modified after it\'s creation. In JavaScript, objects and arrays are
+    modified after it&#39;s creation. In JavaScript, objects and arrays are
     mutable by default.
 
 -   Immutability, on the other hand, means that once a data structure is
@@ -1830,7 +1776,7 @@ To prevent unwanted side effects by modifying objects or arrays passed
 by reference, cloning or copying them before manipulation is crucial.
 
 -   Shallow Cloning can be achieved using ^Q^ Object.assign() or the
-    spread syntax \... for objects, and Array.slice() or the spread
+    spread syntax &#8230; for objects, and Array.slice() or the spread
     syntax for arrays. However, this method only copies the top layer,
     leaving nested
 
@@ -1849,7 +1795,7 @@ the
 original.
 
 -   Deep Cloningcan be performed using libraries like Lodashls
-    \_.cloneDeep() method, or manually implementing recursive cloning
+    &#92;_.cloneDeep() method, or manually implementing recursive cloning
     functions. It ensures that no references to the original object
     remain.
 
@@ -1873,7 +1819,7 @@ call stack size with incorrect deep cloning implementations.
 -   For deep nesting, consider using libraries designed for immutability
     (e.g., Immer, Immutable.js) to simplify state management.
 
-Understanding how to properly manage and manipulate data when it\'s
+Understanding how to properly manage and manipulate data when it&#39;s
 passed to functions is crucial for ensuring the reliability and
 predictability of your JavaScript code.
 
@@ -1957,7 +1903,7 @@ Example:
 In JavaScript, callbacks are widely used to deal with asynchronous
 operations such as reading files, making
 
-HTTP requests, or querying a database, where you don\'t know when the
+HTTP requests, or querying a database, where you don&#39;t know when the
 response will be received,
 
 Example
@@ -1969,7 +1915,7 @@ setTimeout
 ##### 5.4.3 Customizing Functionality with Callbacks
 
 Callbacks enhance flexibility by allowing functions to execute different
-pieces of code without changing the function\'s structure. This is
+pieces of code without changing the function&#39;s structure. This is
 particularly useful in situations where the behavior of the function
 needs to be customized according to the context in which it is called.
 
@@ -1980,7 +1926,7 @@ Example:
 Error handling is an essential aspect of working with callback
 functions, especially in asynchronous operations where errors might not
 be immediately obvious. A common pattern is to pass an error object as
-the first argument to the callback function if an error occurs, or \*
+the first argument to the callback function if an error occurs, or &#42;
 null if the operation is successful.
 
 Example:
@@ -2027,8 +1973,8 @@ trigger frequently, such as window resizing or scrolling.
 
 Debouncing delays the function call until after a specified cooldown
 period elapses after the last call. This is useful for events that
-don\'t need to be handled immediately and can wait for the input to
-\"settle,\" such as keystroke events in a search bar.
+don&#39;t need to be handled immediately and can wait for the input to
+&quot;settle,&quot; such as keystroke events in a search bar.
 
 Example of Throttling:
 
@@ -2051,7 +1997,7 @@ height="4.5428947944007in"}
 
 In JavaScript, closures can be used to create private data. The pattern
 involves defining a function that returns another function or object
-with access to the parent\'s scope variables, effectively creating
+with access to the parent&#39;s scope variables, effectively creating
 private
 
 variables.
@@ -2063,7 +2009,7 @@ height="6.095396981627297in"}
 
 By employing advanced function patterns like these, developers can write
 cleaner, more emcient, and secure JavaScript code, harnessing
-functions\' full power to achieve sophisticated functionalities.
+functions&#39; full power to achieve sophisticated functionalities.
 
 ###### Arrays and Objects
 
@@ -2077,10 +2023,10 @@ manipulating arrays.
 
 <h3 id="">6.1.1 Creating and Initializing Arrays</h3>
 
-Arrays can be created and initialized using square brackets \[l or the
+Arrays can be created and initialized using square brackets &#92;[l or the
 Array constructor. Using square brackets:
 
-| const | ![](   | ![    | \"C   | ![](./unl                   |
+| const | ![](   | ![    | &quot;C   | ![](./unl                   |
 |       | ./unlock | ](./u | herry | ock-images/media/image140.jpg |
 |  fruits | -images/ | nlock |       | ){width="6.897259405074366in" |
 |         | media/im | -imag |       | h                           |
@@ -2095,18 +2041,18 @@ Array constructor. Using square brackets:
 |         | 41032370 | 64566 |       |                               |
 |         | 9537in"} | 93in" |       |                               |
 |         |          | heigh |       |                               |
-|         | \[\"     | t="0. |       |                               |
-|         | Apple\", | 32300 |       |                               |
+|         | &#92;[&quot;     | t="0. |       |                               |
+|         | Apple&quot;, | 32300 |       |                               |
 |         |          | 41557 |       |                               |
 |         |          | 30533 |       |                               |
 |         |          | 7in"} |       |                               |
 |         |          |       |       |                               |
 |         |          |     |       |                               |
-|         |          | \"Ban |       |                               |
-|         |          | ana\" |       |                               |
+|         |          | &quot;Ban |       |                               |
+|         |          | ana&quot; |       |                               |
 |         |          | ,   |       |                               |
 
-Using the \'i Array constructor:
+Using the &#39;i Array constructor:
 
 ![](./images/image141.jpg){width="1.3440277777777778in"
 height="0.3855205599300087in"}
@@ -2117,23 +2063,23 @@ height="0.25006780402449696in"}
 
 Empty arrays can also be created and later populated with data.
 
-<h3 id="">6.1.2 Basic Array Methods ( push , \*pop • shift\* , •unshift € )</h3>
+<h3 id="">6.1.2 Basic Array Methods ( push , &#42;pop • shift&#42; , •unshift € )</h3>
 
-\- push: Adds one or more elements to the end of an array and returns
+&#45; push: Adds one or more elements to the end of an array and returns
 the new length of the array.
 
 ![](./images/image143.jpg){width="1.3023534558180228in"
 height="0.4688768591426072in"}
 
 ```
-fruits . push ( \"Orange \" ) ;
+fruits . push ( &quot;Orange &quot; ) ;
 ```
 
 -   pop: Removes the last element from an array and returns that
     element. This method changes the length of the array.
 
 fruits . pop(); // Removes
-\"Cranee\'![](./images/image144.jpg){width="10.252119422572179in"
+&quot;Cranee&#39;![](./images/image144.jpg){width="10.252119422572179in"
 height="1.2607578740157481in"}
 
 -   shift: Removes the first element from an array and returns that
@@ -2148,7 +2094,7 @@ height="1.0419477252843394in"}
 ![](./images/image146.jpg){width="3.875800524934383in"
 height="0.36468175853018375in"}
 
-fruits . unshift ( \"Strawberry\" ) ;
+fruits . unshift ( &quot;Strawberry&quot; ) ;
 
 ![](./images/image147.jpg){width="2.0212510936132984in"
 height="0.3021653543307087in"}
@@ -2200,7 +2146,7 @@ determine the sort order.
 ![](./images/image152.jpg){width="15.430272309711286in"
 height="2.094316491688539in"}
 
-\- Reversing Arrays: The reverse() method reverses an array in place.
+&#45; Reversing Arrays: The reverse() method reverses an array in place.
 The first array element becomes the last, and the last array element
 becomes the first.
 
@@ -2209,7 +2155,7 @@ height="2.292286745406824in"}
 
 <h3 id="">6.2.2 Filtering and Mapping Arrays</h3>
 
--   Filtering Arrays: The filter()\' method creates a new array with all
+-   Filtering Arrays: The filter()&#39; method creates a new array with all
     elements that pass the test implemented by the provided function,
 
 ![](./images/image154.jpg){width="15.430272309711286in"
@@ -2255,7 +2201,7 @@ manipulation and analysis.
 
 In JavaScript, objects are collections of key-value pairs. They serve as
 a foundation for building complex data structures and offer a way to
-organize and process data effciently. Let\'s explore how to create,
+organize and process data effciently. Let&#39;s explore how to create,
 manip-
 
 ulate, and access information within objects.
@@ -2270,7 +2216,7 @@ Object Literal Syntax:
 ![](./images/image159.jpg){width="15.430272309711286in"
 height="3.459268372703412in"}
 
-Using the Object\' Constructor:
+Using the Object&#39; Constructor:
 
 ![](./images/image160.jpg){width="15.430272309711286in"
 height="2.604870953630796in"}
@@ -2291,14 +2237,14 @@ notations.
 ![](./images/image162.jpg){width="15.430272309711286in"
 height="1.4691469816272966in"}
 
-##### 6.3.3 Iterating through Objects with for\...in• and Object.keys()![](./images/image163.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
+##### 6.3.3 Iterating through Objects with for&#8230;in• and Object.keys()![](./images/image163.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
 
-To iterate over the properties of an object, you can use the for\...in
+To iterate over the properties of an object, you can use the for&#8230;in
 loop or the Object.keys() method.
 
 Using
 
-for\...in
+for&#8230;in
 
 These approaches provide a way to dynamically access and manipulate
 object properties.
@@ -2333,7 +2279,7 @@ can help you emciently work with objects and their properties.
 ##### 6.4.1 When to Use Dot Notation
 
 Dot notation is the most common and straightforward way to access a
-property of an object. It\'s preferable for its readability and
+property of an object. It&#39;s preferable for its readability and
 simplicity.
 
 ![](./images/image167.jpg){width="15.430272309711286in"
@@ -2341,14 +2287,14 @@ height="4.1156966316710415in"}
 
 Dot notation should be used when:
 
-\- The property name is known ahead of time and it\'s a valid JavaScript
-identifier. - You are accessing static properties that don\'t require
+&#45; The property name is known ahead of time and it&#39;s a valid JavaScript
+identifier. - You are accessing static properties that don&#39;t require
 dynamic evaluation.
 
 ###### 6.4.2 When to Use Bracket Notation
 
 Bracket notation offers more flexibility than dot notation but can be
-slightly more verbose. It allows the use of characters that aren\'t
+slightly more verbose. It allows the use of characters that aren&#39;t
 allowed in identifiers, such as spaces or starting with digits.
 Additionally, bracket
 
@@ -2388,10 +2334,10 @@ height="8.335629921259842e-2in"}method.
 ![](./images/image171.jpg){width="15.44069116360455in"
 height="4.188632983377078in"}
 
-To enumerate (list) an object\'s properties, you can use
+To enumerate (list) an object&#39;s properties, you can use
 ![](./images/image172.jpg){width="2.156696194225722in"
 height="0.33342410323709537in"}, Object-values() , or Object.entries()
-methods which return the properties\' names, values, or both,
+methods which return the properties&#39; names, values, or both,
 respectively.
 
 ![](./images/image173.jpg){width="15.430272309711286in"
@@ -2406,7 +2352,7 @@ Deeper into Objects
 <h3 id="">7.1 Introduction to Object-Oriented JavaScript</h3>
 
 Object-oriented Programming (OOP) is a programming paradigm based on the
-concept of \"objects\", which can contain data in the form of fields
+concept of &quot;objects&quot;, which can contain data in the form of fields
 (often known as attributes or properties) and code in the form of
 procedures (often known as methods). JavaScript supports OOP through its
 prototypes and includes support for classical OOP concepts using classes
@@ -2418,8 +2364,8 @@ The four foundational pillars of Object-oriented Programming include:
 
 1.  Encapsulation: This principle is about bundling the data and the
     methods that operate on the data under a single unit called an
-    \"object\". It allows for restricting access to some of the
-    object\'s components, which is the first step towards data
+    &quot;object&quot;. It allows for restricting access to some of the
+    object&#39;s components, which is the first step towards data
     abstraction and control.
 
 2.  Abstraction: Abstraction means hiding the complex reality while
@@ -2438,7 +2384,7 @@ The four foundational pillars of Object-oriented Programming include:
 
 <h3 id="">7.1.2 Objects and Classes in JavaScript</h3>
 
-In JavaScript, traditionally, the object\'s prototype has been the
+In JavaScript, traditionally, the object&#39;s prototype has been the
 primary method for adding methods and
 
 attributes. However, ECMAScript 6 introduced classes which added a thin
@@ -2468,15 +2414,15 @@ private
 
 fields:
 
-7.1.4 Methods and \"this\" Context in Classes
+7.1.4 Methods and &quot;this&quot; Context in Classes
 
 Methods are actions that can be performed on objects, and JavaScript
 methods are stored in properties as function definitions.
 
-The this keyword in a method refers to the \"owner\" of the method. In
+The this keyword in a method refers to the &quot;owner&quot; of the method. In
 the context of a class, refers to an instance of the class (an object).
 
-However, the value of this\' is not bound until a method is called. This
+However, the value of this&#39; is not bound until a method is called. This
 can lead to errors when passing methods as callbacks if they rely on
 this . Arrow functions can be used to automatically bind this to the
 scope of where the function is defined, not where it is used.
@@ -2485,14 +2431,14 @@ Understanding these concepts is crucial for effectively utilizing
 Object-Oriented Programming techniques in JavaScript, ultimately leading
 to more structured and manageable code.
 
-##### 7.2 Understanding the \"this\" Keyword
+##### 7.2 Understanding the &quot;this&quot; Keyword
 
 The keyword in JavaScript is a powerful feature that, when understood,
 greatly enhances the flexibility and capabilities of your code. It
 refers to the object it belongs to, making it context-dependent. Its
 value can change depending on how a function is called.
 
-###### 7.2.1 \"this\" in Global and Function Scopes
+###### 7.2.1 &quot;this&quot; in Global and Function Scopes
 
 In the global execution context (outside of any function), this refers
 to the global object whether in strict mode or not. In web browsers, the
@@ -2504,15 +2450,15 @@ height="0.26048665791776027in"}
 
 In a regular (non-arrow) function, this is set dynamically when the
 function is called. In the global scope or inside a function not
-associated with any object, \' this refers to the global object in
+associated with any object, &#39; this refers to the global object in
 non-strict mode and is handefined in strict mode.
 
 ![](./images/image178.jpg){width="15.430272309711286in"
 height="2.563192257217848in"}
 
-<h3 id="">7.2.2 \"this\" in Methods and Constructors</h3>
+<h3 id="">7.2.2 &quot;this&quot; in Methods and Constructors</h3>
 
-When a method is called as a property of an object, \' this points to
+When a method is called as a property of an object, &#39; this points to
 the object the method is called on.
 
 In constructors (functions or classes intended to be used with the new&ast;
@@ -2523,10 +2469,10 @@ newly created object instance.
 ![](./images/image179.jpg){width="15.44069116360455in"
 height="5.074288057742782in"}
 
-<h3 id="">7.2.3 \"this\" with Call, Apply, and Bind</h3>
+<h3 id="">7.2.3 &quot;this&quot; with Call, Apply, and Bind</h3>
 
--   call , \' apply\' , and \'bind are methods that allow you to set the
-    value of \' this manually when invoking a function.
+-   call , &#39; apply&#39; , and &#39;bind are methods that allow you to set the
+    value of &#39; this manually when invoking a function.
 
 -   call() allows you to invoke a function with a specified this value
     and arguments provided individually.
@@ -2536,7 +2482,7 @@ height="5.074288057742782in"}
 -   bind() returns a new function, allowing you to set the this value
     permanently.
 
-###### 7.2.4 Arrow Functions and Lexical \"this\"
+###### 7.2.4 Arrow Functions and Lexical &quot;this&quot;
 
 Arrow functions do not have their own this context; instead, they
 capture the this value ofthe enclosing scope at the time they are
@@ -2570,7 +2516,7 @@ new keyword.
 
 The
 
-\"new\"
+&quot;new&quot;
 
 Keyword
 
@@ -2591,7 +2537,7 @@ Using the new keyword with a constructor function does several things:
     methods to the new object.
 
 4.  It sets the prototype of the new object to the constructor
-    function\'s prototype property.
+    function&#39;s prototype property.
 
 5.  It returns the newly created object (unless the constructor
     explicitly returns a different, non-primitive object).
@@ -2609,17 +2555,17 @@ height="6.626791338582677in"}![](./images/image183.jpg){width="1.021044400699912
 height="2.083880139982502e-2in"}![](./images/image184.jpg){width="0.7501552930883639in"
 height="2.083880139982502e-2in"}function createPerson(name, age) {
 return { name: name, age: age, introduce() { console.
-log[Cm]{.underline}y name is \${this.name} and I am
+log[Cm]{.underline}y name is &#36;{this.name} and I am
 >
-const bob = createPerson( • Bob\' , 25);
+const bob = createPerson( • Bob&#39; , 25);
 >
 bob. introduce() ;
 
-###### 7.3.4 Constructor Inheritance with \"call\" and \"apply\"
+###### 7.3.4 Constructor Inheritance with &quot;call&quot; and &quot;apply&quot;
 
 Inheritance can be implemented in constructors through the use of the
 call or apply methods, allowing one constructor function to call another
-constructor function within it, setting up the context ( \' this ) to
+constructor function within it, setting up the context ( &#39; this ) to
 the newly created object.
 
 ![](./images/image185.jpg){width="15.430272309711286in"
@@ -2631,7 +2577,7 @@ to mimic classical inheritance patterns found in other objectoriented
 programming languages.
 
 Understanding these mechanisms for creating and inheriting between
-objects is foundational for working effectively with JavaScript\'s
+objects is foundational for working effectively with JavaScript&#39;s
 dynamic and flexible object system.
 
 ##### 7.4 Prototypes and Inheritance
@@ -2647,7 +2593,7 @@ In JavaScript, every function and object has a property named prototype
 , except for the ^q^ null object, which is the end ofthe prototype
 chain. When a function is used as a constructor with the new keyword,
 the newly created object inherits properties and methods from the
-constructor function\'s prototype
+constructor function&#39;s prototype
 ![](./images/image186.jpg){width="6.251202974628171e-2in"
 height="6.251749781277341e-2in"}
 
@@ -2655,7 +2601,7 @@ The prototype property is a mechanism whereby JavaScript objects inherit
 features from one another. For instance, JavaScript arrays inherit from
 Array.prototype , enabling all arrays to utilize methods like
 ![](./images/image187.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}map\' , filter and
+height="6.251749781277341e-2in"}map&#39; , filter and
 •reduce![](./images/image188.jpg){width="0.18753827646544183in"
 height="0.26048665791776027in"}
 
@@ -2664,39 +2610,39 @@ height="0.26048665791776027in"}
 The prototype chain is a series of links between objects where each
 object references its prototype parent. When accessing a property or
 method of an object, JavaScript first searches the object itself. If it
-doesn\'t find it, it searches the object\'s prototype, then the
-prototype\'s prototype, and so on, until it reaches null This chain is
+doesn&#39;t find it, it searches the object&#39;s prototype, then the
+prototype&#39;s prototype, and so on, until it reaches null This chain is
 the foundation of inheritance in JavaScript.
 
-For example, suppose we have an object O \' that inherits from Prototype
+For example, suppose we have an object O &#39; that inherits from Prototype
 B , which in turn inherits from
 ![](./images/image187.jpg){width="5.209426946631671e-2in"
 height="6.251749781277341e-2in"}Prototype A . If a property is not found
-on ^Q^ , the search moves to , and if not found on \'B , it continues to
+on ^Q^ , the search moves to , and if not found on &#39;B , it continues to
 A ![](./images/image189.jpg){width="4.167541557305337e-2in"
 height="6.251749781277341e-2in"}
 
 ###### 7.4.3 Shadowing Prototype Properties
 
 Shadowing occurs when a property added to an object has the same name as
-one in the object\'s prototype chain. The property on the object
-\"shadows\" the one on the prototype, meaning the prototype\'s property
+one in the object&#39;s prototype chain. The property on the object
+&quot;shadows&quot; the one on the prototype, meaning the prototype&#39;s property
 wont be accessed directly through the object if a property with the same
 name exists on the object itself.
 
-This can be useful, but it\'s also something to be aware of, as it can
+This can be useful, but it&#39;s also something to be aware of, as it can
 lead to unexpected behavior if you accidentally shadow prototypes
 properties.
 
 ![](./images/image190.jpg){width="0.48968503937007873in"
 height="8.335629921259842e-2in"}javascript function Person() {l
 
-Person.prototype.name = \"Anonymous\";
+Person.prototype.name = &quot;Anonymous&quot;;
 
 const person = new Person(); console.log(person.name); // Anonymous
 
-person.name = \"John\"; console.log(person.name); // John - The property
-on the instance shadows the prototype\'s property.
+person.name = &quot;John&quot;; console.log(person.name); // John - The property
+on the instance shadows the prototype&#39;s property.
 
 ###### 7.4.4 Prototypal Inheritance Patterns
 
@@ -2721,7 +2667,7 @@ Each pattern has its own merits and use cases. The choice between them
 can depend on factors like the complexity of inheritance required,
 performance considerations, and personal or team preferences.
 
-JavaScript\'s prototypal inheritance model introduces flexibility and
+JavaScript&#39;s prototypal inheritance model introduces flexibility and
 less verbosity compared to classical models. By fully understanding and
 leveraging prototypes, developers can implement powerful and effcient
 inheritance structures.
@@ -2735,15 +2681,15 @@ scalable code.
 
 <h3 id="">7.5.1 Composition over Inheritance</h3>
 
-The principle of \"composition over inheritance\" suggests that objects
+The principle of &quot;composition over inheritance&quot; suggests that objects
 get their behavior and state from containing other objects rather than
 inheriting from a superclass. This approach can lead to more modular and
 easier-to-understand systems, as it promotes the design of small,
 reusable entities.
 
 Composition avoids the pitfalls of deep inheritance hierarchies, which
-can become cumbersome and fragile. Instead of asking, \"What object is
-this?\" we ask, \"What can this object do?\'i, focusing on capabilities
+can become cumbersome and fragile. Instead of asking, &quot;What object is
+this?&quot; we ask, &quot;What can this object do?&#39;i, focusing on capabilities
 rather than lineage.
 
 ![](./images/image192.jpg){width="14.836398731408574in"
@@ -2770,7 +2716,7 @@ One common technique is to use closures:
 height="9.867250656167979in"}
 
 With ES6, JavaScript introduced a more formal way to define private
-fields using a hash \# prefix:
+fields using a hash &#35; prefix:
 
 ![](./images/image195.jpg){width="15.430272309711286in"
 height="6.0641393263342085in"}
@@ -2787,25 +2733,25 @@ height="0.27090660542432193in"}
 ![](./images/image197.jpg){width="0.48968503937007873in"
 height="8.335520559930008e-2in"}javascript const obj = O;
 
-Object.defineProperty(obj, \'readonly, {
+Object.defineProperty(obj, &#39;readonly, {
 
-value: \'This is read-only\', writable: false, // Prevents the property
+value: &#39;This is read-only&#39;, writable: false, // Prevents the property
 from being written to. l);
 
-console.log(obj.readOnly); // This is read-only\'
+console.log(obj.readOnly); // This is read-only&#39;
 
-/ / obj.readonly = ^I^New Value\'; Trying to write to this property will
+/ / obj.readonly = ^I^New Value&#39;; Trying to write to this property will
 fail in strict mode.
 ![](./images/image198.jpg){width="8.335083114610674e-2in"
 height="6.251749781277341e-2in"}
 
 For deep immutability, you can recursively freeze objects using
-Object.freeze()\' , although it should be noted that this is a shallow
+Object.freeze()&#39; , although it should be noted that this is a shallow
 operation by default.
 
 Adopting these advanced patterns and techniques helps in writing more
 robust, modular, and maintainable JavaScript code. They empower
-developers to leverage the full potential of JavaScript\'s
+developers to leverage the full potential of JavaScript&#39;s
 object-oriented capabilities while managing complexity in large
 codebases.
 
@@ -2838,7 +2784,7 @@ operations to complete.
 Callbacks are functions passed as arguments to another function, which
 executes the callback when an asynchronous operation completes. While
 callbacks help manage asynchronous operations, they can lead to
-\"callback hell\" or \"pyramid of doom,\" where callbacks are nested
+&quot;callback hell&quot; or &quot;pyramid of doom,&quot; where callbacks are nested
 within callbacks, making the code diffcult to read and maintain.
 
 ![](./images/image199.jpg){width="15.430272309711286in"
@@ -2850,8 +2796,8 @@ A Promise is an object representing the eventual completion (or failure)
 of an asynchronous operation. Promises provide a cleaner and more
 flexible way to handle asynchronous operations compared to callbacks.
 
-You can chain \'then() calls for sequences of asynchronous operations,
-allowing you to write code that\'s both more readable and easier to
+You can chain &#39;then() calls for sequences of asynchronous operations,
+allowing you to write code that&#39;s both more readable and easier to
 maintain. Additionally, .catch() provides a centralized way of handling
 errors.
 
@@ -2918,7 +2864,7 @@ available.
 
 <h3 id="">8.2.3 Handling Network Errors and Fetch API Limitations</h3>
 
-While Fetch simplifies making HTTP requests, it\'s crucial to handle
+While Fetch simplifies making HTTP requests, it&#39;s crucial to handle
 potential errors and be aware of its
 
 limitations. A common misunderstanding is that Fetch rejects its promise
@@ -2944,7 +2890,7 @@ errors:
 
 Fetch can handle all types of HTTP requests, including POST, PUT, and
 DELETE. This is done by setting options on the fetch call, specifying
-the method , along with any needed headers and the &ast;body\' of the
+the method , along with any needed headers and the &ast;body&#39; of the
 request for non-GET requests.
 
 <h3 id="ch8-2-5">8.2.5 Working with Headers and CORS</h3>
@@ -2957,7 +2903,7 @@ Sharing) policies.
 Cross-Origin Resource Sharing (CORS) is a security mechanism that
 restricts how resources on a web page can be requested from another
 domain outside the domain from which the first resource was served. When
-working with APIs or conducting POST, PUT, or DELETE operations, it\'s
+working with APIs or conducting POST, PUT, or DELETE operations, it&#39;s
 common to encounter CORS errors if the server is not configured to allow
 requests from your domain,
 
@@ -3043,11 +2989,11 @@ height="2.469417104111986in"}
 ```{=html}
 <!-- -->
 ```
-4.  Date Handling: JSON does not have a \"date\" type. Dates are
+4.  Date Handling: JSON does not have a &quot;date&quot; type. Dates are
     typically represented as strings, and the conversion to and from a
     JavaScript Date object must be handled manually.
 
-5.  Avoid Circular References: Circular references will cause \'
+5.  Avoid Circular References: Circular references will cause &#39;
     JSON.stringify&ast; to throw an error. If your object contains circular
     references, you must remove them or use a custom replacer function.
 
@@ -3151,7 +3097,7 @@ code execution.
 Stateful asynchronous operations involve tasks where the outcome and
 subsequent actions depend on previous results or states. Managing these
 operations requires careful tracking of each state transition throughout
-the operation\'s lifecycle. One common approach is to use promises or
+the operation&#39;s lifecycle. One common approach is to use promises or
 async/await syntax to handle asynchronous operations sequentially or
 concurrently, while maintaining state through variables that are scoped
 appropriately.
@@ -3183,11 +3129,11 @@ operations and user interactions.
 
 <h3 id="">8.5.3 Implementing a Simple State Machine</h3>
 
-A state machine is an abstract concept where an \"entity\" can be in one
+A state machine is an abstract concept where an &quot;entity&quot; can be in one
 state at any given time from a finite set of states. Its particularly
 useful in managing asynchronous operations and user interfaces.
 
-Here\'s basic JavaScript implementation of state machine:
+Here&#39;s basic JavaScript implementation of state machine:
 
 ![](./images/image217.jpg){width="14.919748468941382in"
 height="11.628143044619422in"}
@@ -3222,7 +3168,7 @@ The evolution of JavaScript through ES6 (ECMAScript 2015) and subsequent
 versions introduced significant enhancements that modernized the
 language, making it more powerful, efficient, and easier to work with.
 These updates include new syntax, language constructs, and data
-structures. Let\'s delve into some of these key enhancements.
+structures. Let&#39;s delve into some of these key enhancements.
 
 <h3 id="">9.1.1 Overview ofES6 Enhancements</h3>
 
@@ -3232,7 +3178,7 @@ of programming:
 
 -   Let and Const: Introduced block-scoped variables and constants,
     reducing the complexity and pitfalls of scope hoisting associated
-    with \'var .
+    with &#39;var .
 
 -   Arrow Functions: Provided a more concise syntax for writing
     functions and addressed the challenges around the this keyword.
@@ -3306,10 +3252,10 @@ smoother:
 -   Symbols: A new primitive type unique and immutable, often used as
     the key for object properties.
 
--   Iterators and For\...Of Loop: Providing a way to iterate over
+-   Iterators and For&#8230;Of Loop: Providing a way to iterate over
     iterable objects like arrays, strings, and later,
     ![](./images/image208.jpg){width="5.209426946631671e-2in"
-    height="7.293744531933509e-2in"}Set ^4^ and Map\' .
+    height="7.293744531933509e-2in"}Set ^4^ and Map&#39; .
 
 -   Promises: Native support for promises, providing a powerful way to
     handle asynchronous operations. These features, among others
@@ -3412,7 +3358,7 @@ tagged templates.
 
 Template literals are enclosed by back-ticks ( ) instead of the
 traditional single or double quotes. They can contain placeholders,
-indicated by the dollar sign and curly braces ( \${expression) where any
+indicated by the dollar sign and curly braces ( &#36;{expression) where any
 
 valid
 
@@ -3460,7 +3406,7 @@ frameworks and libraries, as well as in vanilla JS developments.
 9.3.4 Template Literals in Dynamic Expressions
 
 One of the strengths of template literals is their ability to compute
-expressions on the fly, integrating directly with JavaScript\'s
+expressions on the fly, integrating directly with JavaScript&#39;s
 expressiveness:
 
 ![](./images/image234.jpg){width="15.430272309711286in"
@@ -3470,7 +3416,7 @@ Dynamic expressions within template literals can include operations,
 function calls, and even other template literals, offering a robust tool
 for generating dynamic strings based on runtime data.
 
-Template literals enhance JavaScript\'s capabilities for handling
+Template literals enhance JavaScript&#39;s capabilities for handling
 strings, making code for string construction, manipulation, and
 evaluation more intuitive and maintainable. Their introduction has led
 to more readable and concise code, especially in scenarios involving
@@ -3539,7 +3485,7 @@ complex data structures or configurations.
 <h3 id="">9.5 Leveraging New Data Structures in ES6 and Beyond</h3>
 
 ES6 introduced several important new data structures to JavaScript,
-enhancing the language\'s capability to handle complex collections and
+enhancing the language&#39;s capability to handle complex collections and
 offering more control over memory and type constraints. These additions
 include Maps, Sets, WeakMaps, WeakSets, and Typed Arrays, each
 fulfilling specific needs in data management and manipulation.
@@ -3575,7 +3521,7 @@ are no other references to them:
 -   WeakMap allows garbage collection for key-value pairs when keys are
     no longer referenced.
 
--   WeakSet allows the collection\'s values to be garbage-collected if
+-   WeakSet allows the collection&#39;s values to be garbage-collected if
     they are not referenced elsewhere.
 
 These structures are useful in situations where memory management is a
@@ -3602,8 +3548,8 @@ streams, or complex data structures that involve numerical data:
 ![](./images/image240.jpg){width="15.430272309711286in"
 height="4.126115485564305in"}
 
-Typed Arrays support various data types, such as \'Int8 \'Uint8 Int16 %
-\'Uint16\'![](./images/image241.jpg){width="1.0522998687664042in"
+Typed Arrays support various data types, such as &#39;Int8 &#39;Uint8 Int16 %
+&#39;Uint16&#39;![](./images/image241.jpg){width="1.0522998687664042in"
 height="0.3230041557305337in"}
 
 ![](./images/image242.jpg){width="5.209426946631671e-2in"
@@ -3613,7 +3559,7 @@ Uint32• Float32 , and Float64&ast; J providing flexibility in handling
 different types of numerical data effciently.
 
 These new data structures introduced in ES6 and beyond significantly
-expand JavaScript\'s capabilities for handling diverse data types and
+expand JavaScript&#39;s capabilities for handling diverse data types and
 collections, offering more tools and options for developers to write
 effcient and clean code.
 
@@ -3624,14 +3570,14 @@ particularly with the introduction of ES6 and later iterations of the
 language. This evolution has led to cleaner, more readable, and more
 manageable code when dealing with asynchronous operations such as API
 calls, file operations, or any tasks that require waiting for execution
-to complete. Let\'s explore some of the key features that have
+to complete. Let&#39;s explore some of the key features that have
 contributed to these improvements.
 
 ###### 9.6.1 Promises and Async/Await: Making Asynchronous Code Cleaner
 
 Before the introduction of Promises and async/await, asynchronous code
 in JavaScript relied heavily on callbacks, leading to a phenomenon known
-as \"callback hell,\" where code became nested and diffcult to follow.
+as &quot;callback hell,&quot; where code became nested and diffcult to follow.
 ES6 introduced Promises as a solution to this issue, providing a more
 manageable structure for handling asynchronous operations:
 
@@ -3679,13 +3625,13 @@ workflows or when needing to perform multiple asynchronous operations in
 sequence.
 
 By building on the foundation laid by Promises and generators,
-async/await has made JavaScript\'s asynchronous programming model more
+async/await has made JavaScript&#39;s asynchronous programming model more
 accessible and more powerful, enabling developers to write clean,
 effcient, and maintainable asynchronous code.
 
-In conclusion, the continuous evolution of JavaScript\'s features for
+In conclusion, the continuous evolution of JavaScript&#39;s features for
 asynchronous programming---from callbacks to Promises, and from
-generators to async/await--- demonstrates the language\'s adaptability
+generators to async/await--- demonstrates the language&#39;s adaptability
 and its commitment to improving developer experience and code
 readability. These features provide developers with the tools needed to
 effciently handle increasingly complex asynchronous operations in modern
@@ -3706,14 +3652,14 @@ object tree and can be accessed using the DOM API.
 
 ##### 10.1.2 DOM Tree and Nodes
 
-The DOM organizes a webpage\' structure as a tree of nodes, where each
+The DOM organizes a webpage&#39; structure as a tree of nodes, where each
 node represents a part of the document. This tree includes everything
 from the root document node to individual text nodes:
 
 -   Document Node: The root node that represents the entire HTML
     document,
 
--   Element Nodes: Represent HTML elements (\<div\>, \<header\>, etc.)
+-   Element Nodes: Represent HTML elements (&#92;<div&#92;>, &#92;<header&#92;>, etc.)
     and serve as containers for other types of nodes.
 
 -   Text Nodes: Contain the text within HTML elements and are always
@@ -3757,7 +3703,7 @@ properties to manipulate these elements:
     and methods like element. classList.add/remove/toggle allow for
     controlling CSS styles and classes dynamically.
 
--   Manipulating Element Content: The innerHTML and \* textContent
+-   Manipulating Element Content: The innerHTML and &#42; textContent
     properties let you get or set the HTML or text content of an
     element.
 
@@ -3767,12 +3713,12 @@ properties to manipulate these elements:
     element.removeChild(child) allow for dynamic addition or removal of
     nodes in the DOM tree.
 
--   Attributes Manipulation: Methods like \'element.setAttribute(name,
-    value)\' and element.getAttribute(name) are used to manage element
+-   Attributes Manipulation: Methods like &#39;element.setAttribute(name,
+    value)&#39; and element.getAttribute(name) are used to manage element
     attributes.
 
 -   Event Handling: Adding event listeners using
-    element.addEventListener(event, handler, \[options\]) enables you to
+    element.addEventListener(event, handler, &#92;[options&#92;]) enables you to
     execute code in response to user interactions.
 
 Understanding the DOM is crucial for web development because it is the
@@ -3793,18 +3739,18 @@ the fastest and most common ways to select an element.
 ![](./images/image253.jpg){width="15.430272309711286in"
 height="1.1982403762029745in"}
 
-\- getElementsByClassName: This method returns a live HTMLCollection of
+&#45; getElementsByClassName: This method returns a live HTMLCollection of
 all elements that have the specified class name(s).
 
 ![](./images/image254.jpg){width="6.240873797025372in"
 height="0.5001356080489939in"}
 
-####### const items = document . getE1ementsByC1assName( \' list-item\' ) ;
+####### const items = document . getE1ementsByC1assName( &#39; list-item&#39; ) ;
 
 ![](./images/image255.jpg){width="6.240873797025372in"
 height="0.29174540682414696in"}
 
-\- getElementsByTagName It returns a live HTMLCollection of elements
+&#45; getElementsByTagName It returns a live HTMLCollection of elements
 with the given tag name.
 
 ![](./images/image256.jpg){width="15.430272309711286in"
@@ -3821,7 +3767,7 @@ selection of elements within the DOM. They come in two varieties:
 | ![](./unlock | ![](./unlock-ima                                    |
 | -images/media/ | ges/media/image258.jpg){width="4.386323272090989in" |
 | image257.jpg){ | height="0.4897156605424322in"}= document.           |
-| width="2.08376 | querySe1ector( \' button )                          |
+| width="2.08376 | querySe1ector( &#39; button )                          |
 | 42169728783in" | ;![](./unlock-ima                                   |
 | he           | ges/media/image259.jpg){width="4.844750656167979in" |
 | ight="0.489715 | height="0.5209744094488189in"}![](./unlock-ima      |
@@ -3836,7 +3782,7 @@ selection of elements within the DOM. They come in two varieties:
 ![](./images/image262.jpg){width="1.5211482939632546in"
 height="0.4688768591426072in"}
 
-####### const allButtons = document. querySe1ectorA11( \' .btn ) ;
+####### const allButtons = document. querySe1ectorA11( &#39; .btn ) ;
 
 ![](./images/image263.jpg){width="7.501549650043745in"
 height="0.34384295713035873in"}
@@ -3850,7 +3796,7 @@ Once an element is selected, you can modify its attributes and
 properties. Attributes are defined directly on an HTML tag, whereas
 properties are the values on the JavaScript object representation of
 these elements. -Setting and Getting Attributes: Use setAttribute to set
-an attribute\'s value, or getAttribute\* to retrieve it.
+an attribute&#39;s value, or getAttribute&#42; to retrieve it.
 
 ![](./images/image264.jpg){width="15.430272309711286in"
 height="2.219349300087489in"}
@@ -3866,7 +3812,7 @@ developers the ability to add, replace, or remove elements on the page.
 -   Creating New Elements: createElement() method creates a new element
     node.
 
-  const newParagraph = document. createE1ement( \' p \' )
+  const newParagraph = document. createE1ement( &#39; p &#39; )
   ;![](./images/image268.jpg){width="5.6782567804024495in"
   height="1.208659230096238in"}
 
@@ -3938,7 +3884,7 @@ Common DOM events include:
     keypress![](./images/image274.jpg){width="6.251312335958005e-2in"
     height="7.293635170603674e-2in"}
 
-######### - Form Events: \* submit change focus \'blur\'
+######### - Form Events: &#42; submit change focus &#39;blur&#39;
 
 Every event handler receives an event object with properties and methods
 related to the event. Common properties include:
@@ -3970,7 +3916,7 @@ events like window resizing, where you only care about the final state.
 ![](./images/image279.jpg){width="15.430272309711286in"
 height="5.032610454943132in"}
 
-\- Throttling: Ensures that a function is called at most once within a
+&#45; Throttling: Ensures that a function is called at most once within a
 specified time period, regardless of how many times the triggering event
 fires. Useful for events like scrolling, where you want to limit
 updates.
@@ -4009,7 +3955,7 @@ mechanisms within web applications:
 
 ![](./images/image281.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}history.pushState() : Adds a state to the
-browser\'s session history stack, allowing you to change the URL
+browser&#39;s session history stack, allowing you to change the URL
 displayed in the address bar without reloading the page.
 
 ![](./images/image282.jpg){width="0.3334022309711286in"
@@ -4017,9 +3963,9 @@ height="0.19797025371828522in"}history.replaceState() : Replaces the
 current state in the session history stack with a new state, effectively
 allowing you to modify the current URL without reloading the page.
 
-\- \'window.onpopstate event: This event is fired when the active
+&#45; &#39;window.onpopstate event: This event is fired when the active
 history entry changes, allowing developers to update page content
-dynamically when users navigate with the browser\'s back and forward
+dynamically when users navigate with the browser&#39;s back and forward
 buttons.
 
 These tools are especially useful in single-page applications where the
@@ -4057,7 +4003,7 @@ exchanging small amounts of data with the server behind the scenes.
     reloading the whole page.
 
 -   Fetch API: Provides a modern, promise-based mechanism for making
-    network requests and fetching resources. It\'s more versatile and
+    network requests and fetching resources. It&#39;s more versatile and
     powerful than the older XMLHttpRequest object used in traditional
     AJAX.
 
@@ -4078,11 +4024,11 @@ manipulation of the DOM.
 <h3 id="">10.5.1 Working with Document Fragments for Optimal Performance</h3>
 
 One common avenue for enhancing performance when inserting or
-manipulating multiple DOM elements is the use of \*\*Document
-Fragments\". A Document Fragment acts as a lightweight, minimal document
+manipulating multiple DOM elements is the use of &#42;&#42;Document
+Fragments&quot;. A Document Fragment acts as a lightweight, minimal document
 object that can hold DOM nodes. You can append nodes to it just as you
 would to the actual DOM, but since the Document Fragment is not part of
-the active DOM tree, modifying it doesn\'t cause reflow or repaint. Once
+the active DOM tree, modifying it doesn&#39;t cause reflow or repaint. Once
 you^l^re done, you can append the entire Fragment to the DOM, triggering
 just a single reflow and repaint cycle.
 
@@ -4092,9 +4038,9 @@ height="6.585113735783027in"}
 <h3 id="">10.5.2 Effciently Handling Large Lists and Scroll Events</h3>
 
 For web applications dealing with large lists or frequent scroll events,
-\*\*Virtual Scrolling\*\* or \*\* Windowing\*\* techniques help maintain
+&#42;&#42;Virtual Scrolling&#42;&#42; or &#42;&#42; Windowing&#42;&#42; techniques help maintain
 smooth performance. These methods involve loading and rendering only a
-subset of a large list that\'s visible to the user, with additional
+subset of a large list that&#39;s visible to the user, with additional
 items being rendered on-the-fly as the user scrolls. Libraries like
 React Virtualized or React Window can help implement these patterns in
 React applications.
@@ -4107,7 +4053,7 @@ applications. These are some strategies to minimize their impact:
 -   Batch DOM update: Group your DOM manipulations as much as possible
     Use Document Fragments for bulk additions or removals.
 
--Modify classes rather than styles: It\'s more emcient to change the
+-Modify classes rather than styles: It&#39;s more emcient to change the
 className of an element (thereby applying a new set of CSS rules) than
 to modify inline styles frequently.
 
@@ -4122,7 +4068,7 @@ to modify inline styles frequently.
 <h3 id="">10.5.4 Utilizing MutationObserver for Observing DOM Changes</h3>
 
 MutationObserver is a powerful API that allows developers to watch for
-changes in the DOM tree. It\'s useful for executing code in response to
+changes in the DOM tree. It&#39;s useful for executing code in response to
 DOM updates without having to poll the DOM or bind update events
 manually. It can be used to observe additions, removals, attribute
 changes, and more, making it invaluable for dynamically updating UIs or
@@ -4131,7 +4077,7 @@ triggering functionality in response to user interactions.
 ![](./images/image285.jpg){width="15.430272309711286in"
 height="8.596073928258967in"}
 
-While highly useful, it\'s important to use MutationObserver judiciously
+While highly useful, it&#39;s important to use MutationObserver judiciously
 to avoid performance issues due to excessive callback execution.
 
 These advanced techniques can help developers build faster, more
@@ -4176,11 +4122,11 @@ allow setting breakpoints in the code, where execution can be paused to
 inspect variables and evaluate expressions.
 
 -   The console.log() Method: Printing variables or expressions to the
-    console is a simple yet effective way to understand what\'s
+    console is a simple yet effective way to understand what&#39;s
     happening in the code.
 
--Using Debugger Statements: Inserting the \* debugger\' statement in
-your code will cause the execution to pause when the browser\'s
+-Using Debugger Statements: Inserting the &#42; debugger&#39; statement in
+your code will cause the execution to pause when the browser&#39;s
 developer tools are open, acting as a breakpoint.
 
 -   Code Linting: Tools like ESLint can help in identifying potential
@@ -4196,7 +4142,7 @@ debugging:
 
 where the error occurred.
 
--   Stack traces provide a pathway leading to the error\'s origin, which
+-   Stack traces provide a pathway leading to the error&#39;s origin, which
     can be instrumental in tracing back through the code to find the
     root cause.
 
@@ -4214,7 +4160,7 @@ errors in the console, making them more visible.
 
 ![](./images/image287.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}console-warn() : Used to log warning
-messages, useful for potential issues that don\'t qualify as errors.
+messages, useful for potential issues that don&#39;t qualify as errors.
 
 ![](./images/image287.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}console-table() : Displays data in a
@@ -4244,19 +4190,19 @@ JavaScript performance.
 <h3 id="">11.2.1 Navigating the Browser Developer Console</h3>
 
 The Developer Console is a powerful tool for diagnosing problems,
-evaluating expressions, and accessing web page internals. Here\'s how to
+evaluating expressions, and accessing web page internals. Here&#39;s how to
 navigate it effectively:
 
 -   Accessing the Console: You can usually open the developer console by
-    right-clicking on the webpage and selecting \"Inspect\", then
-    navigating to the \"Console\" tab, or by pressing Ctrl+Shift+J\' (on
-    Windows/ Linux) or Cmd+Option+J\* (on macOS).
+    right-clicking on the webpage and selecting &quot;Inspect&quot;, then
+    navigating to the &quot;Console&quot; tab, or by pressing Ctrl+Shift+J&#39; (on
+    Windows/ Linux) or Cmd+Option+J&#42; (on macOS).
 
 -   Filtering Console Output: Most consoles allow you to filter outputs
     by error types such as logs, warnings, or errors, making it easier
     to focus on relevant information.
 
--   Executing JavaScript: The console isn\'t just for viewing messages;
+-   Executing JavaScript: The console isn&#39;t just for viewing messages;
     you can execute JavaScript code directly, providing a handy tool for
     testing snippets of code or manipulating the DOM.
 
@@ -4265,14 +4211,14 @@ navigate it effectively:
 Breakpoints are critical for understanding how your JavaScript code
 executes line by line:
 
--   Setting Breakpoints: You can set breakpoints in the \"Sources\" or
-    \"Debugger\" tab of your browser\'s developer tools. This pauses
+-   Setting Breakpoints: You can set breakpoints in the &quot;Sources&quot; or
+    &quot;Debugger&quot; tab of your browser&#39;s developer tools. This pauses
     script execution when it reaches these lines, allowing you to
     inspect current values and flow.
 
 -   Step Over, Into, Out: Once execution is paused, you can use step
-    controls to navigate through your code. \"Step over\" executes the
-    next line, \"step into\" dives into functions, and \"step out\"
+    controls to navigate through your code. &quot;Step over&quot; executes the
+    next line, &quot;step into&quot; dives into functions, and &quot;step out&quot;
     returns from the current function.
 
 -   Conditional Breakpoints: These are powerful tools that pause
@@ -4327,7 +4273,7 @@ custom error strategies are foundational skills for developers.
 
 <h3 id="">113.1 Types of JavaScript Errors: Syntax, Runtime, and Logical</h3>
 
--   Syntax Errors: These errors occur when there\'s a problem with the
+-   Syntax Errors: These errors occur when there&#39;s a problem with the
     syntax of the code. JavaScript engines will not execute a script if
     it contains syntax errors. Common reasons include typos, missing
     operators, or incorrect use of language constructs.
@@ -4342,26 +4288,26 @@ custom error strategies are foundational skills for developers.
     to logical flaws in the code. Logical errors do not throw errors in
     the console but result in incorrect outcomes or behaviors.
 
-<h3 id="">11.3.2 The try\...catch Statement: Catching and Handling Errors</h3>
+<h3 id="">11.3.2 The try&#8230;catch Statement: Catching and Handling Errors</h3>
 
-JavaScript\'s try\...catch statement offers a structured approach to
+JavaScript&#39;s try&#8230;catch statement offers a structured approach to
 catching and handling runtime errors, preventing them from abruptly
 stopping script execution.
 
 ![](./images/image290.jpg){width="15.430272309711286in"
 height="3.1050054680664916in"}
 
--   The •try\* block contains the code to be executed.
+-   The •try&#42; block contains the code to be executed.
 
--   The catch block is executed if any error occurs within the try\*
+-   The catch block is executed if any error occurs within the try&#42;
     block.
 
--   The error \' object in the catch block can be used to access error
+-   The error &#39; object in the catch block can be used to access error
     details such as the message and stack trace.
 
 <h3 id="">11.3.3 Using the finally Clause</h3>
 
-The finally\* clause can be added to a \'try\...catch\* statement to
+The finally&#42; clause can be added to a &#39;try&#8230;catch&#42; statement to
 execute code after the try and catch blocks, regardless of whether an
 error was thrown or not. This is useful for cleaning up resources or
 per-
@@ -4395,7 +4341,7 @@ height="1.9588637357830272in"}
     height="7.293744531933509e-2in"}Custom errors can include any type
     of error object, including built-in Error types ( Error TypeError
     ![](./images/image296.jpg){width="0.20837598425196852in"
-    height="0.3230041557305337in"}ReferenceError\' , etc.) and custom
+    height="0.3230041557305337in"}ReferenceError&#39; , etc.) and custom
     error classes that extend the Error class.
 
 -   Throwing custom errors can be particularly useful in larger
@@ -4461,7 +4407,7 @@ process much smoother.
 -   Understanding Source Maps: Source maps create a connection between
     the minified files served to the browser and their original source
     code equivalents. This allows developers to debug their code in the
-    form it was written, even though what\'s running in the browser is a
+    form it was written, even though what&#39;s running in the browser is a
     minified version.
 
 -   Generating Source Maps: Most modern build tools (like Webpack,
@@ -4492,13 +4438,13 @@ when errors occur, ensuring a better user experience.
 
 <h3 id="">11.5.1 Error Propagation Strategies</h3>
 
-\- Explicit Propagation: Errors can be caught and then rethrown or
+&#45; Explicit Propagation: Errors can be caught and then rethrown or
 passed to a handler function explicitly. This allows for errors to be
-handled at a higher level, suitable for the application\'s context.
+handled at a higher level, suitable for the application&#39;s context.
 
 ###### function handleError(e) {
 
-// [Henri\' f]{.underline}? [erro]{.underline}r or [re throw]{.underline} if (canHandIe(e)) { handle(e) ;
+// [Henri&#39; f]{.underline}? [erro]{.underline}r or [re throw]{.underline} if (canHandIe(e)) { handle(e) ;
 
 } else { throw e; // Rethrow If not h[and! e]{.underline}d
 
@@ -4510,7 +4456,7 @@ height="0.8648173665791776in"}try { may throw
 ![](./images/image298.jpg){width="3.3131846019247595in"
 height="0.16671259842519684in"}
 
-\- Promise Rejection: In asynchronous operations, use .catch() on
+&#45; Promise Rejection: In asynchronous operations, use .catch() on
 Promises to handle errors. Propagate er-
 
 rors
@@ -4554,13 +4500,13 @@ height="5.626521216097988in"}
 
 Asynchronous code introduces complexities in error handling, especially
 with callbacks and promises. - Promises: Use the .catch() method or ^Q^
-try\* / \' catch with async\* / • await to handle errors in asynchronous
+try&#42; / &#39; catch with async&#42; / • await to handle errors in asynchronous
 code running in a Promise context.
 
 ![](./images/image301.jpg){width="15.430272309711286in"
 height="4.886737751531059in"}
 
-\- Callbacks: Wrap callback functions in try\* / • catch and use an
+&#45; Callbacks: Wrap callback functions in try&#42; / • catch and use an
 error-first callback pattern where the first parameter of the callback
 function is reserved for an error object, if any.
 
@@ -4596,7 +4542,7 @@ the overall stability and reliability of your applications.
 Creating a simple web application involves an integration of HTML, CSS,
 and JavaScript. This process spans setting up an organized project
 structure, designing a user-friendly interface, adding interactivity
-through JavaScript, and more. Here\'s a comprehensive guide to building
+through JavaScript, and more. Here&#39;s a comprehensive guide to building
 your first web application.
 
 <h3 id="">12.1.1 Setting Up the Project: Directory Structure and Files</h3>
@@ -4633,8 +4579,8 @@ structure, while CSS styles it.
     ![](./images/image304.jpg){width="1.9066447944007in"
     height="0.26048665791776027in"} . Use semantic tags like
     ![](./images/image305.jpg){width="5.209426946631671e-2in"
-    height="7.293635170603674e-2in"} \<header\> \<footer\> \<nav\> , and
-    \<main\> to outline the main areas.
+    height="7.293635170603674e-2in"} &#92;<header&#92;> &#92;<footer&#92;> &#92;<nav&#92;> , and
+    &#92;<main&#92;> to outline the main areas.
 
 2.  CSS: In style.css , define the styles for your application. Utilize
     CSS Flexbox or Grid for layout, set fonts, colors, and styles for
@@ -4648,7 +4594,7 @@ JavaScript adds interactivity to your web application.
     closing
     ![](./images/image306.jpg){width="1.510728346456693in"
     height="0.333423009623797in"}tag in your ^Q^ index.html with
-    \<script src=\"js/script.js\"\>\</script\>
+    &#92;<script src=&quot;js/script.js&quot;&#92;>&#92;</script&#92;>
     ![](./images/image307.jpg){width="0.20837707786526685in"
     height="0.27090660542432193in"}
 
@@ -4680,8 +4626,8 @@ servers without reloading your page, making your application more
 dynamic and fast.
 
 1.  Fetch API: Use the Fetch API to make HTTP requests to retrieve data.
-    fetch(^l^https://api.example.com/ data).then(response =\>
-    responsejson()).then(data = \>
+    fetch(^l^https://api.example.com/ data).then(response =&#92;>
+    responsejson()).then(data = &#92;>
     console.log(data));![](./images/image310.jpg){width="6.251312335958005e-2in"
     height="7.293635170603674e-2in"}
 
@@ -4700,15 +4646,15 @@ complex web applications.
 In modern web development, persisting data across sessions is a common
 requirement. HTML5 introduces the Web Storage API, which provides
 mechanisms for web applications to store key-value pairs in a web
-browser. Let\'s explore how to use localStorage to achieve data
+browser. Let&#39;s explore how to use localStorage to achieve data
 persistence effectively.
 
 <h3 id="">122.1 Introduction to Web Storage API</h3>
 
-The Web Storage API offers two storage mechanisms: localstorage\' and
+The Web Storage API offers two storage mechanisms: localstorage&#39; and
 sessionStorage ^s^ . Both provide the same methods and properties, but
-their lifespan differs. sessionStorage \' maintains a separate storage
-area for each given origin that\'s available for the duration of the
+their lifespan differs. sessionStorage &#39; maintains a separate storage
+area for each given origin that&#39;s available for the duration of the
 page session. In contrast, localStorage
 ![](./images/image311.jpg){width="7.29319772528434e-2in"
 height="7.293635170603674e-2in"}does the same, but persists even when
@@ -4725,16 +4671,16 @@ the browser is closed and reopened.
 
 <h3 id="">12.2.2 Storing and Retrieving Data with localStorage</h3>
 
-\"Storing Data\": To store data in \'localStorage , use the setltem()
+&quot;Storing Data&quot;: To store data in &#39;localStorage , use the setltem()
 method, which accepts a key and a value.
 
-local Storage. set Item( key\' ,
+local Storage. set Item( key&#39; ,
 
-\'value\');
+&#39;value&#39;);
 
 ![](./images/image313.jpg){width="0.48968503937007873in"
-height="8.335629921259842e-2in"}javascript localStorage.setItem(lkey\',
-\'value\');![](./images/image314.jpg){width="0.4896839457567804in"
+height="8.335629921259842e-2in"}javascript localStorage.setItem(lkey&#39;,
+&#39;value&#39;);![](./images/image314.jpg){width="0.4896839457567804in"
 height="8.335520559930008e-2in"}
 
 Retrieving Data: To retrieve the stored data, use the getltem() method,
@@ -4748,7 +4694,7 @@ height="2.7715824584426945in"}
 Implementing a todo list that persists tasks across browser sessions is
 a practical example of localStorage utility.
 
-1\. Add a Task: When a task is added, store it in \* localstorage .
+1&#92;. Add a Task: When a task is added, store it in &#42; localstorage .
 
 ![](./images/image316.jpg){width="15.430272309711286in"
 height="3.1258442694663167in"}
@@ -4766,7 +4712,7 @@ height="7.710417760279965in"}
     height="0.26048665791776027in"}
 
 -   Stringify Non-String Data: localStorage can only store strings, so
-    use ^Q^ JSON.stringify() \' to store arrays or objects, and
+    use ^Q^ JSON.stringify() &#39; to store arrays or objects, and
     JSON.parse() to read them back into your application.
 
 -   Data Size Limitation: Be mindful of the storage size limit
@@ -4774,7 +4720,7 @@ height="7.710417760279965in"}
     storage solutions like IndexedDB.
 
 -   Graceful Degradation: Ensure your application can degrade gracefully
-    if \' localStorage\* is unavailable or full, maintaining at least
+    if &#39; localStorage&#42; is unavailable or full, maintaining at least
     basic functionality.
 
 By following these practices and examples, you can leverage localStorage
@@ -4790,7 +4736,7 @@ that your application remains up-to-date and monitored after deployment.
 
 <h3 id="">12.3.1 Preparing Your Application for Deployment</h3>
 
-Before you deploy your application, it\'s important to ensure that it\'s
+Before you deploy your application, it&#39;s important to ensure that it&#39;s
 ready for the public. Here are some steps to prepare your application
 for deployment:
 
@@ -4824,22 +4770,22 @@ are several options available:
     domain registration in addition to hosting services.
 
 Picking a domain name is also crucial as it represents your
-application\'s identity on the web. Keep it short, memorable, and
+application&#39;s identity on the web. Keep it short, memorable, and
 relevant to your application.
 
 <h3 id="">123.3 Deploying with GitHub Pages</h3>
 
 GitHub Pages is a convenient and free way to deploy static websites.
-Here\'s how to deploy your application using GitHub Pages:
+Here&#39;s how to deploy your application using GitHub Pages:
 
-1. Push Your Code to GitHub If you haven\'t already, create a
+1. Push Your Code to GitHub If you haven&#39;t already, create a
 repository for your project and push your code. 
 
 2. Enable GitHub Pages:
 In your repository settings, find the GitHub Pages section and select
-the branch you want to deploy from, usually main or \' gh-pages \* . 
+the branch you want to deploy from, usually main or &#39; gh-pages &#42; . 
 
-3. Configure: If your project doesn\'t reside in the root of the
+3. Configure: If your project doesn&#39;t reside in the root of the
 repository, specify the folder.
 
 4. Visit Your Site: Your application will be live at
@@ -4849,12 +4795,12 @@ height="0.26048665791776027in"}
 
 <h3 id="">12.3.4 Monitoring and Updating Your Live Application</h3>
 
-Once your application is live, it\'s vital to keep it running smoothly.
+Once your application is live, it&#39;s vital to keep it running smoothly.
 
 -   Use Monitoring Tools: Services like Google Analytics, Sentry, and
     LogRocket can help you monitor usage patterns and catch errors.
 
--   Regular Updates: Keep your application\'s dependencies updated to
+-   Regular Updates: Keep your application&#39;s dependencies updated to
     minimize security risks.
 
 -   Feedback Loop: Implement a way to gather user feedback. Continuous
@@ -4872,7 +4818,7 @@ web.
 ##### 12.4 Where to Go from Here: Continuing Your JavaScript Journey
 
 After getting to grips with the basics and deploying your first
-JavaScript web application, you^l^re likely wondering what\'s next.
+JavaScript web application, you^l^re likely wondering what&#39;s next.
 JavaScript, being one of the most versatile and widely-used languages in
 web development, offers a plethora of advanced concepts and frameworks
 to explore, opportunities for server-side development, and a rich
@@ -4978,12 +4924,12 @@ From Python and Java to C++ and HTML, the app provides interactive
 lessons, coding challenges, and quizzes to help you sharpen your skills.
 Its intuitive interface and gamified learning approach make mastering
 programming languages engaging and accessible. Programming Hub has
-received numerous award. It has been recognized as Google editor\'s
+received numerous award. It has been recognized as Google editor&#39;s
 choice in 2017, Google Best App in 2017, Google LaunchPad Accelerator,
 got featured on Product Hunt, received FB Start from Facebook.
 
 Programming Hub offers over 45+ apps for the users and have garnered
-praise from learners worldwide. Users commend the app\'s user-friendly
+praise from learners worldwide. Users commend the app&#39;s user-friendly
 interface, engaging content, and effective teaching methodology.
 
 Learners of all ages and skill levels have found Programming Hub to be a
@@ -5007,7 +4953,7 @@ apps by users of programming hub are:
 
 & more
 
-That\'s all for this Journey fellow sorcerers, but remember, this is
+That&#39;s all for this Journey fellow sorcerers, but remember, this is
 just the beginning! Stay tuned and eagerly await the next volume of this
 enlightening series as we delve deeper into the fascinating world of
 programming and continue our quest for mastery. The adventure is far
