@@ -4,14 +4,15 @@ author: "bbauska"
 date created: "11/16/2024 Sat 8+pm"
 date last editted: "11/16/2024 Sat 8+pm"
 date last editted: "8/17/2025 Sun 3+pm"
+date last editted: "9/12/2025 Thu 11+am"
 
 output: 
   markdown:
     with some style
 ---
 
-<h1>Basics of JavaScript: Unlock the power of Web Programming</h1>
-<h2 align="center">JS Basics Unlock JavaScript</h2>
+<h1 style="text-align:center">Basics of JavaScript: Unlock the Power of Web Programming</h1>
+<h2 style="text-align:center">JS Basics Unlock JavaScript</h2>
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-basics-unlocked ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -25,7 +26,7 @@ output:
 </p>
 <h3 align="center">Basics of JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. JS Basics Unlocked (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. JS Basics Unlocked (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image007.jpg"
   style="width:8.3in;"
@@ -752,7 +753,15 @@ improved.
 
 ##### 2.3.3 The Scope of let • , &#39; const , and var
 
-![](./images/image024.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image024.jpg"
+  style="width:8.3in;"
+  title=""
+  alt="." />
+</p>
+<@-- ![](./images/image024.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}  -->
 
 -   var: Variables declared with •var are either function-scoped or
     global-scoped, meaning they are visible throughout the entire
@@ -770,17 +779,38 @@ improved.
 &#45; Hoisting: var declarations are hoisted to the top of their scope,
 which can lead to surprising behavior if not understood properly.
 
-![](./images/image025.jpg){width="15.430272309711286in"
-height="1.43788823272091in"}
-
-![](./images/image026.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image025.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<@-- ![](./images/image025.jpg){width="15.430272309711286in" height="1.43788823272091in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image026.jpg"
+  style="width:5.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image026.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 
 let&#39; and const are also hoisted but not initialized, which means they cannot be
 accessed before their declaration due to the temporal dead zone. 
 
 - Block Scope vs. Function Scope:
-
-![](./images/image027.jpg){width="15.430272309711286in" height="3.5217858705161853in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image027.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image027.jpg){width="15.430272309711286in" height="3.5217858705161853in"}  -->
 
 &#45;
 
@@ -793,15 +823,30 @@ cases, is critical for writing robust and error-free JavaScript code.
 
 Arithmetic operators in JavaScript include the more familiar ones such
 as addition ( + ), subtraction (
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image029.jpg"
+  style="width:0.6in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image029.jpg){width="0.6388888888888888in" height="0.3194444444444444in"}  -->
 
-![](./images/image029.jpg){width="0.6388888888888888in" height="0.3194444444444444in"}
 multiplication ( &#42; ), and division ( /
 There are also the modulus or remainder operator C % ), which returns
 the remainder of a division, increment ( + + and decrement ( ) operators
 that increase or decrease a number by one, respectively. These operators
 are used to perform mathematical calculations. For example:
-
-![](./images/image030.jpg){width="15.430272309711286in" height="2.92787510936133in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image030.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image030.jpg){width="15.430272309711286in" height="2.92787510936133in"}  -->
 
 #### 2.4.2 String Operators for Concatenation
 
@@ -811,8 +856,24 @@ into one:
 
 let greeting = &quot;Hello, &#39; + [&quot;world!]{.underline} &quot; , //
 &quot;[Hello]{.underline}, [world!]{.underline} &quot;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image031.jpg"
+  style="width:1.06in;"
+  title=""
+  alt="." />
+</p>
 
-![](./images/image031.jpg){width="1.0627198162729659in" height="4.167760279965004e-2in"}
+<!-- ![](./images/image031.jpg){width="1.0627198162729659in" height="4.167760279965004e-2in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image032.jpg"
+  style="width:1.3in;"
+  title=""
+  alt="." />
+</p>
 
 ![](./images/image032.jpg){width="1.3127712160979879in" height="0.15629155730533684in"}
 
@@ -820,64 +881,169 @@ Template literals, introduced in ES6, offer a more powerful way to
 create and manipulate strings. Enclosed by backticks (&#92;&#92; &#92;&#92; they can
 contain placeholders marked by &#36;{expression) , which are replaced by
 the values of the expressions:
-
-![](./images/image033.jpg){width="15.430272309711286in" height="1.43788823272091in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image033.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image033.jpg){width="15.430272309711286in" height="1.43788823272091in"}  -->
 
 #### 2.4.3 Comparison Operators and Evaluating Conditions
 
 Comparison operators are used to compare two values and return a Boolean
 value, either true or false . These include:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image034.jpg"
+  style="width:0.88in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image034.jpg){width="0.8855993000874891in" height="0.18755030621172353in"}  -->
 
-![](./images/image034.jpg){width="0.8855993000874891in" height="0.18755030621172353in"}
 (equal to)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image035.jpg"
+  style="width:1.08in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image035.jpg){width="1.0835575240594926in" height="0.19797025371828522in"}  -->
 
-![](./images/image035.jpg){width="1.0835575240594926in" height="0.19797025371828522in"}
 (strictly equal to, meaning equal in value and type)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image036.jpg"
+  style="width:0.78in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image036.jpg){width="0.781411854768154in" height="0.26048665791776027in"}  -->
 
-![](./images/image036.jpg){width="0.781411854768154in" height="0.26048665791776027in"}
 (not equal to)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image037.jpg"
+  style="width:0.96in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image037.jpg){width="0.9689501312335957in" height="0.26048665791776027in"}  -->
 
-![](./images/image037.jpg){width="0.9689501312335957in" height="0.26048665791776027in"}
 (strictly not equal to)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image038.jpg"
+  style="width:0.3in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
 
-![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"} 
 &#92;> (greater than)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image039.jpg"
+  style="width:0.7in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image039.jpg){width="0.7084798775153106in" height="0.21880905511811025in"}  -->
 
-![](./images/image039.jpg){width="0.7084798775153106in"
-height="0.21880905511811025in"}
 (less than)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image040.jpg"
+  style="width:0.88in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image040.jpg){width="0.8855993000874891in" height="0.21880905511811025in"}  -->
 
-![](./images/image040.jpg){width="0.8855993000874891in"
-height="0.21880905511811025in"}
 (greater than or equal to)
-
-![](./images/image041.jpg){width="0.7397364391951006in"
-height="0.14587270341207348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image041.jpg"
+  style="width:0.73in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image041.jpg){width="0.7397364391951006in" height="0.14587270341207348in"}  -->
 (less than or equal to)
 
 For example:
-
-![](./images/image042.jpg){width="15.430272309711286in" height="1.8963462379702538in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image042.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image042.jpg){width="15.430272309711286in" height="1.8963462379702538in"}  -->
 
 #### 2.4.4 Logical Operators: Combining Conditions
 
 Logical operators allow you to combine multiple conditions. They include:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image043.jpg"
+  style="width:1.0in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image043.jpg){width="1.000206692913386in" height="0.26048665791776027in"}  -->
 
-![](./images/image043.jpg){width="1.000206692913386in"
-height="0.26048665791776027in"} (logical AND): Returns true if both
+(logical AND): Returns true if both
 operands are true.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image044.jpg"
+  style="width:0.30in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image044.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}  -->
 
-![](./images/image044.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}
 ! l (logical OR): Returns true if one or both operands are true.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image038.jpg"
+  style="width:0.3in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
 
-![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}
 ! (logical NOT): Returns true if the
 operand is false, and vice versa,
 
 These operators are commonly used in conditionals to combine multiple
 conditions:
-
-![](./images/image045.jpg){width="15.22189523184602in" height="3.438429571303587in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image045.jpg"
+  style="width:15.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image045.jpg){width="15.22189523184602in" height="3.438429571303587in"}  -->
 
 Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
@@ -932,7 +1098,15 @@ Examples of operator precedence levels from highest to lower:
 -   Assignment: ,
     and
 
-![](./images/image046.jpg){width="0.7397364391951006in" height="0.2813254593175853in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image046.jpg"
+  style="width:0.73in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image046.jpg){width="0.7397364391951006in" height="0.2813254593175853in"}  -->
 
 #### 2.5.3 Overriding Default Precedence: The Use of Parentheses
 
@@ -961,21 +1135,44 @@ adding
 
 2.  With Parentheses:
 
-![](./images/image048.jpg){width="15.430272309711286in" height="1.0627876202974629in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image048.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image048.jpg){width="15.430272309711286in" height="1.0627876202974629in"}  -->
 
 Parentheses alter the natural precedence, so 3 is added to 4 before the
 result is multiplied by 5.
 
 3.  Combining Different Types:
-
-![](./images/image049.jpg){width="15.430272309711286in" height="1.0836253280839896in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 49.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image049.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image049.jpg){width="15.430272309711286in" height="1.0836253280839896in"}  -->
 
 Multiplication is performed first, followed by addition and subtraction
 from left to right according to their associativity.
 
 4.  Logical Operators:
 
-![](./images/image050.jpg){width="15.430272309711286in" height="0.9169149168853893in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 50.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image050.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image050.jpg){width="15.430272309711286in" height="0.9169149168853893in"}  -->
 
 Logical AND ( && ) has a higher precedence than logical OR ( I l &#42; ),
 but using parentheses can change the evaluation order for clarity or to
@@ -999,12 +1196,26 @@ structures in JavaScript.
 An i? statement is the simplest form of control flow, allowing you to
 execute a block of code only if a given condition is true. Its basic
 syntax is:
-
-![](./images/image051.jpg){width="15.430272309711286in" height="1.8546675415573053in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 51.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image051.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image051.jpg){width="15.430272309711286in" height="1.8546675415573053in"}  -->
 
 Example:
-
-![](./images/image052.jpg){width="15.430272309711286in" height="2.3027055993000873in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image052.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image052.jpg){width="15.430272309711286in" height="2.3027055993000873in"}  -->
 
 Here, the message is logged to the console only if the temperature is
 greater than 30.
@@ -1014,23 +1225,51 @@ greater than 30.
 To provide an alternative path when the if&#42; condition is false, you can
 use an else clause. For multiple conditions, else if can be used,
 Syntax:
-
-![](./images/image053.jpg){width="15.430272309711286in" height="3.8864665354330707in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 53.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image053.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image053.jpg){width="15.430272309711286in" height="3.8864665354330707in"}  -->
 
 Example:
-
-![](./images/image054.jpg){width="15.430272309711286in" height="4.094856736657918in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 54.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image054.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image054.jpg){width="15.430272309711286in" height="4.094856736657918in"}  -->
 
 <h3 id="">3.1.3 Nested if Statements</h3>
-
-![](./images/image055.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image055.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image055.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
 
 if&#39; statements can be nested within
 each other, allowing for more complex decisionmaking.
 
 Example:
-
-![](./images/image056.jpg){width="15.430272309711286in" height="4.084436789151356in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 56.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image056.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image056.jpg){width="15.430272309711286in" height="4.084436789151356in"}  -->
 
 This structure tests another condition (whether the sky is clear) inside
 an outer condition (whether the temperature is greater than 20).
@@ -1044,21 +1283,44 @@ execute if it&#39;s false.
 
 Syntax:
 
-![](./images/image057.jpg){width="1.4482163167104112in" height="0.26048665791776027in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 57.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image057.jpg"
+  style="width:1.4in;"
+  title=""
+  alt="." />
+<!-- </p>![](./images/image057.jpg){width="1.4482163167104112in" height="0.26048665791776027in"}  -->
+
 condition ? exprIfTrue
 exprIfFaIse;
-![](./images/image058.jpg){width="8.460082020997376in" height="0.9481725721784777in"}
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image058.jpg"
+  style="width:8.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image058.jpg){width="8.460082020997376in" height="0.9481725721784777in"}  -->
 
 Example:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image059.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image059.jpg){width="15.44069116360455in" height="1.7921511373578303in"}  -->
 
-![](./images/image059.jpg){width="15.44069116360455in" height="1.7921511373578303in"}
+Here, message is assigned one of the two strings based on whether temperature is greater than 30.
 
-Here, message is assigned one of the two strings based on whether
-temperature is greater than 30.
-
-Understanding and properly using iff statements and ternary operators
-enable you to control the flow of your JavaScript programs effectively,
-making your code more dynamic and responsive to different conditions.
+Understanding and properly using iff statements and ternary operators enable you to control the 
+flow of your JavaScript programs effectively, making your code more dynamic and responsive to 
+different conditions.
 
 #### 3.2 Repeating Actions: for and while Loops
 
@@ -1072,8 +1334,15 @@ and controlling loop execution.
 The ^Q^ for&#39; loop is one of the most commonly used loops. Its
 particularly useful when the number of iterations is known beforehand,
 Syntax:
-
-![](./images/image060.jpg){width="15.430272309711286in" height="2.000541338582677in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image060.jpg){width="15.430272309711286in" height="2.000541338582677in"}  -->
 
 -   initialExpression: Initializes a counter variable.
 
@@ -1084,8 +1353,15 @@ Syntax:
     the counter variable.
 
 Example:
-
-![](./images/image061.jpg){width="15.430272309711286in" height="1.9276038932633421in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image061.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image061.jpg){width="15.430272309711286in" height="1.9276038932633421in"}  -->
 
 This loop prints a message five times, with ^s^ i representing the
 current iteration number from O to 4.
@@ -1094,16 +1370,31 @@ current iteration number from O to 4.
 
 The while loop creates a loop that executes as long as the specified
 condition evaluates to true. Unlike the
-![](./images/image062.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}for loop, the while loop only requires
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image062.jpg"
+  style="width:5.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image062.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
+
+for loop, the while loop only requires
 the condition expression.
 
 Syntax:
 
 Example:
-
-![](./images/image064.jpg){width="15.430272309711286in"
-height="2.8340988626421697in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 64.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image064.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image064.jpg){width="15.430272309711286in" height="2.8340988626421697in"}  -->
 
 This does the same as the previous for loop example but demonstrates a
 different syntax and approach.
@@ -1116,15 +1407,30 @@ condition is tested. Syntax:
 
 do {
 
-// code [blo]{.underline}ck to be executed
+// code block to be executed
 
-![](./images/image065.jpg){width="0.9897878390201225in" height="6.251749781277341e-2in"}
->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image065.jpg"
+  style="width:0.9in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image065.jpg){width="0.9897878390201225in" height="6.251749781277341e-2in"}  -->
+
 } while (condition);
 
 Example:
-
-![](./images/image066.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 66.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image066.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image066.jpg){width="15.430272309711286in" height="3.0216502624671917in"}  -->
 
 Even if the condition evaluates to false on the first try, the code
 block would still have executed once due to the nature of the do-while
@@ -1140,18 +1446,51 @@ Break Example:
 
 for (let i = e; i &#92;< 10; i++) {
 
-![](./images/image067.jpg){width="1.531567147856518in" height="6.251749781277341e-2in" 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 67.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image067.jpg"
+  style="width:1.5in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image067.jpg){width="1.531567147856518in" height="6.251749781277341e-2in"   -->
 
 if (i break; // Exits [the]{.underline} Loop [when]{.underline} is S
 
 =
 
-![](./images/image069.jpg){width="2.9797823709536306in" height="9.377515310586176e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image069.jpg"
+  style="width:2.9in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image069.jpg){width="2.9797823709536306in" height="9.377515310586176e-2in"}  -->
 
 console.log( &#39;i is
-![](./images/image070.jpg){width="1.4169597550306212in" height="0.5001356080489939in"}
 
-![](./images/image071.jpg){width="4.344647856517935in" height="0.12503390201224848in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image070.jpg"
+  style="width:1.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image070.jpg){width="1.4169597550306212in" height="0.5001356080489939in"}  -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 71.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image071.jpg"
+  style="width:4.3in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image071.jpg){width="4.344647856517935in" height="0.12503390201224848in"}  -->
 
 Continue
 
@@ -1176,37 +1515,21 @@ array by index.
 Example:
 
 Here,
-
 fruits&#92;[i&#92;]
-
 represents
-
 each
-
 element
-
 in
-
 the
-
 array
-
 as
-
 the
-
 loop
-
 iterates
-
 from
-
 O
-
 to
-
 fruits.length
-
 &#45;
 
 <h3 id="">3.3.2 The forEach Method</h3>
@@ -1216,12 +1539,26 @@ over arrays. It takes a callback function that is executed for each
 element in the array.
 
 Syntax:
-
-![](./images/image074.jpg){width="15.430272309711286in" height="1.0419488188976378in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 74.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image074.jpg"
+  style="width:1.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image074.jpg){width="15.430272309711286in" height="1.0419488188976378in"}  -->
 
 Example:
-
-![](./images/image075.jpg){width="15.430272309711286in" height="2.9695527121609797in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image075.jpg"
+  style="width:1.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image075.jpg){width="15.430272309711286in" height="2.9695527121609797in"}  -->
 
 This method is preferred for its readability and functional approach to
 iteration.
@@ -1244,18 +1581,41 @@ arrays or values based on the provided callback functions.
 
 -   map() creates a new array populated with the results of calling a
     provided function on every element in the calling array. Example:
-
-![](./images/image077.jpg){width="15.430272309711286in" height="2.0526377952755905in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image077.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image077.jpg){width="15.430272309711286in" height="2.0526377952755905in"}  -->
 
 -   filter() creates a new array with all elements that pass the test
     implemented by the provided function. Example:
 
-![](./images/image078.jpg){width="15.430272309711286in" height="1.979701443569554in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image078.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image078.jpg){width="15.430272309711286in" height="1.979701443569554in"}  -->
 
 -   reduce() applies a reducer function on each element of the array,
     leading to a single output value. Example:
 
-![](./images/image079.jpg){width="15.430272309711286in" height="1.8650874890638671in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image079.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<@-- ![](./images/image079.jpg){width="15.430272309711286in" height="1.8650874890638671in"}  -->
 
 Understanding and using these array iteration techniques effectively can
 lead to cleaner, more expressive, and effcient code. Each method offers
@@ -1289,8 +1649,15 @@ or exceptions using the catch block, which prevents the program from
 crashing.
 
 Syntax:
-
-![](./images/image081.jpg){width="15.430272309711286in" height="3.9177252843394577in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image081.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image081.jpg){width="15.430272309711286in" height="3.9177252843394577in"}  -->
 
 This example demonstrates error handling by catching an error when
 calling a function that doesn&#39;t exist.
@@ -1302,16 +1669,37 @@ are useful when validating input data, enforcing certain conditions, or
 handling exceptions in a specific way.
 
 Syntax:
-
-![](./images/image082.jpg){width="2.396327646544182in" height="0.3751017060367454in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image082.jpg"
+  style="width:2.39in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image082.jpg){width="2.396327646544182in" height="0.3751017060367454in"}  -->
 
 throw new Error(&quot;Custom error message&quot;);
-
-![](./images/image083.jpg){width="9.668664698162729in" height="0.7189446631671041in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image083.jpg"
+  style="width:9.66in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image083.jpg){width="9.668664698162729in" height="0.7189446631671041in"}  -->
 
 Example:
-
-![](./images/image084.jpg){width="15.430272309711286in" height="6.470498687664042in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 84.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image084.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image084.jpg){width="15.430272309711286in" height="6.470498687664042in"}  -->
 
 This code throws an error if the dimensions for calculating an area are
 not positive, demonstrating how custom errors can control the flow of a
@@ -1335,18 +1723,47 @@ concerns.
 A function is declared using the function keyword, followed by a name, a
 list of parameters enclosed in parentheses , and a block of code
 enclosed in curly braces O
-![](./images/image085.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
-
-![](./images/image086.jpg){width="15.430272309711286in" height="2.104735345581802in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image085.jpg"
+  style="width:0.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image085.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image086.jpg"
+  style="width:15.43in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image086.jpg){width="15.430272309711286in" height="2.104735345581802in"}  -->
 
 Example:
-
-![](./images/image087.jpg){width="15.430272309711286in" height="2.0109601924759404in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 87.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image087.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image087.jpg){width="15.430272309711286in" height="2.0109601924759404in"}  -->
 
 To invoke or call the function, you use the function name followed by
 parentheses:
-
-![](./images/image088.jpg){width="15.430272309711286in" height="0.9377537182852144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image088.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image088.jpg){width="15.430272309711286in" height="0.9377537182852144in"}  -->
 
 <h3 id="">4.1.2 Parameters and Arguments</h3>
 
