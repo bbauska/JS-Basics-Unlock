@@ -1753,8 +1753,7 @@ Example:
 </p>
 <!-- ![](./images/image087.jpg){width="15.430272309711286in" height="2.0109601924759404in"}  -->
 
-To invoke or call the function, you use the function name followed by
-parentheses:
+To invoke or call the function, you use the function name followed by parentheses:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2532,8 +2531,7 @@ Multi-dimensional arrays are arrays that contain arrays as their
 elements. They are useful for representing matrices or any grid-like
 structures.
 
-![](./images/image150.jpg){width="15.430272309711286in"
-height="4.907576552930884in"}
+<!-- ![](./images/image150.jpg){width="15.430272309711286in" height="4.907576552930884in"}  -->
 
 In multi-dimensional arrays, iterate over each dimension using nested
 loops or by applying forEach or other iteration methods recursively.
@@ -2553,45 +2551,41 @@ content to a single value.
 
 <h3 id="">6.2.1 Sorting and Reversing Arrays</h3>
 
-![](./images/image151.jpg){width="9.376968503937008e-2in"
-height="2.083880139982502e-2in"} &ast;&ast;Sorting Arrays:&ast;&ast; The sort()
+<!-- ![](./images/image151.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
+
+&ast;&ast;Sorting Arrays:&ast;&ast; The sort()
 method sorts the elements of an array in place and returns the sorted
 array. By default, sort() orders the elements as strings in alphabetical
 and ascending order. However, a compare function can be provided to
 determine the sort order.
 
-![](./images/image152.jpg){width="15.430272309711286in"
-height="2.094316491688539in"}
+<!-- ![](./images/image152.jpg){width="15.430272309711286in" height="2.094316491688539in"}  -->
 
 &#45; Reversing Arrays: The reverse() method reverses an array in place.
 The first array element becomes the last, and the last array element
 becomes the first.
 
-![](./images/image153.jpg){width="15.430272309711286in"
-height="2.292286745406824in"}
+<!-- ![](./images/image153.jpg){width="15.430272309711286in" height="2.292286745406824in"}  -->
 
 <h3 id="">6.2.2 Filtering and Mapping Arrays</h3>
 
 -   Filtering Arrays: The filter()&#39; method creates a new array with all
     elements that pass the test implemented by the provided function,
 
-![](./images/image154.jpg){width="15.430272309711286in"
-height="1.979702537182852in"}
+<!-- ![](./images/image154.jpg){width="15.430272309711286in" height="1.979702537182852in"}  -->
 
 -   Mapping Arrays: The map() method creates a new array populated with
     the results of calling a provided function on every element in the
     calling array.
 
-![](./images/image155.jpg){width="15.430272309711286in"
-height="2.125574146981627in"}
+<!-- ![](./images/image155.jpg){width="15.430272309711286in" height="2.125574146981627in"}  -->
 
 <h3 id="">6.2.3 Reducing Arrays to a Single Value</h3>
 
 The reduce() method executes a reducer function (that you provide) on
 each element of the array, resulting in a single output value.
 
-![](./images/image156.jpg){width="15.430272309711286in"
-height="2.896616360454943in"}
+<!-- ![](./images/image156.jpg){width="15.430272309711286in" height="2.896616360454943in"}  -->
 
 <h3 id="">6.2.4 Combining and Slicing Arrays</h3>
 
@@ -2599,16 +2593,14 @@ height="2.896616360454943in"}
     arrays. This method does not change the existing arrays but instead
     returns a new array.
 
-![](./images/image157.jpg){width="15.430272309711286in"
-height="2.604870953630796in"}
+<!-- ![](./images/image157.jpg){width="15.430272309711286in" height="2.604870953630796in"}  -->
 
 -   Slicing Arrays: The slice() method returns a shallow copy of a
     portion of an array into a new array object selected from stare to
     end • C end not included) where start and end represent the index of
     items in that array. The original array will not be modified.
 
-![](./images/image158.jpg){width="15.430272309711286in"
-height="2.250608048993876in"}
+<!-- ![](./images/image158.jpg){width="15.430272309711286in" height="2.250608048993876in"}  -->
 
 These operations illustrate the power and flexibility of arrays in
 JavaScript, providing developers with a rich set of tools for data
@@ -2619,9 +2611,7 @@ manipulation and analysis.
 In JavaScript, objects are collections of key-value pairs. They serve as
 a foundation for building complex data structures and offer a way to
 organize and process data effciently. Let&#39;s explore how to create,
-manip-
-
-ulate, and access information within objects.
+manipulate, and access information within objects.
 
 ##### 6.3.1 Creating Objects and Object Literals
 
@@ -2630,13 +2620,11 @@ the Object constructor.
 
 Object Literal Syntax:
 
-![](./images/image159.jpg){width="15.430272309711286in"
-height="3.459268372703412in"}
+<!-- ![](./images/image159.jpg){width="15.430272309711286in" height="3.459268372703412in"}  -->
 
 Using the Object&#39; Constructor:
 
-![](./images/image160.jpg){width="15.430272309711286in"
-height="2.604870953630796in"}
+<!-- ![](./images/image160.jpg){width="15.430272309711286in" height="2.604870953630796in"}  -->
 
 Object literals are a concise and preferred way to create objects.
 
@@ -2645,16 +2633,16 @@ Object literals are a concise and preferred way to create objects.
 Objects can contain other objects, enabling the creation of complex data
 structures.
 
-![](./images/image161.jpg){width="15.430272309711286in"
-height="5.543164916885389in"}
+<!-- ![](./images/image161.jpg){width="15.430272309711286in" height="5.543164916885389in"}  -->
 
 Nested objects can be accessed using a chain of dot or bracket
 notations.
 
-![](./images/image162.jpg){width="15.430272309711286in"
-height="1.4691469816272966in"}
+<!-- ![](./images/image162.jpg){width="15.430272309711286in" height="1.4691469816272966in"} -->
 
-##### 6.3.3 Iterating through Objects with for&#8230;in• and Object.keys()![](./images/image163.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
+##### 6.3.3 Iterating through Objects with for&#8230;in• and Object.keys()
+
+<!-- ![](./images/image163.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}  -->
 
 To iterate over the properties of an object, you can use the for&#8230;in
 loop or the Object.keys() method.
@@ -2671,13 +2659,11 @@ object properties.
 Destructuring provides a way to unpack properties from objects into
 distinct variables.
 
-![](./images/image165.jpg){width="15.430272309711286in"
-height="1.8755074365704287in"}
+<!-- ![](./images/image165.jpg){width="15.430272309711286in" height="1.8755074365704287in"}  -->
 
 You can also provide new variable names while destructuring.
 
-![](./images/image166.jpg){width="15.430272309711286in"
-height="2.0630577427821524in"}
+<!-- ![](./images/image166.jpg){width="15.430272309711286in" height="2.0630577427821524in"}  -->
 
 Destructuring can greatly simplify the process of working with objects,
 making the code cleaner and easier to read.
@@ -2699,8 +2685,7 @@ Dot notation is the most common and straightforward way to access a
 property of an object. It&#39;s preferable for its readability and
 simplicity.
 
-![](./images/image167.jpg){width="15.430272309711286in"
-height="4.1156966316710415in"}
+<!-- ![](./images/image167.jpg){width="15.430272309711286in" height="4.1156966316710415in"}  -->
 
 Dot notation should be used when:
 
@@ -2717,8 +2702,7 @@ Additionally, bracket
 
 notation is essential when property names are determined dynamically
 
-![](./images/image168.jpg){width="15.44069116360455in"
-height="3.959402887139108in"}
+<!-- ![](./images/image168.jpg){width="15.44069116360455in" height="3.959402887139108in"}  -->
 
 Use bracket notation when:
 
@@ -2734,8 +2718,7 @@ Bracket notation shines when working with properties that are
 dynamically determined (for instance, based on user input or runtime
 values).
 
-![](./images/image169.jpg){width="15.430272309711286in"
-height="3.5843022747156605in"}
+<!-- ![](./images/image169.jpg){width="15.430272309711286in" height="3.5843022747156605in"}  -->
 
 This capability is particularly useful in scenarios requiring
 flexibility, such as iterating over keys in an object or accessing
@@ -2745,38 +2728,41 @@ properties based on variable inputs.
 
 To check if an object has a specific property, you can use the in
 operator or Object.hasOwnProperty()
-![](./images/image170.jpg){width="7.29319772528434e-2in"
-height="8.335629921259842e-2in"}method.
 
-![](./images/image171.jpg){width="15.44069116360455in"
-height="4.188632983377078in"}
+<!-- ![](./images/image170.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}  -->
+
+method.
+
+<!-- ![](./images/image171.jpg){width="15.44069116360455in" height="4.188632983377078in"}  -->
 
 To enumerate (list) an object&#39;s properties, you can use
-![](./images/image172.jpg){width="2.156696194225722in"
-height="0.33342410323709537in"}, Object-values() , or Object.entries()
+
+<!-- ![](./images/image172.jpg){width="2.156696194225722in" height="0.33342410323709537in"}  -->
+
+, Object-values() , or Object.entries()
 methods which return the properties&#39; names, values, or both,
 respectively.
 
-![](./images/image173.jpg){width="15.430272309711286in"
-height="2.021379046369204in"}
+<!-- ![](./images/image173.jpg){width="15.430272309711286in" height="2.021379046369204in"}  -->
+
 
 Selecting the appropriate notation and understanding property existence
 and enumeration allows for more effective object manipulation and
 querying within your JavaScript applications.
 
 Deeper into Objects
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.1 Introduction to Object-Oriented JavaScript</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Object-oriented Programming (OOP) is a programming paradigm based on the
 concept of &quot;objects&quot;, which can contain data in the form of fields
 (often known as attributes or properties) and code in the form of
 procedures (often known as methods). JavaScript supports OOP through its
 prototypes and includes support for classical OOP concepts using classes
 as of ES6 (ECMAScript 2015).
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.1.1 The Pillars of Object-Oriented Programming</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The four foundational pillars of Object-oriented Programming include:
 
 1.  Encapsulation: This principle is about bundling the data and the
@@ -2810,8 +2796,7 @@ easier to implement complex object structures.
 
 Example:
 
-![](./images/image174.jpg){width="15.44069116360455in"
-height="6.981053149606299in"}
+<!-- ![](./images/image174.jpg){width="15.44069116360455in" height="6.981053149606299in"}  -->
 
 ###### 7.1.3 Encapsulation and Information Hiding
 
@@ -2823,13 +2808,7 @@ additions (like private class fields), JavaScript did not directly
 support the hiding of data. This has usually been accomplished using
 closures or the newer private fields syntax.
 
-Example
-
-using
-
-private
-
-fields:
+Example using private fields:
 
 7.1.4 Methods and &quot;this&quot; Context in Classes
 
@@ -2860,18 +2839,22 @@ value can change depending on how a function is called.
 In the global execution context (outside of any function), this refers
 to the global object whether in strict mode or not. In web browsers, the
 global object is
-window![](./images/image176.jpg){width="0.19795713035870516in"
-height="0.26048665791776027in"}
+window
 
-###### console. log (this ![](./images/image177.jpg){width="0.5521970691163605in" height="1.041994750656168e-2in"} window) ; // true
+<!-- ![](./images/image176.jpg){width="0.19795713035870516in" height="0.26048665791776027in"}  -->
+
+###### console. log (this 
+
+<!-- ![](./images/image177.jpg){width="0.5521970691163605in" height="1.041994750656168e-2in"}  -->
+
+window) ; // true
 
 In a regular (non-arrow) function, this is set dynamically when the
 function is called. In the global scope or inside a function not
 associated with any object, &#39; this refers to the global object in
 non-strict mode and is handefined in strict mode.
 
-![](./images/image178.jpg){width="15.430272309711286in"
-height="2.563192257217848in"}
+<!-- ![](./images/image178.jpg){width="15.430272309711286in" height="2.563192257217848in"}  -->
 
 <h3 id="">7.2.2 &quot;this&quot; in Methods and Constructors</h3>
 
