@@ -4,7 +4,7 @@ author: "bbauska"
 date created: "11/16/2024 Sat 8+pm"
 date last editted: "11/16/2024 Sat 8+pm"
 date last editted: "8/17/2025 Sun 3+pm"
-date last editted: "9/12/2025 Thu 11+am"
+date last editted: "9/11/2025 Thu 11+am"
 
 output: 
   markdown:
@@ -1783,7 +1783,15 @@ specified value.
 
 Example:
 
-![](./images/image090.jpg){width="15.430272309711286in" height="3.7301760717410324in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image090.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image090.jpg){width="15.430272309711286in" height="3.7301760717410324in"}  -->
 
 If a function doesn&#39;t specify a return value, it returns undefined by default.
 
@@ -1798,16 +1806,30 @@ Immediately Invoked Function Expression (IIFE):
 An IIFE is a function that runs as soon as it is defined.
 
 Syntax:
-
-![](./images/image091.jpg){width="15.430272309711286in"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 91.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image091.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image091.jpg){width="15.430272309711286in"  -->
 height="1.9588626421697288in"}
 
 IIFEs are useful for creating private scopes and avoiding polluting the
 global namespace.
 
 Example with Parameters:
-
-![](./images/image092.jpg){width="15.430272309711286in" height="2.094316491688539in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image092.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image092.jpg){width="15.430272309711286in" height="2.094316491688539in"}  -->
 
 Functions as first-class citizens allow for flexible and powerful
 programming patterns, including callbacks, function factories, and more.
@@ -1831,12 +1853,26 @@ of function declarations is that they are hoisted, meaning the function
 can be called before its declaration in the code.
 
 Syntax:
-
-![](./images/image093.jpg){width="15.430272309711286in" height="2.0838965441819775in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 93.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image093.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image093.jpg){width="15.430272309711286in" height="2.0838965441819775in"}  -->
 
 Example:
-
-![](./images/image094.jpg){width="15.430272309711286in" height="3.355073272090989in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 94.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image094.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image094.jpg){width="15.430272309711286in" height="3.355073272090989in"}  -->
 
 Despite sum being called before it appears in the code, the program can
 execute it without error due to hoisting.
@@ -1848,8 +1884,15 @@ to a variable. Function expressions are not hoisted, meaning they cannot
 be called before they are defined in the code.
 
 Syntax:
-
-![](./images/image095.jpg){width="15.430272309711286in" height="2.0317989938757655in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 95.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image095.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image095.jpg){width="15.430272309711286in" height="2.0317989938757655in"}  -->
 
 Example:
 
@@ -1861,8 +1904,15 @@ because function expressions do not enjoy hoisting.
 Function expressions can be anonymous (as seen above) or named.
 
 Named Function Expression:
-
-![](./images/image097.jpg){width="15.430272309711286in" height="1.9588626421697288in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image097.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image097.jpg){width="15.430272309711286in" height="1.9588626421697288in"}  -->
 
 A key difference is in debugging: named functions can be easier to
 identify in a stack trace. However, within the function body, you use
@@ -1870,8 +1920,15 @@ the name to refer to the function itself, such as creating a recursive
 call.
 
 Anonymous Function Expression:
-
-![](./images/image098.jpg){width="15.430272309711286in" height="1.9692825896762904in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image098.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image098.jpg){width="15.430272309711286in" height="1.9692825896762904in"}  -->
 
 Anonymous functions are common, especially as arguments to other
 functions or in IIFEs. The absence of a name simplifies the syntax but
@@ -1915,35 +1972,97 @@ code. The function keyword is omitted, and the =&#92;> arrow is used
 instead.
 
 Basic Syntax:
-
-![](./images/image100.jpg){width="15.430555555555555in" height="2.0833333333333335in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image100.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image100.jpg){width="15.430555555555555in" height="2.0833333333333335in"}  -->
 
 Without Parameters:
-
+<pre>
 const sayHe110 = ( )
 console. log( &quot;Hello! &quot; )
+</pre>
+With a Single Parameter:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101/102/103.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image101.jpg"
+  style="width:1.44in;"
+  title=""
+  alt="." />
+</p>
+<p align="center" width="100%">
+<img src="./images/image102.jpg"
+  style="width:1.44in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image101.jpg){width="1.4444444444444444in" height="0.2986111111111111in"}  -->
+<!-- ![](./images/image102.jpg){width="1.4444444444444444in" height="0.3402777777777778in"}  -->
 
-With a Single Parameter:          |                                   |
-
-![](./images/image101.jpg){width="1.4444444444444444in"
-height="0.2986111111111111in"}
-![](./images/image102.jpg){width="1.4444444444444444in"
-height="0.3402777777777778in"}
 const greet = name console. log(
-![](./images/image103.jpg){width="8.944444444444445in" height="0.9861111111111112in"}
+
+<p align="center" width="100%">
+<img src="./images/image103.jpg"
+  style="width:8.94in;"
+  title=""
+  alt="." />
+</p>
+
+![](./images/image101.jpg){width="1.4444444444444444in" height="0.2986111111111111in"}  -->
+<!-- ![](./images/image102.jpg){width="1.4444444444444444in" height="0.3402777777777778in"}  -->
+<!-- ![](./images/image103.jpg){width="8.944444444444445in" height="0.9861111111111112in"}  -->
+
 &quot;Hello,
 
 With Multiple Parameters:
 
    const sum = (a, b) 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 104.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image104.jpg"
+  style="width:9.94in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image104.jpg){width="9.944444444444445in" height="0.4791666666666667in"}  -->
 
-![](./images/image104.jpg){width="9.944444444444445in" height="0.4791666666666667in"}
-![](./images/image105.jpg){width="9.944444444444445in" height="0.2013888888888889in"}
-![](./images/image106.jpg){width="9.944444444444445in" height="0.3472222222222222in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 105.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image105.jpg"
+  style="width:9.94in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image105.jpg){width="9.944444444444445in" height="0.2013888888888889in"}  -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image106.jpg"
+  style="width:9.94in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image106.jpg){width="9.944444444444445in" height="0.3472222222222222in"}  -->
 
 Returning Objects:
-
-![](./images/image107.jpg){width="15.430272309711286in" height="0.9377537182852144in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image107.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image107.jpg){width="15.430272309711286in" height="0.9377537182852144in"}  -->
 
 <h3 id="">4.3.2 Arrow Functions and the this Keyword</h3>
 
@@ -1953,13 +2072,27 @@ inside an arrow function is determined by the surrounding (enclosing)
 lexical context and not by how the function is called.
 
 Example:
-
-![](./images/image108.jpg){width="15.430272309711286in" height="5.084708005249344in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 108.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image108.jpg"
+  style="width:15.4in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image108.jpg){width="15.430272309711286in" height="5.084708005249344in"}  -->
 
 In this example, this inside the arrow function correctly refers to the
 Timer object because it inherits
-
-![](./images/image109.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 109.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image109.jpg"
+  style="width:5.2in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image109.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 
 this from the surrounding code.
 
@@ -1977,8 +2110,16 @@ parameters.
 
 &#45; Cannot Change &#39; this : The value of this &#39; is lexically bound,
 meaning it cannot be altered with methods like •call %
-or![](./images/image110.jpg){width="1.0835575240594926in"
-height="0.27090660542432193in"}
+or
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image110.jpg"
+  style="width:1.03in;"
+  title=""
+  alt="." />
+</p>
+<!-- ![](./images/image110.jpg){width="1.0835575240594926in" height="0.27090660542432193in"}  -->
 
 <h3 id="">4.3.4 Practical Uses ofArrow Functions</h3>
 
