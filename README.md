@@ -11,8 +11,11 @@ output:
     with some style
 ---
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 style="text-align:center">Basics of JavaScript: Unlock the Power of Web Programming</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 style="text-align:center">JS Basics Unlock JavaScript</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-basics-unlocked ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -34,9 +37,11 @@ output:
   alt="JS Basics Unlocked logo." />
 </p>
 <!-- ![](./images/image007.jpg){width="8.333333333333334in"  height="7.222222222222222in"} -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Basics of Javascript:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Unlock the power of Web Programming</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>by Brian Bauska</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08.  (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -47,10 +52,11 @@ output:
   alt="." />
 </p>
 <!-- ![](./images/image008.jpg){width="1.7711996937882766in" height="1.6566983814523184in"} PROGRAMMING HUB -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h5>US • UK • Europe • UAE , India</h5>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Basics of Javascript: Unlock the Power of Web Programming by B Bauska</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p id="table-of-contents"></p>
 <h2><a href="#table-of-contents">Table of Contents - JS - Unlock for Web Programming</a></h2>
 <h2>Syllabus</h2>
@@ -60,47 +66,56 @@ output:
   <h4><a href="#ch2">2: Working with Data in JavaScript</a></h4>
   <h4><a href="#ch3">3: Controllion the Plow
 </blockquote>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1">Chapter 1: Exploring the Basics of JavaScript 9 Introduction to JavaScript: Its Importance and Applications Writing Your First</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>JavaScript Program: The &quot;Hello World!&quot; How JavaScript Works in Web<h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Pages: Linking a JavaScript File</h4>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2">Chapter 2: Working with Data in JavaScript 13 Understanding JavaScript</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Values and Variables Exploring</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Data Types: From Numbers to Strings Declaring Variables: let, const, and var</h4>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Performing Operations: Basic Operators Understanding Operator Precedence
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3">Chapter 3: Controlling the Plow 25 Making Decisions: if/else Statements</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Repeating Actions: for and while Loops
 
 Iterating over Data: Looping Through Arrays
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4">Chapter 4: Functions and Scope 38 Defining and Invoking Functions</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Exploring Function Declarations vs. Expressions
 
 Arrow Functions: A Concise Syntax
 
 Scope: Understanding Local vs. Global
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch5">Chapter 5: More on Functions 50 Functions Calling Functions: A Deeper Dive</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Functions: Passing Values and Reference
 
 The Power of Return Values
 
 Understanding Callback Functions
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch6">Chapter 6: Arrays and Objects 64 Introduction to Arrays: Handling Collections of Data Basic and Advanced Array Operations</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Understanding Objects: Key-Value Pairs
 
 Accessing Object Properties: Dot vs. Bracket Notation
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch7">Chapter 7: Deeper into Objects 75 Introduction to Object-Oriented JavaScript</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Understanding this Keyword
 
@@ -108,15 +123,20 @@ Constructors and Object Instances
 
 Prototypes and Inheritance
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Chapter 8: Asynchronous JavaScript 90 Understanding Asynchronous
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 JavaScript: Callbacks, Promises, and Async/Await
 
 Making HTTP Requests: Fetch API and AJAX
 
 Handling JSON Data
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch9">Chapter 9: Modern JavaScript Developments</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>106 ES6 and Beyond: Arrow</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Functions, Classes, and Modules
 
 Spread and Rest Operators: simplifying Arrays and Objects
@@ -125,7 +145,9 @@ Template Literals: A New Way to Handle Strings
 
 Destructuring: Making Data Extraction Easier
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch10">Chapter 10: The Browser Environment</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Introduction to the DOM (Document Object Model)
 
 Selecting and Manipulating DOM Elements
@@ -134,7 +156,9 @@ Handling Events: Responding to User Input
 
 Creating and Navigating Between Pages Dynamically
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch10">Chapter 11: Debugging and Error Handling</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Introduction to Debugging in JavaScript
 
 Using Browser Developer Tools
@@ -142,7 +166,9 @@ Using Browser Developer Tools
 Understanding Runtime Errors and Handling Exceptions Best Practices for
 Debugging
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch10">Chapter 12: JavaScript in the Real World</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 146 Building a Simple Web Application: Integrating HTML, CSS, and JavaScript Utilizing Local
 Storage for Data Persistence
@@ -210,8 +236,9 @@ creativity, discovery, and the joy of coding in JavaScript, Welcome to
 
 Happy coding!
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Acknowledgements</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 We, at Programming Hub, are thrilled to present this book, &quot;Basics
 OfJavaScript: Unlock the Power Of Web Programming,&quot; to the aspiring
 architects ofthe digital world, This book stands as a testament to the
@@ -282,12 +309,13 @@ unlocking the vast potential this language holds.
 Happy ccd_ing and may you harness the full power Of JavaScript in your
 programming endeavors! ---Programming Hub
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Exploring the Basics of JavaScript</h2>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-1">1.1 Introduction to JavaScript: Its Importance and Applications</h2>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-1-1">1.1.1 What is JavaScript? An Overview</h3>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JavaScript is a dynamic programming language that is primarily used to
 create interactive elements on web pages. It was developed by Netscape
 in the early 1990s and has since grown to become one of the core
@@ -301,9 +329,9 @@ client&#39;s browser, providing an immediate response to user actions
 without needing to communicate with the server for every operation. This
 client-side execution capability makes JavaScript a key player in
 creating seamless and dynamic user experiences on the web.</p>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-1-2">1.1.2 The Role of JavaScript in Modern Web Development</h3>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In modern web development, JavaScript plays a critical role in both
 front-end and backend development, On the front end, it is used to
 create dynamic and interactive user interfaces. JavaScript allows
@@ -314,9 +342,9 @@ feel more like native applications.</p>
 run on servers as well. This means that developers can write server-side
 code in JavaScript, allowing for a more unified and emcient development
 process because the same language can be used across the entire stack.</p>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-1-3">1.1.3 Applications: From Web Pages to Server-Side Development</h3>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JavaScript&#39;s applications extend far beyond simple animations and
 validations on web pages. With the advent of sophisticated frameworks
 and tools, it now powers complex web applications, mobile apps, games,
@@ -328,9 +356,9 @@ real-time applications, such as chatting apps and live content updates.</p>
 has revolutionized how developers build scalable and high-performance
 web servers. This full-stack capability means that JavaScript is now
 used in practically every aspect of software development.</p>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-1-4">1.1.4 JavaScript Frameworks and Libraries: Enhancing Functionality</h3>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The JavaScript ecosystem is rich with frameworks and libraries designed to simplify and 
 enhance web development. Frameworks like Angular, React, and Vue.js provide robust solutions 
 for developing complex single-page applications (SPAS), while libraries like jQuery make
@@ -349,11 +377,11 @@ crafting modern web experiences. By understanding JavaScript&#39;s core
 principles and learning to leverage its frameworks and libraries,
 developers can build emcient, interactive, and dynamic web applications
 that stand out in the digital age.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-2">1.2 Writing Your First JavaScript Program: The &quot;Hello World!&quot;</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-2-1">1.2.1 Understanding the Structure of a JavaScript Program</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A JavaScript program is made up of statements that are executed by the browser in the order 
 in which they appear. At its core, a JavaScript program can be as simple as a single line of 
 code intended to perform a specific task. Each statement in JavaScript is usually followed by 
@@ -364,9 +392,9 @@ to Automatic Semicolon Insertion (ASI).</p>
 <p>JavaScript programs can include variables for storing data, loops for repeating actions, 
 functions to organize code into reusable blocks, and much more. The basic structure hinges on 
 these constructs to build more complex operations and workflows.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-2-2">1.2.2 Creating a Simple &quot;Hello World!&quot; Script</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The &quot;Hello World!&quot; program is a simple exercise that prints the string &quot;Hello, 
 World!&quot; on the screen. It is a traditional way to introduce a new programming language. 
 Here&#39;s how you can create a &quot;Hello World!&quot; script in JavaScript:</p>
@@ -386,9 +414,9 @@ Here&#39;s how you can create a &quot;Hello World!&quot; script in JavaScript:</
 <p>This single line of JavaScript code can be included in an HTML file
 within &#92;<script&#92;> tags, or in an external JavaScript file, to display
 the message in the web browser&#39;s console.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-2-3">1.2.3 Using the Browser Console to Execute JavaScript</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>One of the easiest ways to run JavaScript code is using the browser&#39;s console. The console 
 is part of the web browser&#39;s developer tools, and it provides a way to write, manage, and
 monitor JavaScript on demand.</p>
@@ -404,9 +432,9 @@ monitor JavaScript on demand.</p>
     (&quot;Hello, World!&quot;) displayed in the console.
 
 <p>Using the console is a great way to test and debug small snippets of JavaScript code.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-2-4">1.2.4 Best Practices for Writing and Organizing Your JavaScript Code</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As you learn to write more complex JavaScript programs, it&#39;s important
 to follow best practices to ensure your code is readable, maintainable,
 and effcient:</p>
@@ -433,11 +461,11 @@ and effcient:</p>
 JavaScript code as you begin your programming journey.</p>
 
 <p>Working with Data in JavaScript</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-1">2.1 I Understanding JavaScript Values and Variables</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-2-1">2.1.1 What Are Values and Variables in JavaScript?</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In JavaScript, the concept of values and variables is foundational. A
 value refers to the actual data represented in the program, such as a
 number (e.g., 5 or 2.14 ^Q^ ), a string (e.g., &#39; &quot;Hello, world!&quot; ),
@@ -459,9 +487,9 @@ it in a variable named.</p>
   alt="." />
 </p>
 <!-- ![](./images/image012.jpg){width="0.6980610236220472in" height="0.33342410323709537in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">2.1.2 The Distinction Between Values and Variables</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Understanding the distinction between values and variables is crucial
 for effective programming in JavaScript. A value is an immutable piece
 of data held in memory. When we use a value in a program, we are
@@ -473,9 +501,9 @@ distinction matters when we start performing operations on variables or
 when we assign a new value to a variable. The content of the memory
 location pointed to by the variable can change, but the value itself
 (for example, the number 42 or the string &quot;hello&quot; ) is immutable.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">2.1.3 Declaring Variables in JavaScript</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JavaScript provides three keywords for declaring variables: var let&#39;, and const.</p>
 
 -   var: Before ES6 (ECMAScript 2015), ^Q^ var&#42; was the only way to
@@ -505,9 +533,9 @@ name: let age = 30;</p>
 </p>
 
 <!-- ![](./images/image013.jpg){width="7.293088363954506e-2in" height="7.293635170603674e-2in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">2.1.4 Variable Naming Conventions and Best Practices</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>When naming variables in JavaScript, there are several conventions and
 best practices to follow:</p>
 
@@ -569,11 +597,11 @@ to read,</p>
 <p>Following these conventions and best practices not only makes your code
 more readable but also helps avoid some common pitfalls related to
 variable declaration and naming in JavaScript.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-2">2.2 Exploring Data Types: From Numbers to Strings</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-2-1">2.2.1 Primitive Data Types: Overview and Usage</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JavaScript supports several primitives, fundamental data types that
 constitute the basic building blocks of code. These include:</p>
 
@@ -592,9 +620,9 @@ constitute the basic building blocks of code. These include:</p>
 <p>Each ofthese primitive types serves specific purposes in JavaScript
 applications, from controlling flow with booleans to representing and
 manipulating data with numbers and strings.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-2-2">2.2.2 Understanding Numbers and Mathematical Operations</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In JavaScript, the Number&#42; type represents both integers and
 floating-point numbers. Arithmetic operations such as addition ( &#42; + &#39;
 subtraction ( - &#39; ), multiplication ( &#42; &#39; ), and division C / • ) are
@@ -623,9 +651,9 @@ Math.pow() (exponentiation), and Math.PI</p>
   alt="." />
 </p>
 <!-- ![](./images/image019.jpg){width="0.6980610236220472in" height="0.31258530183727035in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-2-3">2.2.3 Working with Strings: Creating and Manipulating Text</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Strings in JavaScript are sequences of characters used to represent
 text. They can be defined using single quotes ( double quotes C &#39; or
 backticks (X ^Q^ &#92;&#92; &#42; ) for template literals, which allow for
@@ -646,9 +674,9 @@ multi-line</p>
     replace() method
 
 <p>Example of string manipulation:</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-2-4">2.2.4 Boolean, Null, and Undefined: Special Data Types</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 -   Booleans represent logical values and can be either or . They are
     often used in control structures like if&#39; statements to determine
     the flow of a program.
@@ -664,7 +692,7 @@ multi-line</p>
 <p>Understanding these data types and their operations is crucial for
 effectively programming in JavaScript, as they form the foundation upon
 which more complex structures and logic are built.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-3">2.3 Declaring Variables: let const , and var</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -675,9 +703,9 @@ which more complex structures and logic are built.</p>
   alt="." />
 </p>
 <!-- ![](./images/image021.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-3-1">2.3.1 Differences Between let&#39; , const , and var</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li><b>var</b>: This keyword declares a variable, optionally initializing it to
     a value. -declared variables are function-scoped or globally scoped
@@ -708,9 +736,9 @@ which more complex structures and logic are built.</p>
     reference is immutable, the object it points to can still be mutated
     if it is an object.</li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-3-2">2.3.2 When to Use let € vs. const</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![](./images/image023.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}  -->
 
 <p>The choice between let and const should be guided by the intended use of the variable:</p>
@@ -725,6 +753,7 @@ which more complex structures and logic are built.</p>
 
 <p>By following this approach, code maintainability and readability are improved.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-3-3">2.3.3 The Scope of let • , &#39; const , and var</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -746,9 +775,9 @@ which more complex structures and logic are built.</p>
     declared (a block is defined by curly braces {l This is a crucial
     feature for managing variable lifecycle and avoiding unintentional
     interference between different parts of a program.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-3-4">2.3.4 Examples and Common Pitfalls</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>&#45; Hoisting: var declarations are hoisted to the top of their scope,
 which can lead to surprising behavior if not understood properly.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -787,11 +816,11 @@ accessed before their declaration due to the temporal dead zone.</p>
 &#45;
 
 <p>Re-declaration and Re-assignment: Understanding the differences between var let, and const, along with their scopes and proper use cases, is critical for writing robust and error-free JavaScript code.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-4">2.4 Performing Operations: Basic Operators</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-4-1">2.4.1 Arithmetic Operators and Their Use</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Arithmetic operators in JavaScript include the more familiar ones such as addition 
 ( + ), subtraction ( - ).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -819,9 +848,9 @@ are used to perform mathematical calculations. For example:</p>
   alt="." />
 </p>
 <!-- ![](./images/image030.jpg){width="15.430272309711286in" height="2.92787510936133in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-4-2">2.4.2 String Operators for Concatenation</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In JavaScript, the + • operator is also used for concatenating
 strings. When a operator is used with strings, it joins them together
 into one:</p>
@@ -863,9 +892,9 @@ the values of the expressions:</p>
   alt="." />
 </p>
 <!-- ![](./images/image033.jpg){width="15.430272309711286in" height="1.43788823272091in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-4-3">2.4.3 Comparison Operators and Evaluating Conditions</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Comparison operators are used to compare two values and return a Boolean
 value, either true or false . These include:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -966,9 +995,9 @@ value, either true or false . These include:</p>
   alt="." />
 </p>
 <!-- ![](./images/image042.jpg){width="15.430272309711286in" height="1.8963462379702538in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-4-4">2.4.4 Logical Operators: Combining Conditions</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Logical operators allow you to combine multiple conditions. They include:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1020,11 +1049,11 @@ operand is false, and vice versa,
 <p>Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
 calculations to be performed effciently.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-5">2.5 Understanding Operator Precedence</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-5-1">2.5.1 What Is Operator Precedence and Why It Matters</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Operator precedence refers to the rules that determine the order in
 which operations are processed in an expression. In JavaScript, as in
 mathematics, certain operations are performed before others unless
@@ -1035,9 +1064,9 @@ complex expressions are evaluated as intended without unexpected
 results. For example, arithmetic operations follow the conventional
 order observed in math (multiplication before addition), which impacts
 how an expression is evaluated.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-5-2">2.5.2 Operator Precedence and Associativity Rules</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Operators in JavaScript have a specific precedence level, which
 determines the order in which they are evaluated. Operators with higher
 precedence are evaluated before those with lower precedence.</p>
@@ -1079,16 +1108,16 @@ an expression like = y = is processed as = (y = .5P.</p>
   alt="." />
 </p>
 <!-- ![](./images/image046.jpg){width="0.7397364391951006in" height="0.2813254593175853in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-5-3">2.5.3 Overriding Default Precedence: The Use of Parentheses</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Parentheses () can override the standard order of operations, ensuring
 that expressions within parentheses are evaluated first, regardless of
 the natural precedence rules. This allows for explicit control over the
 evaluation order in complex expressions.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-5-4">2.5.4 Practical Examples of Operator Precedence in Action</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1.  Without Parentheses:
 
 <p>Multiplication ( the result. addition 4 is multiplied before adding 2.  With Parentheses:</p>
@@ -1138,18 +1167,18 @@ alter the result.</p>
 <p>Understanding and utilizing operator precedence allows for the crafting
 of precise and accurate expressions in JavaScript, crucial for
 developing logical and effcient code.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Controlling the flow
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-1">3.1 Making Decisions: if/else Statements</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The ability to conditionally execute code allows programs to make
 decisions based on various criteria, making if/else statements
 fundamental in programming. Here we&#39;ll explore how to use these control
 structures in JavaScript.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch3-1-1">3.1.1 Understanding if Statements</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>An i? statement is the simplest form of control flow, allowing you to
 execute a block of code only if a given condition is true. Its basic
 syntax is:</p>
@@ -1176,8 +1205,9 @@ syntax is:</p>
 
 <p>Here, the message is logged to the console only if the temperature is greater than 30.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 3.1.2 Utilizing else and else if Clauses
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>To provide an alternative path when the if&#42; condition is false, you can
 use an else clause. For multiple conditions, else if can be used,
 Syntax:</p>
@@ -1201,7 +1231,7 @@ Example:
   alt="." />
 </p>
 <!-- ![](./images/image054.jpg){width="15.430272309711286in" height="4.094856736657918in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.1.3 Nested if Statements</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1229,9 +1259,9 @@ Example:
 
 This structure tests another condition (whether the sky is clear) inside
 an outer condition (whether the temperature is greater than 20).
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.1.4 The Ternary Operator for Conditional Assignment</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 For simple conditions, the ternary operator provides a concise
 alternative to if/else statements. It takes three operands: a condition,
 an expression to execute if the condition is true, and an expression to
@@ -1277,16 +1307,16 @@ Here, message is assigned one of the two strings based on whether temperature is
 Understanding and properly using iff statements and ternary operators enable you to control the 
 flow of your JavaScript programs effectively, making your code more dynamic and responsive to 
 different conditions.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 3.2 Repeating Actions: for and while Loops
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Loops are a fundamental concept in programming, enabling you to execute
 a block of code repeatedly until a specified condition is met. This
 chapter delves into for and while loops in JavaScript, their variations,
 and controlling loop execution.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 3.2.1 Introduction to for Loops
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The ^Q^ for&#39; loop is one of the most commonly used loops. Its
 particularly useful when the number of iterations is known beforehand,
 Syntax:
@@ -1321,9 +1351,9 @@ Example:
 
 This loop prints a message five times, with ^s^ i representing the
 current iteration number from O to 4.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 3.2.2 Exploring while Loops
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The while loop creates a loop that executes as long as the specified
 condition evaluates to true. Unlike the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1354,9 +1384,9 @@ Example:
 
 This does the same as the previous for loop example but demonstrates a
 different syntax and approach.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.2.3 The do-while Loop Variation</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The ^Q^ do-while &#39; loop is similar to the while loop, with one key
 difference: the code block is executed at least once before the
 condition is tested. Syntax:
@@ -1392,7 +1422,9 @@ Even if the condition evaluates to false on the first try, the code
 block would still have executed once due to the nature of the do-while
 loop.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.2.4 Loop Control: break and continue</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The break and continue statements control the flow of loop execution.
 break exits the loop entirely, while continue skips the current
@@ -1455,16 +1487,16 @@ Example:
 Understanding and effectively utilizing loops and loop control
 statements enable emcient code execution and prevent unnecessary or
 redundant operations, making your programs more emcient and responsive.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 3.3 Iterating over Data: Looping Through Arrays
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Arrays are fundamental data structures in JavaScript, often used to
 store collections of data. Effciently iterating over arrays to access or
 modify each element is a common task in programming. This section
 explores different approaches to looping through arrays in JavaScript.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.3.1 Basic Array Iteration with for Loops</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The traditional foe loop is a straightforward way to iterate through an
 array by index.
 
@@ -1488,8 +1520,9 @@ to
 fruits.length
 &#45;
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.3.2 The forEach Method</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The forEach method provides a cleaner and more expressive way to iterate
 over arrays. It takes a callback function that is executed for each
 element in the array.
@@ -1519,8 +1552,9 @@ Example:
 This method is preferred for its readability and functional approach to
 iteration.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.3.3 Using for&#8230;ofLoops</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The for&#8230;off loop, introduced in ES6, simplifies iteration over
 iterable objects like arrays, maps, and sets. It directly accesses each
 element without needing an index.
@@ -1529,8 +1563,9 @@ Example:
 
 The loop offers a clean intuitive syntax, especially useful when only the values of elements are needed.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.3.4 Array Methods for Iteration: map, filter, and reduce</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 JavaScript arrays come with higher-order functions that abstract common
 iteration patterns. These methods operate on arrays and return new
 arrays or values based on the provided callback functions.
@@ -1578,7 +1613,9 @@ lead to cleaner, more expressive, and effcient code. Each method offers
 unique benefits for handling array data, helping to solve common
 programming challenges.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="">3.4 Advanced Flow Control: Switch Statements and Error Handling</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Beyond simple conditional and loop structures, JavaScript provides
 advanced flow control mechanisms like switch statements for multi2branch
@@ -1586,7 +1623,9 @@ decision-making and try/catch/finally blocks for error handling, This
 section explores these features and the concept of throwing custom
 errors to better manage program execution flow.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.4.1 Using Switch Statements for Multi-branch Decision Making</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The switch &#39; statement allows you to execute different parts of code
 based on the value of an expression.
@@ -1597,7 +1636,9 @@ Syntax:
 
 This code prints &quot;Bananas are yellow.&quot; because the value of fruit matches the case
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.4.2 Error Handling with try/catch/finally Blocks</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript uses &#42; try/catch/finally blocks to handle exceptions and
 perform cleanups. You can catch errors
@@ -1618,7 +1659,9 @@ Syntax:
 This example demonstrates error handling by catching an error when
 calling a function that doesn&#39;t exist.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">3.4.3 Throwing Custom Errors</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 You can throw custom errors using the throw ^4^ statement. Custom errors
 are useful when validating input data, enforcing certain conditions, or
@@ -1664,18 +1707,19 @@ program and ensure data integrity.
 Advanced flow control techniques like switch statements, error handling
 blocks, and custom errors enhance your ability to manage complex logic,
 make your programs more robust, and improve debugging and maintenance.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="">Functions and Scope</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.1 Defining and Invoking Functions</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Functions are one of the fundamental building blocks in JavaScript,
 allowing you to define blocks of code that can be executed multiple
 times. They enable code modularity, reusability, and separation of
 concerns.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 4.1.1 Function Basics
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A function is declared using the function keyword, followed by a name, a
 list of parameters enclosed in parentheses , and a block of code
 enclosed in curly braces O
@@ -1719,9 +1763,9 @@ To invoke or call the function, you use the function name followed by parenthese
   alt="." />
 </p>
 <!-- ![](./images/image088.jpg){width="15.430272309711286in" height="0.9377537182852144in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.1.2 Parameters and Arguments</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Functions can take parameters. Parameters act as variables that the
 function uses to perform its task. When a function is called, you can
 pass values to these parameters. These values are known as arguments.
@@ -1730,9 +1774,9 @@ Example:
 
 In this example, name is a parameter of the greet function, and
 &quot;Alice&quot; is the argument passed to the function.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.1.3 Function Return Values</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Functions can return values using the return statement. Once a return
 statement is executed, the function stops executing and returns the
 specified value.
@@ -1751,7 +1795,9 @@ Example:
 
 If a function doesn&#39;t specify a return value, it returns undefined by default.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.1.4 Immediate Invocation and Functions as First-Class Citizens</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Functions in JavaScript are first-class citizens, meaning they can be
 treated like any other value---they can be assigned to variables, passed
@@ -1794,7 +1840,9 @@ This section introduces the core concepts of defining and invoking
 functions, setting the foundation for more advanced topics in function
 usage and behavior in JavaScript.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="">4.2 Exploring Function Declarations vs. Expressions</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In JavaScript, functions can be created in several ways, each with its
 own nuances and implications for use. Understanding the differences
@@ -1802,7 +1850,9 @@ between function declarations and expressions, and how naming and
 hoisting affect their behavior, is essential for effective JavaScript
 development.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">Function Declarations</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 A function declaration defines a named function. One of the key features
 of function declarations is that they are hoisted, meaning the function
@@ -1833,7 +1883,9 @@ Example:
 Despite sum being called before it appears in the code, the program can
 execute it without error due to hoisting.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Function Expressions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 A function expression assigns an anonymous function or a named function
 to a variable. Function expressions are not hoisted, meaning they cannot
@@ -1855,7 +1907,9 @@ Example:
 Attempting to call greet before its definition will result in an error
 because function expressions do not enjoy hoisting.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Named vs. Anonymous Functions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Function expressions can be anonymous (as seen above) or named.
 
@@ -1890,7 +1944,9 @@ Anonymous functions are common, especially as arguments to other
 functions or in IIFEs. The absence of a name simplifies the syntax but
 can make debugging more challenging.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Hoisting in Functions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Hoisting is a JavaScript mechanism where variables and function
 declarations are moved to the top of their containing scope before code
@@ -1914,14 +1970,18 @@ Understanding the distinctions between declarations and expressions, and
 how hoisting affects each, is crucial for writing predictable and
 bug-free JavaScript code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="">4.3 Arrow Functions: A Concise Syntax</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Arrow functions, introduced in ECMAScript 6 (ES6), offer a more concise
 syntax for writing function expressions. They are particularly useful
 for short functions and situations where preserving the lexical scope of
 this is desired.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.3.1 Syntax and Basic Usage</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Arrow function syntax allows you to write functions with fewer lines of
 code. The function keyword is omitted, and the =&#92;> arrow is used
@@ -2020,7 +2080,9 @@ Returning Objects:
 </p>
 <!-- ![](./images/image107.jpg){width="15.430272309711286in" height="0.9377537182852144in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.3.2 Arrow Functions and the this Keyword</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 One of the most beneficial features of arrow functions is how they
 handle the keyword. Unlike traditional functions, the value of this &#39;
@@ -2052,7 +2114,9 @@ Timer object because it inherits
 
 this from the surrounding code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.3.3 Limitations and Features</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 While arrow functions have several advantages, they come with
 limitations:
@@ -2084,28 +2148,28 @@ Arrow functions shine in several scenarios:
 -   Callbacks and Higher-Order Functions: Theyre perfect for short
     callback functions passed to methods
 
-![](./images/image111.jpg){width="15.430272309711286in" height="2.7090660542432197in"}
+<!-- ![](./images/image111.jpg){width="15.430272309711286in" height="2.7090660542432197in"}  -->
 
-![](./images/image112.jpg){width="15.430272309711286in" height="2.542354549431321in"}
+<!-- ![](./images/image112.jpg){width="15.430272309711286in" height="2.542354549431321in"}  -->
 
 -   Asynchronous Operations: Arrow functions are widely used in promises
     and asynchronous functions.
 
-![](./images/image113.jpg){width="15.44069116360455in" height="2.4902569991251093in"}
+<!-- ![](./images/image113.jpg){width="15.44069116360455in" height="2.4902569991251093in"}  -->
 
 Understanding when and how to use arrow functions effectively can
 greatly simplify your JavaScript code and help maintain this context in
 asynchronous operations, leading to cleaner and more maintainable code.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.4 Scope: Understanding Local vs. Global</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Scope is a fundamental concept in JavaScript, determining the
 accessibility of variables and functions in various parts of your code.
 Understanding scope is essential for managing the lifecycle of variables
 and avoiding conflicts and bugs.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.4.1 What is Scope?</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Scope in JavaScript refers to the context in which a variable or
 function is accessible. JavaScript has three main types of scope:
 
@@ -2117,7 +2181,9 @@ function is accessible. JavaScript has three main types of scope:
     inside a block I) are only accessible within that block This concept
     applies when using ^4^ let and const keywords.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.4.2 Local (Function) Scope vs. Block Scope</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -Function Scope:Variables declared with &#39;var&#42; within a function cannot
 be accessed from outside the function.
@@ -2128,16 +2194,17 @@ be accessed from outside the function.
 and const are scoped to the nearest enclosing block, not just to
 function blocks.
 
-![](./images/image115.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
-
+<!-- ![](./images/image115.jpg){width="15.430272309711286in" height="3.0216502624671917in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.4.3 Global Scope</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Variables declared in the global scope are accessible from any part of
 the program. However, polluting the global scope can lead to name
 conflicts and hard-to-track bugs, so it&#39;s generally best to minimize
 the use of global variables.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.4.4 The let and const &quot; Keywords</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Introduced in ES6, let and const&#42; provide block-level scoping, offering
 more control than var , which is function-scoped or globally-scoped.
@@ -2151,13 +2218,15 @@ more control than var , which is function-scoped or globally-scoped.
 Both let and const are not hoisted like var making them safer to use as
 they prevent unintentional referencing before declaration.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">4.4.5 Variable Shadowing and Scope Chain</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Variable shadowing occurs when a variable of the same name is declared
 within a nested scope, effectively overshadowing the variable in the
 outer scope.
 
-![](./images/image116.jpg){width="15.430272309711286in" height="5.001351706036745in"}
+<!-- ![](./images/image116.jpg){width="15.430272309711286in" height="5.001351706036745in"}  -->
 
 The scope chain is the mechanism by which JavaScript searches for
 variables and functions: starting from the innermost scope and moving
@@ -2170,17 +2239,20 @@ foundational for writing clear, effective JavaScript code. This
 knowledge helps in avoiding common pitfalls related to variable access
 and lifecycle.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### More on Functions
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 5.1 Functions Calling Functions: A Deeper Dive
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Expanding upon the basic understanding of functions in JavaScript, this
 section delves into more complex interactions and concepts surrounding
 functions. By exploring composition, recursion, and the use of
 higher-order and pure functions, we unlock powerful programming
 paradigms and techniques.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.1.1 Composition and Function Chaining
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Function Composition is the process of combining two or more functions
 to produce a new function. Composing functions allows for creating more
@@ -2192,30 +2264,33 @@ libraries such as jQuery or Lodash.
 
 Example of Composition: Example of Function Chaining:
 
-![](./images/image117.jpg){width="15.430272309711286in" height="7.022731846019248in"}
+<!-- ![](./images/image117.jpg){width="15.430272309711286in" height="7.022731846019248in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.1.2 Recursive Functions</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Recursive functions are functions that call themselves, either directly
 or indirectly, allowing for an elegant solution to certain problems,
 especially those that can be divided into similar subproblems.
 
 Example:
 
-![](./images/image118.jpg){width="15.430272309711286in" height="4.438699693788276in"}
-
+<!-- ![](./images/image118.jpg){width="15.430272309711286in" height="4.438699693788276in"}  -->
+ 
 Recursive functions must have a base condition to stop the recursion,
 preventing infinite loops and stack overflow errors.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.1.3 Higher-Order Functions: Basic Concepts</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Higher-order functions are functions that can take other functions as
 arguments or return them as results. This concept is a cornerstone of
 functional programming, allowing for abstracting or modifying behavior.
 
 Example:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.1.4 Pure Functions and Side Effects</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Pure Functions are functions that for the same set of input values
 always produce the same output and do not cause any side effects
@@ -2223,13 +2298,13 @@ always produce the same output and do not cause any side effects
 
 No Side Effects Example:
 
-![](./images/image120.jpg){width="15.430272309711286in" height="1.8650863954505688in"}
+<!-- ![](./images/image120.jpg){width="15.430272309711286in" height="1.8650863954505688in"}  -->
 
 function sum(a, b) {
 
 With Side Effects Example:
 
-![](./images/image121.jpg){width="15.430272309711286in" height="3.042489063867017in"}
+<!-- ![](./images/image121.jpg){width="15.430272309711286in" height="3.042489063867017in"}  -->
 
 Pure functions improve readability, testability, and maintainability of
 code as they don&#39;t depend on, nor modify the state outside their scope.
@@ -2238,8 +2313,9 @@ Understanding these advanced concepts lets developers write more
 emcient, clear, and scalable JavaScript, leveraging the full potential
 of functions beyond basic usage.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.2 Functions: Passing Values and Reference</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In JavaScript, understanding how data is passed --- as value or
 reference --- is crucial for mastering function behavior, especially in
 the context of objects and arrays. This section explores the
@@ -2247,29 +2323,35 @@ distinctions between primitive and reference types, concepts of
 mutability and immutability, and strategies for cloning data to preserve
 original state, alongside common pitfalls and tips for avoiding them.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.2.1 Understanding Primitive vs. Reference Types
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Primitive Types are stored directly in the location that the variable
 accesses. These include types such as
 
-![](./images/image122.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+<!-- ![](./images/image122.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 number string & ,
 
-![](./images/image123.jpg){width="1.760780839895013in" height="0.3230041557305337in"}
+<!-- ![](./images/image123.jpg){width="1.760780839895013in" height="0.3230041557305337in"}  -->
+
 undefined null symbol , and
 
-![](./images/image124.jpg){width="1.2815146544181977in" height="0.333423009623797in"}
+<!-- ![](./images/image124.jpg){width="1.2815146544181977in" height="0.333423009623797in"}  -->
+
 They are passed to functions by value, meaning a copy of the value is made.
 
-![](./images/image125.jpg){width="15.430272309711286in" height="2.438159448818898in"}
+<!-- ![](./images/image125.jpg){width="15.430272309711286in" height="2.438159448818898in"}  -->
+
 Reference Types include objects, arrays, and functions. They are passed
 to functions by reference, meaning that a pointer to the original data
 is passed, and modifications within the function affect the original
 data,
 
-![](./images/image126.jpg){width="15.430272309711286in" height="2.448578302712161in"}
+<!-- ![](./images/image126.jpg){width="15.430272309711286in" height="2.448578302712161in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.2.2 Mutability and Immutability</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Mutability refers to the capability of a data structure to be
     modified after it&#39;s creation. In JavaScript, objects and arrays are
@@ -2283,7 +2365,9 @@ Understanding these concepts is essential when working with functions
 that may alter the inputs received, as it influences how you manage and
 predict state changes in your application.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.2.3 Cloning Objects and Arrays to Preserve State</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 To prevent unwanted side effects by modifying objects or arrays passed
 by reference, cloning or copying them before manipulation is crucial.
@@ -2312,7 +2396,9 @@ original.
     functions. It ensures that no references to the original object
     remain.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.2.4 Common Pitfalls with References and How to Avoid Them</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Common issues related to reference types include unintended mutations,
 performance degradation due to unnecessary deep copies, and exceeding
@@ -2336,7 +2422,9 @@ Understanding how to properly manage and manipulate data when it&#39;s
 passed to functions is crucial for ensuring the reliability and
 predictability of your JavaScript code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 5.3 The Power of Return Values
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Return values in functions are more than just the output of a
 computation. They serve as an essential tool for improving the
@@ -2345,46 +2433,43 @@ error handling, and enhancing readability through cleaner syntax. This
 section explores the strategic use of return values in JavaScript
 functions to accomplish these goals.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.3.1 Enhancing Modularity with Return Values
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The modularity of code refers to its organization into small, reusable
 components. Functions that return values can be seen as single-purpose
 units that output data based on the input they receive. This allows for
 building more complex functionality by composing these modular units.
 
-![](./images/image128.jpg){width="15.430272309711286in"
-height="4.709606299212599in"}
-
+<!-- ![](./images/image128.jpg){width="15.430272309711286in" height="4.709606299212599in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.3.2 Using Return Values to Create Composable Code</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Composable code refers to the ability to combine simple functions into
 more complex ones. Return values are crucial for composition because
 they enable the output of one function to flow seamlessly into the input
 of another.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.3.3 Error Handling via Return Values
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Functions can use return values to indicate success or failure, making
 error handling more predictable. This strategy often involves returning
 an object with a status code and an error message or the result of the
 operation.
 
-![](./images/image129.jpg){width="15.430272309711286in"
-height="4.032340332458443in"}
+<!-- ![](./images/image129.jpg){width="15.430272309711286in" height="4.032340332458443in"}  -->
 
 By checking the success property, other parts of the code can
 appropriately respond to the outcome of the function.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">5.3.4 Early Returns for Cleaner Code</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Using early returns is a strategy to improve code readability by exiting
 a function as soon as a certain condition is met, avoiding deep nesting
-of if-else statements and making the principal action of the func-
+of if-else statements and making the principal action of the function clear.
 
-tion clear.
-
-![](./images/image130.jpg){width="15.44069116360455in"
-height="6.6684689413823275in"}
+<!-- ![](./images/image130.jpg){width="15.44069116360455in" height="6.6684689413823275in"}  -->
 
 Early returns can help prevent unnecessary computation and make the
 logic of your functions easier to follow.
@@ -2394,24 +2479,26 @@ affect the structure and quality of your code. Leveraging them to their
 full potential enables writing more expressive, modular, and robust
 
 JavaScript applications.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 5.4 Understanding Callback Functions
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Callback functions are a foundational concept in JavaScript,
 facilitating asynchronous operations, customizing functionality, and
 handling operations that may not complete immediately. They are
 functions passed as arguments to other functions, allowing for a more
 dynamic execution flow based on events or conditions.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.4.1 Basic Usage and Examples
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A callback function is called at the completion of a given task This
 pattern allows a function to accept another function as an argument,
 which it will execute after completing its own execution.
 
 Example:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.4.2 Callbacks for Asynchronous Operations
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In JavaScript, callbacks are widely used to deal with asynchronous
 operations such as reading files, making
@@ -2425,7 +2512,9 @@ with
 
 setTimeout
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.4.3 Customizing Functionality with Callbacks
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Callbacks enhance flexibility by allowing functions to execute different
 pieces of code without changing the function&#39;s structure. This is
@@ -2434,8 +2523,9 @@ needs to be customized according to the context in which it is called.
 
 Example:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 5.4.4 Handling Errors in Callbacks
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Error handling is an essential aspect of working with callback
 functions, especially in asynchronous operations where errors might not
 be immediately obvious. A common pattern is to pass an error object as
@@ -2444,16 +2534,16 @@ null if the operation is successful.
 
 Example:
 
-![](./images/image132.jpg){width="15.430272309711286in"
-height="7.554126202974628in"}
+<!-- ![](./images/image132.jpg){width="15.430272309711286in" height="7.554126202974628in"}  -->
 
 By understanding and effectively using callback functions, JavaScript
 developers can write more readable and maintainable code, especially
 when dealing with asynchronous operations or when needing to customize
 function behavior dynamically.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-5">5.5 Advanced Function Patterns</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Delving into advanced function patterns reveals powerful techniques that
 can optimize, modularize, and secure JavaScript code. This section
 explores some of these sophisticated patterns, including Immediately
@@ -2461,7 +2551,9 @@ Invoked Function Expressions (IIFEs), throttling and debouncing,
 currying and partial application, and the use of functions to
 encapsulate private data.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-5-1">5.5.1 Immediately Invoked Function Expressions (IIFEs) Revisited</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 An IIFE is a JavaScript function that runs as soon as it is defined,
 This pattern is useful for creating private scopes and avoiding
@@ -2470,16 +2562,14 @@ structures.
 
 Example:
 
-![](./images/image133.jpg){width="15.430272309711286in"
-height="2.4798359580052494in"}
+<!-- ![](./images/image133.jpg){width="15.430272309711286in" height="2.4798359580052494in"}  -->
 
 IIFEs can also take arguments or return values through assignment.
 
-![](./images/image134.jpg){width="15.430272309711286in"
-height="2.875777559055118in"}
-
+<!-- ![](./images/image134.jpg){width="15.430272309711286in" height="2.875777559055118in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-5-2">5.5.2 Throttling and Debouncing Functions</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Throttling ensures that a function is called at most once in a specified
 time period. This is particularly useful for handling events that
 trigger frequently, such as window resizing or scrolling.
@@ -2491,11 +2581,10 @@ don&#39;t need to be handled immediately and can wait for the input to
 
 Example of Throttling:
 
-![](./images/image135.jpg){width="15.430272309711286in"
-height="10.648711723534559in"}
-
+<!-- ![](./images/image135.jpg){width="15.430272309711286in" height="10.648711723534559in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-5-3">5.5.3 Currying and Partial Application</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Curryingtransforms a function that takes multiple arguments into a
 series of functions that each take a single argument.
 
@@ -2503,10 +2592,10 @@ Partial Application refers to the process of fixing a number of
 arguments to a function, producing another function of smaller arity.
 Example of Currying:
 
-![](./images/image136.jpg){width="15.44069116360455in"
-height="4.5428947944007in"}
-
+<!-- ![](./images/image136.jpg){width="15.44069116360455in" height="4.5428947944007in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-5-4">5.5.4 Using Functions to Encapsulate Private Data</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In JavaScript, closures can be used to create private data. The pattern
 involves defining a function that returns another function or object
@@ -2517,25 +2606,25 @@ variables.
 
 Example:
 
-![](./images/image137.jpg){width="15.430272309711286in"
-height="6.095396981627297in"}
+<!-- ![](./images/image137.jpg){width="15.430272309711286in" height="6.095396981627297in"}  -->
 
 By employing advanced function patterns like these, developers can write
 cleaner, more emcient, and secure JavaScript code, harnessing
 functions&#39; full power to achieve sophisticated functionalities.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### Arrays and Objects
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.1 Introduction to Arrays: Handling Collections of Data</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Arrays in JavaScript are used to store multiple values in a single
 variable. They are objects that represent a collection of similar type
 of elements. Arrays provide various methods to perform traversal and
 mutation operations. Lets dive into creating, initializing, and
 manipulating arrays.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.1.1 Creating and Initializing Arrays</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Arrays can be created and initialized using square brackets &#92;[l or the
 Array constructor. Using square brackets:
 
@@ -2567,22 +2656,22 @@ Array constructor. Using square brackets:
 
 Using the &#39;i Array constructor:
 
-![](./images/image141.jpg){width="1.3440277777777778in"
-height="0.3855205599300087in"}
+<!-- ![](./images/image141.jpg){width="1.3440277777777778in" height="0.3855205599300087in"}  -->
 
-const numbers = new Array(l, 2, 3, 4,
-5);![](./images/image142.jpg){width="7.61615813648294in"
-height="0.25006780402449696in"}
+<pre>const numbers = new Array(l, 2, 3, 4, 5);</pre>
+
+<!-- ![](./images/image142.jpg){width="7.61615813648294in" height="0.25006780402449696in"}  -->
 
 Empty arrays can also be created and later populated with data.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.1.2 Basic Array Methods ( push , &#42;pop • shift&#42; , •unshift € )</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 &#45; push: Adds one or more elements to the end of an array and returns
 the new length of the array.
 
-![](./images/image143.jpg){width="1.3023534558180228in"
-height="0.4688768591426072in"}
+<!-- ![](./images/image143.jpg){width="1.3023534558180228in" height="0.4688768591426072in"}  -->
 
 ```
 fruits . push ( &quot;Orange &quot; ) ;
@@ -2591,39 +2680,42 @@ fruits . push ( &quot;Orange &quot; ) ;
 -   pop: Removes the last element from an array and returns that
     element. This method changes the length of the array.
 
+<pre>
 fruits . pop(); // Removes
-&quot;Cranee&#39;![](./images/image144.jpg){width="10.252119422572179in"
-height="1.2607578740157481in"}
+&quot;Cranee&#39;
+</pre>
+
+<!-- ![](./images/image144.jpg){width="10.252119422572179in" height="1.2607578740157481in"}  -->
 
 -   shift: Removes the first element from an array and returns that
     removed element. This method changes the length of the array.
 
-![](./images/image145.jpg){width="15.430272309711286in"
-height="1.0419477252843394in"}
+<!-- ![](./images/image145.jpg){width="15.430272309711286in" height="1.0419477252843394in"}  -->
 
 -   unshift: Adds one or more elements to the beginning of an array and
     returns the new length of the array.
 
-![](./images/image146.jpg){width="3.875800524934383in"
-height="0.36468175853018375in"}
+<!-- ![](./images/image146.jpg){width="3.875800524934383in" height="0.36468175853018375in"}  -->
 
 fruits . unshift ( &quot;Strawberry&quot; ) ;
 
-![](./images/image147.jpg){width="2.0212510936132984in"
-height="0.3021653543307087in"}
+<!-- ![](./images/image147.jpg){width="2.0212510936132984in" eight="0.3021653543307087in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.1.3 Iterating Over Arrays</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Iterating over arrays can be done using various methods, including loops
 and array iteration methods like
-![](./images/image148.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}forEach .
 
-![](./images/image149.jpg){width="15.430272309711286in"
-height="2.438159448818898in"}
+<!-- ![](./images/image148.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
 
+forEach .
+
+<!-- ![](./images/image149.jpg){width="15.430272309711286in" height="2.438159448818898in"}  -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.1.4 Multi-Dimensional Arrays</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Multi-dimensional arrays are arrays that contain arrays as their
 elements. They are useful for representing matrices or any grid-like
 structures.
@@ -2638,16 +2730,18 @@ data. By using array methods and understanding how to iterate over
 arrays and work with multidimensional arrays, developers can manage
 collections effciently.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.2 Basic and Advanced Array Operations</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Arrays are versatile structures that allow not just storage but also
 complex manipulations of data. Through a variety of built-in methods,
 JavaScript enables developers to perform both basic and advanced
 operations on arrays, from sorting and filtering to reducing their
 content to a single value.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.2.1 Sorting and Reversing Arrays</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![](./images/image151.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
 
 &ast;&ast;Sorting Arrays:&ast;&ast; The sort()
@@ -2664,7 +2758,9 @@ becomes the first.
 
 <!-- ![](./images/image153.jpg){width="15.430272309711286in" height="2.292286745406824in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.2.2 Filtering and Mapping Arrays</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Filtering Arrays: The filter()&#39; method creates a new array with all
     elements that pass the test implemented by the provided function,
@@ -2677,14 +2773,18 @@ becomes the first.
 
 <!-- ![](./images/image155.jpg){width="15.430272309711286in" height="2.125574146981627in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.2.3 Reducing Arrays to a Single Value</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The reduce() method executes a reducer function (that you provide) on
 each element of the array, resulting in a single output value.
 
 <!-- ![](./images/image156.jpg){width="15.430272309711286in" height="2.896616360454943in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">6.2.4 Combining and Slicing Arrays</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Combining Arrays: The concat() method is used to merge two or more
     arrays. This method does not change the existing arrays but instead
@@ -2703,14 +2803,18 @@ These operations illustrate the power and flexibility of arrays in
 JavaScript, providing developers with a rich set of tools for data
 manipulation and analysis.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 6.3 Understanding Objects: Key-Value Pairs
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In JavaScript, objects are collections of key-value pairs. They serve as
 a foundation for building complex data structures and offer a way to
 organize and process data effciently. Let&#39;s explore how to create,
 manipulate, and access information within objects.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 6.3.1 Creating Objects and Object Literals
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Objects can be created in JavaScript using the object literal syntax or
 the Object constructor.
@@ -2725,7 +2829,9 @@ Using the Object&#39; Constructor:
 
 Object literals are a concise and preferred way to create objects.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 6.3.2 Nested Objects
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Objects can contain other objects, enabling the creation of complex data
 structures.
@@ -2737,7 +2843,9 @@ notations.
 
 <!-- ![](./images/image162.jpg){width="15.430272309711286in" height="1.4691469816272966in"} -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 6.3.3 Iterating through Objects with for&#8230;in• and Object.keys()
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <!-- ![](./images/image163.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}  -->
 
@@ -2751,7 +2859,9 @@ for&#8230;in
 These approaches provide a way to dynamically access and manipulate
 object properties.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 6.3.4 Destructuring Objects
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Destructuring provides a way to unpack properties from objects into
 distinct variables.
@@ -2770,14 +2880,17 @@ they form the backbone of data representation. From simple key-value
 pairs to complex nested objects, mastering objects allows developers to
 organize and process data effciently.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### 6.4 Accessing Object Properties: Dot vs. Bracket Notation
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Two primary ways to access properties of JavaScript objects are dot
 notation and bracket notation. Understanding when and how to use each
 can help you emciently work with objects and their properties.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 6.4.1 When to Use Dot Notation
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Dot notation is the most common and straightforward way to access a
 property of an object. It&#39;s preferable for its readability and
 simplicity.
@@ -2790,7 +2903,9 @@ Dot notation should be used when:
 identifier. - You are accessing static properties that don&#39;t require
 dynamic evaluation.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 6.4.2 When to Use Bracket Notation
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Bracket notation offers more flexibility than dot notation but can be
 slightly more verbose. It allows the use of characters that aren&#39;t
@@ -2809,7 +2924,9 @@ Use bracket notation when:
 
 -   The property name is stored in a variable or needs to be computed.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 6.4.3 Dynamic Property Names
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Bracket notation shines when working with properties that are
 dynamically determined (for instance, based on user input or runtime
@@ -2821,7 +2938,9 @@ This capability is particularly useful in scenarios requiring
 flexibility, such as iterating over keys in an object or accessing
 properties based on variable inputs.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 6.4.4 Property Existence and Enumeration
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 To check if an object has a specific property, you can use the in
 operator or Object.hasOwnProperty()
@@ -2841,7 +2960,6 @@ methods which return the properties&#39; names, values, or both,
 respectively.
 
 <!-- ![](./images/image173.jpg){width="15.430272309711286in" height="2.021379046369204in"}  -->
-
 
 Selecting the appropriate notation and understanding property existence
 and enumeration allows for more effective object manipulation and
@@ -2882,7 +3000,9 @@ The four foundational pillars of Object-oriented Programming include:
     multiple forms. It is the ability to call the same method on
     different objects and have each of them respond in their own way.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.1.2 Objects and Classes in JavaScript</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In JavaScript, traditionally, the object&#39;s prototype has been the
 primary method for adding methods and
@@ -2895,7 +3015,9 @@ Example:
 
 <!-- ![](./images/image174.jpg){width="15.44069116360455in" height="6.981053149606299in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.1.3 Encapsulation and Information Hiding
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript classes support encapsulation by integrating data
 (properties) and functions (methods) that
@@ -2906,9 +3028,9 @@ support the hiding of data. This has usually been accomplished using
 closures or the newer private fields syntax.
 
 Example using private fields:
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 7.1.4 Methods and &quot;this&quot; Context in Classes
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Methods are actions that can be performed on objects, and JavaScript
 methods are stored in properties as function definitions.
 
@@ -2924,14 +3046,17 @@ Understanding these concepts is crucial for effectively utilizing
 Object-Oriented Programming techniques in JavaScript, ultimately leading
 to more structured and manageable code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 7.2 Understanding the &quot;this&quot; Keyword
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The keyword in JavaScript is a powerful feature that, when understood,
 greatly enhances the flexibility and capabilities of your code. It
 refers to the object it belongs to, making it context-dependent. Its
 value can change depending on how a function is called.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.2.1 &quot;this&quot; in Global and Function Scopes
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In the global execution context (outside of any function), this refers
 to the global object whether in strict mode or not. In web browsers, the
@@ -2940,7 +3065,9 @@ window
 
 <!-- ![](./images/image176.jpg){width="0.19795713035870516in" height="0.26048665791776027in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### console. log (this 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <!-- ![](./images/image177.jpg){width="0.5521970691163605in" height="1.041994750656168e-2in"}  -->
 
@@ -2952,9 +3079,9 @@ associated with any object, &#39; this refers to the global object in
 non-strict mode and is handefined in strict mode.
 
 <!-- ![](./images/image178.jpg){width="15.430272309711286in" height="2.563192257217848in"}  -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.2.2 &quot;this&quot; in Methods and Constructors</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 When a method is called as a property of an object, &#39; this points to
 the object the method is called on.
 
@@ -2963,10 +3090,11 @@ keyword), refers to the
 
 newly created object instance.
 
-![](./images/image179.jpg){width="15.44069116360455in"
-height="5.074288057742782in"}
+<!-- ![](./images/image179.jpg){width="15.44069116360455in" height="5.074288057742782in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.2.3 &quot;this&quot; with Call, Apply, and Bind</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   call , &#39; apply&#39; , and &#39;bind are methods that allow you to set the
     value of &#39; this manually when invoking a function.
@@ -2979,14 +3107,15 @@ height="5.074288057742782in"}
 -   bind() returns a new function, allowing you to set the this value
     permanently.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.2.4 Arrow Functions and Lexical &quot;this&quot;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Arrow functions do not have their own this context; instead, they
 capture the this value ofthe enclosing scope at the time they are
 created. This is known as lexical scoping.
 
-![](./images/image180.jpg){width="15.430272309711286in"
-height="5.063869203849519in"}
+<!-- ![](./images/image180.jpg){width="15.430272309711286in" height="5.063869203849519in"}  -->
 
 Because of the lexical scoping of this in arrow functions, they are
 particularly useful for callbacks, where you want this to refer to the
@@ -2996,33 +3125,26 @@ Understanding the behavior of this allows for more flexible,
 object-oriented programming in JavaScript, letting developers explicitly
 define and control the context of their code executions.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 7.3 Constructors and Object Instances
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript provides multiple paradigms to create objects and facilitate
 inheritance, each with its nuances and use cases. Understanding these
 differences is crucial for crafting robust and maintainable code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.3.1 Creating Objects with Constructor Functions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Constructor functions are a conventional means to create new objects in
 JavaScript. These functions use the &ast; this keyword to assign properties
 to the object that will be created when the function is invoked with the
 new keyword.
 
-7.3.2
-
-The
-
-&quot;new&quot;
-
-Keyword
-
-and
-
-Its
-
-Effects
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+7.3.2 The &quot;new&quot; Keyword and Its Effects
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Using the new keyword with a constructor function does several things:
 
 1.  It creates a new, empty object.
@@ -3039,34 +3161,36 @@ Using the new keyword with a constructor function does several things:
 5.  It returns the newly created object (unless the constructor
     explicitly returns a different, non-primitive object).
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.3.3 Factory Functions vs. Constructors
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Unlike constructor functions, factory functions typically do not use the
 new keyword or this . Instead, they create and return a new object
 explicitly. Factory functions can offer a more flexible way to create
 objects, as they can return any object and use any prototype for that
 object.
 
-![](./images/image182.jpg){width="9.272749343832022in"
-height="6.626791338582677in"}![](./images/image183.jpg){width="1.0210444006999124in"
-height="2.083880139982502e-2in"}![](./images/image184.jpg){width="0.7501552930883639in"
-height="2.083880139982502e-2in"}function createPerson(name, age) {
+<!-- ![](./images/image182.jpg){width="9.272749343832022in" height="6.626791338582677in"}  -->
+<!-- ![](./images/image183.jpg){width="1.0210444006999124in" height="2.083880139982502e-2in"}  -->
+<!-- ![](./images/image184.jpg){width="0.7501552930883639in" height="2.083880139982502e-2in"}  -->
+
+<pre>
+function createPerson(name, age) {
 return { name: name, age: age, introduce() { console.
 log[Cm]{.underline}y name is &#36;{this.name} and I am
->
 const bob = createPerson( • Bob&#39; , 25);
->
 bob. introduce() ;
-
+</pre>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.3.4 Constructor Inheritance with &quot;call&quot; and &quot;apply&quot;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Inheritance can be implemented in constructors through the use of the
 call or apply methods, allowing one constructor function to call another
 constructor function within it, setting up the context ( &#39; this ) to
 the newly created object.
 
-![](./images/image185.jpg){width="15.430272309711286in"
-height="4.688767497812774in"}
+<!-- ![](./images/image185.jpg){width="15.430272309711286in" height="4.688767497812774in"}  -->
 
 Using or apply ^f^ within constructors provides a powerful method for
 one type to inherit the characteristics of another, making it possible
@@ -3077,32 +3201,41 @@ Understanding these mechanisms for creating and inheriting between
 objects is foundational for working effectively with JavaScript&#39;s
 dynamic and flexible object system.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 7.4 Prototypes and Inheritance
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 JavaScript employs a prototype-based model for inheritance, a distinct
 approach compared to the classbased inheritance seen in many other
 languages. This model allows objects to inherit properties and methods
 from other objects.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.4.1 Understanding Prototypes in JavaScript
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In JavaScript, every function and object has a property named prototype
 , except for the ^q^ null object, which is the end ofthe prototype
 chain. When a function is used as a constructor with the new keyword,
 the newly created object inherits properties and methods from the
 constructor function&#39;s prototype
-![](./images/image186.jpg){width="6.251202974628171e-2in"
-height="6.251749781277341e-2in"}
+
+<!-- ![](./images/image186.jpg){width="6.251202974628171e-2in" height="6.251749781277341e-2in"}  -->
 
 The prototype property is a mechanism whereby JavaScript objects inherit
 features from one another. For instance, JavaScript arrays inherit from
 Array.prototype , enabling all arrays to utilize methods like
-![](./images/image187.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}map&#39; , filter and
-•reduce![](./images/image188.jpg){width="0.18753827646544183in"
-height="0.26048665791776027in"}
 
+<!-- ![](./images/image187.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
+
+<pre>
+map&#39; , filter and
+•reduce
+</pre>
+
+<!-- ![](./images/image188.jpg){width="0.18753827646544183in" height="0.26048665791776027in"}  -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.4.2 Prototype Chain and Inheritance
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The prototype chain is a series of links between objects where each
 object references its prototype parent. When accessing a property or
@@ -3113,13 +3246,18 @@ the foundation of inheritance in JavaScript.
 
 For example, suppose we have an object O &#39; that inherits from Prototype
 B , which in turn inherits from
-![](./images/image187.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}Prototype A . If a property is not found
-on ^Q^ , the search moves to , and if not found on &#39;B , it continues to
-A ![](./images/image189.jpg){width="4.167541557305337e-2in"
-height="6.251749781277341e-2in"}
 
+<!-- ![](./images/image187.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
+
+Prototype A . If a property is not found
+on ^Q^ , the search moves to , and if not found on &#39;B , it continues to
+A 
+
+<!-- ![](./images/image189.jpg){width="4.167541557305337e-2in" height="6.251749781277341e-2in"}  -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.4.3 Shadowing Prototype Properties
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Shadowing occurs when a property added to an object has the same name as
 one in the object&#39;s prototype chain. The property on the object
@@ -3131,9 +3269,9 @@ This can be useful, but it&#39;s also something to be aware of, as it can
 lead to unexpected behavior if you accidentally shadow prototypes
 properties.
 
-![](./images/image190.jpg){width="0.48968503937007873in"
-height="8.335629921259842e-2in"}javascript function Person() {l
+<!-- ![](./images/image190.jpg){width="0.48968503937007873in" height="8.335629921259842e-2in"}  -->
 
+javascript function Person() {l
 Person.prototype.name = &quot;Anonymous&quot;;
 
 const person = new Person(); console.log(person.name); // Anonymous
@@ -3141,8 +3279,9 @@ const person = new Person(); console.log(person.name); // Anonymous
 person.name = &quot;John&quot;; console.log(person.name); // John - The property
 on the instance shadows the prototype&#39;s property.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.4.4 Prototypal Inheritance Patterns
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 There are several patterns for implementing inheritance in JavaScript
 using prototypes:
 
@@ -3157,8 +3296,7 @@ using prototypes:
 
 Using Object.create() , you can easily set up inheritance:
 
-![](./images/image191.jpg){width="15.430272309711286in"
-height="5.50148731408574in"}
+<!-- ![](./images/image191.jpg){width="15.430272309711286in" height="5.50148731408574in"}  -->
 
 Each pattern has its own merits and use cases. The choice between them
 can depend on factors like the complexity of inheritance required,
@@ -3169,14 +3307,18 @@ less verbosity compared to classical models. By fully understanding and
 leveraging prototypes, developers can implement powerful and effcient
 inheritance structures.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 7.5 Advanced Object Patterns and Techniques
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 As developers delve deeper into JavaScript, they often encounter complex
 scenarios that require advanced object manipulation and design patterns.
 These patterns and techniques enable more maintainable, flexible, and
 scalable code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.5.1 Composition over Inheritance</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The principle of &quot;composition over inheritance&quot; suggests that objects
 get their behavior and state from containing other objects rather than
@@ -3189,46 +3331,49 @@ can become cumbersome and fragile. Instead of asking, &quot;What object is
 this?&quot; we ask, &quot;What can this object do?&#39;i, focusing on capabilities
 rather than lineage.
 
-![](./images/image192.jpg){width="14.836398731408574in"
-height="11.846953193350831in"}
+<!-- ![](./images/image192.jpg){width="14.836398731408574in" height="11.846953193350831in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.5.2 Mixins and Object Composition</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Mixins are a form of object composition where component features are
 mixed into a composite object. This allows objects to be built from
 multiple sources, adding flexibility in how objects are defined and
 used.
 
-![](./images/image193.jpg){width="15.430272309711286in"
-height="6.272528433945757in"}
-
+<!-- ![](./images/image193.jpg){width="15.430272309711286in" height="6.272528433945757in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.5.3 Encapsulating Private Properties and Methods</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript does not have built-in support for private properties and
 methods, but they can be simulated.
 
 One common technique is to use closures:
 
-![](./images/image194.jpg){width="15.44069116360455in"
-height="9.867250656167979in"}
+<!-- ![](./images/image194.jpg){width="15.44069116360455in" height="9.867250656167979in"}  -->
 
 With ES6, JavaScript introduced a more formal way to define private
 fields using a hash &#35; prefix:
 
-![](./images/image195.jpg){width="15.430272309711286in"
-height="6.0641393263342085in"}
+<!-- ![](./images/image195.jpg){width="15.430272309711286in" height="6.0641393263342085in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">7.5.4 Object Immutability and Read-Only Properties</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Making objects immutable (unable to change after creation) is a powerful
 technique, especially in functional programming and for creating
 predictable state management. To make properties read-only, you can use
 Object.defineProperty() or
-Object-defineProperties()![](./images/image196.jpg){width="0.20837598425196852in"
-height="0.27090660542432193in"}
+Object-defineProperties()
 
-![](./images/image197.jpg){width="0.48968503937007873in"
-height="8.335520559930008e-2in"}javascript const obj = O;
+<!-- ![](./images/image196.jpg){width="0.20837598425196852in" height="0.27090660542432193in"}  -->
+
+<!-- ![](./images/image197.jpg){width="0.48968503937007873in" height="8.335520559930008e-2in"}  -->
+
+javascript const obj = O;
 
 Object.defineProperty(obj, &#39;readonly, {
 
@@ -3239,8 +3384,8 @@ console.log(obj.readOnly); // This is read-only&#39;
 
 / / obj.readonly = ^I^New Value&#39;; Trying to write to this property will
 fail in strict mode.
-![](./images/image198.jpg){width="8.335083114610674e-2in"
-height="6.251749781277341e-2in"}
+
+<!-- ![](./images/image198.jpg){width="8.335083114610674e-2in" height="6.251749781277341e-2in"}  -->
 
 For deep immutability, you can recursively freeze objects using
 Object.freeze()&#39; , although it should be noted that this is a shallow
@@ -3252,18 +3397,19 @@ developers to leverage the full potential of JavaScript&#39;s
 object-oriented capabilities while managing complexity in large
 codebases.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### Asynchronous JavaScript
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 8.1 Understanding Asynchronous JavaScript
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Asynchronous JavaScript enables the execution of long-running operations
 without blocking the main thread, allowing for a responsive user
 interface. Understanding the core concepts and tools available in
 JavaScript for handling asynchronous operations is crucial for modern
 web development.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.1.1 The Event Loop and Non-Blocking I/O
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 JavaScript is single-threaded, meaning it can only execute one piece of
 code at a time. The event loop is a mechanism that allows JavaScript to
 perform non-blocking I/O operations - like reading files or making HTTP
@@ -3276,7 +3422,9 @@ events and processes their callback functions as they arrive. This model
 allows JavaScript to perform other tasks while waiting for asynchronous
 operations to complete.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.1.2 Working with Callbacks
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Callbacks are functions passed as arguments to another function, which
 executes the callback when an asynchronous operation completes. While
@@ -3284,10 +3432,11 @@ callbacks help manage asynchronous operations, they can lead to
 &quot;callback hell&quot; or &quot;pyramid of doom,&quot; where callbacks are nested
 within callbacks, making the code diffcult to read and maintain.
 
-![](./images/image199.jpg){width="15.430272309711286in"
-height="4.959674103237095in"}
+<!-- ![](./images/image199.jpg){width="15.430272309711286in" height="4.959674103237095in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.1.3 Promises: Creation and Chaining
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 A Promise is an object representing the eventual completion (or failure)
 of an asynchronous operation. Promises provide a cleaner and more
@@ -3298,13 +3447,15 @@ allowing you to write code that&#39;s both more readable and easier to
 maintain. Additionally, .catch() provides a centralized way of handling
 errors.
 
-![](./images/image200.jpg){width="15.430272309711286in"
-height="4.917996500437446in"}
+<!-- ![](./images/image200.jpg){width="15.430272309711286in" height="4.917996500437446in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.1.4 Async/Await for Asynchronous Flow Control</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image201.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}async / await simplifies the syntax
+<!-- ![](./images/image201.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
+
+async / await simplifies the syntax
 necessary to consume Promises, making asynchronous code look more like
 synchronous code, which can be easier to understand and debug.
 
@@ -3317,7 +3468,9 @@ Promise
 
 resolves.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.1.5 Error Handling in Asynchronous JavaScript</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Proper error handling is crucial in asynchronous JavaScript to ensure
 reliability and maintainability. With callbacks, errors need to be
@@ -3325,14 +3478,15 @@ handled manually within each callback. Promises and async / ^Q^ await&ast;
 offer more streamlined error handling via .catch() and try / catch
 blocks, respectively.
 
-![](./images/image203.jpg){width="15.430272309711286in"
-height="6.084978127734034in"}
+<!-- ![](./images/image203.jpg){width="15.430272309711286in" height="6.084978127734034in"}  -->
 
 Understanding these concepts and effectively utilizing the tools
 JavaScript provides for handling asynchronous operations are fundamental
 skills for developing modern web applications.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 8.2 Making HTTP Requests
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Making HTTP requests is a foundational aspect of web development,
 enabling clientside code to communicate with servers, APIs, and other
@@ -3340,7 +3494,9 @@ web services. Understanding how to effectively make and manage these
 requests is essential for creating dynamic, data-driven web
 applications.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.2.1 Introduction to the Fetch API
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The Fetch API provides a modern, promise%ased mechanism to make
 asynchronous HTTP requests. Compared to older techniques, Fetch offers a
@@ -3348,10 +3504,11 @@ more powerful and flexible feature set to handle requests and responses.
 It is built into the global window scope, making it readily available in
 modern browsers.
 
-![](./images/image204.jpg){width="15.430272309711286in"
-height="2.5006758530183726in"}
+<!-- ![](./images/image204.jpg){width="15.430272309711286in" height="2.5006758530183726in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.2.2 AJAX with XMLHttpRequest</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Before Fetch, XMLHttpRequest (XHR) was the primary way for web
 applications to interact with servers asynchronously. While it is less
@@ -3359,7 +3516,9 @@ user-friendly than Fetch, understanding XHR is important for maintaining
 older codebases or for specific use cases where Fetch might not be
 available.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.2.3 Handling Network Errors and Fetch API Limitations</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 While Fetch simplifies making HTTP requests, it&#39;s crucial to handle
 potential errors and be aware of its
@@ -3368,30 +3527,26 @@ limitations. A common misunderstanding is that Fetch rejects its promise
 only on network errors, not for HTTP error statuses (e.g., 404 or 500).
 
 To
-
 properly
-
 handle
-
 errors,
-
 including
-
 HTTP
-
 status
-
 errors:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch8-2-4">8.2.4 Beyond Get Requests: POST, PUT, DELETE</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Fetch can handle all types of HTTP requests, including POST, PUT, and
 DELETE. This is done by setting options on the fetch call, specifying
 the method , along with any needed headers and the &ast;body&#39; of the
 request for non-GET requests.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch8-2-5">8.2.5 Working with Headers and CORS</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Headers in HTTP requests allow clients to pass additional information
 with requests or responses. For instance, headers can be used to specify
 content types, authentication tokens, or CORS (Cross-origin Resource
@@ -3407,15 +3562,16 @@ requests from your domain,
 Managing headers and understanding CORS are vital for developing web
 apps that interact securely and emciently with external services.
 
-![](./images/image206.jpg){width="15.430272309711286in"
-height="5.084708005249344in"}
+<!-- ![](./images/image206.jpg){width="15.430272309711286in" height="5.084708005249344in"}  -->
 
 Mastering these aspects of making HTTP requests opens up a vast array of
 possibilities for web developers, from interacting with third-party APIs
 to building complex web applications that rely on server-side data and
 operations.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 8.3 Handling JSON Data
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript Object Notation (JSON) is a lightweight data-interchange
 format that is easy for humans to read and write, and easy for machines
@@ -3424,7 +3580,9 @@ to parse and generate. It is based on a subset of the JavaScript Pro-
 gramming Language and is commonly used for transmitting data in web
 applications between clients and servers.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.3.1 JSON Format and Data Types
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JSON is built on two structures: - A collection of name/value pairs
 (often implemented as an object, record, struct, dictionary, hash table,
@@ -3449,29 +3607,33 @@ Data is structured in key/value pairs where every key is a string, and
 the value can be any of the JSON-supported data types. Strings in JSON
 must be written in double quotes.
 
-![](./images/image207.jpg){width="15.430272309711286in"
-height="5.668198818897638in"}
+<!-- ![](./images/image207.jpg){width="15.430272309711286in" height="5.668198818897638in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.3.2 Parsing JSON with JSON.parse
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image208.jpg){width="5.209426946631671e-2in"
-height="7.293744531933509e-2in"}JSON.parse transforms a string of JSON
+<!-- ![](./images/image208.jpg){width="5.209426946631671e-2in" height="7.293744531933509e-2in"}  -->
+
+JSON.parse transforms a string of JSON
 format into a JavaScript object. This is especially useful when you
 receive JSON data as text from a server and need to convert it to a
 JavaScript object for manipulation.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.3.3 Stringifying Objects with JSON.stringify
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image209.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}JSON.stringify ^4^ takes a JavaScript
+<!-- ![](./images/image209.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
+
+JSON.stringify ^4^ takes a JavaScript
 object and converts it into a string in JSON format. This is
 particularly
 
 useful when you need to send data from the client to a server in JSON
 format.
 
-![](./images/image210.jpg){width="15.44069116360455in"
-height="2.469417104111986in"}
+<!-- ![](./images/image210.jpg){width="15.44069116360455in" height="2.469417104111986in"}  -->
 
 <h3 id="">8.3.4 Best Practices for Working with JSON Data</h3>
 
@@ -3483,9 +3645,6 @@ height="2.469417104111986in"}
     with values of undefined Be cautious ofthis when stringifying
     objects.
 
-```{=html}
-<!-- -->
-```
 4.  Date Handling: JSON does not have a &quot;date&quot; type. Dates are
     typically represented as strings, and the conversion to and from a
     JavaScript Date object must be handled manually.
@@ -3502,47 +3661,50 @@ Handling JSON data effciently and according to best practices allows
 developers to seamlessly exchange data between clients and servers,
 making it a crucial skill in modern web development.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 8.4 Advanced Asynchronous Patterns
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Mastering advanced asynchronous patterns in JavaScript is crucial for
 developing complex and effcient web applications. These patterns enable
 handling multiple operations concurrently, iterating over asynchronous
 operations, and optimizing performance for high-frequency events.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.4.1 Promises and Promise-all for Concurrent Tasks</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Promises are at the heart of modern asynchronous JavaScript, allowing
 for cleaner and more manageable code. When dealing with multiple
 asynchronous operations that need to run concurrently, Promise.all
-![](./images/image211.jpg){width="7.29319772528434e-2in"
-height="7.293635170603674e-2in"}comes into play. It takes an iterable of
+
+<!-- ![](./images/image211.jpg){width="7.29319772528434e-2in" height="7.293635170603674e-2in"}  -->
+
+comes into play. It takes an iterable of
 promises and returns a single Promise that resolves when all of the
 promises in the iterable have resolved or when the iterable contains no
 promises.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.4.2 Async Iterators and Generators</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Async iterators and generators provide a way to handle asynchronous data
 streams seamlessly. An async
 
-![](./images/image213.jpg){width="3.5423982939632546in"
-height="2.1255752405949258in"}generator is a function that can pause its
+<!-- ![](./images/image213.jpg){width="3.5423982939632546in" height="2.1255752405949258in"}  -->
+
+generator is a function that can pause its
 execution while waiting for asynchronous actions to complete,
 
 yielding
-
 results
-
 as
-
 they
-
 become
-
 available.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch8-4-3">8.4.3 Debouncing and Throttling Asynchronous Operations</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Debouncing and throttling are techniques to control the number of times
 a function can execute, particularly useful in optimizing performance
 for events that occur at a high frequency, such as window resizing,
@@ -3556,14 +3718,13 @@ scrolling, or keypress events.
     time interval, regardless of how many times it is called.
 
 These patterns prevent unnecessary calls to expensive operations and can
-significantly improve perfor-
+significantly improve performance in web applications.
 
-mance in web applications.
+<!-- ![](./images/image214.jpg){width="15.430272309711286in" height="8.220972222222223in"}  -->
 
-![](./images/image214.jpg){width="15.430272309711286in"
-height="8.220972222222223in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.4.4 Using Web Workers for Non-blocking Background Tasks</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Web Workers provide a simple means for web content to run scripts in
 background threads. Using Web
@@ -3572,15 +3733,18 @@ Workers, you can perform intensive computations or data processing
 without blocking the user interface, improving the performance and
 responsiveness of web applications.
 
-  ![](./images/image215.jpg){width="15.305244969378828in"
-  height="9.117048337707786in"}e. data);
+<!-- ![](./images/image215.jpg){width="15.305244969378828in" height="9.117048337707786in"}  -->
+
+e. data);
 
 Understanding and applying these advanced asynchronous patterns can
 significantly enhance the performance, usability, and maintainability of
 web applications, enabling developers to build sophisticated features
 and manage complex data operations effciently.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 8.5 Managing State in Asynchronous JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In the dynamic environment of web applications, managing state across
 asynchronous operations is a common challenge. State refers to the
@@ -3589,7 +3753,9 @@ Proper state management ensures that an application behaves correctly
 and predictably, despite the complexities introduced by asynchronous
 code execution.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.5.1 Stateful Asynchronous Operations</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Stateful asynchronous operations involve tasks where the outcome and
 subsequent actions depend on previous results or states. Managing these
@@ -3602,10 +3768,11 @@ appropriately.
 For example, executing two asynchronous tasks in sequence while
 maintaining state might look like this:
 
-![](./images/image216.jpg){width="15.430272309711286in"
-height="6.543435039370078in"}
+<!-- ![](./images/image216.jpg){width="15.430272309711286in" height="6.543435039370078in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.5.2 Using Libraries and Frameworks for State Management</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 For more complex applications, various frameworks and libraries provide
 more robust solutions for state
@@ -3624,7 +3791,9 @@ These tools offer different paradigms for state management but share a
 common goal: to simplify tracking application state across asynchronous
 operations and user interactions.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.5.3 Implementing a Simple State Machine</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 A state machine is an abstract concept where an &quot;entity&quot; can be in one
 state at any given time from a finite set of states. Its particularly
@@ -3632,10 +3801,11 @@ useful in managing asynchronous operations and user interfaces.
 
 Here&#39;s basic JavaScript implementation of state machine:
 
-![](./images/image217.jpg){width="14.919748468941382in"
-height="11.628143044619422in"}
+<!-- ![](./images/image217.jpg){width="14.919748468941382in" height="11.628143044619422in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">8.5.4 Strategies for Testing Asynchronous Code</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Testing asynchronous code requires special considerations to ensure
 tests are reliable and run deterministically:
@@ -3649,26 +3819,27 @@ tests are reliable and run deterministically:
 -Async/Await: Modern testing frameworks support async/await in tests,
 providing a clean and intuitive way to test asynchronous operations.
 
-![](./images/image218.jpg){width="14.36755249343832in"
-height="3.480107174103237in"}
+<!-- ![](./images/image218.jpg){width="14.36755249343832in" height="3.480107174103237in"}  -->
 
 Proper management of state in asynchronous JavaScript is key to building
 responsive, reliable web applications. By understanding and leveraging
 these techniques and tools, developers can navigate the complexities of
 asynchronous state management with greater ease and confidence.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### Modern JavaScript Developments
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.1 ES6 and Beyond: Exploring New Syntax and Features</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The evolution of JavaScript through ES6 (ECMAScript 2015) and subsequent
 versions introduced significant enhancements that modernized the
 language, making it more powerful, efficient, and easier to work with.
 These updates include new syntax, language constructs, and data
 structures. Let&#39;s delve into some of these key enhancements.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.1.1 Overview ofES6 Enhancements</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ES6 brought a comprehensive suite of new features aimed at solving
 common pain points in JavaScript development and supporting new patterns
 of programming:
@@ -3694,33 +3865,35 @@ of programming:
 -   Modules: Introduced native module support for JavaScript, enabling
     better code organization and reusability.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.1.2 Arrow Functions and Their Scoping</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Arrow functions not only offer a more concise syntax but also have
 lexical scoping of this &ast; . Unlike functions declared with function ,
 this within an arrow function always refers to the context in which the
 function was created:
 
-![](./images/image219.jpg){width="15.430272309711286in"
-height="5.188903105861767in"}
+<!-- ![](./images/image219.jpg){width="15.430272309711286in" height="5.188903105861767in"}  -->
 
 This feature greatly simplifies working with asynchronous code and
 callbacks, where the context might traditionally have been lost.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.1.3 Introduction to JavaScript Classes</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ES6 introduced classes as syntactic sugar over the existing
 prototype-based inheritance, providing a cleaner and more intuitive way
 to create objects and handle inheritance:
 
-![](./images/image220.jpg){width="15.430272309711286in"
-height="6.585113735783027in"}
+<!-- ![](./images/image220.jpg){width="15.430272309711286in" height="6.585113735783027in"}  -->
 
 Classes support inheritance, static methods, and getters/setters, among
 other features.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.1.4 Understanding ES6 Modules</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Modules in ES6 formalize the concept of splitting a program into
 separate files, bringing native support for modular programming in
 JavaScript:
@@ -3731,10 +3904,11 @@ JavaScript:
 -   Import: Modules declare which parts they need from other modules
     (import). Example:
 
-![](./images/image221.jpg){width="15.430272309711286in"
-height="4.021920384951881in"}
+<!-- ![](./images/image221.jpg){width="15.430272309711286in" height="4.021920384951881in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.1.5 Additional ES6 Features and Syntax</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Alongside the major features previously discussed, ES6 introduced a
 variety of smaller enhancements aimed at making JavaScript development
@@ -3760,7 +3934,9 @@ smoother:
     influenced JavaScript development practices, making the language
     more expressive and powerful.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.2 Spread and Rest Operators: Simplifying Arrays and Objects</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Introduced in ES6, the spread and rest operators have become
 indispensable tools in the JavaScript developerls toolkit. Both use the
@@ -3768,7 +3944,9 @@ same syntax ( ), but their applications differ significantly,
 simplifying operations on arrays and objects, as well as function
 argument handling.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.2.1 Basics of Spread Operator in Arrays and Objects</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The spread operator allows an iterable such as an array or an object to
 be expanded in places where zero or more arguments (for function calls)
@@ -3778,62 +3956,62 @@ object literals):
 -   Arrays: Spread in arrays can be used to concatenate arrays or Insert
     array elements into a new array.
 
-![](./images/image223.jpg){width="15.430272309711286in"
-height="1.6775360892388451in"}
+<!-- ![](./images/image223.jpg){width="15.430272309711286in" height="1.6775360892388451in"}  -->
 
 -   Objects: Spread in objects can be used to clone or merge objects.
 
-![](./images/image224.jpg){width="15.430272309711286in"
-height="1.6671172353455819in"}
+<!-- ![](./images/image224.jpg){width="15.430272309711286in" height="1.6671172353455819in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.2.2 The Power of the Rest Operator in Functions</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The rest operator is used in function definitions to bundle an
 indefinite number of function arguments into a single array parameter:
 
-![](./images/image225.jpg){width="15.430272309711286in"
-height="3.0841666666666665in"}
+<!-- ![](./images/image225.jpg){width="15.430272309711286in" height="3.0841666666666665in"}  -->
 
 This significantly improves the handling of function parameters,
 allowing for functions that can take an unlimited number of arguments.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.2.3 Practical Applications of Spread and Rest Operators</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Both operators simplify and enhance various common JavaScript tasks:
 
 -   Function Calls with Spread: Easily pass arrays as arguments to a
     function.
 
-![](./images/image226.jpg){width="15.430272309711286in"
-height="1.5212445319335084in"}
+<!-- ![](./images/image226.jpg){width="15.430272309711286in" height="1.5212445319335084in"}  -->
 
 -   Copying Arrays and Objects: Create shallow copies of arrays and
     objects, protecting against mutations.
 
-![](./images/image227.jpg){width="15.430272309711286in"
-height="1.6671172353455819in"}
+<!-- ![](./images/image227.jpg){width="15.430272309711286in" height="1.6671172353455819in"}  -->
 
 -   Merging Collections: Combine multiple arrays or objects compactly.
 
+<pre>
 const defaultSettings { sound: true, notifications: true J; const
 usersettings --- { sound: false } ; const settings . defaultSettings,
 . userSettings } ; // { sound: false, notifications : true
-
+</pre>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.2.4 Deep Dive into Complex Uses</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Beyond the basics, the spread and rest operators afford greater
 creativity and effciency in code patterns: - Conditional Object
 Properties: Dynamically include properties in an object.
 
-![](./images/image228.jpg){width="15.430272309711286in"
-height="3.2612981189851267in"}
+<!-- ![](./images/image228.jpg){width="15.430272309711286in" height="3.2612981189851267in"}  -->
 
 -   Function Parameter Destructuring with Rest: Combine destructuring
     with the rest operator for more granular control over function
     inputs.
 
-![](./images/image229.jpg){width="15.430272309711286in"
-height="3.782272528433946in"}
+<!-- ![](./images/image229.jpg){width="15.430272309711286in" height="3.782272528433946in"}  -->
 
 -   Using Spread for Argument Unpacking in Nested Function Calls:
     Simplify calling functions that require parameters from an array of
@@ -3844,70 +4022,71 @@ broadened the horizons for array and object manipulation, as well as
 function parameter handling, making JavaScript code more expressive and
 flexible.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.3 Template Literals: Enhancing String Manipulation</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 With the advent of ES6, JavaScript introduced template literals, a new
 way to handle strings that brings clarity and functionality to string
 manipulation, including embedded expressions, multi-line strings, and
 tagged templates.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.3.1 Introduction to Template Literals</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Template literals are enclosed by back-ticks ( ) instead of the
 traditional single or double quotes. They can contain placeholders,
 indicated by the dollar sign and curly braces ( &#36;{expression) where any
 
 valid
-
 JavaScript
-
 expression
-
 can
-
 be
-
 embedded:
 
 They also support multi-line strings without the need for concatenation
 or explicit newline characters:
 
-![](./images/image231.jpg){width="15.430272309711286in"
-height="1.9171850393700787in"}
+<!-- ![](./images/image231.jpg){width="15.430272309711286in" height="1.9171850393700787in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.3.2 Tagged Template Literals: Advanced Examples</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Tagged template literals allow for more sophisticated manipulation of
 template literals through a function. The tag, a function placed before
 the template literal, receives the string segments and expressions as
 its arguments:
 
-![](./images/image232.jpg){width="15.44069116360455in"
-height="5.074288057742782in"}
+<!-- ![](./images/image232.jpg){width="15.44069116360455in" height="5.074288057742782in"}  -->
 
 This technique is particularly useful for sanitizing input,
 localization, styled components in libraries like styled-components for
 React, and more.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 9.3.3 Template Literals for HTML Rendering</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Template literals have significantly simplified generating and rendering
 HTML dynamically, making the code cleaner and easier to read:
 
-![](./images/image233.jpg){width="15.430272309711286in"
-height="1.948442694663167in"}
+<!-- ![](./images/image233.jpg){width="15.430272309711286in" height="1.948442694663167in"}  -->
 
 This approach is very powerful for creating templates in JavaScript
 frameworks and libraries, as well as in vanilla JS developments.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 9.3.4 Template Literals in Dynamic Expressions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 One of the strengths of template literals is their ability to compute
 expressions on the fly, integrating directly with JavaScript&#39;s
 expressiveness:
 
-![](./images/image234.jpg){width="15.430272309711286in"
-height="2.5527734033245846in"}
+<!-- ![](./images/image234.jpg){width="15.430272309711286in" height="2.5527734033245846in"}  -->
 
 Dynamic expressions within template literals can include operations,
 function calls, and even other template literals, offering a robust tool
@@ -3919,7 +4098,9 @@ evaluation more intuitive and maintainable. Their introduction has led
 to more readable and concise code, especially in scenarios involving
 dynamic content generation and string processing.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.4 Destructuring: Streamlining Data Access</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Destructuring in JavaScript is a convenient syntax introduced with ES6
 for extracting multiple properties from arrays or objects into distinct
@@ -3927,31 +4108,35 @@ variables. This feature not only makes code more readable and expressive
 but also significantly simplifies the manipulation of complex data
 structures.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.4.1 Destructuring Arrays for Effcient Data Handling</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Array destructuring allows you to unpack values from array elements into
 separate variables based on their position in the array:
 
-![](./images/image235.jpg){width="15.430272309711286in"
-height="3.0841666666666665in"}
+<!-- ![](./images/image235.jpg){width="15.430272309711286in" height="3.0841666666666665in"}  -->
 
 This technique is very useful for swapping values without a temporary
 variable, working with function returns that provide arrays, and
 extracting subsets of an arrays contents directly into variables.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 9.4.2 Destructuring Objects for Easier Data Access
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Object destructuring enables extracting properties into variables. The
 variables can be directly mapped to properties of an object, even
 allowing for renaming and setting default values:
 
-![](./images/image236.jpg){width="15.430272309711286in"
-height="5.459808617672791in"}
+<!-- ![](./images/image236.jpg){width="15.430272309711286in" height="5.459808617672791in"}  -->
 
 This form of destructuring is particularly handy for dealing with
 function options objects, configurations, and parsing JSON data.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 9.4.3 Nested Destructuring: A Dive into Complex Structures
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript also supports nested destructuring, which is destructuring
 objects or arrays within objects or arrays. This makes unpacking values
@@ -3960,14 +4145,15 @@ from complex structures more straightforward:
 Nested destructuring is a powerful feature for working with deeply
 structured data, such as API responses.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.4.4 Destructuring and Function Parameters: Simplifying Code</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Destructuring can be used in function parameters to directly extract
 necessary properties. This simplifies working with options objects and
 reduces the need for manual property access within functions:
 
-![](./images/image237.jpg){width="15.430272309711286in"
-height="3.615559930008749in"}
+<!-- ![](./images/image237.jpg){width="15.430272309711286in" height="3.615559930008749in"}  -->
 
 This approach is particularly elegant for functions that accept complex
 or configurable arguments, making the function signature clearer and the
@@ -3978,28 +4164,29 @@ developers handle data, providing a more intuitive and concise approach
 to accessing and manipulating arrays and objects. This ES6 feature
 enhances code readability and effciency, particularly when dealing with
 complex data structures or configurations.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.5 Leveraging New Data Structures in ES6 and Beyond</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ES6 introduced several important new data structures to JavaScript,
 enhancing the language&#39;s capability to handle complex collections and
 offering more control over memory and type constraints. These additions
 include Maps, Sets, WeakMaps, WeakSets, and Typed Arrays, each
 fulfilling specific needs in data management and manipulation.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.5.1 Exploring Maps: A Key-Value Data Structure</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Maps are a key-value pair data structure that can use any type of key,
 unlike objects which only support strings and symbols as keys. This
 feature makes Maps more versatile for certain types of data handling:
 
-![](./images/image238.jpg){width="15.430272309711286in"
-height="6.137075678040245in"}
+<!-- ![](./images/image238.jpg){width="15.430272309711286in" height="6.137075678040245in"}  -->
 
 Maps preserve insertion order, making them suitable for ordered
 collections that require key-based access.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.5.2 Sets in JavaScript: Unique Collections of Values</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Sets are collections of unique values of any type. They are particularly
 useful when you need to ensure that each item appears only once:
@@ -4007,9 +4194,9 @@ useful when you need to ensure that each item appears only once:
 Sets support operations like union, intersection, and difference through
 various methods, although some of these operations require additional
 JavaScript logic to implement.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">9.5.3 WeakMap and WeakSet: Handling References Lightly</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 WeakMap and WeakSet are variants of the Map and Set collections designed
 for scenarios where only weak references to the keys are maintained.
 This allows items in these collections to be garbage-collected if there
@@ -4025,32 +4212,27 @@ These structures are useful in situations where memory management is a
 concern, such as when dealing
 
 with
-
 DOM
-
 nodes
-
 in
-
 web
-
 applications.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 9.5.4 Utilizing Typed Arrays for Binary Data
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Typed Arrays provide an interface for accessing raw binary data more
 effciently. They are particularly useful when dealing with files,
 streams, or complex data structures that involve numerical data:
 
-![](./images/image240.jpg){width="15.430272309711286in"
-height="4.126115485564305in"}
+<!-- ![](./images/image240.jpg){width="15.430272309711286in" height="4.126115485564305in"}  -->
 
 Typed Arrays support various data types, such as &#39;Int8 &#39;Uint8 Int16 %
-&#39;Uint16&#39;![](./images/image241.jpg){width="1.0522998687664042in"
-height="0.3230041557305337in"}
+&#39;Uint16&#39;
 
-![](./images/image242.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}
+<!-- ![](./images/image241.jpg){width="1.0522998687664042in" height="0.3230041557305337in"}  -->
+
+<!-- ![](./images/image242.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
 
 Uint32• Float32 , and Float64&ast; J providing flexibility in handling
 different types of numerical data effciently.
@@ -4060,7 +4242,9 @@ expand JavaScript&#39;s capabilities for handling diverse data types and
 collections, offering more tools and options for developers to write
 effcient and clean code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 9.6 Improving Asynchronous Programming in JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Asynchronous programming in JavaScript has evolved significantly,
 particularly with the introduction of ES6 and later iterations of the
@@ -4070,7 +4254,9 @@ calls, file operations, or any tasks that require waiting for execution
 to complete. Let&#39;s explore some of the key features that have
 contributed to these improvements.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 9.6.1 Promises and Async/Await: Making Asynchronous Code Cleaner
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Before the introduction of Promises and async/await, asynchronous code
 in JavaScript relied heavily on callbacks, leading to a phenomenon known
@@ -4078,17 +4264,17 @@ as &quot;callback hell,&quot; where code became nested and diffcult to follow.
 ES6 introduced Promises as a solution to this issue, providing a more
 manageable structure for handling asynchronous operations:
 
-![](./images/image243.jpg){width="15.430272309711286in"
-height="5.50148731408574in"}
+<!-- ![](./images/image243.jpg){width="15.430272309711286in" height="5.50148731408574in"}  -->
 
 Building on Promises, async/await introduced in ES8 (ECMAScript 2017),
 allows for writing asynchronous code that looks and behaves like
 synchronous code, making it even cleaner and easier to understand:
 
-![](./images/image244.jpg){width="15.430272309711286in"
-height="5.709876421697288in"}
+<!-- ![](./images/image244.jpg){width="15.430272309711286in" height="5.709876421697288in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 9.6.2 Iterator and Generators: Creating Custom Iterables
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Iterators and generators provide a way for JavaScript objects to define
 or customize their iteration behavior. This is particularly useful in
@@ -4096,15 +4282,20 @@ asynchronous programming for managing custom data flows. Generators are
 functions that can be paused and resumed, yielding multiple values over
 time:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 9.6.3 Handling Asynchronous Operations with Generators
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image245.jpg){width="15.430272309711286in"
-height="4.5428947944007in"}Generators can be combined with Promises to
+<!-- ![](./images/image245.jpg){width="15.430272309711286in" height="4.5428947944007in"}  -->
+
+Generators can be combined with Promises to
 handle asynchronous operations in a way that looks synchronous. This
 pattern was a stepping stone toward the async/await syntax, allowing
 asynchronous execution flow to be paused and resumed:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 9.6.4 The Evolution of Async/Await in JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Async/await can be viewed as syntactic sugar over Promises, designed to
 simplify asynchronous programming even further. It marks the latest
@@ -4112,11 +4303,15 @@ evolution in handling asynchronous operations in JavaScript, providing a
 straightforward way to write asynchronous code that is both easy to read
 and write
 
-![](./images/image246.jpg){width="15.430272309711286in"
-height="4.469958442694663in"}Async/await handles Promises behind the
+<!-- ![](./images/image246.jpg){width="15.430272309711286in" height="4.469958442694663in"}  -->
+
+Async/await handles Promises behind the
 scenes, eliminating the need for manual and
-![](./images/image247.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}.catch() methods, and reduces
+
+<!-- ![](./images/image247.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
+
+.catch() methods, and reduces
+
 boilerplate code, especially when dealing with complex asynchronous
 workflows or when needing to perform multiple asynchronous operations in
 sequence.
@@ -4134,12 +4329,13 @@ readability. These features provide developers with the tools needed to
 effciently handle increasingly complex asynchronous operations in modern
 web development.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 #### The Browser Environment
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 10.1 Introduction to the DOM (Document Object Model)
->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 10.1.1 What is the DOM?
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The Document Object Model (DOM) is a programming interface provided by
 the browser that allows scripts to dynamically access and update the
 content, structure, and style of a webpage. Essentially, the DOM
@@ -4147,7 +4343,9 @@ represents the document as a hierarchical tree of objects that can be
 manipulated programmatically. Every element of the page is part of this
 object tree and can be accessed using the DOM API.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 10.1.2 DOM Tree and Nodes
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The DOM organizes a webpage&#39; structure as a tree of nodes, where each
 node represents a part of the document. This tree includes everything
@@ -4165,33 +4363,42 @@ from the root document node to individual text nodes:
 -   Attribute Nodes: No longer considered part ofthe DOM tree in modern
     DOM specifications. Attributes are now properties of element nodes.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 10.1.3 Accessing the DOM in JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Accessing the DOM is typically done using JavaScript, which provides
 various methods to select nodes from the DOM tree:
 
-![](./images/image248.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}document.getElementById(id) : Selects a
+<!-- ![](./images/image248.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+document.getElementById(id) : Selects a
 single element node by its id attribute.
 
-![](./images/image249.jpg){width="0.3334022309711286in"
-height="0.18755139982502186in"}document.getElementsByTagName(tagName) :
+<!-- ![](./images/image249.jpg){width="0.3334022309711286in" height="0.18755139982502186in"}  -->
+
+document.getElementsByTagName(tagName) :
 Returns a live collection of elements with the specified tag name.
 
-![](./images/image250.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}document.getElementsByClassName(className)
+<!-- ![](./images/image250.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+document.getElementsByClassName(className)
 : Returns a live collection of elements that have the specified class
 name.
 
-![](./images/image251.jpg){width="9.376968503937008e-2in"
-height="3.1258748906386705e-2in"} document.querySelector(selector) :
+<!-- ![](./images/image251.jpg){width="9.376968503937008e-2in" height="3.1258748906386705e-2in"}  -->
+
+document.querySelector(selector) :
 Returns the first element that matches a specified CSS selector.
 
-![](./images/image252.jpg){width="0.3229833770778653in"
-height="0.19797025371828522in"}document.querySelectorAll(selector) :
+<!-- ![](./images/image252.jpg){width="0.3229833770778653in" height="0.19797025371828522in"}  -->
+
+document.querySelectorAll(selector) :
 Returns a NodeList of all elements matching the specified CSS selector.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 10.1.4 Methods and Properties for DOM Manipulation
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Once a node is selected, the DOM API provides numerous methods and
 properties to manipulate these elements:
@@ -4205,8 +4412,10 @@ properties to manipulate these elements:
     element.
 
 -   Creating and Removing Elements: Methods such as
-    ![](./images/image15.jpg){width="5.209426946631671e-2in"
-    height="7.293744531933509e-2in"}document.createElement(tagName) and
+
+<!-- ![](./images/image15.jpg){width="5.209426946631671e-2in" height="7.293744531933509e-2in"}  -->
+
+document.createElement(tagName) and
     element.removeChild(child) allow for dynamic addition or removal of
     nodes in the DOM tree.
 
@@ -4222,10 +4431,11 @@ Understanding the DOM is crucial for web development because it is the
 bridge between your HTML documents and JavaScript code, allowing
 dynamic, interactive, and responsive web experiences.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-2">10.2 Selecting and Manipulating DOM Elements</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-2-1">10.2.1 Using getElementById, getElementsByClassName, and getElementsByTagName</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The DOM provides several methods to select elements from the page,
 enabling developers to easily access and manipulate those elements using
 JavaScript.
@@ -4233,28 +4443,25 @@ JavaScript.
 -getElementById:This method retrieves an element by its ID. It is one of
 the fastest and most common ways to select an element.
 
-![](./images/image253.jpg){width="15.430272309711286in"
-height="1.1982403762029745in"}
+<!-- ![](./images/image253.jpg){width="15.430272309711286in" height="1.1982403762029745in"}  -->
 
 &#45; getElementsByClassName: This method returns a live HTMLCollection of
 all elements that have the specified class name(s).
 
-![](./images/image254.jpg){width="6.240873797025372in"
-height="0.5001356080489939in"}
+<!-- ![](./images/image254.jpg){width="6.240873797025372in" height="0.5001356080489939in"}  -->
 
-####### const items = document . getE1ementsByC1assName( &#39; list-item&#39; ) ;
+<pre>const items = document . getE1ementsByC1assName( &#39; list-item&#39; ) ;</pre>
 
-![](./images/image255.jpg){width="6.240873797025372in"
-height="0.29174540682414696in"}
+<!-- ![](./images/image255.jpg){width="6.240873797025372in" height="0.29174540682414696in"}  -->
 
 &#45; getElementsByTagName It returns a live HTMLCollection of elements
 with the given tag name.
 
-![](./images/image256.jpg){width="15.430272309711286in"
-height="1.2711767279090114in"}
+<!-- ![](./images/image256.jpg){width="15.430272309711286in" height="1.2711767279090114in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-2-2">10.2.2 Introduction to Query Selectors</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Query selectors are powerful tools that allow for complex CSS-style
 selection of elements within the DOM. They come in two varieties:
 
@@ -4276,18 +4483,20 @@ selection of elements within the DOM. They come in two varieties:
 -   querySelectorAll: Returns a static NodeList representing a list of
     elements matching the specified group of CSS selectors.
 
-![](./images/image262.jpg){width="1.5211482939632546in"
-height="0.4688768591426072in"}
+<!-- ![](./images/image262.jpg){width="1.5211482939632546in" height="0.4688768591426072in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ####### const allButtons = document. querySe1ectorA11( &#39; .btn ) ;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image263.jpg){width="7.501549650043745in"
-height="0.34384295713035873in"}
+<!-- ![](./images/image263.jpg){width="7.501549650043745in" height="0.34384295713035873in"}  -->
 
 Query selectors are highly versatile and capable of selecting elements
 based on very sophisticated criteria.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### 10.23 Manipulating Element Attributes and Properties
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Once an element is selected, you can modify its attributes and
 properties. Attributes are defined directly on an HTML tag, whereas
@@ -4295,14 +4504,12 @@ properties are the values on the JavaScript object representation of
 these elements. -Setting and Getting Attributes: Use setAttribute to set
 an attribute&#39;s value, or getAttribute&#42; to retrieve it.
 
-![](./images/image264.jpg){width="15.430272309711286in"
-height="2.219349300087489in"}
+<!-- ![](./images/image264.jpg){width="15.430272309711286in" height="2.219349300087489in"}  -->
 
-![](./images/image265.jpg){width="15.430272309711286in"
-height="2.4173206474190727in"}
-
+<!-- ![](./images/image265.jpg){width="15.430272309711286in" height="2.4173206474190727in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.2.4 Creating, Inserting, and Removing Nodes</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The DOM API allows for dynamic content creation and manipulation, giving
 developers the ability to add, replace, or remove elements on the page.
 
@@ -4310,32 +4517,30 @@ developers the ability to add, replace, or remove elements on the page.
     node.
 
   const newParagraph = document. createE1ement( &#39; p &#39; )
-  ;![](./images/image268.jpg){width="5.6782567804024495in"
-  height="1.208659230096238in"}
+  
+<!-- ;![](./images/image268.jpg){width="5.6782567804024495in" height="1.208659230096238in"}  -->
 
 -   Inserting Elements: appendChild() or insertBefore() can be used to
     insert created elements into the
 
 DOM.
 
-![](./images/image269.jpg){width="15.430272309711286in"
-height="1.7087948381452318in"}
+<!-- ![](./images/image269.jpg){width="15.430272309711286in" height="1.7087948381452318in"}  -->
 
 -   Removing Elements: removechild() method removes an element from the
     DOM. Newer approaches include remove() , which does not require a
     parent node reference.
 
-![](./images/image270.jpg){width="15.430272309711286in"
-height="2.135994094488189in"}
+<!-- ![](./images/image270.jpg){width="15.430272309711286in" height="2.135994094488189in"}  -->
 
 These techniques and tools provided by the DOM are fundamental to
 interacting with web page elements dynamically, allowing developers to
 build highly interactive and user-friendly websites.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-3">10.3 Handling Events: Responding to User Input</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-3-1">10.3.1 Understanding Event Flow: Capturing and Bubbling</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Event flow is the order in which events are received on the web page.
 There are two main phases: capturing
 
@@ -4357,52 +4562,62 @@ listener should occur during the
 
 capturing or bubbling phase through the third parameter:
 
-![](./images/image271.jpg){width="15.430272309711286in"
-height="2.115155293088364in"}
-
+<!-- ![](./images/image271.jpg){width="15.430272309711286in" height="2.115155293088364in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-3-2">10.3.2 Adding and Removing Event Listeners</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Adding an event listener is straightforward with the addEventListener
 method. Removing an event listener, however, requires a reference to the
 exact function that was added.
 
-![](./images/image272.jpg){width="15.430272309711286in"
-height="5.147224409448819in"}
-
+<!-- ![](./images/image272.jpg){width="15.430272309711286in" height="5.147224409448819in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-3-3"10.3.3 Common DOM Events and Event Object Properties</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Common DOM events include:
 
 -   Mouse Events: click j, dblclicle mousedown ^f^ mouseup mouseover
-    mouseleave![](./images/image273.jpg){width="7.292979002624672e-2in"
-    height="7.293635170603674e-2in"}
+    mouseleave
+
+<!-- ![](./images/image273.jpg){width="7.292979002624672e-2in" height="7.293635170603674e-2in"}  -->
 
 -   Keyboard Events: ^q^ keydown , keyup ,
-    keypress![](./images/image274.jpg){width="6.251312335958005e-2in"
-    height="7.293635170603674e-2in"}
+    keypress
+	
+<!-- ![](./images/image274.jpg){width="6.251312335958005e-2in" height="7.293635170603674e-2in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ######### - Form Events: &#42; submit change focus &#39;blur&#39;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Every event handler receives an event object with properties and methods
 related to the event. Common properties include:
 
-![](./images/image275.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}type : the type of event (e.g.,
-![](./images/image276.jpg){width="1.1148129921259842in"
-height="0.3230041557305337in"}![](./images/image277.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}target : the target element that
+<!-- ![](./images/image275.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+type : the type of event (e.g.,
+
+<!-- ![](./images/image276.jpg){width="1.1148129921259842in" height="0.3230041557305337in"}  -->
+
+<!-- ![](./images/image277.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+target : the target element that
 initiated the event.
 
-![](./images/image278.jpg){width="0.30214566929133857in"
-height="0.18755030621172353in"}currentTarget : the element that the
+<!-- ![](./images/image278.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}  -->
+
+currentTarget : the element that the
 event listener is attached to.
 
-![](./images/image38.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}preventDefault() : a method that prevents
+<!-- ![](./images/image38.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+preventDefault() : a method that prevents
 the default action associated with the event.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.3.4 Debouncing and Throttling in Event Handlers</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Debouncing and throttling are techniques used to control how many times
 a function executing due to certain events (like scrolling, resizing,
 keypress) is executed, enhancing performance and user experience.
@@ -4410,24 +4625,22 @@ keypress) is executed, enhancing performance and user experience.
 event has stopped firing for a predetermined amount of time. Useful for
 events like window resizing, where you only care about the final state.
 
-![](./images/image279.jpg){width="15.430272309711286in"
-height="5.032610454943132in"}
+<!-- ![](./images/image279.jpg){width="15.430272309711286in" height="5.032610454943132in"}  -->
 
 &#45; Throttling: Ensures that a function is called at most once within a
 specified time period, regardless of how many times the triggering event
 fires. Useful for events like scrolling, where you want to limit
 updates.
 
-![](./images/image280.jpg){width="15.44069116360455in"
-height="10.35696631671041in"}
+<!-- ![](./images/image280.jpg){width="15.44069116360455in" height="10.35696631671041in"}  -->
 
 Debouncing and throttling are invaluable for handling events emciently,
 ensuring that your web application remains responsive and performs well.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-4">10.4 Creating and Navigating Between Pages Dynamically</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10-4-1">10.4.1 Dynamically Modifying the Current Document</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Dynamic modification of web pages allows for the addition, deletion, or
 alteration of content and elements without the need for a full page
 reload. This can greatly improve the user experience by making web
@@ -4450,13 +4663,15 @@ The History API provides a standard way to manipulate the browser
 history, enabling developers to implement sophisticated navigation
 mechanisms within web applications:
 
-![](./images/image281.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}history.pushState() : Adds a state to the
+<!-- ![](./images/image281.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+history.pushState() : Adds a state to the
 browser&#39;s session history stack, allowing you to change the URL
 displayed in the address bar without reloading the page.
 
-![](./images/image282.jpg){width="0.3334022309711286in"
-height="0.19797025371828522in"}history.replaceState() : Replaces the
+<!-- ![](./images/image282.jpg){width="0.3334022309711286in" height="0.19797025371828522in"}  -->
+
+history.replaceState() : Replaces the
 current state in the session history stack with a new state, effectively
 allowing you to modify the current URL without reloading the page.
 
@@ -4467,9 +4682,9 @@ buttons.
 
 These tools are especially useful in single-page applications where the
 page does not fully reload as the user navigates.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.4.3 Implementing Single Page Applications (SPAs) Basics</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Single Page Applications (SPAS) are web applications that load a single
 HTML page and dynamically update that page as the user interacts with
 the app, SPAS use AJAX and the History API to create fluid and
@@ -4489,8 +4704,9 @@ ing the UI client-side.
 Frameworks and libraries such as React, Angular, and Vuejs are commonly
 used to develop SPAS emciently.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">104.4 AJAX and Fetch API for Asynchronous Page Updates</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 AJAX (Asynchronous JavaScript and XML) and the Fetch API are
 technologies that allow web pages to be updated asynchronously by
 exchanging small amounts of data with the server behind the scenes.
@@ -4504,22 +4720,21 @@ exchanging small amounts of data with the server behind the scenes.
     powerful than the older XMLHttpRequest object used in traditional
     AJAX.
 
-![](./images/image283.jpg){width="15.430272309711286in"
-height="2.6673873578302714in"}
+<!-- ![](./images/image283.jpg){width="15.430272309711286in" height="2.6673873578302714in"}  -->
 
 The combination ofthese technologies allows developers to create
 dynamic, userfriendly web applications that load new content seamlessly,
 without requiring page reloads, enhancing the overall user experience.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 10.5 Advanced DOM Manipulation and Optimization Techniques
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Creating high-performance web applications often requires advanced DOM
 manipulation and optimization techniques. These methodologies help
 mitigate performance bottlenecks caused by excessive or ineffcient
 manipulation of the DOM.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.5.1 Working with Document Fragments for Optimal Performance</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 One common avenue for enhancing performance when inserting or
 manipulating multiple DOM elements is the use of &#42;&#42;Document
 Fragments&quot;. A Document Fragment acts as a lightweight, minimal document
@@ -4529,10 +4744,11 @@ the active DOM tree, modifying it doesn&#39;t cause reflow or repaint. Once
 you^l^re done, you can append the entire Fragment to the DOM, triggering
 just a single reflow and repaint cycle.
 
-![](./images/image284.jpg){width="15.430272309711286in"
-height="6.585113735783027in"}
+<!-- ![](./images/image284.jpg){width="15.430272309711286in" height="6.585113735783027in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.5.2 Effciently Handling Large Lists and Scroll Events</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 For web applications dealing with large lists or frequent scroll events,
 &#42;&#42;Virtual Scrolling&#42;&#42; or &#42;&#42; Windowing&#42;&#42; techniques help maintain
@@ -4541,8 +4757,9 @@ subset of a large list that&#39;s visible to the user, with additional
 items being rendered on-the-fly as the user scrolls. Libraries like
 React Virtualized or React Window can help implement these patterns in
 React applications.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.5.3 Strategies for Minimizing Reflows and Repaints</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Reflows and repaints can significantly impact the performance of web
 applications. These are some strategies to minimize their impact:
@@ -4562,7 +4779,9 @@ to modify inline styles frequently.
     element will change soon, allowing it to optimize before the change
     occurs.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">10.5.4 Utilizing MutationObserver for Observing DOM Changes</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 MutationObserver is a powerful API that allows developers to watch for
 changes in the DOM tree. It&#39;s useful for executing code in response to
@@ -4571,8 +4790,7 @@ manually. It can be used to observe additions, removals, attribute
 changes, and more, making it invaluable for dynamically updating UIs or
 triggering functionality in response to user interactions.
 
-![](./images/image285.jpg){width="15.430272309711286in"
-height="8.596073928258967in"}
+<!-- ![](./images/image285.jpg){width="15.430272309711286in" height="8.596073928258967in"}  -->
 
 While highly useful, it&#39;s important to use MutationObserver judiciously
 to avoid performance issues due to excessive callback execution.
@@ -4581,17 +4799,18 @@ These advanced techniques can help developers build faster, more
 responsive web applications by effciently managing and observing changes
 in the DOM.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">Debugging and Error Handling</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.1 Introduction to Debugging in JavaScript</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Debugging is an essential part of the development process, which
 involves identifying, diagnosing, and fixing problems or bugs within a
 software application. JavaScript, being a vital part of web development,
 comes with its unique challenges and solutions in debugging.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.1.1 The Importance of Debugging: An Overview</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Debugging in JavaScript is crucial for several reasons:
 
 -   Ensures Code Reliability: By identifying and fixing bugs, debugging
@@ -4608,9 +4827,9 @@ Debugging in JavaScript is crucial for several reasons:
 
 In essence, debugging is not just about fixing immediate problems but
 also about maintaining and enhancing the overall health of the software.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.1.2 Basic Debugging Techniques and Strategies</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Here are some fundamental techniques and strategies for debugging
 JavaScript:
 
@@ -4629,7 +4848,9 @@ developer tools are open, acting as a breakpoint.
 -   Code Linting: Tools like ESLint can help in identifying potential
     errors and code quality issues before runtime.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.1.3 Understanding Error Messages and Tracing Bugs</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Understanding the error messages thrown by browsers is key to effective
 debugging:
@@ -4646,46 +4867,52 @@ where the error occurred.
 -   Learning to differentiate between syntax errors, type errors, and
     logical errors can help in employing the right debugging approach.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.1.4 Leveraging console Methods for Debugging</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The console object provides several methods that go beyond console.log()
 and can be incredibly useful for debugging:
 
-![](./images/image286.jpg){width="0.30214566929133857in"
-height="0.18755139982502186in"}console.error() : Highlights messages as
+<!-- ![](./images/image286.jpg){width="0.30214566929133857in" height="0.18755139982502186in"}  -->
+
+console.error() : Highlights messages as
 errors in the console, making them more visible.
 
-![](./images/image287.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}console-warn() : Used to log warning
+<!-- ![](./images/image287.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+console-warn() : Used to log warning
 messages, useful for potential issues that don&#39;t qualify as errors.
 
-![](./images/image287.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}console-table() : Displays data in a
+<!-- ![](./images/image287.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+console-table() : Displays data in a
 tabular form, making it easier to read.
 
-![](./images/image288.jpg){width="0.34382108486439195in"
-height="0.19797025371828522in"}console.group() and console.groupEnd() :
+<!-- ![](./images/image288.jpg){width="0.34382108486439195in" height="0.19797025371828522in"}  -->
+
+console.group() and console.groupEnd() :
 Allows grouping of console messages, which can be collapsed and
 expanded, useful for organizing logged information.
 
-![](./images/image289.jpg){width="0.3229833770778653in"
-height="0.19797025371828522in"}console.assert() : Logs a message only if
+<!-- ![](./images/image289.jpg){width="0.3229833770778653in" height="0.19797025371828522in"}  -->
+
+console.assert() : Logs a message only if
 the asserted condition is false, useful for testing assumptions in the
 code.
 
 By combining these techniques and strategies with a thoughtful approach
 to coding and problem-solving, developers can emciently tackle bugs and
 maintain a more manageable, error-free codebase.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.2 Using Browser Developer Tools</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Browser developer tools provide an integrated environment for debugging,
 testing, and optimizing web applications. These tools offer a wide range
 of functionalities, from editing HTML and CSS in real-time to profiling
 JavaScript performance.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.2.1 Navigating the Browser Developer Console</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The Developer Console is a powerful tool for diagnosing problems,
 evaluating expressions, and accessing web page internals. Here&#39;s how to
 navigate it effectively:
@@ -4703,8 +4930,9 @@ navigate it effectively:
     you can execute JavaScript code directly, providing a handy tool for
     testing snippets of code or manipulating the DOM.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">112.2 Breakpoints and Step-by-Step Debugging</h3>v
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Breakpoints are critical for understanding how your JavaScript code
 executes line by line:
 
@@ -4722,8 +4950,9 @@ executes line by line:
     execution only when a specified condition is true, perfect for
     debugging complex issues.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.2.3 Using the Network Panel to Debug Requests</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The Network Panel allows developers to monitor and debug network
 activity, including HTTP requests and responses:
 
@@ -4738,7 +4967,9 @@ activity, including HTTP requests and responses:
     information, such as headers, response body, and timing, which is
     invaluable for debugging API calls or loading issues.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.2.4 Memory and Performance Profiling Tools</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Memory leaks and inemcient scripts can severely impact the performance
 of your web application. Developer tools offer various profiling tools
@@ -4759,7 +4990,9 @@ By leveraging these advanced features of browser developer tools, you
 can significantly improve the debugging process, enhance application
 performance, and ensure a smoother user experience.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.3 Understanding Runtime Errors and Handling Exceptions</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In the dynamic environment of JavaScript programming, handling errors
 effectively is crucial for building resilient and user-friendly
@@ -4768,7 +5001,9 @@ unexpected application behavior. Understanding the different types of
 errors, using structured error handling mechanisms, and implementing
 custom error strategies are foundational skills for developers.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">113.1 Types of JavaScript Errors: Syntax, Runtime, and Logical</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Syntax Errors: These errors occur when there&#39;s a problem with the
     syntax of the code. JavaScript engines will not execute a script if
@@ -4785,14 +5020,15 @@ custom error strategies are foundational skills for developers.
     to logical flaws in the code. Logical errors do not throw errors in
     the console but result in incorrect outcomes or behaviors.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.3.2 The try&#8230;catch Statement: Catching and Handling Errors</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 JavaScript&#39;s try&#8230;catch statement offers a structured approach to
 catching and handling runtime errors, preventing them from abruptly
 stopping script execution.
 
-![](./images/image290.jpg){width="15.430272309711286in"
-height="3.1050054680664916in"}
+<!-- ![](./images/image290.jpg){width="15.430272309711286in" height="3.1050054680664916in"}  -->
 
 -   The •try&#42; block contains the code to be executed.
 
@@ -4802,8 +5038,9 @@ height="3.1050054680664916in"}
 -   The error &#39; object in the catch block can be used to access error
     details such as the message and stack trace.
 
-<h3 id="">11.3.3 Using the finally Clause</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch11-3-3">11.3.3 Using the finally Clause</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The finally&#42; clause can be added to a &#39;try&#8230;catch&#42; statement to
 execute code after the try and catch blocks, regardless of whether an
 error was thrown or not. This is useful for cleaning up resources or
@@ -4825,20 +5062,24 @@ forming certain final actions.
 +=======================================================================+
 +-----------------------------------------------------------------------+
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">113.4 Throwing Custom Errors</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 To provide more specific error information or to handle particular error
 conditions differently, JavaScript allows throwing custom errors using
 the throw statement.
 
-![](./images/image295.jpg){width="15.430272309711286in"
-height="1.9588637357830272in"}
+<!-- ![](./images/image295.jpg){width="15.430272309711286in" height="1.9588637357830272in"}  -->
 
--   ![](./images/image209.jpg){width="5.209426946631671e-2in"
-    height="7.293744531933509e-2in"}Custom errors can include any type
+<!-- ![](./images/image209.jpg){width="5.209426946631671e-2in" height="7.293744531933509e-2in"}  -->
+
+	Custom errors can include any type
     of error object, including built-in Error types ( Error TypeError
-    ![](./images/image296.jpg){width="0.20837598425196852in"
-    height="0.3230041557305337in"}ReferenceError&#39; , etc.) and custom
+
+<!-- ![](./images/image296.jpg){width="0.20837598425196852in" height="0.3230041557305337in"}  -->
+	
+	ReferenceError&#39; , etc.) and custom
     error classes that extend the Error class.
 
 -   Throwing custom errors can be particularly useful in larger
@@ -4850,16 +5091,17 @@ providing clear insights into what went wrong but also significantly
 improves the robustness and reliability ofweb applications by gracefully
 managing unforeseen issues that may arise during runtime.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.4 Best Practices for Debugging</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Debugging can be complex and time-consuming, but following best
 practices can significantly improve the emciency and effectiveness of
 the debugging process. A proactive approach towards writing and
 maintaining code can reduce bugs and make the inevitable debugging
 process much smoother.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.4.1 Keeping Code Clean and Readable</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 -   Consistent Naming Conventions: Use clear and meaningful names for
     variables and functions that reflect their purpose. Consistency in
     naming conventions across your project makes it easier to understand
@@ -4873,7 +5115,9 @@ process much smoother.
     simplify and optimize, Cleaner, more effcient code is easier to
     debug.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.4.2 Writing Testable Code</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Modular Design: Design your code in small, manageable, and reusable
     modules that do one thing and do it well. Smaller blocks of code are
@@ -4888,7 +5132,9 @@ process much smoother.
     seamlessly. This helps in identifying and rectifying integration
     issues early on.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.4.3 Using Assertions for Error Checking</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Assert Conditions: Use assertions to check for conditions that must
     hold true for your code to run correctly. Assertions can catch bugs
@@ -4899,7 +5145,9 @@ process much smoother.
     clear, informative messages that help identify not just that an
     error occurred, but why.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.4.4 Implementing Source Maps for Minified Code</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Understanding Source Maps: Source maps create a connection between
     the minified files served to the browser and their original source
@@ -4924,7 +5172,9 @@ testable code, employing assertions for error checking, and leveraging
 tools like source maps, developers can greatly enhance the emciency of
 their debugging process.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##### 11.5 Advanced Error Handling Techniques
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Advanced error handling techniques in JavaScript are essential for
 creating resilient applications that can
@@ -4933,50 +5183,46 @@ gracefully manage and recover from unexpected issues. These techniques
 allow developers to maintain control over the application flow, even
 when errors occur, ensuring a better user experience.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.5.1 Error Propagation Strategies</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 &#45; Explicit Propagation: Errors can be caught and then rethrown or
 passed to a handler function explicitly. This allows for errors to be
 handled at a higher level, suitable for the application&#39;s context.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### function handleError(e) {
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-// [Henri&#39; f]{.underline}? [erro]{.underline}r or [re throw]{.underline} if (canHandIe(e)) { handle(e) ;
-
+// [Henri&#39; f]? [erro]r or [re throw] if (canHandIe(e)) { handle(e);
 } else { throw e; // Rethrow If not h[and! e]{.underline}d
 
-![](./images/image297.jpg){width="2.8443372703412075in"
-height="0.8648173665791776in"}try { may throw
+<!-- ![](./images/image297.jpg){width="2.8443372703412075in" height="0.8648173665791776in"}  -->
+
+try { may throw
 
 ###### } catch (e) { handleError(e) ;
 
-![](./images/image298.jpg){width="3.3131846019247595in"
-height="0.16671259842519684in"}
+<!-- ![](./images/image298.jpg){width="3.3131846019247595in" height="0.16671259842519684in"}  -->
 
 &#45; Promise Rejection: In asynchronous operations, use .catch() on
 Promises to handle errors. Propagate er-
 
 rors
-
 in
-
 promise
-
 chains
-
 to
-
 a
-
 centralized
-
 error
-
 handling
-
 mechanism.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.5.2 Creating and Managing a Custom Error Handler</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Creating a custom error handler involves defining an error handling
 function or class that can process different types of errors based on
@@ -4986,28 +5232,29 @@ their severity, type, or other criteria.
     custom error types. This is useful for differentiating between error
     contexts and for providing additional information about the error.
 
-![](./images/image300.jpg){width="15.430272309711286in"
-height="5.626521216097988in"}
+<!-- ![](./images/image300.jpg){width="15.430272309711286in" height="5.626521216097988in"}  -->
 
 -   Centralized Error Handler: Implement a central function or module to
     handle application-wide errors. This handler can log errors, notify
     developers, or perform specific actions based on the error type.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.5.3 Dealing with Asynchronous Errors</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Asynchronous code introduces complexities in error handling, especially
 with callbacks and promises. - Promises: Use the .catch() method or ^Q^
 try&#42; / &#39; catch with async&#42; / • await to handle errors in asynchronous
 code running in a Promise context.
 
-![](./images/image301.jpg){width="15.430272309711286in"
-height="4.886737751531059in"}
+<!-- ![](./images/image301.jpg){width="15.430272309711286in" height="4.886737751531059in"}  -->
 
 &#45; Callbacks: Wrap callback functions in try&#42; / • catch and use an
 error-first callback pattern where the first parameter of the callback
 function is reserved for an error object, if any.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">11.5.4 Leveraging Third-Party Debugging and Error-Tracking Tools</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Numerous third-party tools provide advanced error tracking, logging, and
 debugging capabilities. These can be integrated into your development
@@ -5032,18 +5279,20 @@ applications not only helps in effectively diagnosing and resolving
 issues but also in preventing possible disruptions, thereby improving
 the overall stability and reliability of your applications.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ###### JavaScript in the Real World
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.1 Building a Simple Web Application: Integrating HTML, CSS, and JavaScript</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Creating a simple web application involves an integration of HTML, CSS,
 and JavaScript. This process spans setting up an organized project
 structure, designing a user-friendly interface, adding interactivity
 through JavaScript, and more. Here&#39;s a comprehensive guide to building
 your first web application.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.1.1 Setting Up the Project: Directory Structure and Files</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 A well-organized project structure is crucial for maintaining and
 scaling your web application. Begin with creating a new directory for
 your project. Within this directory, create subdirectories and files as
@@ -5069,7 +5318,9 @@ index.html - your main HTML file at the root of the project.
 This structure keeps your styles, scripts, and assets separate,
 promoting good organization and easier maintenance.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.1.2 Designing the User Interface with HTML and CSS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The user interface is what your users interact with. HTML provides the structure, while CSS styles it.
 
@@ -5088,8 +5339,9 @@ The user interface is what your users interact with. HTML provides the structure
     CSS Flexbox or Grid for layout, set fonts, colors, and styles for
     your elements to make your application visually appealing.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.1.3 Adding Interactivity with JavaScript</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>JavaScript adds interactivity to your web application.</p>
 
 1.  Connecting JS to HTML: Include your script.js• file before the
@@ -5106,8 +5358,9 @@ tag in your ^Q^ index.html with &#92;<script src=&quot;js/script.js&quot;&#92;>&
     document.querySelector() and then use event listeners to handle user
     events.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.1.4 Event Handling and DOM Manipulation</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Event handling is crucial for interactive applications.
 
 1.  Listening to Events: Add listeners to buttons or other interface
@@ -5124,8 +5377,9 @@ myFunction);
     instance, hide a form after submission or display a loading spinner
     when fetching data.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.1.5 Fetching Data with AJAX and Updating the UI</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>AJAX (Asynchronous JavaScript and XML) allows you to request data from
 servers without reloading your page, making your application more
 dynamic and fast.</p>
@@ -5147,7 +5401,9 @@ application that is structured, styled, and interactive. Through
 practicing these skills, you will be well on your way to developing more
 complex web applications.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.2 Utilizing Local Storage for Data Persistence</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In modern web development, persisting data across sessions is a common
 requirement. HTML5 introduces the Web Storage API, which provides
@@ -5155,7 +5411,9 @@ mechanisms for web applications to store key-value pairs in a web
 browser. Let&#39;s explore how to use localStorage to achieve data
 persistence effectively.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">122.1 Introduction to Web Storage API</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>The Web Storage API offers two storage mechanisms: localstorage&#39; and
 sessionStorage ^s^ . Both provide the same methods and properties, but
@@ -5176,8 +5434,9 @@ page session. In contrast, localStorage</p>
 
 -   Can store up to 5MB of data, significantly more than cookies.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.2.2 Storing and Retrieving Data with localStorage</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>&quot;Storing Data&quot;: To store data in &#39;localStorage , use the setltem() method, 
 which accepts a key and a value.</p>
 
@@ -5198,7 +5457,9 @@ associated with the value you want to retrieve.</p>
 
 <!-- ![](./images/image315.jpg){width="15.430272309711286in" height="2.7715824584426945in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch12-2-3">12.2.3 Implementing Todo List with Local Storage</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>Implementing a todo list that persists tasks across browser sessions is a practical example 
 of localStorage utility.</p>
