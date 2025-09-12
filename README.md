@@ -210,7 +210,7 @@ creativity, discovery, and the joy of coding in JavaScript, Welcome to
 
 Happy coding!
 
-## Acknowledgements
+<h2>Acknowledgements</h2>
 
 We, at Programming Hub, are thrilled to present this book, &quot;Basics
 OfJavaScript: Unlock the Power Of Web Programming,&quot; to the aspiring
@@ -241,8 +241,7 @@ guide for learning JavaScript.
   title=""
   alt="." />
 </p>
-![](./images/image010.jpg){width="4.167541557305337e-2in"
-height="2.083880139982502e-2in"}
+<!-- ![](./images/image010.jpg){width="4.167541557305337e-2in" height="2.083880139982502e-2in"}  -->
 
 Our appreciation also goes out to our esteemed authors, who have
 invested their creativity and expertise in shaping the contents ofthis
@@ -283,108 +282,94 @@ unlocking the vast potential this language holds.
 Happy ccd_ing and may you harness the full power Of JavaScript in your
 programming endeavors! ---Programming Hub
 
-## Exploring the Basics of JavaScript
-
+<h2>Exploring the Basics of JavaScript</h2>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <h2 id="ch1-1">1.1 Introduction to JavaScript: Its Importance and Applications</h2>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <h3 id="ch1-1-1">1.1.1 What is JavaScript? An Overview</h3>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-JavaScript is a dynamic programming language that is primarily used to
+<p>JavaScript is a dynamic programming language that is primarily used to
 create interactive elements on web pages. It was developed by Netscape
 in the early 1990s and has since grown to become one of the core
 technologies of the World Wide Web, alongside HTML and CSS. JavaScript
 enables developers to add a wide range of functionalities to web pages,
 including forms validation, interactive maps, animated graphics, and
-complex webpage layouts.
+complex webpage layouts.</p>
 
-Unlike many other programming languages, JavaScript executes on the
+<p>Unlike many other programming languages, JavaScript executes on the
 client&#39;s browser, providing an immediate response to user actions
 without needing to communicate with the server for every operation. This
 client-side execution capability makes JavaScript a key player in
-creating seamless and dynamic user experiences on the web.
-
+creating seamless and dynamic user experiences on the web.</p>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-#### 1.1.2 The Role of JavaScript in Modern Web Development
+<h3 id="ch1-1-2">1.1.2 The Role of JavaScript in Modern Web Development</h3>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-In modern web development, JavaScript plays a critical role in both
+<p>In modern web development, JavaScript plays a critical role in both
 front-end and backend development, On the front end, it is used to
 create dynamic and interactive user interfaces. JavaScript allows
 developers to respond to user actions in real-time, making web pages
-feel more like native applications.
+feel more like native applications.</p>
 
-On the back end, the introduction of Nodejs has enabled JavaScript to
+<p>On the back end, the introduction of Nodejs has enabled JavaScript to
 run on servers as well. This means that developers can write server-side
 code in JavaScript, allowing for a more unified and emcient development
-process because the same language can be used across the entire stack.
-
+process because the same language can be used across the entire stack.</p>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-### I. 1.3 Applications: From Web Pages to Server-Side Development
+<h3 id="ch1-1-3">1.1.3 Applications: From Web Pages to Server-Side Development</h3>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-JavaScript&#39;s applications extend far beyond simple animations and
+<p>JavaScript&#39;s applications extend far beyond simple animations and
 validations on web pages. With the advent of sophisticated frameworks
 and tools, it now powers complex web applications, mobile apps, games,
 and even Internet of Things (IOT) devices. JavaScript&#39;s non-blocking,
 event-driven nature makes it particularly well-suited for developing
-real-time applications, such as chatting apps and live content updates.
+real-time applications, such as chatting apps and live content updates.</p>
 
-Additionally, server-side JavaScript, through environments like Nodejs,
+<p>Additionally, server-side JavaScript, through environments like Nodejs,
 has revolutionized how developers build scalable and high-performance
 web servers. This full-stack capability means that JavaScript is now
-used in practically every aspect of software development.
-
+used in practically every aspect of software development.</p>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <h3 id="ch1-1-4">1.1.4 JavaScript Frameworks and Libraries: Enhancing Functionality</h3>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-The JavaScript ecosystem is rich with frameworks and libraries designed
-to simplify and enhance web development. Frameworks like Angular, React,
-and Vue.js provide robust solutions for developing com-
+<p>The JavaScript ecosystem is rich with frameworks and libraries designed to simplify and 
+enhance web development. Frameworks like Angular, React, and Vue.js provide robust solutions 
+for developing complex single-page applications (SPAS), while libraries like jQuery make
+DOM manipulation easier and more intuitive.</p>
 
-plex single-page applications (SPAS), while libraries like jQuery make
-DOM manipulation easier and more intuitive.
-
-Frameworks and libraries not only speed up the development process but
+<p>Frameworks and libraries not only speed up the development process but
 also help maintain code quality by providing structured and maintainable
 codebases. They come with pre-written code for common tasks, letting
 developers focus on the unique aspects of their projects rather than
-reinventing the wheel for basic functionalities.
+reinventing the wheel for basic functionalities.</p>
 
-JavaScript&#39;s importance in the web development landscape cannot be
+<p>JavaScript&#39;s importance in the web development landscape cannot be
 overstated. Its evolution from a simple scripting language to a
 versatile, full-stack development tool demonstrates its vital role in
 crafting modern web experiences. By understanding JavaScript&#39;s core
 principles and learning to leverage its frameworks and libraries,
 developers can build emcient, interactive, and dynamic web applications
-that stand out in the digital age.
+that stand out in the digital age.</p>
 
-### 1.2 Writing Your First JavaScript Program: The &quot;Hello World!&quot;
+<h2 id="ch1-2">1.2 Writing Your First JavaScript Program: The &quot;Hello World!&quot;</h2>
 
-#### 1.2.1 Understanding the Structure of a JavaScript Program
+<h3 id="ch1-2-1">1.2.1 Understanding the Structure of a JavaScript Program</h3>
 
-A JavaScript program is made up of statements that are executed by the
-browser in the order in which they appear. At its core, a JavaScript
-program can be as simple as a single line of code intended to perform a
-specific task. Each statement in JavaScript is usually followed by a
-semicolon (;) to mark the end of the current
+<p>A JavaScript program is made up of statements that are executed by the browser in the order 
+in which they appear. At its core, a JavaScript program can be as simple as a single line of 
+code intended to perform a specific task. Each statement in JavaScript is usually followed by 
+a semicolon (;) to mark the end of the current statement, although it&#39;s important to note 
+that JavaScript engines can interpret the end of statements even without the semicolon, thanks 
+to Automatic Semicolon Insertion (ASI).</p>
 
-statement, although it&#39;s important to note that JavaScript engines can
-interpret the end of statements even without the semicolon, thanks to
-Automatic Semicolon Insertion (ASI).
+<p>JavaScript programs can include variables for storing data, loops for repeating actions, 
+functions to organize code into reusable blocks, and much more. The basic structure hinges on 
+these constructs to build more complex operations and workflows.</p>
 
-JavaScript programs can include variables for storing data, loops for
-repeating actions, functions to organize code into reusable blocks, and
-much more. The basic structure hinges on these constructs to build more
-complex operations and workflows.
+<h3 id="ch1-2-2">1.2.2 Creating a Simple &quot;Hello World!&quot; Script</h3>
 
-##### 1.2.2 Creating a Simple &quot;Hello World!&quot; Script
-
-The &quot;Hello World!&quot; program is a simple exercise that prints the string
-&quot;Hello, World!&quot; on the screen. It is a traditional way to introduce a
-new programming language. Here&#39;s how you can create a &quot;Hello World!&quot;
-script in JavaScript:
+<p>The &quot;Hello World!&quot; program is a simple exercise that prints the string &quot;Hello, 
+World!&quot; on the screen. It is a traditional way to introduce a new programming language. 
+Here&#39;s how you can create a &quot;Hello World!&quot; script in JavaScript:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -394,21 +379,19 @@ script in JavaScript:
   alt="." />
 </p>
 
-#### console. log( &#39;Hello, World! i ) ;
+<pre>console. log( &#39;Hello, World! i );</pre>
 
-![](./images/image011.jpg){width="9.710341207349082in" height="1.219080271216098in"}
+<!-- ![](./images/image011.jpg){width="9.710341207349082in" height="1.219080271216098in"}  -->
 
-This single line of JavaScript code can be included in an HTML file
+<p>This single line of JavaScript code can be included in an HTML file
 within &#92;<script&#92;> tags, or in an external JavaScript file, to display
-the message in the web browser&#39;s console.
+the message in the web browser&#39;s console.</p>
 
-##### I .2.3 Using the Browser Console to Execute JavaScript
+<h3 id="ch1-2-3">1.2.3 Using the Browser Console to Execute JavaScript</h3>
 
-One of the easiest ways to run JavaScript code is using the browser&#39;s
-console. The console is part of the web
-
-browser&#39;s developer tools, and it provides a way to write, manage, and
-monitor JavaScript on demand.
+<p>One of the easiest ways to run JavaScript code is using the browser&#39;s console. The console 
+is part of the web browser&#39;s developer tools, and it provides a way to write, manage, and
+monitor JavaScript on demand.</p>
 
 1.  Open the Console: Right-click on a webpage, select &quot;Inspect&quot; (or
     press F12 / Cmd+Opt+I on Mac), and navigate to the &quot;Console&quot; tab
@@ -420,14 +403,13 @@ monitor JavaScript on demand.
 3.  View Output: Immediately after execution, you&#39;ll see the output
     (&quot;Hello, World!&quot;) displayed in the console.
 
-Using the console is a great way to test and debug small snippets of
-JavaScript code.
+<p>Using the console is a great way to test and debug small snippets of JavaScript code.</p>
 
-##### I .2.4 Best Practices for Writing and Organizing Your JavaScript Code
+<h3 id="ch1-2-4">1.2.4 Best Practices for Writing and Organizing Your JavaScript Code</h3>
 
-As you learn to write more complex JavaScript programs, it&#39;s important
+<p>As you learn to write more complex JavaScript programs, it&#39;s important
 to follow best practices to ensure your code is readable, maintainable,
-and effcient:
+and effcient:</p>
 
 -   Use Meaningful Variable Names: Choose clear and descriptive names
     for variables and functions.
@@ -442,35 +424,32 @@ and effcient:
     avoid unintended interactions between different parts of your code.
 
 -   Structure Your Code: Group related code into functions or classes to
-    keep your code organized and modu-
-
-lar.
+    keep your code organized and modular.
 
 -   Error Handling: Implement error handling to manage and respond to
     potential runtime errors.
 
-Practicing these guidelines will help you develop a strong foundation in
-writing highquality JavaScript code as you begin your programming
-journey.
+<p>Practicing these guidelines will help you develop a strong foundation in writing highquality 
+JavaScript code as you begin your programming journey.</p>
 
-Working with Data in JavaScript
+<p>Working with Data in JavaScript</p>
 
-##### 2. I Understanding JavaScript Values and Variables
+<h2 id="ch2-1">2.1 I Understanding JavaScript Values and Variables</h2>
 
- 2.1.1 What Are Values and Variables in JavaScript?
+<h3 id="ch2-2-1">2.1.1 What Are Values and Variables in JavaScript?</h3>
 
-In JavaScript, the concept of values and variables is foundational. A
+<p>In JavaScript, the concept of values and variables is foundational. A
 value refers to the actual data represented in the program, such as a
 number (e.g., 5 or 2.14 ^Q^ ), a string (e.g., &#39; &quot;Hello, world!&quot; ),
 or a Boolean ( true or false Essentially, values are the bits of data
-that we manipulate using our programs.
+that we manipulate using our programs.</p>
 
-Variables, on the other hand, are containers that store values. They
+<p>Variables, on the other hand, are containers that store values. They
 provide us with a way to label data with a descriptive name so our
 programs can be understood more clearly by humans and manipulated more
 easily by the computer. For example, instead of remembering that the
 number 3.14 represents the mathematical constant Pi, we can simply store
-it in a variable named
+it in a variable named.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -479,28 +458,25 @@ it in a variable named
   title=""
   alt="." />
 </p>
-
-![](./images/image012.jpg){width="0.6980610236220472in"
-height="0.33342410323709537in"}
+<!-- ![](./images/image012.jpg){width="0.6980610236220472in" height="0.33342410323709537in"}  -->
 
 <h3 id="">2.1.2 The Distinction Between Values and Variables</h3>
 
-Understanding the distinction between values and variables is crucial
+<p>Understanding the distinction between values and variables is crucial
 for effective programming in JavaScript. A value is an immutable piece
 of data held in memory. When we use a value in a program, we are
-directly referring to that data.
+directly referring to that data.</p>
 
-Variables, however, are mutable references to values. A variable does
+<p>Variables, however, are mutable references to values. A variable does
 not &quot;contain&quot; the data; it merely points to the value in memory. This
 distinction matters when we start performing operations on variables or
 when we assign a new value to a variable. The content of the memory
 location pointed to by the variable can change, but the value itself
-(for example, the number 42 or the string &quot;hello&quot; ) is immutable.
+(for example, the number 42 or the string &quot;hello&quot; ) is immutable.</p>
 
 <h3 id="">2.1.3 Declaring Variables in JavaScript</h3>
 
-JavaScript provides three keywords for declaring variables: var let&#39; ,
-and const .
+<p>JavaScript provides three keywords for declaring variables: var let&#39;, and const.</p>
 
 -   var: Before ES6 (ECMAScript 2015), ^Q^ var&#42; was the only way to
     declare a variable in JavaScript. Variables declared with var have
@@ -517,8 +493,8 @@ and const .
     meant to be constants or whose value should not change through
     reassignment. Like let const is block-scoped.
 
-To declare a variable, you specify the keyword followed by the variable
-name: let age = 30;
+<p>To declare a variable, you specify the keyword followed by the variable
+name: let age = 30;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -532,8 +508,8 @@ name: let age = 30;
 
 <h3 id="">2.1.4 Variable Naming Conventions and Best Practices</h3>
 
-When naming variables in JavaScript, there are several conventions and
-best practices to follow:
+<p>When naming variables in JavaScript, there are several conventions and
+best practices to follow:</p>
 
 -   Use descriptive and meaningful names that clearly indicate what data
     the variable represents. For example, use userName instead of str&#39;
@@ -563,7 +539,7 @@ best practices to follow:
 </p>
 <!-- ![](./images/image015.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 
-MAX_USERS ,
+<p>MAX_USERS,</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -586,20 +562,20 @@ MAX_USERS ,
 </p>
 <!-- ![](./images/image017.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
 
-Keep name length reasonable. While
+<p>Keep name length reasonable. While
 descriptive names are good, overly long names can make your code harder
-to read,
+to read,</p>
 
-Following these conventions and best practices not only makes your code
+<p>Following these conventions and best practices not only makes your code
 more readable but also helps avoid some common pitfalls related to
-variable declaration and naming in JavaScript.
+variable declaration and naming in JavaScript.</p>
 
-### 2.2 Exploring Data Types: From Numbers to Strings
+<h2 id="ch2-2">2.2 Exploring Data Types: From Numbers to Strings</h2>
 
-#### 2.2.1 Primitive Data Types: Overview and Usage
+<h3 id="ch2-2-1">2.2.1 Primitive Data Types: Overview and Usage</h3>
 
-JavaScript supports several primitives, fundamental data types that
-constitute the basic building blocks of code. These include:
+<p>JavaScript supports several primitives, fundamental data types that
+constitute the basic building blocks of code. These include:</p>
 
 -   Numbers: Represent both integer and floating-point numbers. -
     Strings: Represent textual data.
@@ -613,18 +589,18 @@ constitute the basic building blocks of code. These include:
 -   Symbols: Introduced in ES6, symbols are unique and immutable
     primitive values used as keys for object properties.
 
-Each ofthese primitive types serves specific purposes in JavaScript
+<p>Each ofthese primitive types serves specific purposes in JavaScript
 applications, from controlling flow with booleans to representing and
-manipulating data with numbers and strings.
+manipulating data with numbers and strings.</p>
 
-#### 2.2.2 Understanding Numbers and Mathematical Operations
+<h3 id="ch2-2-2">2.2.2 Understanding Numbers and Mathematical Operations</h3>
 
-In JavaScript, the Number&#42; type represents both integers and
+<p>In JavaScript, the Number&#42; type represents both integers and
 floating-point numbers. Arithmetic operations such as addition ( &#42; + &#39;
 subtraction ( - &#39; ), multiplication ( &#42; &#39; ), and division C / • ) are
 available for constructing expressions with numbers. Special numerical
 values under the Number type also exist, including Infinity -Infinity ,
-and &#42; NaN (Not a Number). Examples of numerical operations:
+and &#42; NaN (Not a Number). Examples of numerical operations:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -635,10 +611,9 @@ and &#42; NaN (Not a Number). Examples of numerical operations:
 </p>
 <!-- ![](./images/image018.jpg){width="15.430272309711286in" height="2.438159448818898in"}  -->
 
-JavaScript also includes the Math object, which provides more complex
+<p>JavaScript also includes the Math object, which provides more complex
 mathematical functions and constants, like Math.sqrt() (square root),
-Math.pow() (exponentiation), and Math.PI
-
+Math.pow() (exponentiation), and Math.PI</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -649,17 +624,16 @@ Math.pow() (exponentiation), and Math.PI
 </p>
 <!-- ![](./images/image019.jpg){width="0.6980610236220472in" height="0.31258530183727035in"}  -->
 
-#### 2.2.3 Working with Strings: Creating and Manipulating Text
+<h3 id="ch2-2-3">2.2.3 Working with Strings: Creating and Manipulating Text</h3>
 
-Strings in JavaScript are sequences of characters used to represent
+<p>Strings in JavaScript are sequences of characters used to represent
 text. They can be defined using single quotes ( double quotes C &#39; or
 backticks (X ^Q^ &#92;&#92; &#42; ) for template literals, which allow for
-multi-line
+multi-line</p>
 
-strings and embedding variables using &#36;1) syntax.
+<p>strings and embedding variables using &#36;1) syntax.</p>
 
-String operations and methods are crucial for text manipulation,
-including:
+<p>String operations and methods are crucial for text manipulation, including:</p>
 
 -   Concatenation: Combining strings using the + &#42; operator or the &#39;
     concat() method.
@@ -671,9 +645,9 @@ including:
 -   Replacing: Replacing parts of a string with another using the
     replace() method
 
-Example of string manipulation:
+<p>Example of string manipulation:</p>
 
-#### 2.2.4 Boolean, Null, and Undefined: Special Data Types
+<h3 id="ch2-2-4">2.2.4 Boolean, Null, and Undefined: Special Data Types</h3>
 
 -   Booleans represent logical values and can be either or . They are
     often used in control structures like if&#39; statements to determine
@@ -687,11 +661,11 @@ Example of string manipulation:
     been declared but not yet assigned a value. It can also be the
     return value of functions that do not explicitly return anything.
 
-Understanding these data types and their operations is crucial for
+<p>Understanding these data types and their operations is crucial for
 effectively programming in JavaScript, as they form the foundation upon
-which more complex structures and logic are built.
+which more complex structures and logic are built.</p>
 
-### 2.3 Declaring Variables: let const , and var
+<h2 id="ch2-3">2.3 Declaring Variables: let const , and var</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -702,19 +676,19 @@ which more complex structures and logic are built.
 </p>
 <!-- ![](./images/image021.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}  -->
 
-#### 2.3.1 Differences Between let&#39; , const , and var
+<h3 id="ch2-3-1">2.3.1 Differences Between let&#39; , const , and var</h3>
 
--   var: This keyword declares a variable, optionally initializing it to
+<ul>
+  <li><b>var</b>: This keyword declares a variable, optionally initializing it to
     a value. -declared variables are function-scoped or globally scoped
     (if declared outside of a function) and are subject to variable
     hoisting (which means they can be referenced in code before they are
-    declared).
-
--   let: Introduced in ES6 (ECMAScript 2015), &#42; let&#42; allows the
+    declared).</li>
+  <li><b>let</b>: Introduced in ES6 (ECMAScript 2015), &#42; let&#42; allows the
     declaration ofblock-scoped variables, significantly reducing the
     scope in which a variable is visible compared to %vrar• . Variables
-    declared with
-
+    declared with.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -725,20 +699,21 @@ which more complex structures and logic are built.
 </p>
 <!-- ![](./images/image022.jpg){width="0.6563856080489939in" height="0.27090660542432193in"}  -->
     
-can be updated but not re-declared within the same scope.
-
--   const: Also introduced in ES6, const is used for declaring variables
+<p>can be updated but not re-declared within the same scope.</p>
+<ul>
+  <li>const: Also introduced in ES6, const is used for declaring variables
     that are meant to remain constant after their initial assignment
     (i.e., they cannot be reassigned). Like &#39;let const provides
     block-level scope. It&#39;s important to note that while the variable
     reference is immutable, the object it points to can still be mutated
-    if it is an object.
+    if it is an object.</li>
+</ul>
 
-#### 2.3.2 When to Use let € vs. const
+<h3 id="ch2-3-2">2.3.2 When to Use let € vs. const</h3>
 
 <!-- ![](./images/image023.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}  -->
 
-The choice between let and const should be guided by the intended use of the variable:
+<p>The choice between let and const should be guided by the intended use of the variable:</p>
 
 -   Use const&#39; by default for declaring variables that should not
     change after their initial assignment. This communicates intent to
@@ -748,11 +723,9 @@ The choice between let and const should be guided by the intended use of the var
     counters in a loop, or values that get reassigned during the
     execution of a function.
 
-By following this approach, code maintainability and readability are
-improved.
+<p>By following this approach, code maintainability and readability are improved.</p>
 
-##### 2.3.3 The Scope of let • , &#39; const , and var
-
+<h3 id="ch2-3-3">2.3.3 The Scope of let • , &#39; const , and var</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -761,7 +734,7 @@ improved.
   title=""
   alt="." />
 </p>
-<@-- ![](./images/image024.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}  -->
+<!-- ![](./images/image024.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}  -->
 
 -   var: Variables declared with •var are either function-scoped or
     global-scoped, meaning they are visible throughout the entire
@@ -774,11 +747,10 @@ improved.
     feature for managing variable lifecycle and avoiding unintentional
     interference between different parts of a program.
 
-#### 2.3.4 Examples and Common Pitfalls
+<h3 id="ch2-3-4">2.3.4 Examples and Common Pitfalls</h3>
 
-&#45; Hoisting: var declarations are hoisted to the top of their scope,
-which can lead to surprising behavior if not understood properly.
-
+<p>&#45; Hoisting: var declarations are hoisted to the top of their scope,
+which can lead to surprising behavior if not understood properly.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -787,7 +759,7 @@ which can lead to surprising behavior if not understood properly.
   title=""
   alt="." />
 </p>
-<@-- ![](./images/image025.jpg){width="15.430272309711286in" height="1.43788823272091in"}  -->
+<!-- ![](./images/image025.jpg){width="15.430272309711286in" height="1.43788823272091in"}  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -798,8 +770,8 @@ which can lead to surprising behavior if not understood properly.
 </p>
 <!-- ![](./images/image026.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 
-let&#39; and const are also hoisted but not initialized, which means they cannot be
-accessed before their declaration due to the temporal dead zone. 
+<p>let&#39; and const are also hoisted but not initialized, which means they cannot be
+accessed before their declaration due to the temporal dead zone.</p>
 
 - Block Scope vs. Function Scope:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -814,15 +786,14 @@ accessed before their declaration due to the temporal dead zone.
 
 &#45;
 
-Re-declaration and Re-assignment: Understanding the differences between var let, and const, along with their scopes and proper use
-cases, is critical for writing robust and error-free JavaScript code.
+<p>Re-declaration and Re-assignment: Understanding the differences between var let, and const, along with their scopes and proper use cases, is critical for writing robust and error-free JavaScript code.</p>
 
-## 2.4 Performing Operations: Basic Operators
+<h2 id="ch2-4">2.4 Performing Operations: Basic Operators</h2>
 
-### 2.4.1 Arithmetic Operators and Their Use
+<h3 id="ch2-4-1">2.4.1 Arithmetic Operators and Their Use</h3>
 
-Arithmetic operators in JavaScript include the more familiar ones such
-as addition ( + ), subtraction (
+<p>Arithmetic operators in JavaScript include the more familiar ones such as addition 
+( + ), subtraction ( - ).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -833,11 +804,12 @@ as addition ( + ), subtraction (
 </p>
 <!-- ![](./images/image029.jpg){width="0.6388888888888888in" height="0.3194444444444444in"}  -->
 
-multiplication ( &#42; ), and division ( /
-There are also the modulus or remainder operator C % ), which returns
+<p>multiplication ( &#42; ), and division ( / )</p>
+
+<p>There are also the modulus or remainder operator C % ), which returns
 the remainder of a division, increment ( + + and decrement ( ) operators
 that increase or decrease a number by one, respectively. These operators
-are used to perform mathematical calculations. For example:
+are used to perform mathematical calculations. For example:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -848,14 +820,16 @@ are used to perform mathematical calculations. For example:
 </p>
 <!-- ![](./images/image030.jpg){width="15.430272309711286in" height="2.92787510936133in"}  -->
 
-#### 2.4.2 String Operators for Concatenation
+<h3 id="ch2-4-2">2.4.2 String Operators for Concatenation</h3>
 
-In JavaScript, the + • operator is also used for concatenating
+<p>In JavaScript, the + • operator is also used for concatenating
 strings. When a operator is used with strings, it joins them together
-into one:
+into one:</p>
 
+<pre>
 let greeting = &quot;Hello, &#39; + [&quot;world!]{.underline} &quot; , //
 &quot;[Hello]{.underline}, [world!]{.underline} &quot;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -874,13 +848,12 @@ let greeting = &quot;Hello, &#39; + [&quot;world!]{.underline} &quot; , //
   title=""
   alt="." />
 </p>
+<!-- ![](./images/image032.jpg){width="1.3127712160979879in" height="0.15629155730533684in"}  -->
 
-![](./images/image032.jpg){width="1.3127712160979879in" height="0.15629155730533684in"}
-
-Template literals, introduced in ES6, offer a more powerful way to
+<p>Template literals, introduced in ES6, offer a more powerful way to
 create and manipulate strings. Enclosed by backticks (&#92;&#92; &#92;&#92; they can
 contain placeholders marked by &#36;{expression) , which are replaced by
-the values of the expressions:
+the values of the expressions:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -891,10 +864,10 @@ the values of the expressions:
 </p>
 <!-- ![](./images/image033.jpg){width="15.430272309711286in" height="1.43788823272091in"}  -->
 
-#### 2.4.3 Comparison Operators and Evaluating Conditions
+<h3 id="ch2-4-3">2.4.3 Comparison Operators and Evaluating Conditions</h3>
 
-Comparison operators are used to compare two values and return a Boolean
-value, either true or false . These include:
+<p>Comparison operators are used to compare two values and return a Boolean
+value, either true or false . These include:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -905,7 +878,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image034.jpg){width="0.8855993000874891in" height="0.18755030621172353in"}  -->
 
-(equal to)
+<p>(equal to)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -916,7 +889,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image035.jpg){width="1.0835575240594926in" height="0.19797025371828522in"}  -->
 
-(strictly equal to, meaning equal in value and type)
+<p>(strictly equal to, meaning equal in value and type)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -927,7 +900,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image036.jpg){width="0.781411854768154in" height="0.26048665791776027in"}  -->
 
-(not equal to)
+<p>(not equal to)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -938,7 +911,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image037.jpg){width="0.9689501312335957in" height="0.26048665791776027in"}  -->
 
-(strictly not equal to)
+<p>(strictly not equal to)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -949,7 +922,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
 
-&#92;> (greater than)
+<p>&#92;> (greater than)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -960,7 +933,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image039.jpg){width="0.7084798775153106in" height="0.21880905511811025in"}  -->
 
-(less than)
+<p>(less than)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -971,7 +944,7 @@ value, either true or false . These include:
 </p>
 <!-- ![](./images/image040.jpg){width="0.8855993000874891in" height="0.21880905511811025in"}  -->
 
-(greater than or equal to)
+<p>(greater than or equal to)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -983,7 +956,7 @@ value, either true or false . These include:
 <!-- ![](./images/image041.jpg){width="0.7397364391951006in" height="0.14587270341207348in"}  -->
 (less than or equal to)
 
-For example:
+<p>For example:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -994,9 +967,9 @@ For example:
 </p>
 <!-- ![](./images/image042.jpg){width="15.430272309711286in" height="1.8963462379702538in"}  -->
 
-#### 2.4.4 Logical Operators: Combining Conditions
+<h3 id="ch2-4-4">2.4.4 Logical Operators: Combining Conditions</h3>
 
-Logical operators allow you to combine multiple conditions. They include:
+<p>Logical operators allow you to combine multiple conditions. They include:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1007,8 +980,7 @@ Logical operators allow you to combine multiple conditions. They include:
 </p>
 <!-- ![](./images/image043.jpg){width="1.000206692913386in" height="0.26048665791776027in"}  -->
 
-(logical AND): Returns true if both
-operands are true.
+<p>(logical AND): Returns true if both operands are true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1019,7 +991,7 @@ operands are true.
 </p>
 <!-- ![](./images/image044.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}  -->
 
-! l (logical OR): Returns true if one or both operands are true.
+<p>! l (logical OR): Returns true if one or both operands are true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1030,11 +1002,11 @@ operands are true.
 </p>
 <!-- ![](./images/image038.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
 
+<pre>
 ! (logical NOT): Returns true if the
 operand is false, and vice versa,
-
-These operators are commonly used in conditionals to combine multiple
-conditions:
+</pre>
+<p>These operators are commonly used in conditionals to combine multiple conditions:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1045,37 +1017,37 @@ conditions:
 </p>
 <!-- ![](./images/image045.jpg){width="15.22189523184602in" height="3.438429571303587in"}  -->
 
-Understanding these operators and how to use them effectively is a key
+<p>Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
-calculations to be performed effciently.
+calculations to be performed effciently.</p>
 
-### 2.5 Understanding Operator Precedence
+<h2 id="ch2-5">2.5 Understanding Operator Precedence</h2>
 
-#### 2.5.1 What Is Operator Precedence and Why It Matters
+<h3 id="ch2-5-1">2.5.1 What Is Operator Precedence and Why It Matters</h3>
 
-Operator precedence refers to the rules that determine the order in
+<p>Operator precedence refers to the rules that determine the order in
 which operations are processed in an expression. In JavaScript, as in
 mathematics, certain operations are performed before others unless
-explicitly instructed otherwise with the use of parentheses.
+explicitly instructed otherwise with the use of parentheses.</p>
 
-Understanding operator precedence is crucial because it ensures that
+<p>Understanding operator precedence is crucial because it ensures that
 complex expressions are evaluated as intended without unexpected
 results. For example, arithmetic operations follow the conventional
 order observed in math (multiplication before addition), which impacts
-how an expression is evaluated.
+how an expression is evaluated.</p>
 
-#### 2.5.2 Operator Precedence and Associativity Rules
+<h3 id="ch2-5-2">2.5.2 Operator Precedence and Associativity Rules</h3>
 
-Operators in JavaScript have a specific precedence level, which
+<p>Operators in JavaScript have a specific precedence level, which
 determines the order in which they are evaluated. Operators with higher
-precedence are evaluated before those with lower precedence.
+precedence are evaluated before those with lower precedence.</p>
 
-When operators have the same level of precedence, their associativity
+<p>When operators have the same level of precedence, their associativity
 (left-to-right or right-to-left) determines the order. For instance, the
 assignment operator ( = ) has rightto-left associativity, meaning that
-an expression like = y = is processed as = (y = .5P .
+an expression like = y = is processed as = (y = .5P.</p>
 
-Examples of operator precedence levels from highest to lower:
+<p>Examples of operator precedence levels from highest to lower:</p>
 
 -   Grouping: () has the highest precedence and can alter the natural
     precedence order.
@@ -1108,33 +1080,18 @@ Examples of operator precedence levels from highest to lower:
 </p>
 <!-- ![](./images/image046.jpg){width="0.7397364391951006in" height="0.2813254593175853in"}  -->
 
-#### 2.5.3 Overriding Default Precedence: The Use of Parentheses
+<h3 id="ch2-5-3">2.5.3 Overriding Default Precedence: The Use of Parentheses</h3>
 
-Parentheses () can override the standard order of operations, ensuring
+<p>Parentheses () can override the standard order of operations, ensuring
 that expressions within parentheses are evaluated first, regardless of
 the natural precedence rules. This allows for explicit control over the
-evaluation order in complex expressions.
+evaluation order in complex expressions.</p>
 
-#### 2.5.4 Practical Examples of Operator Precedence in Action
+<h3 id="ch2-5-4">2.5.4 Practical Examples of Operator Precedence in Action</h3>
 
 1.  Without Parentheses:
 
-Multiplication ( the result.
-
-addition
-
-4
-
-is
-
-multiplied
-
-before
-
-adding
-
-2.  With Parentheses:
-
+<p>Multiplication ( the result. addition 4 is multiplied before adding 2.  With Parentheses:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1145,8 +1102,8 @@ adding
 </p>
 <!-- ![](./images/image048.jpg){width="15.430272309711286in" height="1.0627876202974629in"}  -->
 
-Parentheses alter the natural precedence, so 3 is added to 4 before the
-result is multiplied by 5.
+<p>Parentheses alter the natural precedence, so 3 is added to 4 before the result is 
+multiplied by 5.</p>
 
 3.  Combining Different Types:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1159,8 +1116,8 @@ result is multiplied by 5.
 </p>
 <!-- ![](./images/image049.jpg){width="15.430272309711286in" height="1.0836253280839896in"}  -->
 
-Multiplication is performed first, followed by addition and subtraction
-from left to right according to their associativity.
+<p>Multiplication is performed first, followed by addition and subtraction
+from left to right according to their associativity.</p>
 
 4.  Logical Operators:
 
@@ -1174,28 +1131,28 @@ from left to right according to their associativity.
 </p>
 <!-- ![](./images/image050.jpg){width="15.430272309711286in" height="0.9169149168853893in"}  -->
 
-Logical AND ( && ) has a higher precedence than logical OR ( I l &#42; ),
+<p>Logical AND ( && ) has a higher precedence than logical OR ( I l &#42; ),
 but using parentheses can change the evaluation order for clarity or to
-alter the result.
+alter the result.</p>
 
-Understanding and utilizing operator precedence allows for the crafting
+<p>Understanding and utilizing operator precedence allows for the crafting
 of precise and accurate expressions in JavaScript, crucial for
-developing logical and effcient code.
+developing logical and effcient code.</p>
 
 ### Controlling the flow
 
-#### 3.1 Making Decisions: if/else Statements
+<h2 id="ch3-1">3.1 Making Decisions: if/else Statements</h2>
 
-The ability to conditionally execute code allows programs to make
+<p>The ability to conditionally execute code allows programs to make
 decisions based on various criteria, making if/else statements
 fundamental in programming. Here we&#39;ll explore how to use these control
-structures in JavaScript.
+structures in JavaScript.</p>
 
-#### 3.1.1 Understanding if Statements
+<h3 id="ch3-1-1">3.1.1 Understanding if Statements</h3>
 
-An i? statement is the simplest form of control flow, allowing you to
+<p>An i? statement is the simplest form of control flow, allowing you to
 execute a block of code only if a given condition is true. Its basic
-syntax is:
+syntax is:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 51.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1206,7 +1163,7 @@ syntax is:
 </p>
 <!-- ![](./images/image051.jpg){width="15.430272309711286in" height="1.8546675415573053in"}  -->
 
-Example:
+<p>Example:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1217,14 +1174,13 @@ Example:
 </p>
 <!-- ![](./images/image052.jpg){width="15.430272309711286in" height="2.3027055993000873in"}  -->
 
-Here, the message is logged to the console only if the temperature is
-greater than 30.
+<p>Here, the message is logged to the console only if the temperature is greater than 30.</p>
 
 ##### 3.1.2 Utilizing else and else if Clauses
 
-To provide an alternative path when the if&#42; condition is false, you can
+<p>To provide an alternative path when the if&#42; condition is false, you can
 use an else clause. For multiple conditions, else if can be used,
-Syntax:
+Syntax:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 53.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5093,35 +5049,40 @@ scaling your web application. Begin with creating a new directory for
 your project. Within this directory, create subdirectories and files as
 follows:
 
-![](./images/image302.jpg){width="0.30214566929133857in"
-height="0.18755030621172353in"}/css -for storing CSS files. Start with
+<!-- ![](./images/image302.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}  -->
+
+/css -for storing CSS files. Start with
 style.css .
 
-![](./images/image287.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"} /js - for JavaScript files. Start with
-scriptjs .
-![](./images/image303.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"}/images - a directory for all your
-images.
+<!-- ![](./images/image287.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
 
-![](./images/image302.jpg){width="0.30214566929133857in"
-height="0.18755030621172353in"}index.html - your main HTML file at the
-root of the project.
+/js - for JavaScript files. Start with scriptjs.
+
+<!-- ![](./images/image303.jpg){width="0.30214566929133857in" height="0.19797025371828522in"}  -->
+
+/images - a directory for all your images.
+
+<!-- ![](./images/image302.jpg){width="0.30214566929133857in" height="0.18755030621172353in"}  -->
+
+index.html - your main HTML file at the root of the project.
 
 This structure keeps your styles, scripts, and assets separate,
 promoting good organization and easier maintenance.
 
 <h3 id="">12.1.2 Designing the User Interface with HTML and CSS</h3>
 
-The user interface is what your users interact with. HTML provides the
-structure, while CSS styles it.
+The user interface is what your users interact with. HTML provides the structure, while CSS styles it.
 
 1.  HTML: Start by defining the structure of your application in
-    ![](./images/image304.jpg){width="1.9066447944007in"
-    height="0.26048665791776027in"} . Use semantic tags like
-    ![](./images/image305.jpg){width="5.209426946631671e-2in"
-    height="7.293635170603674e-2in"} &#92;<header&#92;> &#92;<footer&#92;> &#92;<nav&#92;> , and
-    &#92;<main&#92;> to outline the main areas.
+
+<!-- ![](./images/image304.jpg){width="1.9066447944007in" height="0.26048665791776027in"}  -->
+
+. Use semantic tags like
+
+<!-- ![](./images/image305.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
+
+<p>&#92;&lt;header&#92;&gt; &#92;&lt;footer&#92;&gt; &#92;&lt;nav&#92;&gt; , and 
+&#92;&lt;main&#92;&gt; to outline the main areas.</p>
 
 2.  CSS: In style.css , define the styles for your application. Utilize
     CSS Flexbox or Grid for layout, set fonts, colors, and styles for
@@ -5129,15 +5090,16 @@ structure, while CSS styles it.
 
 <h3 id="">12.1.3 Adding Interactivity with JavaScript</h3>
 
-JavaScript adds interactivity to your web application.
+<p>JavaScript adds interactivity to your web application.</p>
 
 1.  Connecting JS to HTML: Include your script.js• file before the
     closing
-    ![](./images/image306.jpg){width="1.510728346456693in"
-    height="0.333423009623797in"}tag in your ^Q^ index.html with
-    &#92;<script src=&quot;js/script.js&quot;&#92;>&#92;</script&#92;>
-    ![](./images/image307.jpg){width="0.20837707786526685in"
-    height="0.27090660542432193in"}
+
+<!-- ![](./images/image306.jpg){width="1.510728346456693in" height="0.333423009623797in"}  -->
+
+tag in your ^Q^ index.html with &#92;<script src=&quot;js/script.js&quot;&#92;>&#92;</script&#92;>
+
+<!-- ![](./images/image307.jpg){width="0.20837707786526685in" height="0.27090660542432193in"}  -->
 
 2.  Manipulating the DOM: Use JavaScript to interact with and modify the
     DOM based on user actions. Start by selecting elements using
@@ -5151,9 +5113,11 @@ Event handling is crucial for interactive applications.
 1.  Listening to Events: Add listeners to buttons or other interface
     elements to trigger JavaScript functions. Example:
 
-![](./images/image308.jpg){width="9.522800743657044in"
-height="0.33342410323709537in"}myFunction);![](./images/image309.jpg){width="6.251312335958005e-2in"
-height="7.293744531933509e-2in"}
+<!-- ![](./images/image308.jpg){width="9.522800743657044in" height="0.33342410323709537in"}  -->
+
+myFunction);
+
+<!-- ![](./images/image309.jpg){width="6.251312335958005e-2in" height="7.293744531933509e-2in"}  -->
 
 2.  Manipulating the DOM: Change content, styles, or attributes of HTML
     elements from JavaScript to reflect interaction outcomes. For
@@ -5162,25 +5126,26 @@ height="7.293744531933509e-2in"}
 
 <h3 id="">12.1.5 Fetching Data with AJAX and Updating the UI</h3>
 
-AJAX (Asynchronous JavaScript and XML) allows you to request data from
+<p>AJAX (Asynchronous JavaScript and XML) allows you to request data from
 servers without reloading your page, making your application more
-dynamic and fast.
+dynamic and fast.</p>
 
 1.  Fetch API: Use the Fetch API to make HTTP requests to retrieve data.
     fetch(^l^https://api.example.com/ data).then(response =&#92;>
     responsejson()).then(data = &#92;>
-    console.log(data));![](./images/image310.jpg){width="6.251312335958005e-2in"
-    height="7.293635170603674e-2in"}
+    console.log(data));
+	
+<!-- [](./images/image310.jpg){width="6.251312335958005e-2in" height="7.293635170603674e-2in"}  -->
 
 2.  Updating the UI: Once the data is fetched, use JavaScript to
     dynamically update the DOM to display the new data to the user. This
     could include adding new elements or updating existing ones with the
     fetched data.
 
-By following these steps, you can build a simple yet effective web
+<p>By following these steps, you can build a simple yet effective web
 application that is structured, styled, and interactive. Through
 practicing these skills, you will be well on your way to developing more
-complex web applications.
+complex web applications.</p>
 
 <h3 id="">12.2 Utilizing Local Storage for Data Persistence</h3>
 
@@ -5192,14 +5157,15 @@ persistence effectively.
 
 <h3 id="">122.1 Introduction to Web Storage API</h3>
 
-The Web Storage API offers two storage mechanisms: localstorage&#39; and
+<p>The Web Storage API offers two storage mechanisms: localstorage&#39; and
 sessionStorage ^s^ . Both provide the same methods and properties, but
 their lifespan differs. sessionStorage &#39; maintains a separate storage
 area for each given origin that&#39;s available for the duration of the
-page session. In contrast, localStorage
-![](./images/image311.jpg){width="7.29319772528434e-2in"
-height="7.293635170603674e-2in"}does the same, but persists even when
-the browser is closed and reopened.
+page session. In contrast, localStorage</p>
+
+<!-- ![](./images/image311.jpg){width="7.29319772528434e-2in" height="7.293635170603674e-2in"}  -->
+
+<p>does the same, but persists even when the browser is closed and reopened.</p>
 
 -   Features:
 
@@ -5212,94 +5178,83 @@ the browser is closed and reopened.
 
 <h3 id="">12.2.2 Storing and Retrieving Data with localStorage</h3>
 
-&quot;Storing Data&quot;: To store data in &#39;localStorage , use the setltem()
-method, which accepts a key and a value.
+<p>&quot;Storing Data&quot;: To store data in &#39;localStorage , use the setltem() method, 
+which accepts a key and a value.</p>
 
+<pre>
 local Storage. set Item( key&#39; ,
 
 &#39;value&#39;);
+</pre>
+<!-- ![](./images/image313.jpg){width="0.48968503937007873in" height="8.335629921259842e-2in"}  -->
+<pre>
+javascript localStorage.setItem(lkey&#39;,
+&#39;value&#39;);
+</pre>
+<!-- ![](./images/image314.jpg){width="0.4896839457567804in" height="8.335520559930008e-2in"}  -->
 
-![](./images/image313.jpg){width="0.48968503937007873in"
-height="8.335629921259842e-2in"}javascript localStorage.setItem(lkey&#39;,
-&#39;value&#39;);![](./images/image314.jpg){width="0.4896839457567804in"
-height="8.335520559930008e-2in"}
+<p>Retrieving Data: To retrieve the stored data, use the getltem() method, specifying the key 
+associated with the value you want to retrieve.</p>
 
-Retrieving Data: To retrieve the stored data, use the getltem() method,
-specifying the key associated with the value you want to retrieve.
+<!-- ![](./images/image315.jpg){width="15.430272309711286in" height="2.7715824584426945in"}  -->
 
-![](./images/image315.jpg){width="15.430272309711286in"
-height="2.7715824584426945in"}
+<h3 id="ch12-2-3">12.2.3 Implementing Todo List with Local Storage</h3>
 
-<h3 id="">12.2.3 Implementing Todo List with Local Storage</h3>
+<p>Implementing a todo list that persists tasks across browser sessions is a practical example 
+of localStorage utility.</p>
 
-Implementing a todo list that persists tasks across browser sessions is
-a practical example of localStorage utility.
+<p>1&#92;. Add a Task: When a task is added, store it in &#42; localstorage.</p>
 
-1&#92;. Add a Task: When a task is added, store it in &#42; localstorage .
+<!-- ![](./images/image316.jpg){width="15.430272309711286in" height="3.1258442694663167in"}  -->
 
-![](./images/image316.jpg){width="15.430272309711286in"
-height="3.1258442694663167in"}
-
-![](./images/image317.jpg){width="15.430272309711286in"
-height="7.710417760279965in"}
+<!-- ![](./images/image317.jpg){width="15.430272309711286in" height="7.710417760279965in"}  -->
 
 <h3 id="">122.4 Best Practices for Using Local Storage</h3>
 
--   Do Not Store Sensitive Information:
-    ![](./images/image318.jpg){width="2.0212510936132984in"
-    height="0.333423009623797in"} is not secure. Never store sensitive
-    or personal information in
-    localStorage![](./images/image319.jpg){width="0.19795713035870516in"
-    height="0.26048665791776027in"}
-
--   Stringify Non-String Data: localStorage can only store strings, so
+<ul>
+  <li>Do Not Store Sensitive Information:<br>
+<!-- ![](./images/image318.jpg){width="2.0212510936132984in" height="0.333423009623797in"}  -->
+  is not secure. Never store sensitive or personal information in localStorage</li>
+<!-- ![](./images/image319.jpg){width="0.19795713035870516in" height="0.26048665791776027in"}  -->
+  <li>Stringify Non-String Data: localStorage can only store strings, so
     use ^Q^ JSON.stringify() &#39; to store arrays or objects, and
-    JSON.parse() to read them back into your application.
+    JSON.parse() to read them back into your application.</li>
+  <li>Data Size Limitation: Be mindful of the storage size limit (approximately 5MB). For larger 
+    datasets, consider alternative storage solutions like IndexedDB.</li>
+  <li>Graceful Degradation: Ensure your application can degrade gracefully if &#39; localStorage&#42; 
+    is unavailable or full, maintaining at least basic functionality.</li>
+</ul>
 
--   Data Size Limitation: Be mindful of the storage size limit
-    (approximately 5MB). For larger datasets, consider alternative
-    storage solutions like IndexedDB.
-
--   Graceful Degradation: Ensure your application can degrade gracefully
-    if &#39; localStorage&#42; is unavailable or full, maintaining at least
-    basic functionality.
-
-By following these practices and examples, you can leverage localStorage
-effectively in your web applications to enhance user experience through
-data persistence.
-
+<p>By following these practices and examples, you can leverage localStorage effectively in your 
+web applications to enhance user experience through data persistence.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.3 Deploying Your JavaScript Web Application</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Deploying your web application is a key step in making your project accessible to users 
+around the world. This process involves preparing your application, choosing a hosting service 
+and domain, and ensuring that your application remains up-to-date and monitored after deployment.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12-3-1">12.3.1 Preparing Your Application for Deployment</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Before you deploy your application, it&#39;s important to ensure that it&#39;s ready for 
+the public. Here are some steps to prepare your application for deployment:</p>
 
-Deploying your web application is a key step in making your project
-accessible to users around the world. This process involves preparing
-your application, choosing a hosting service and domain, and ensuring
-that your application remains up-to-date and monitored after deployment.
-
-<h3 id="">12.3.1 Preparing Your Application for Deployment</h3>
-
-Before you deploy your application, it&#39;s important to ensure that it&#39;s
-ready for the public. Here are some steps to prepare your application
-for deployment:
-
--   Optimize Your Code: Minify your JavaScript, CSS, and HTML files to
-    reduce file sizes. Tools like UglifyJS, CleanCSSJ and HTMLMinifier
-    can help with this.
-
--   Use a Content Delivery Network (CDN): For libraries and frameworks,
-    consider using a CDN to improve load times for your users.
-
--   Test on Multiple Devices: Ensure your application works well on
-    various devices and browsers to cater to a broad audience.
-
--   Set up HTTPS: Use SSL/TLS to encrypt data between your website and
-    its users, enhancing security. - Error Handling: Make sure your
-    application has robust error handling to manage any issues that
-    users might encounter gracefully.
-
-<h3 id="">123.2 Selecting a Hosting Service and Domain</h3>
-
-Choose a hosting service that suits the needs of your application. There
-are several options available:
+<ul>
+  <li>Optimize Your Code: Minify your JavaScript, CSS, and HTML files to reduce file sizes. Tools 
+    like UglifyJS, CleanCSSJ and HTMLMinifier can help with this.</li>
+  <li>Use a Content Delivery Network (CDN): For libraries and frameworks, consider using a CDN to 
+    improve load times for your users.</li>
+  <li>Test on Multiple Devices: Ensure your application works well on various devices and browsers 
+    to cater to a broad audience.</li>
+  <li>Set up HTTPS: Use SSL/TLS to encrypt data between your website and its users, enhancing 
+    security. - Error Handling: Make sure your application has robust error handling to manage 
+	any issues that users might encounter gracefully.</li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12-3-2">12.3.2 Selecting a Hosting Service and Domain</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Choose a hosting service that suits the needs of your application. There
+are several options available:</p>
 
 -   Static Site Hosts: Services like GitHub Pages, Netlify, and Vercel
     are excellent, costeffective options for static sites.
@@ -5310,154 +5265,138 @@ are several options available:
 -   Traditional Web Hosts: Companies like GoDaddy and Bluehost provide
     domain registration in addition to hosting services.
 
-Picking a domain name is also crucial as it represents your
+<p>Picking a domain name is also crucial as it represents your
 application&#39;s identity on the web. Keep it short, memorable, and
-relevant to your application.
-
-<h3 id="">123.3 Deploying with GitHub Pages</h3>
-
-GitHub Pages is a convenient and free way to deploy static websites.
-Here&#39;s how to deploy your application using GitHub Pages:
+relevant to your application.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="12-3-3">12.3.3 Deploying with GitHub Pages</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>GitHub Pages is a convenient and free way to deploy static websites. Here&#39;s how to deploy 
+your application using GitHub Pages:</p>
 
 1. Push Your Code to GitHub If you haven&#39;t already, create a
 repository for your project and push your code. 
 
-2. Enable GitHub Pages:
-In your repository settings, find the GitHub Pages section and select
+2. Enable GitHub Pages: In your repository settings, find the GitHub Pages section and select
 the branch you want to deploy from, usually main or &#39; gh-pages &#42; . 
 
 3. Configure: If your project doesn&#39;t reside in the root of the
 repository, specify the folder.
 
 4. Visit Your Site: Your application will be live at
-![](./images/image320.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}https://{username}.github.io/{repository}![](./images/image321.jpg){width="0.20837707786526685in"
-height="0.26048665791776027in"}
 
-<h3 id="">12.3.4 Monitoring and Updating Your Live Application</h3>
+<!-- ![](./images/image320.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}  -->
 
-Once your application is live, it&#39;s vital to keep it running smoothly.
+<p>https://{username}.github.io/{repository}</p>
 
--   Use Monitoring Tools: Services like Google Analytics, Sentry, and
-    LogRocket can help you monitor usage patterns and catch errors.
+<!-- ![](./images/image321.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}  -->
 
--   Regular Updates: Keep your application&#39;s dependencies updated to
-    minimize security risks.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12-3-4">12.3.4 Monitoring and Updating Your Live Application</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Once your application is live, it&#39;s vital to keep it running smoothly.</p>
+<ul>
+  <li>Use Monitoring Tools: Services like Google Analytics, Sentry, and LogRocket can help you 
+    monitor usage patterns and catch errors.</li>
+  <li>Regular Updates: Keep your application&#39;s dependencies updated to minimize security 
+    risks.</li>
+  <li>Feedback Loop: Implement a way to gather user feedback. Continuous improvement based on 
+    user experience is crucial.</li>
+  <li>Performance Optimization: Monitor the performance of your application and optimize as 
+    necessary to ensure fast load times.</li>
+</ul>
 
--   Feedback Loop: Implement a way to gather user feedback. Continuous
-    improvement based on user experience is crucial.
-
--	Performance Optimization: Monitor the performance of your application
-and optimize as necessary to ensure fast load times.
-
-Deploying your JavaScript web application is just the beginning. By
-preparing your application thoroughly, choosing the right hosting
-service, deploying effciently, and committing to regular updates and
-monitoring, you can ensure a successful and sustainable presence on the
-web.
-
-##### 12.4 Where to Go from Here: Continuing Your JavaScript Journey
-
-After getting to grips with the basics and deploying your first
-JavaScript web application, you^l^re likely wondering what&#39;s next.
-JavaScript, being one of the most versatile and widely-used languages in
-web development, offers a plethora of advanced concepts and frameworks
-to explore, opportunities for server-side development, and a rich
-community culture to immerse yourself in.
-
+<p>Deploying your JavaScript web application is just the beginning. By preparing your application 
+thoroughly, choosing the right hosting service, deploying effciently, and committing to regular 
+updates and monitoring, you can ensure a successful and sustainable presence on the web.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12-4">12.4 Where to Go from Here: Continuing Your JavaScript Journey</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>After getting to grips with the basics and deploying your first JavaScript web application, 
+you^l^re likely wondering what&#39;s next. JavaScript, being one of the most versatile and 
+widely-used languages in web development, offers a plethora of advanced concepts and frameworks
+to explore, opportunities for server-side development, and a rich community culture to immerse 
+yourself in.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="">12.4.1 Exploring Advanced JavaScript Concepts</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>As you become more comfortable with JavaScript, diving into its more advanced concepts will 
+greatly enhance your skills and understanding:</p>
 
-As you become more comfortable with JavaScript, diving into its more
-advanced concepts will greatly enhance your skills and understanding:
-
--   Asynchronous Programming: Master promises, async/await for handling
-    asynchronous operations like API calls.
-
--   Functional Programming: Learn about pure functions, immutability,
-    higher-order functions, and how they can lead to cleaner, more
-    robust code.
-
--   ES6 and Beyond: Stay updated with the latest ECMAScript standards,
-    such as template literals, arrow functions, destructuring, and
-    spread operators.
-
--   Design Patterns: Familiarize yourself with common JavaScript design
-    patterns like Module, Observer, and Singleton which can help in
-    structuring your code more emciently.
+<ul>
+  <li>Asynchronous Programming: Master promises, async/await for handling asynchronous operations 
+    like API calls.</li>
+  <li>Functional Programming: Learn about pure functions, immutability, higher-order functions, 
+    and how they can lead to cleaner, more robust code.</li>
+  <li>ES6 and Beyond: Stay updated with the latest ECMAScript standards, such as template literals, 
+    arrow functions, destructuring, and spread operators.</li>
+  <li>Design Patterns: Familiarize yourself with common JavaScript design patterns like Module, 
+    Observer, and Singleton which can help in structuring your code more emciently.</li>
+</ul>
 
 <h3 id="">12.4.2 Learning JavaScript Frameworks and Libraries</h3>
 
-JavaScript frameworks and libraries can significantly streamline the
-development process:
+<p>JavaScript frameworks and libraries can significantly streamline the development process:</p>
 
--   React: Developed by Facebook, React is a declarative, emcient, and
-    flexible JavaScript library for building user interfaces.
+<ul>
+  <li><b>React</b>: Developed by Facebook, React is a declarative, emcient, and flexible JavaScript library 
+    for building user interfaces.</li>
+  <li><b>Angular</b>: A platform and framework for building single-page client applications using HTML and 
+    TypeScript, developed by Google.</li>
+  <li><b>Vue.js</b>: A progressive framework for building UIs, designed from the ground up to be 
+    incrementally adoptable.</li>
+  <li><b>Node.js</b>: Not a framework but a runtime, allows you to run JavaScript on the serverside.</li>
+</ul>
 
--   Angular: A platform and framework for building single-page client
-    applications using HTML and TypeScript, developed by Google.
-
--   Vue.js: A progressive framework for building UIs, designed from the
-    ground up to be incrementally adoptable.
-
--   Node.js: Not a framework but a runtime, allows you to run JavaScript
-    on the serverside.
-
-Experimenting with these technologies not only opens up various paths in
+<p>Experimenting with these technologies not only opens up various paths in
 web development but also significantly boosts your capabilities as a
-developer.
+developer.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12-4-3">12.4.3 JavaScript in Server-Side Development</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>JavaScript is not just for the browser. With Node.js, it has become a powerful tool for 
+server-side development, enabling JavaScript developers to build scalable network applications. 
+Important concepts include:</p>
 
-<h3 id="">12.4.3 JavaScript in Server-Side Development</h3>
+<ul>
+  <li><b>Express.js</b>: A fast, unopinionated, minimalist web framework for Node.js, it 
+    simplifies the process of building server-side routing and middleware.</li>
+  <li><b>Databases</b>: Learn to connect your applications to NoSQL databases like MongoDB or 
+    relational databases like PostgreSQL using JavaScript.</li>
+  <li><b>RESTful API Development</b: Understanding how to design and develop application 
+    programming interfaces (APIs) that adhere to the REST architectural style.
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12-4-4">12.4.4 Joining a Developer Community and Contributing to Open Source Projects</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Becoming part of a developer community can significantly accelerate your learning. It 
+offers the chance to collaborate, get help, and share knowledge.</p>
 
-JavaScript is not just for the browser. With Node.js, it has become a
-powerful tool for server-side development, enabling JavaScript
-developers to build scalable network applications. Important concepts
-include:
+<ul>
+  <li>GitHub: Contribute to open-source projects, share your own projects, and collaborate with 
+    others.</li>
+  <li>Stack Overflow: A question and answer site for professional and enthusiast programmers. A 
+    great place to solve doubts and help others.</li>
+  <li>Developer Meetups and Conferences: Attend to connect with other developers, learn from their 
+    experiences, and stay updated with the latest in technology.</li>
+</ul>
 
--   Express.js: A fast, unopinionated, minimalist web framework for
-    Node.js, it simplifies the process of building server-side routing
-    and middleware.
-
--   Databases: Learn to connect your applications to NoSQL databases
-    like MongoDB or relational databases like PostgreSQL using
-    JavaScript.
-
--   RESTful API Development: Understanding how to design and develop
-    application programming interfaces (APIs) that adhere to the REST
-    architectural style.
-
-<h3 id="">12.4.4 Joining a Developer Community and Contributing to Open Source Projects</h3>
-
-Becoming part of a developer community can significantly accelerate your
-learning. It offers the chance to collaborate, get help, and share
-knowledge.
-
--   GitHub: Contribute to open-source projects, share your own projects,
-    and collaborate with others.
-
--   Stack Overflow: A question and answer site for professional and
-    enthusiast programmers. A great place to solve doubts and help
-    others.
-
--   Developer Meetups and Conferences: Attend to connect with other
-    developers, learn from their experiences, and stay updated with the
-    latest in technology.
-
-Continuing your JavaScript journey involves constant learning and
+<p>Continuing your JavaScript journey involves constant learning and
 staying updated with the latest trends and technologies. By exploring
 advanced concepts, learning frameworks, delving into server-side
 development, and engaging with the community, you not only enhance your
 skills but also open doors to new opportunities and innovations in the
-vast world of web development.
+vast world of web development.</p>
 
-<h3 id="">About the Author</h3>
+<h3 id="about-authors">About the Author</h3>
 
-Programming Hub is a pioneering platform that has revolutionized the way
+<p>Programming Hub is a pioneering platform that has revolutionized the way
 millions of learners engage with coding and computer science, With a
 mission to make programming accessible to all, Programming Hub has
 reached significant milestones, empowering individuals from diverse
-backgrounds to explore the world of programming.
+backgrounds to explore the world of programming.</p>
 
-With over 5 million downloads, and rated as 4.7 on both play store and
+<p>With over 5 million downloads, and rated as 4.7 on both play store and
 app store by more than 183K reviews the Programming Hub app is
 considered to be one of the best app, It is a comprehensive learning
 companion that covers a vast array of programming languages and topics.
@@ -5467,16 +5406,16 @@ Its intuitive interface and gamified learning approach make mastering
 programming languages engaging and accessible. Programming Hub has
 received numerous award. It has been recognized as Google editor&#39;s
 choice in 2017, Google Best App in 2017, Google LaunchPad Accelerator,
-got featured on Product Hunt, received FB Start from Facebook.
+got featured on Product Hunt, received FB Start from Facebook.</p>
 
-Programming Hub offers over 45+ apps for the users and have garnered
+<p>Programming Hub offers over 45+ apps for the users and have garnered
 praise from learners worldwide. Users commend the app&#39;s user-friendly
-interface, engaging content, and effective teaching methodology.
+interface, engaging content, and effective teaching methodology.</p>
 
-Learners of all ages and skill levels have found Programming Hub to be a
+<p>Learners of all ages and skill levels have found Programming Hub to be a
 reliable companion on their coding journey, igniting their passion for
 programming and unlocking their full potential. Other apps mostly used
-apps by users of programming hub are:
+apps by users of programming hub are:</p>
 
 1.  Python
 
@@ -5492,10 +5431,10 @@ apps by users of programming hub are:
 
 7.  C Programming
 
-& more
+<p>& more</p>
 
-That&#39;s all for this Journey fellow sorcerers, but remember, this is
+<p>That&#39;s all for this Journey fellow sorcerers, but remember, this is
 just the beginning! Stay tuned and eagerly await the next volume of this
 enlightening series as we delve deeper into the fascinating world of
 programming and continue our quest for mastery. The adventure is far
-from over!
+from over!</p>
