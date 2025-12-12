@@ -6,6 +6,7 @@ date last editted: "11/16/2024 Sat 8+pm"
 date last editted: "8/17/2025 Sun 3+pm"
 date last editted: "9/11/2025 Thu 11+am"
 date last editted: "9/18/2025 Thu 2+pm"
+date last editted: "12/12/2025 Fri 12+pm"
 
 output: 
   markdown:
@@ -22,55 +23,40 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-basics-unlocked ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/.jpg"
-  style="width:3in;"
+<img src="./images/image005.png"
+  style="width:4in;"
   align="center"
   title="W3Cx logo"
   alt="W3Cx logo." />
 </p>
-
-# **BASICS OF**
-
-# **JAVASCRIPT**
-
-<!-- ![](./images/media/image3.jpg){width="1.5in" height="5.555555555555555e-2in"}  -->
-
-<!-- ![](./images/media/image4.jpg){width="2.7777777777777776e-2in" height="2.7777777777777776e-2in"}  -->
-Unlock the Power of Web Programming
-
-<!-- ![](./images/media/image5.jpg){width="5.0in" height="3.5in"}  -->
-
-US • UK • Europe • UAE , India
-
-Contents
-
-Chapter 1: Exploring the Basics of JavaScript 9
-
-Introduction to JavaScript:
-
-Its Importance and Applications
-
-Writing Your First JavaScript Program: The \"Hello World!\"
-
-How JavaScript Works in Web Pages:
-
-Linking a JavaScript File
-
-Chapter 2: Working with Data in JavaScript 13
-
-Understanding JavaScript Values and Variables
-
-Exploring Data Types:
-
-From Numbers to Strings
-
-Declaring Variables: let, const, and var
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1>BASICS OF</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1>JAVASCRIPT</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Unlock the Power of Web Programming</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="toc">Table of Contents</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch1">Chapter 1: Exploring the Basics of JavaScript</h4>
+<h4 id="ch-1-1">1.1 Introduction to JavaScript:</h4>
+<h4 id="ch1-2">1.2 Its Importance and Applications</h4>
+<h4 id="ch1-3">1.3 Writing Your First JavaScript Program: The &quot;Hello World!&quot;</h4>
+<h4 id="ch1-4">1.4 How JavaScript Works in Web Pages:</h4>
+<h4 id="ch1-5">1.5 Linking a JavaScript File</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch2">Chapter 2: Working with Data in JavaScript</h3>
+<h4 id="ch2-1">2.1 Understanding JavaScript Values and Variables</h4>
+<h4 id="ch2-2">2.2 Exploring Data Types:</h4>
+<h4 id="ch2-3">2.3 From Numbers to Strings</h4>
+<h4 id="ch2-4">2.4 Declaring Variables: let, const, and var</h4>
 
 Performing Operations: Basic Operators
 
 Understanding Operator Precedence
 
-Chapter 3: Controlling the Plow
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch3">Chapter 3: Controlling the Plow</h3>
 
 Making Decisions: if/else Statements
 
@@ -78,7 +64,8 @@ Repeating Actions: for and while Loops
 
 Iterating over Data: Looping Through Arrays
 
-Chapter 4: Functions and Scope 38 Defining and Invoking Functions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch4">Chapter 4: Functions and Scope 38 Defining and Invoking Functions</h3>
 
 Exploring Function Declarations vs. Expressions
 
@@ -86,7 +73,8 @@ Arrow Functions: A Concise Syntax
 
 Scope: Understanding Local vs. Global
 
-Chapter 5: More on Functions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch5">Chapter 5: More on Functions</h3>
 
 Functions Calling Functions: A Deeper Dive
 
@@ -96,7 +84,8 @@ The Power of Return Values
 
 Understanding Callback Functions
 
-Chapter 6: Arrays and Objects
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch6">Chapter 6: Arrays and Objects</h3>
 
 Introduction to Arrays:
 
@@ -106,7 +95,8 @@ Understanding Objects: Key-Value Pairs
 
 Accessing Object Properties: Dot vs. Bracket Notation
 
-Chapter 7: Deeper into Objects
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch7">Chapter 7: Deeper into Objects</h3>
 
 Introduction to Object-Oriented JavaScript
 
@@ -116,7 +106,8 @@ Constructors and Object Instances
 
 Prototypes and Inheritance
 
-Chapter 8: Asynchronous JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id=""ch8">Chapter 8: Asynchronous JavaScript</h3>
 
 Understanding Asynchronous JavaScript:
 
@@ -126,7 +117,8 @@ Making HTTP Requests: Fetch API and AJAX
 
 Handling JSON Data
 
-Chapter 9: Modern JavaScript Developments
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch9">Chapter 9: Modern JavaScript Developments</h3>
 
 ES6 and Beyond:
 
@@ -138,7 +130,8 @@ Template Literals: A New Way to Handle Strings
 
 Destructuring: Making Data Extraction Easier
 
-Chapter 10: The Browser Environment
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch10">Chapter 10: The Browser Environment</h3>
 
 Introduction to the DOM (Document Object Model)
 
@@ -148,7 +141,8 @@ Handling Events: Responding to User Input
 
 Creating and Navigating Between Pages Dynamically
 
-Chapter 11: Debugging and Error Handling
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch11">Chapter 11: Debugging and Error Handling</h3>
 
 Introduction to Debugging in JavaScript
 
@@ -157,8 +151,8 @@ Using Browser Developer Tools
 Understanding Runtime Errors and Handling Exceptions
 
 Best Practices for Debugging
-
-Chapter 12: JavaScript in the Real World
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch12">Chapter 12: JavaScript in the Real World</h3>
 
 Building a Simple Web Application:
 
@@ -170,7 +164,8 @@ Deploying Your JavaScript Web Application
 
 Where to Go from Here: Continuing Your JavaScript Journey
 
-## Preface
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Preface</h2>
 
 <p>Welcome to the dynamic and evolving world of JavaScript programming. This book, &quot;Basics of 
 JavaScript,&quot; opens the door for those embarking on their journey into the vast landscape of 
@@ -187,55 +182,52 @@ of designing cutting-edge web interfaces, developing server-side applications wi
 venturing into the territories of mobile app development and the Internet of Things (IoT), 
 JavaScript will be your guide and companion.</p>
 
-<p>AS you navigate through Basics of JavaScript,\" you will be introduced
-to the core principles of JavaScript in manner that is both thorough and
-accessible Our educational philosophy emphasizes clarity and engagement,
-ensuring that beginners can understand the intricacies of JavaScript
-without feeling overvthelmed. Imagine diving into the subject matter
-through conversation with a mentor, one who uses real-world examples,
-practical demonstrations, and a touch of humor to bring the essence of
-JavaScript to lifer.</p>
+<p>AS you navigate through "Basics of JavaScript", you will be introduced to the core principles 
+of JavaScript in manner that is both thorough and accessible Our educational philosophy emphasizes 
+clarity and engagement, ensuring that beginners can understand the intricacies of JavaScript 
+without feeling overvthelmed. Imagine diving into the subject matter through conversation with a 
+mentor, one who uses real-world examples, practical demonstrations, and a touch of humor to bring 
+the essence of JavaScript to lifer.</p>
 
 <p>Our intention is to ignite your passion for learning and to make your
 educational journey as exhilarating as it is enlightening. We believe
 that the process Of mastering JavaScript should spark curiosity,
-challenge your thinking, and ultimately, be immensely reward_ing. TC
-facilitate th_is, the book includes a variety Of exercises, projects,
-and hands•cn e_xamples, encouraging you to apply What ycuve learned and
+challenge your thinking, and ultimately, be immensely rewarding. To facilitate this, the book includes a variety Of exercises, projects,
+and hands-on examples, encouraging you to apply what you've learned and
 experiment beyond the page. These activities are not just instructional;
-they are invitations to ex• plore the limitless possibilities that
+they are invitations to explore the limitless possibilities that
 JavaScript offers.</p>
 
-<p>Commencing with \"Basics of JavaScript\" is merely the first step into a
+<p>Commencing with "Basics of JavaScript" is merely the first step into a
 broadere constantly changing universe ofdevelopment opportunities. The
 field ofJavaScript is vibrant, with new frameworks, libraries, and best
-practices emerging regularly We u_rge you to maintain a spirit of
+practices emerging regularly We urge you to maintain a spirit of
 exploration, to delve into the expansive ecosystems of front-end and
 back-end JavaScript, and to always seek new problems to solve.</p>
 
 <p>AS we embark on this voyage through the fascinating realm of JavaScript,
-let\'S carry forward the traits of innovation, creativity, and the joy
+let's carry forward the traits of innovation, creativity, and the joy
 of solving problems that are at the heart of programming Were thrilled
-to guide you on this path and can\'t wait to see the amazing projects
+to guide you on this path and can't wait to see the amazing projects
 and solutions you!ll craft with JavaScript, Heres to a journey of
 creativity, discovery, and the joy of coding in JavaScript, Welcome to
-\"Basics of JavaScript,\"</p>
+"Basics of JavaScript,"</p>
 
 <p>Happy coding!</p>
 
-## Acknowledgements
+<h3>Acknowledgements</h3>
 
-<p>We, at Programming Hub, are thrilled to present this book, \"Basics
-OfJavaScript: Unlock the Power Of Web Programming,\" to the aspiring
-architects ofthe digital world, This book stands as a testament to the
-collective efforts and unwavering dedication cf our team Ofexperts in
+<p>We, at Programming Hub, are thrilled to present this book, "Basics
+of JavaScript: Unlock the Power Of Web Programming", to the aspiring
+architects of the digital world. This book stands as a testament to the
+collective efforts and unwavering dedication cf our team of experts in 
 programming and instructional design.</p>
 <!-- ![](./images/media/image6.jpg){width="3.125546806649169e-2in" height="3.1258748906386705e-2in"}  -->
 
 <p>First and foremost, we extend our deepest gratitude to all the engineers
 developers, and educators who have shared their knowledge, expertise,
 and passion Their commitment to excellence and their profound
-understanding ofJavaScript have been pivotal in creating a comprehensive
+understanding of JavaScript have been pivotal in creating a comprehensive
 guide for learning JavaScript.</p>
 <!-- ![](./images/media/image7.jpg){width="4.167541557305337e-2in" height="2.083880139982502e-2in"}  -->
 
@@ -246,8 +238,8 @@ engaging writing style and a dedication to clarity, has rendered this
 book an invaluable resource for learners at various stages of their
 journey.</p>
 
-<p>We are thankful for the reviewers Who provided constructive feedback and
-insights throughout the bookis development. Their keen observations and
+<p>We are thankful for the reviewers who provided constructive feedback and
+insights throughout the books' development. Their keen observations and
 meticulous attention to detail have greatly contributed to refining the
 content, ensuring both its accuracy and effectiveness.</p>
 
@@ -267,11 +259,11 @@ book
 <p>Lastly we acknowledge our entire team at Programming Hub, whose
 relentless pursuit of excellence and dedication to enriching the
 learning experience have brought this endeavor to fruition, 
-we envisage that \"Basics Of JavaScript: Unlock the Power Of Web
+we envisage that "Basics Of JavaScript: Unlock the Power Of Web
 Programming • Will spark your curiosity, bolster your learning, and
-equip you With the competencies necessary to navigate the vast landscape
-Of JavaScript programming, May your voyage through the world Of
-JavaScript be marked by discovery, growth, and the exhilara• tion Of
+equip you with the competencies necessary to navigate the vast landscape
+of JavaScript programming, May your voyage through the world of
+JavaScript be marked by discovery, growth, and the exhilaration of
 unlocking the vast potential this language holds.</p>
 
 <p>Happy ccd_ing and may you harness the full power Of JavaScript in your
@@ -312,10 +304,10 @@ process because the same language can be used across the entire stack.</p>
 
 ### 1.1.3 Applications: From Web Pages to Server-Side Development
 
-<p>JavaScript\'s applications extend far beyond simple animations and
+<p>JavaScript's applications extend far beyond simple animations and
 validations on web pages. With the advent of sophisticated frameworks
 and tools, it now powers complex web applications, mobile apps, games,
-and even Internet of Things (IOT) devices. JavaScript\'s non-blocking,
+and even Internet of Things (IOT) devices. JavaScript's non-blocking,
 event-driven nature makes it particularly well-suited for developing
 real-time applications, such as chatting apps and live content updates.</p>
 
@@ -336,22 +328,22 @@ codebases. They come with pre-written code for common tasks, letting
 developers focus on the unique aspects of their projects rather than
 reinventing the wheel for basic functionalities.</p>
 
-<p>JavaScript\'s importance in the web development landscape cannot be
+<p>JavaScript's importance in the web development landscape cannot be
 overstated. Its evolution from a simple scripting language to a
 versatile, full-stack development tool demonstrates its vital role in
-crafting modern web experiences. By understanding JavaScript\'s core
+crafting modern web experiences. By understanding JavaScript's core
 principles and learning to leverage its frameworks and libraries,
 developers can build emcient, interactive, and dynamic web applications
 that stand out in the digital age.</p>
 
-### 1.2 Writing Your First JavaScript Program: The \"Hello World!\"
+### 1.2 Writing Your First JavaScript Program: The "Hello World!"
 
 ### 1.2.1 Understanding the Structure of a JavaScript Program
 
 <p>A JavaScript program is made up of statements that are executed by the browser in the 
 order in which they appear. At its core, a JavaScript program can be as simple as a single 
 line of code intended to perform a specific task. Each statement in JavaScript is usually 
-followed by a semicolon (;) to mark the end of the current statement, although it\'s important 
+followed by a semicolon (;) to mark the end of the current statement, although it's important 
 to note that JavaScript engines can interpret the end of statements even without the semicolon, 
 thanks to Automatic Semicolon Insertion (ASI).
 
@@ -360,47 +352,47 @@ repeating actions, functions to organize code into reusable blocks, and
 much more. The basic structure hinges on these constructs to build more
 complex operations and workflows.</p>
 
-### 1.2.2 Creating a Simple \"Hello World!\" Script
+### 1.2.2 Creating a Simple "Hello World!" Script
 
-<p>The \"Hello World!\" program is a simple exercise that prints the string
-\"Hello, World!\" on the screen. It is a traditional way to introduce a
-new programming language. Here\'s how you can create a \"Hello World!\"
+<p>The "Hello World!" program is a simple exercise that prints the string
+"Hello, World!" on the screen. It is a traditional way to introduce a
+new programming language. Here's how you can create a "Hello World!"
 script in JavaScript:</p>
 
-#### console. log( \'Hello, World! i ) ;
+#### console. log( 'Hello, World! i ) ;
 
 #### 
 
 <p>This single line of JavaScript code can be included in an HTML file
-within \<script\> tags, or in an external JavaScript file, to display
-the message in the web browser\'s console.</p>
+within &lt;script&gt; tags, or in an external JavaScript file, to display
+the message in the web browser's console.</p>
 
-### 1 .2.3 Using the Browser Console to Execute JavaScript
+### 1.2.3 Using the Browser Console to Execute JavaScript
 
 <p>One of the easiest ways to run JavaScript code is using the browser&pos;s console. The console is part of the web browser&apos;s developer tools, and it provides a way to write, manage, and monitor JavaScript on demand.</p>
 
-1.  Open the Console: Right-click on a webpage, select \"Inspect\" (or
-    press F12 / Cmd+Opt+I on Mac), and navigate to the \"Console\" tab
+1.  Open the Console: Right-click on a webpage, select "Inspect" (or
+    press F12 / Cmd+Opt+I on Mac), and navigate to the "Console" tab
 
 2.  Write JavaScript Code: Type your JavaScript code directly into the
-    console. For example, \'console.log(^I^Hello, World!l); and then
+    console. For example, 'console.log(^I^Hello, World!l); and then
     press Enter.
 
-3.  View Output: Immediately after execution, you\'ll see the output
-    (\"Hello, World!\") displayed in the console.
+3.  View Output: Immediately after execution, you'll see the output
+    ("Hello, World!") displayed in the console.
 
 <p>Using the console is a great way to test and debug small snippets of JavaScript code.</p>
 
 ### 1 .2.4 Best Practices for Writing and Organizing Your JavaScript Code
 
-<p>As you learn to write more complex JavaScript programs, it\'s important
+<p>As you learn to write more complex JavaScript programs, it's important
 to follow best practices to ensure your code is readable, maintainable,
 and effcient:</p>
 
 -   Use Meaningful Variable Names: Choose clear and descriptive names
     for variables and functions.
 
--   Stay Consistent with Style: Whether it\'s how you name variables or
+-   Stay Consistent with Style: Whether it's how you name variables or
     how you layout your code, pick a style and stick with it.
 
 -   Comment Your Code: Use comments to explain the purpose of blocks of
@@ -427,7 +419,7 @@ journey.</p>
 
 <p>In JavaScript, the concept of values and variables is foundational. A
 value refers to the actual data represented in the program, such as a
-number (e.g., 5 or 2.14 ^Q^ ), a string (e.g., \' \"Hello, world!\" ),
+number (e.g., 5 or 2.14 ^Q^ ), a string (e.g., ' "Hello, world!" ),
 or a Boolean ( true or false Essentially, values are the bits of data
 that we manipulate using our programs.</p>
 
@@ -448,17 +440,17 @@ of data held in memory. When we use a value in a program, we are
 directly referring to that data.</p>
 
 <p>Variables, however, are mutable references to values. A variable does
-not \"contain\" the data; it merely points to the value in memory. This
+not "contain" the data; it merely points to the value in memory. This
 distinction matters when we start performing operations on variables or
 when we assign a new value to a variable. The content of the memory
 location pointed to by the variable can change, but the value itself
-(for example, the number 42 or the string \"hello\" ) is immutable.</p>
+(for example, the number 42 or the string "hello" ) is immutable.</p>
 
 ### 2.1.3 Declaring Variables in JavaScript
 
-<p>JavaScript provides three keywords for declaring variables: var let\', and const.</p>
+<p>JavaScript provides three keywords for declaring variables: var let', and const.</p>
 
--   var: Before ES6 (ECMAScript 2015), ^Q^ var\* was the only way to
+-   var: Before ES6 (ECMAScript 2015), ^Q^ var* was the only way to
     declare a variable in JavaScript. Variables declared with var have
     function scope or are globally scoped if declared outside of a
     function, One of the downsides is that var declarations can lead to
@@ -466,7 +458,7 @@ location pointed to by the variable can change, but the value itself
 
 -   let: Introduced in ES6, ^q^ let allows developers to declare
     block-scoped variables, significantly improving code manageability
-    by confining the variable\'s scope to the block in which it is
+    by confining the variable's scope to the block in which it is
     declared.
 
 -   const: Also introduced in ES6, const is used to declare variables
@@ -483,22 +475,22 @@ name: let age = 30;</p>
 follow:</p>
 
 -   Use descriptive and meaningful names that clearly indicate what data
-    the variable represents. For example, use userName instead of str\'
+    the variable represents. For example, use userName instead of str'
     or ^q^
     n![](./images/media/image10.jpg){width="0.20837707786526685in"
     height="0.26048665791776027in"}
 
--   Stick to camelCase for variable names (e.g., \* userProfile
+-   Stick to camelCase for variable names (e.g., * userProfile
     isLoading ).
 
--   For const\* variables that hold constant values, it\'s common to use
+-   For const* variables that hold constant values, it's common to use
     UPPER_CASE with underscores (e.g.,
 
 <!-- ![](./images/media/image11.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 MAX_USERS ,
 <!-- ![](./images/media/image12.jpg){width="1.5211472003499562in" height="0.29174540682414696in"} ).  -->
 
--   Avoid using JavaScript reserved words (like new \'class function \'
+-   Avoid using JavaScript reserved words (like new 'class function '
     ) as variable names.
 
 <!-- ![](./images/media/image13.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
@@ -533,10 +525,10 @@ controlling flow with booleans to representing and manipulating data with number
 
 ### 2.2.2 Understanding Numbers and Mathematical Operations
 
-<p>In JavaScript, the Number\* type represents both integers and floating-point numbers. Arithmetic 
-operations such as addition ( \* + \' subtraction ( - \' ), multiplication ( \* \' ), and division 
+<p>In JavaScript, the Number* type represents both integers and floating-point numbers. Arithmetic 
+operations such as addition ( * + ' subtraction ( - ' ), multiplication ( * ' ), and division 
 C / • ) are available for constructing expressions with numbers. Special numerical values under the 
-Number type also exist, including Infinity -Infinity, and \* NaN (Not a Number). Examples of numerical operations:
+Number type also exist, including Infinity -Infinity, and * NaN (Not a Number). Examples of numerical operations:
 
 ![](./images/media/image14.jpg){width="10.159022309711286in"
 height="1.51082895888014in"}
@@ -550,16 +542,16 @@ height="0.31258530183727035in"}
 ### 2.2.3 Working with Strings: Creating and Manipulating Text
 
 Strings in JavaScript are sequences of characters used to represent
-text. They can be defined using single quotes ( double quotes C \' or
-backticks (X ^Q^ \\ \* ) for template literals, which allow for
+text. They can be defined using single quotes ( double quotes C ' or
+backticks (X ^Q^  * ) for template literals, which allow for
 multi-line
 
-strings and embedding variables using \$1) syntax.
+strings and embedding variables using $1) syntax.
 
 String operations and methods are crucial for text manipulation,
 including:
 
--   Concatenation: Combining strings using the + \* operator or the \'
+-   Concatenation: Combining strings using the + * operator or the '
     concat() method.
 
 -   Slicing: Extracting a portion of a string using the slice() method,
@@ -580,7 +572,7 @@ manipulation:
 ### 2.2.4 Boolean, Null, and Undefined: Special Data Types
 
 -   Booleans represent logical values and can be either or . They are
-    often used in control structures like if\' statements to determine
+    often used in control structures like if' statements to determine
     the flow of a program.
 
 -   null is a special value in JavaScript that represents a deliberate
@@ -605,7 +597,7 @@ which more complex structures and logic are built.
     hoisting (which means they can be referenced in code before they are
     declared).
 
--   let: Introduced in ES6 (ECMAScript 2015), \* let\* allows the
+-   let: Introduced in ES6 (ECMAScript 2015), * let* allows the
     declaration ofblock-scoped variables, significantly reducing the
     scope in which a variable is visible compared to %vrar• . Variables
     declared with
@@ -615,8 +607,8 @@ which more complex structures and logic are built.
 
 -   const: Also introduced in ES6, const is used for declaring variables
     that are meant to remain constant after their initial assignment
-    (i.e., they cannot be reassigned). Like \'let const provides
-    block-level scope. It\'s important to note that while the variable
+    (i.e., they cannot be reassigned). Like 'let const provides
+    block-level scope. It's important to note that while the variable
     reference is immutable, the object it points to can still be mutated
     if it is an object.
 
@@ -625,18 +617,18 @@ which more complex structures and logic are built.
 The choice between let and const should be guided by the intended use
 ofthe variable:
 
--   Use const\' by default for declaring variables that should not
+-   Use const' by default for declaring variables that should not
     change after their initial assignment. This communicates intent to
     other developers and leads to safer, more predictable code.
 
--   Use \*let for variables that are expected to change, such as
+-   Use *let for variables that are expected to change, such as
     counters in a loop, or values that get reassigned during the
     execution of a function.
 
 By following this approach, code maintainability and readability are
 improved.
 
-### 2.3.3 The Scope of let • , \' const , and var![](./images/media/image19.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}
+### 2.3.3 The Scope of let • , ' const , and var![](./images/media/image19.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}
 
 -   var: Variables declared with •var are either function-scoped or
     global-scoped, meaning they are visible throughout the entire
@@ -644,20 +636,20 @@ improved.
     function.
 
 -   let and const: Both of these keywords allow for block-scoping, which
-    limits the visibility of a variable to the block in which it\'s
+    limits the visibility of a variable to the block in which it's
     declared (a block is defined by curly braces {l This is a crucial
     feature for managing variable lifecycle and avoiding unintentional
     interference between different parts of a program.
 
 ### 2.3.4 Examples and Common Pitfalls
 
-\- Hoisting: var declarations are hoisted to the top of their scope,
+- Hoisting: var declarations are hoisted to the top of their scope,
 which can lead to surprising behavior if not understood properly.
 
 ![](./images/media/image20.jpg){width="8.0in" height="0.75in"}
 
 ![](./images/media/image21.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}let\' and const are also hoisted but not
+height="7.293635170603674e-2in"}let' and const are also hoisted but not
 initialized, which means they cannot be
 
 accessed before their declaration due to the temporal dead zone. - Block
@@ -672,61 +664,65 @@ cases, is critical for writing robust and error-free JavaScript code.
 ### 2.4.1 Arithmetic Operators and Their Use
 
 Arithmetic operators in JavaScript include the more familiar ones such
-as addition ( + ), subtraction (
-![](./images/media/image23.jpg){width="0.6388888888888888in"
-height="0.3194444444444444in"}multiplication ( \* ), and division ( /
-There are also the modulus or remainder operator C % ), which returns
-the remainder of a division, increment ( + + and decrement ( ) operators
+as addition ( + ), subtraction ( - }
+multiplication ( * ), and division ( / ).
+There are also the modulus or remainder operator ( % ), which returns
+the remainder of a division, increment ( ++ ) and decrement ( -- ) operators
 that increase or decrease a number by one, respectively. These operators
 are used to perform mathematical calculations. For example:
 
-![](./images/media/image24.jpg){width="8.0in" height="1.75in"}
+<!-- ![](./images/media/image24.jpg){width="8.0in" height="1.75in"} -->
 
 ### 2.4.2 String Operators for Concatenation
 
 In JavaScript, the + • operator is also used for concatenating strings.
 When a operator is used with strings, it joins them together into one:
 
-let greeting = \"Hello, \' + [\"world!]{.underline} \" , //
-\"[Hello]{.underline}, [world!]{.underline} \"
+let greeting = "Hello, " + "world! " , // "Hello, world! "
 
 Template literals, introduced in ES6, offer a more powerful way to
 create and manipulate strings. Enclosed by
 
-backticks (\\ \\ they can contain placeholders marked by \${expression)
+backticks (\\ \\ they can contain placeholders marked by &dollar;{expression)
 , which are replaced by the values of the expressions:
 
-![](./images/media/image25.jpg){width="8.0in" height="1.0in"}
+<!-- ![](./images/media/image25.jpg){width="8.0in" height="1.0in"}  -->
 
 ### 2.4.3 Comparison Operators and Evaluating Conditions
 
 Comparison operators are used to compare two values and return a Boolean
 value, either true or false . These include:
 
-![](./images/media/image26.jpg){width="0.8855993000874891in"
-height="0.18755030621172353in"}(equal to)
+<!-- ![](./images/media/image26.jpg){width="0.8855993000874891in"
+height="0.18755030621172353in"} -->
 
-![](./images/media/image27.jpg){width="1.0835575240594926in"
-height="0.19797025371828522in"} (strictly equal to, meaning equal in
+(equal to)
+
+<!-- ![](./images/media/image27.jpg){width="1.0835575240594926in"
+height="0.19797025371828522in"} -->
+
+(strictly equal to, meaning equal in
 value and type)
 
-![](./images/media/image28.jpg){width="0.781411854768154in"
-height="0.26048665791776027in"}(not equal to)
+<!-- ![](./images/media/image28.jpg){width="0.781411854768154in"
+height="0.26048665791776027in"} -->
+(not equal to)
 
-![](./images/media/image29.jpg){width="0.9689501312335957in"
-height="0.26048665791776027in"} (strictly not equal to)
+<!-- ![](./images/media/image29.jpg){width="0.9689501312335957in"
+height="0.26048665791776027in"} -->
 
-![](./images/media/image30.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"} \> (greater than)
+(strictly not equal to)
 
-![](./images/media/image31.jpg){width="0.7084798775153106in"
-height="0.21880905511811025in"}(less than)
+&gt; (greater than)
 
-![](./images/media/image32.jpg){width="0.8855993000874891in"
-height="0.21880905511811025in"} (greater than or equal to)
+- (less than)
 
-![](./images/media/image33.jpg){width="0.7397364391951006in"
-height="0.14587270341207348in"}(less than or equal to)
+&gt;= (greater than or equal to)
+
+<!-- ![](./images/media/image33.jpg){width="0.7397364391951006in"
+height="0.14587270341207348in"} -->
+
+&lt;= (less than or equal to)
 
 For example:
 
@@ -738,23 +734,27 @@ height="1.8963462379702538in"}
 Logical operators allow you to combine multiple conditions. They
 include:
 
-![](./images/media/image35.jpg){width="1.000206692913386in"
-height="0.26048665791776027in"} (logical AND): Returns true if both
+<!-- ![](./images/media/image35.jpg){width="1.000206692913386in"
+height="0.26048665791776027in"} -->
+(logical AND): Returns true if both
 operands are true.
 
-![](./images/media/image36.jpg){width="0.30214566929133857in"
-height="0.18755030621172353in"} I l (logical OR): Returns true if one or
+<!-- ![](./images/media/image36.jpg){width="0.30214566929133857in"
+height="0.18755030621172353in"} -->
+
+I l (logical OR): Returns true if one or
 both operands are true.
 
-![](./images/media/image30.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"} ! (logical NOT): Returns true if the
+<!-- ![](./images/media/image30.jpg){width="0.30214566929133857in"
+height="0.19797025371828522in"} -->
+! (logical NOT): Returns true if the
 operand is false, and vice versa,
 
 These operators are commonly used in conditionals to combine multiple
 conditions:
 
-![](./images/media/image37.jpg){width="15.22189523184602in"
-height="3.438429571303587in"}
+<!-- ![](./images/media/image37.jpg){width="15.22189523184602in"
+height="3.438429571303587in"} -->
 
 Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
@@ -783,7 +783,7 @@ precedence are evaluated before those with lower precedence.
 
 When operators have the same level of precedence, their associativity
 (left-to-right or right-to-left) determines the order. For instance, the
-assignment operator ( = ) has rightto-left associativity, meaning that
+assignment operator ( = ) has right to-left associativity, meaning that
 an expression like = y = is processed as = (y = .5P .
 
 Examples of operator precedence levels from highest to lower:
@@ -802,13 +802,14 @@ Examples of operator precedence levels from highest to lower:
 
 -   Equality:
 
-\- Logical AND: \'
+- Logical AND: &apos;
 
 -   Logical OR:
 
 -   Assignment: ,
-    and![](./images/media/image38.jpg){width="0.7397364391951006in"
-    height="0.2813254593175853in"}
+    and 
+<!-- ![](./images/media/image38.jpg){width="0.7397364391951006in"
+    height="0.2813254593175853in"} -->
 
 ### 2.5.3 Overriding Default Precedence: The Use of Parentheses
 
@@ -825,23 +826,23 @@ Multiplication ( the result.
 
 2.  With Parentheses:
 
-Let result = (3 + 4) \* 5; // (7) \* 5 = 35
+Let result = (3 + 4) &ast; 5; // (7) &ast; 5 = 35
 
 Parentheses alter the natural precedence, so 3 is added to 4 before the
 result is multiplied by 5.
 
 3.  Combining Different Types:
 
-Let combined = 3 + 4 \* 2 -- 1; // 3 + (4\*2) -- 1 = 10
+Let combined = 3 + 4 &apos; 2 -- 1; // 3 + (4&apos;2) -- 1 = 10
 
 Multiplication is performed first, followed by addition and subtraction
 from left to right according to their associativity.
 
 4.  Logical Operators:
 
-![](./images/media/image39.jpg){width="8.0in" height="0.5in"}
+<!-- ![](./images/media/image39.jpg){width="8.0in" height="0.5in"}  -->
 
-Logical AND ( && ) has a higher precedence than logical OR ( I l \* ),
+Logical AND ( && ) has a higher precedence than logical OR ( I l &apos; ),
 but using parentheses can change the evaluation order for clarity or to
 alter the result.
 
@@ -4697,19 +4698,19 @@ the branch you want to deploy from, usually main or \' gh-pages \* . 3.
 Configure: If your project doesn\'t reside in the root of the
 repository, specify the folder.
 
-4\. Visit Your Site: Your application will be live at
+4. Visit Your Site: Your application will be live at
 ![](./images/media/image302.jpg){width="5.209426946631671e-2in"
 height="6.251749781277341e-2in"}https://{username}.github.io/{repository}![](./images/media/image303.jpg){width="0.20837707786526685in"
 height="0.26048665791776027in"}
 
 ### 12.3.4 Monitoring and Updating Your Live Application
 
-Once your application is live, it\'s vital to keep it running smoothly.
+Once your application is live, it's vital to keep it running smoothly.
 
 -   Use Monitoring Tools: Services like Google Analytics, Sentry, and
     LogRocket can help you monitor usage patterns and catch errors.
 
--   Regular Updates: Keep your application\'s dependencies updated to
+-   Regular Updates: Keep your application's dependencies updated to
     minimize security risks.
 
 -   Feedback Loop: Implement a way to gather user feedback. Continuous
@@ -4727,7 +4728,7 @@ web.
 ### 12.4 Where to Go from Here: Continuing Your JavaScript Journey
 
 After getting to grips with the basics and deploying your first
-JavaScript web application, you^l^re likely wondering what\'s next.
+JavaScript web application, you^l^re likely wondering what's next.
 JavaScript, being one of the most versatile and widely-used languages in
 web development, offers a plethora of advanced concepts and frameworks
 to explore, opportunities for server-side development, and a rich
