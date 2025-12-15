@@ -1,26 +1,71 @@
----
-title: "JS-Basics-Unlock: JavaScript Introduction"
-author: "bbauska"
-date created: "11/16/2024 Sat 8+pm"
-date last editted: "11/16/2024 Sat 8+pm"
-date last editted: "8/17/2025 Sun 3+pm"
-date last editted: "9/11/2025 Thu 11+am"
-date last editted: "9/18/2025 Thu 2+pm"
-date last editted: "12/12/2025 Fri 12+pm"
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ index.html of bbauska/js-unlock-js making js-unlock-js.bauska.org ~~~~~~~~~~~~-->
+<head>
+  <meta charset="utf-8">
 
-output: 
-  markdown:
-    with some style
----
+  <!-- meta viewport, title, desc, robot for SEO -->
+  <meta name="author" content="Brian Bauska">
+  <meta name="title" content="JS Unlock JavaScript">
+  <meta name="description" content="JS unlock JavaScript.">
+  <meta name="keywords" content="website,web site,zombie,Politics,culture,casino,capitalism,capitalize,
+    political,disposability,death,America,culture,power,society,greed,avarice,excess,gluttony,selfishness,
+    MIC,Military,Industrial,Complex,corruption,Dulles,Bush,Reagan,justice,youth,democracy,psychology,
+    ideology,governance,spectacle,casino capitalism,zombie,steak,Steak,YouTube,Sonic,sonic,SONIC,
+    Silus,Gaming,World,Silus Gaming World,Luccas Neto,T-Series,SET India,Cocomelon,Mr Beast,MrBeast,
+    Beast,CE1,C-E-1,MRBEAST,BEAST,Silus Gaming World,Silus,Silus Spider,Nick AR,Nick,NY,NYNick,
+    New York Nick,NY Nick,UR Cristiano,UR,Cristiano,Kids Dima Show,Vlad and Niki,Luisito Comunica,
+    Bright Side,Zee TV,Dude Perfect,Tips Official,Tips Official,FNAF,Five Nights at Freddies,
+    The Music Company,PewDiePie,5 minute crafts,A4,Sambucha,Sam & Colby,Sam&ColbyReacts,Juice World,
+    Ray William Johnson,FGTV,KaicenatLive,IShowSpeed,Jelly,DanTDM,KSI,Logan Paul,JackSucksAtLife,
+    PackGOD,JakePaul,Jake,Paul Jake Paul,SamGaming01,Veshreny,WWE,WorldWrestlingEntertainment,
+    Smosh,DadsSpeed,TopperGuild,InternetAnarchist,GuavaJuice,Fortnite Youtubers,Sypherpk,LiveSPEEDY,
+    AdenRoss,Preston,JohnnieJuilbert,YouTube Movies,AnnoyingOrange,JackSepticeye,JackFilms,BBNo$,
+    Unspeakable,MarkRober,TheFilmTheorist,TheGameTheorist,Minecraft,TheBoys,JTMusic,DAFUQBoom!?,
+    AIMIN,Robby,BrentTV,EYStream,Fortnite,Ninja,SunnyV2,N30N,SamFrank,Dream,Technoblade,
+    RyanTrhan,Stellar,DJCook,AnthonyMadia,AnthonyIlla,SmoshGaming,SmoshPit,SmoshCast,Fred,cellardoor,
+    Brian's Blog,Cellar Door">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="robots" content="index, follow">
+  <link rel="manifest" href="manifest.json">
+  <title>JS Unlock JavaScript</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico">
+  <link rel="canonical" href="https://js-unlock.bauska.org">
+
+  <!-- favicon images -->
+  <link rel="shortcut icon" type="image/jpg" href="/images/favicon/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png" />
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png" />
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
+  <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png" />
+  <meta name="theme-color" content="#ffffff" />
+</head>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<body>
+
+title: "JS Unlock JavaScript: JavaScript Introduction"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 style="text-align:center">Basics of JS: Unlock the Power of Web Programming</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 style="text-align:center">JS Basics Unlock JavaScript</h2>
+<h2 style="text-align:center">JS Unlock JavaScript</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-basics-unlocked ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-unlock-javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image005.png"
@@ -1782,7 +1827,7 @@ more complex ones. Return values are crucial for composition because
 they enable the output of one function to flow seamlessly into the input
 of another.
 
-### 5.3.3 Error Handling via Return Values
+<h3 id="ch5-3-3">5.3.3 Error Handling via Return Values</h3>
 
 Functions can use return values to indicate success or failure, making
 error handling more predictable. This strategy often involves returning
@@ -1794,13 +1839,11 @@ operation.
 By checking the success property, other parts of the code can
 appropriately respond to the outcome of the function.
 
-### 5.3.4 Early Returns for Cleaner Code
+<h3 id="ch5-3-4">5.3.4 Early Returns for Cleaner Code</h3>
 
 Using early returns is a strategy to improve code readability by exiting
 a function as soon as a certain condition is met, avoiding deep nesting
-of if-else statements and making the principal action of the func-
-
-tion clear.
+of if-else statements and making the principal action of the function clear.
 
 ![](./images/media/image117.jpg){width="8.0in" height="4.5in"}
 
@@ -1934,7 +1977,7 @@ functions\' full power to achieve sophisticated functionalities.
 
 ### Arrays and Objects
 
-### 6.1 Introduction to Arrays: Handling Collections of Data
+<h3 id="ch6-1">6.1 Introduction to Arrays: Handling Collections of Data</h3>
 
 Arrays in JavaScript are used to store multiple values in a single
 variable. They are objects that represent a collection of similar type
@@ -1942,17 +1985,15 @@ of elements. Arrays provide various methods to perform traversal and
 mutation operations. Lets dive into creating, initializing, and
 manipulating arrays.
 
-### 6.1.1 Creating and Initializing Arrays
+<h3 id="ch6-1-1">6.1.1 Creating and Initializing Arrays</h3>
 
-Arrays can be created and initialized using square brackets \[l or the
+Arrays can be created and initialized using square brackets &lbrack;l or the
 Array constructor. Using square brackets:
 
-  --------------------------------------------------------------------------------------------
-  const    \[\"Apple\",   \"Banana\" , \"Cherry   ;                             
-  fruits                                                                        
-  -------- -------------- ------------ ---------- -------------- -------------- --------------
-
-  --------------------------------------------------------------------------------------------
+```
+const &lbrack;"Apple", "Banana" , "Cherry;                             
+fruits                                                                        
+```
 
 Using the \'i Array constructor:
 
@@ -1960,49 +2001,47 @@ const numbers = new Array(l, 2, 3, 4, 5);
 
 Empty arrays can also be created and later populated with data.
 
-### 6.1.2 Basic Array Methods ( push , \*pop • shift\* , •unshift € )
+<h3 id="ch6-1-2">6.1.2 Basic Array Methods ( push , &ast;pop • shift&ast; , •unshift € )</h3>
 
-\- push: Adds one or more elements to the end of an array and returns
-the new length of the array.
+&minus; push: Adds one or more elements to the end of an array and returns the new length of the array.
 
-![](./images/media/image125.jpg){width="1.3023534558180228in"
-height="0.4688768591426072in"}
+![](./images/media/image125.jpg){width="1.3023534558180228in" height="0.4688768591426072in"}
 
-fruits . push ( \"Orange \" ) ;
+```
+fruits . push ( &quot;Orange &quot; );
+```
 
 -   pop: Removes the last element from an array and returns that
     element. This method changes the length of the array.
 
+```
 fruits . pop(); // Removes
-\"Cranee\'![](./images/media/image126.jpg){width="10.252119422572179in"
-height="1.2607578740157481in"}
+&quot;Cranee\'
+```
+
+![](./images/media/image126.jpg){width="10.252119422572179in" height="1.2607578740157481in"}
 
 -   shift: Removes the first element from an array and returns that
     removed element. This method changes the length of the array.
 
-![](./images/media/image127.jpg){width="15.430272309711286in"
-height="1.0419477252843394in"}
+![](./images/media/image127.jpg){width="15.430272309711286in" height="1.0419477252843394in"}
 
 -   unshift: Adds one or more elements to the beginning of an array and
     returns the new length of the array.
 
-![](./images/media/image128.jpg){width="3.875800524934383in"
-height="0.36468175853018375in"}
+![](./images/media/image128.jpg){width="3.875800524934383in" height="0.36468175853018375in"}
 
 fruits . unshift ( \"Strawberry\" ) ;
 
-![](./images/media/image129.jpg){width="2.0212510936132984in"
-height="0.3021653543307087in"}
+![](./images/media/image129.jpg){width="2.0212510936132984in" height="0.3021653543307087in"}
 
 ### 6.1.3 Iterating Over Arrays
 
 Iterating over arrays can be done using various methods, including loops
 and array iteration methods like
-![](./images/media/image130.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}forEach .
+![](./images/media/image130.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}forEach .
 
-![](./images/media/image131.jpg){width="15.430272309711286in"
-height="2.438159448818898in"}
+![](./images/media/image131.jpg){width="15.430272309711286in" height="2.438159448818898in"}
 
 ### 6.1.4 Multi-Dimensional Arrays
 
@@ -2010,8 +2049,7 @@ Multi-dimensional arrays are arrays that contain arrays as their
 elements. They are useful for representing matrices or any grid-like
 structures.
 
-![](./images/media/image132.jpg){width="15.430272309711286in"
-height="4.907576552930884in"}
+![](./images/media/image132.jpg){width="15.430272309711286in" height="4.907576552930884in"}
 
 In multi-dimensional arrays, iterate over each dimension using nested
 loops or by applying forEach or other iteration methods recursively.
@@ -2038,38 +2076,33 @@ array. By default, sort() orders the elements as strings in alphabetical
 and ascending order. However, a compare function can be provided to
 determine the sort order.
 
-![](./images/media/image134.jpg){width="15.430272309711286in"
-height="2.094316491688539in"}
+![](./images/media/image134.jpg){width="15.430272309711286in" height="2.094316491688539in"}
 
 \- Reversing Arrays: The reverse() method reverses an array in place.
 The first array element becomes the last, and the last array element
 becomes the first.
 
-![](./images/media/image135.jpg){width="15.430272309711286in"
-height="2.292286745406824in"}
+![](./images/media/image135.jpg){width="15.430272309711286in" height="2.292286745406824in"}
 
 ### 6.2.2 Filtering and Mapping Arrays
 
 -   Filtering Arrays: The filter()\' method creates a new array with all
     elements that pass the test implemented by the provided function,
 
-![](./images/media/image136.jpg){width="15.430272309711286in"
-height="1.979702537182852in"}
+![](./images/media/image136.jpg){width="15.430272309711286in" height="1.979702537182852in"}
 
 -   Mapping Arrays: The map() method creates a new array populated with
     the results of calling a provided function on every element in the
     calling array.
 
-![](./images/media/image137.jpg){width="15.430272309711286in"
-height="2.125574146981627in"}
+![](./images/media/image137.jpg){width="15.430272309711286in" height="2.125574146981627in"}
 
 ### 6.2.3 Reducing Arrays to a Single Value
 
 The reduce() method executes a reducer function (that you provide) on
 each element of the array, resulting in a single output value.
 
-![](./images/media/image138.jpg){width="15.430272309711286in"
-height="2.896616360454943in"}
+![](./images/media/image138.jpg){width="15.430272309711286in" height="2.896616360454943in"}
 
 ### 6.2.4 Combining and Slicing Arrays
 
@@ -2077,16 +2110,14 @@ height="2.896616360454943in"}
     arrays. This method does not change the existing arrays but instead
     returns a new array.
 
-![](./images/media/image139.jpg){width="15.430272309711286in"
-height="2.604870953630796in"}
+![](./images/media/image139.jpg){width="15.430272309711286in" height="2.604870953630796in"}
 
 -   Slicing Arrays: The slice() method returns a shallow copy of a
     portion of an array into a new array object selected from stare to
     end • C end not included) where start and end represent the index of
     items in that array. The original array will not be modified.
 
-![](./images/media/image140.jpg){width="15.430272309711286in"
-height="2.250608048993876in"}
+![](./images/media/image140.jpg){width="15.430272309711286in" height="2.250608048993876in"}
 
 These operations illustrate the power and flexibility of arrays in
 JavaScript, providing developers with a rich set of tools for data
@@ -2108,31 +2139,28 @@ the Object constructor.
 
 Object Literal Syntax:
 
-![](./images/media/image141.jpg){width="15.430272309711286in"
-height="3.459268372703412in"}
+![](./images/media/image141.jpg){width="15.430272309711286in" height="3.459268372703412in"}
 
 Using the Object\' Constructor:
 
-![](./images/media/image142.jpg){width="15.430272309711286in"
-height="2.604870953630796in"}
+![](./images/media/image142.jpg){width="15.430272309711286in" height="2.604870953630796in"}
 
 Object literals are a concise and preferred way to create objects.
 
 ### 6.3.2 Nested Objects
 
-Objects can contain other objects, enabling the creation of complex data
-structures.
+Objects can contain other objects, enabling the creation of complex data structures.
 
-![](./images/media/image143.jpg){width="15.430272309711286in"
-height="5.543164916885389in"}
+![](./images/media/image143.jpg){width="15.430272309711286in" height="5.543164916885389in"}
 
 Nested objects can be accessed using a chain of dot or bracket
 notations.
 
-![](./images/media/image144.jpg){width="15.430272309711286in"
-height="1.4691469816272966in"}
+![](./images/media/image144.jpg){width="15.430272309711286in" height="1.4691469816272966in"}
 
-### 6.3.3 Iterating through Objects with for\...in• and Object.keys()![](./images/media/image145.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
+### 6.3.3 Iterating through Objects with for\...in• and Object.keys()
+
+![](./images/media/image145.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
 
 To iterate over the properties of an object, you can use the for\...in
 loop or the Object.keys() method.
@@ -2149,13 +2177,11 @@ object properties.
 Destructuring provides a way to unpack properties from objects into
 distinct variables.
 
-![](./images/media/image147.jpg){width="15.430272309711286in"
-height="1.8755074365704287in"}
+![](./images/media/image147.jpg){width="15.430272309711286in" height="1.8755074365704287in"}
 
 You can also provide new variable names while destructuring.
 
-![](./images/media/image148.jpg){width="15.430272309711286in"
-height="2.0630577427821524in"}
+![](./images/media/image148.jpg){width="15.430272309711286in" height="2.0630577427821524in"}
 
 Destructuring can greatly simplify the process of working with objects,
 making the code cleaner and easier to read.
@@ -2177,8 +2203,7 @@ Dot notation is the most common and straightforward way to access a
 property of an object. It\'s preferable for its readability and
 simplicity.
 
-![](./images/media/image149.jpg){width="15.430272309711286in"
-height="4.1156966316710415in"}
+![](./images/media/image149.jpg){width="15.430272309711286in" height="4.1156966316710415in"}
 
 Dot notation should be used when:
 
@@ -2195,8 +2220,7 @@ Additionally, bracket
 
 notation is essential when property names are determined dynamically
 
-![](./images/media/image150.jpg){width="15.44069116360455in"
-height="3.959402887139108in"}
+![](./images/media/image150.jpg){width="15.44069116360455in" height="3.959402887139108in"}
 
 Use bracket notation when:
 
@@ -2212,8 +2236,7 @@ Bracket notation shines when working with properties that are
 dynamically determined (for instance, based on user input or runtime
 values).
 
-![](./images/media/image151.jpg){width="15.430272309711286in"
-height="3.5843022747156605in"}
+![](./images/media/image151.jpg){width="15.430272309711286in" height="3.5843022747156605in"}
 
 This capability is particularly useful in scenarios requiring
 flexibility, such as iterating over keys in an object or accessing
@@ -2223,27 +2246,25 @@ properties based on variable inputs.
 
 To check if an object has a specific property, you can use the in
 operator or Object.hasOwnProperty()
-![](./images/media/image152.jpg){width="7.29319772528434e-2in"
-height="8.335629921259842e-2in"}method.
 
-![](./images/media/image153.jpg){width="15.44069116360455in"
-height="4.188632983377078in"}
+![](./images/media/image152.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}method.
+
+![](./images/media/image153.jpg){width="15.44069116360455in" height="4.188632983377078in"}
 
 To enumerate (list) an object\'s properties, you can use
-![](./images/media/image154.jpg){width="2.156696194225722in"
-height="0.33342410323709537in"}, Object-values() , or Object.entries()
-methods which return the properties\' names, values, or both,
-respectively.
 
+![](./images/media/image154.jpg){width="2.156696194225722in" height="0.33342410323709537in"}
+
+, Object-values() , or Object.entries()
+methods which return the properties\' names, values, or both, respectively.
+
+```
 console.log(Object.keys(person)); // \['name', 'age'\]
-
 console.log(Object.values(person)); // \['John Doe', 30\]
+console.log(Object.entries(person)); // \[\['name', 'John Doe'\], \['age', 30\]\]
+```
 
-console.log(Object.entries(person)); // \[\['name', 'John Doe'\],
-\['age', 30\]\]
-
-![](./images/media/image155.jpg){width="15.430272309711286in"
-height="2.021379046369204in"}
+![](./images/media/image155.jpg){width="15.430272309711286in" height="2.021379046369204in"}
 
 Selecting the appropriate notation and understanding property existence
 and enumeration allows for more effective object manipulation and
@@ -4668,7 +4689,7 @@ for deployment:
     application has robust error handling to manage any issues that
     users might encounter gracefully.
 
-### 12.3.2 Selecting a Hosting Service and Domain
+<h3 id="ch12-3-2">12.3.2 Selecting a Hosting Service and Domain</h3>
 
 Choose a hosting service that suits the needs of your application. There
 are several options available:
@@ -4686,7 +4707,7 @@ Picking a domain name is also crucial as it represents your
 application\'s identity on the web. Keep it short, memorable, and
 relevant to your application.
 
-### 12.3.3 Deploying with GitHub Pages
+<h3 id="ch12-3-3">12.3.3 Deploying with GitHub Pages</h3>
 
 GitHub Pages is a convenient and free way to deploy static websites.
 Here\'s how to deploy your application using GitHub Pages:
@@ -4698,12 +4719,13 @@ the branch you want to deploy from, usually main or \' gh-pages \* . 3.
 Configure: If your project doesn\'t reside in the root of the
 repository, specify the folder.
 
-4. Visit Your Site: Your application will be live at
-![](./images/media/image302.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"}https://{username}.github.io/{repository}![](./images/media/image303.jpg){width="0.20837707786526685in"
-height="0.26048665791776027in"}
+4. Visit Your Site: Your application will be live at 
 
-### 12.3.4 Monitoring and Updating Your Live Application
+<!-- ![](./images/media/image302.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}
+![](./images/media/image303.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
+-->
+
+<h3 id="ch12-3-4">12.3.4 Monitoring and Updating Your Live Application</h3>
 
 Once your application is live, it's vital to keep it running smoothly.
 
@@ -4725,7 +4747,7 @@ service, deploying effciently, and committing to regular updates and
 monitoring, you can ensure a successful and sustainable presence on the
 web.
 
-### 12.4 Where to Go from Here: Continuing Your JavaScript Journey
+<h3 id="ch12-4">12.4 Where to Go from Here: Continuing Your JavaScript Journey</h3>
 
 After getting to grips with the basics and deploying your first
 JavaScript web application, you^l^re likely wondering what's next.
@@ -4734,7 +4756,7 @@ web development, offers a plethora of advanced concepts and frameworks
 to explore, opportunities for server-side development, and a rich
 community culture to immerse yourself in.
 
-### 12.4.1 Exploring Advanced JavaScript Concepts
+<h3 id="ch12-4-1">12.4.1 Exploring Advanced JavaScript Concepts</h3>
 
 As you become more comfortable with JavaScript, diving into its more
 advanced concepts will greatly enhance your skills and understanding:
@@ -4754,7 +4776,7 @@ advanced concepts will greatly enhance your skills and understanding:
     patterns like Module, Observer, and Singleton which can help in
     structuring your code more emciently.
 
-### 12.4.2 Learning JavaScript Frameworks and Libraries
+<h3 id="ch12-4-2">12.4.2 Learning JavaScript Frameworks and Libraries</h3>
 
 JavaScript frameworks and libraries can significantly streamline the
 development process:
@@ -4775,7 +4797,7 @@ Experimenting with these technologies not only opens up various paths in
 web development but also significantly boosts your capabilities as a
 developer.
 
-### 12.4.3 JavaScript in Server-Side Development
+<h3 id="ch12-4-3">12.4.3 JavaScript in Server-Side Development</h3>
 
 JavaScript is not just for the browser. With Node.js, it has become a
 powerful tool for server-side development, enabling JavaScript
@@ -4794,7 +4816,7 @@ include:
     application programming interfaces (APIs) that adhere to the REST
     architectural style.
 
-### 12.4.4 Joining a Developer Community and Contributing to Open Source Projects
+<h3 id="ch12-4-4">12.4.4 Joining a Developer Community and Contributing to Open Source Projects</h3>
 
 Becoming part of a developer community can significantly accelerate your
 learning. It offers the chance to collaborate, get help, and share
@@ -4817,3 +4839,13 @@ advanced concepts, learning frameworks, delving into server-side
 development, and engaging with the community, you not only enhance your
 skills but also open doors to new opportunities and innovations in the
 vast world of web development.
+
+
+author: "bbauska"
+date created: "11/16/2024 Sat 8+pm"
+date last editted: "11/16/2024 Sat 8+pm"
+date last editted: "8/17/2025 Sun 3+pm"
+date last editted: "9/11/2025 Thu 11+am"
+date last editted: "9/18/2025 Thu 2+pm"
+date last editted: "12/12/2025 Fri 12+pm"
+
