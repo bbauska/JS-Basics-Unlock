@@ -280,7 +280,7 @@ architects of the digital world. This book stands as a testament to the
 collective efforts and unwavering dedication cf our team of experts in 
 programming and instructional design.</p>
 
-<!-- ![](./images/media/image006.jpg){width="3.125546806649169e-2in" height="3.1258748906386705e-2in"}  -->
+<!-- ![](./images/image006.jpg){width="3.125546806649169e-2in" height="3.1258748906386705e-2in"}  -->
 
 <p>First and foremost, we extend our deepest gratitude to all the engineers
 developers, and educators who have shared their knowledge, expertise,
@@ -288,7 +288,7 @@ and passion Their commitment to excellence and their profound
 understanding of JavaScript have been pivotal in creating a comprehensive
 guide for learning JavaScript.</p>
 
-<!-- ![](./images/media/image007.jpg){width="4.167541557305337e-2in" height="2.083880139982502e-2in"}  -->
+<!-- ![](./images/image007.jpg){width="4.167541557305337e-2in" height="2.083880139982502e-2in"}  -->
 
 <p>Our appreciation also goes out to our esteemed authors, who have
 invested their creativity and expertise in shaping the contents ofthis
@@ -505,7 +505,7 @@ easily by the computer. For example, instead of remembering that the
 number 3.14 represents the mathematical constant Pi, we can simply store
 it in a variable named
 
-<!-- ![](./images/media/image008.jpg){width="0.6980610236220472in" height="0.33342410323709537in"}  -->
+<!-- ![](./images/image008.jpg){width="0.6980610236220472in" height="0.33342410323709537in"}  -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.1.2 The Distinction Between Values and Variables
@@ -546,7 +546,7 @@ location pointed to by the variable can change, but the value itself
 
 <p>To declare a variable, you specify the keyword followed by the variable 
 name: let age = 30;</p>
-<!-- ![](./images/media/image009.jpg){width="7.293088363954506e-2in" height="7.293635170603674e-2in"}  -->
+<!-- ![](./images/image009.jpg){width="7.293088363954506e-2in" height="7.293635170603674e-2in"}  -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.1.4 Variable Naming Conventions and Best Practices
@@ -558,7 +558,7 @@ follow:</p>
 -   Use descriptive and meaningful names that clearly indicate what data
     the variable represents. For example, use userName instead of str'
     or ^q^
-    n![](./images/media/image010.jpg){width="0.20837707786526685in"
+    n![](./images/image010.jpg){width="0.20837707786526685in"
     height="0.26048665791776027in"}
 
 -   Stick to camelCase for variable names (e.g., * userProfile
@@ -567,14 +567,14 @@ follow:</p>
 -   For const* variables that hold constant values, it's common to use
     UPPER_CASE with underscores (e.g.,
 
-<!-- ![](./images/media/image011.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
+<!-- ![](./images/image011.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 MAX_USERS ,
-<!-- ![](./images/media/image012.jpg){width="1.5211472003499562in" height="0.29174540682414696in"} ).  -->
+<!-- ![](./images/image012.jpg){width="1.5211472003499562in" height="0.29174540682414696in"} ).  -->
 
 -   Avoid using JavaScript reserved words (like new 'class function '
     ) as variable names.
 
-<!-- ![](./images/media/image013.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
+<!-- ![](./images/image013.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
 
 <p>Keep name length reasonable. While descriptive names are good, overly long names can make your 
 code harder to read,</p>
@@ -615,13 +615,13 @@ operations such as addition ( * + ' subtraction ( - ' ), multiplication ( * ' ),
 C / • ) are available for constructing expressions with numbers. Special numerical values under the 
 Number type also exist, including Infinity -Infinity, and * NaN (Not a Number). Examples of numerical operations:
 
-![](./images/media/image014.jpg){width="10.159022309711286in"
+![](./images/image014.jpg){width="10.159022309711286in"
 height="1.51082895888014in"}
 
 JavaScript also includes the Math object, which provides more complex
 mathematical functions and constants, like Math.sqrt() (square root),
 Math.pow() (exponentiation), and
-Math.PI![](./images/media/image015.jpg){width="0.6980610236220472in"
+Math.PI![](./images/image015.jpg){width="0.6980610236220472in"
 height="0.31258530183727035in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -693,7 +693,7 @@ which more complex structures and logic are built.
     scope in which a variable is visible compared to %vrar• . Variables
     declared with
 	
-![](./images/media/image017.jpg){width="0.6563856080489939in" height="0.27090660542432193in"}
+![](./images/image017.jpg){width="0.6563856080489939in" height="0.27090660542432193in"}
 	
 	can be updated but not re-declared
     within the same scope.
@@ -708,7 +708,7 @@ which more complex structures and logic are built.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.3.2 When to Use let € vs. const!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- [](./images/media/image018.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}  -->
+<!-- [](./images/image018.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}  -->
 
 The choice between let and const should be guided by the intended use
 ofthe variable:
@@ -728,7 +728,7 @@ improved.
 ### 2.3.3 The Scope of let • , ' const , and var
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-<!-- ![](./images/media/image019.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}  -->
+<!-- ![](./images/image019.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}  -->
 
 -   var: Variables declared with •var are either function-scoped or
     global-scoped, meaning they are visible throughout the entire
@@ -748,16 +748,16 @@ improved.
 - Hoisting: var declarations are hoisted to the top of their scope,
 which can lead to surprising behavior if not understood properly.
 
-![](./images/media/image020.jpg){width="8.0in" height="0.75in"}
+![](./images/image020.jpg){width="8.0in" height="0.75in"}
 
-![](./images/media/image021.jpg){width="5.209426946631671e-2in"
+![](./images/image021.jpg){width="5.209426946631671e-2in"
 height="7.293635170603674e-2in"}let' and const are also hoisted but not
 initialized, which means they cannot be
 
 accessed before their declaration due to the temporal dead zone. - Block
 Scope vs. Function Scope:
 
-![](./images/media/image022.jpg){width="8.0in" height="2.0in"}
+![](./images/image022.jpg){width="8.0in" height="2.0in"}
 
 cases, is critical for writing robust and error-free JavaScript code.
 
@@ -775,7 +775,7 @@ the remainder of a division, increment ( ++ ) and decrement ( -- ) operators
 that increase or decrease a number by one, respectively. These operators
 are used to perform mathematical calculations. For example:
 
-<!-- ![](./images/media/image024.jpg){width="8.0in" height="1.75in"} -->
+<!-- ![](./images/image024.jpg){width="8.0in" height="1.75in"} -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4.2 String Operators for Concatenation
@@ -792,7 +792,7 @@ create and manipulate strings. Enclosed by
 backticks (\\ \\ they can contain placeholders marked by &dollar;{expression)
 , which are replaced by the values of the expressions:
 
-<!-- ![](./images/media/image025.jpg){width="8.0in" height="1.0in"}  -->
+<!-- ![](./images/image025.jpg){width="8.0in" height="1.0in"}  -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4.3 Comparison Operators and Evaluating Conditions
@@ -801,22 +801,22 @@ backticks (\\ \\ they can contain placeholders marked by &dollar;{expression)
 Comparison operators are used to compare two values and return a Boolean
 value, either true or false . These include:
 
-<!-- ![](./images/media/image026.jpg){width="0.8855993000874891in"
+<!-- ![](./images/image026.jpg){width="0.8855993000874891in"
 height="0.18755030621172353in"} -->
 
 (equal to)
 
-<!-- ![](./images/media/image027.jpg){width="1.0835575240594926in"
+<!-- ![](./images/image027.jpg){width="1.0835575240594926in"
 height="0.19797025371828522in"} -->
 
 (strictly equal to, meaning equal in
 value and type)
 
-<!-- ![](./images/media/image028.jpg){width="0.781411854768154in"
+<!-- ![](./images/image028.jpg){width="0.781411854768154in"
 height="0.26048665791776027in"} -->
 (not equal to)
 
-<!-- ![](./images/media/image029.jpg){width="0.9689501312335957in"
+<!-- ![](./images/image029.jpg){width="0.9689501312335957in"
 height="0.26048665791776027in"} -->
 
 (strictly not equal to)
@@ -827,14 +827,14 @@ height="0.26048665791776027in"} -->
 
 &gt;= (greater than or equal to)
 
-<!-- ![](./images/media/image033.jpg){width="0.7397364391951006in"
+<!-- ![](./images/image033.jpg){width="0.7397364391951006in"
 height="0.14587270341207348in"} -->
 
 &lt;= (less than or equal to)
 
 For example:
 
-![](./images/media/image034.jpg){width="15.430272309711286in"
+![](./images/image034.jpg){width="15.430272309711286in"
 height="1.8963462379702538in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -844,17 +844,17 @@ height="1.8963462379702538in"}
 Logical operators allow you to combine multiple conditions. They
 include:
 
-<!-- ![](./images/media/image035.jpg){width="1.000206692913386in"
+<!-- ![](./images/image035.jpg){width="1.000206692913386in"
 height="0.26048665791776027in"} -->
 (logical AND): Returns true if both
 operands are true.
 
-<!-- ![](./images/media/image036.jpg){width="0.30214566929133857in" height="0.18755030621172353in"} -->
+<!-- ![](./images/image036.jpg){width="0.30214566929133857in" height="0.18755030621172353in"} -->
 
 I l (logical OR): Returns true if one or
 both operands are true.
 
-<!-- ![](./images/media/image030.jpg){width="0.30214566929133857in" height="0.19797025371828522in"} -->
+<!-- ![](./images/image030.jpg){width="0.30214566929133857in" height="0.19797025371828522in"} -->
 
 ! (logical NOT): Returns true if the
 operand is false, and vice versa,
@@ -862,7 +862,7 @@ operand is false, and vice versa,
 These operators are commonly used in conditionals to combine multiple
 conditions:
 
-<!-- ![](./images/media/image037.jpg){width="15.22189523184602in" height="3.438429571303587in"} -->
+<!-- ![](./images/image037.jpg){width="15.22189523184602in" height="3.438429571303587in"} -->
 
 Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
@@ -916,7 +916,7 @@ Examples of operator precedence levels from highest to lower:
 
 -   Assignment: ,
     and 
-<!-- ![](./images/media/image038.jpg){width="0.7397364391951006in"
+<!-- ![](./images/image038.jpg){width="0.7397364391951006in"
     height="0.2813254593175853in"} -->
 
 ### 2.5.3 Overriding Default Precedence: The Use of Parentheses
@@ -948,7 +948,7 @@ from left to right according to their associativity.
 
 4.  Logical Operators:
 
-<!-- ![](./images/media/image039.jpg){width="8.0in" height="0.5in"}  -->
+<!-- ![](./images/image039.jpg){width="8.0in" height="0.5in"}  -->
 
 Logical AND ( && ) has a higher precedence than logical OR ( I l &apos; ),
 but using parentheses can change the evaluation order for clarity or to
@@ -973,11 +973,11 @@ An i? statement is the simplest form of control flow, allowing you to
 execute a block of code only if a given condition is true. Its basic
 syntax is:
 
-![](./images/media/image040.jpg){width="15.430272309711286in" height="1.8546675415573053in"}
+![](./images/image040.jpg){width="15.430272309711286in" height="1.8546675415573053in"}
 
 Example:
 
-![](./images/media/image041.jpg){width="15.430272309711286in" height="2.3027055993000873in"}
+![](./images/image041.jpg){width="15.430272309711286in" height="2.3027055993000873in"}
 
 Here, the message is logged to the console only if the temperature is
 greater than 30.
@@ -988,21 +988,21 @@ To provide an alternative path when the if\* condition is false, you can
 use an else clause. For multiple conditions, else if can be used,
 Syntax:
 
-![](./images/media/image042.jpg){width="15.430272309711286in" height="3.8864665354330707in"}
+![](./images/image042.jpg){width="15.430272309711286in" height="3.8864665354330707in"}
 
 Example:
 
-![](./images/media/image043.jpg){width="15.430272309711286in" height="4.094856736657918in"}
+![](./images/image043.jpg){width="15.430272309711286in" height="4.094856736657918in"}
 
 ### 3.1.3 Nested if Statements
 
-![](./images/media/image044.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"} 
+![](./images/image044.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"} 
 
 if\' statements can be nested within each other, allowing for more complex decisionmaking.
 
 Example:
 
-![](./images/media/image045.jpg){width="15.430272309711286in" height="4.084436789151356in"}
+![](./images/image045.jpg){width="15.430272309711286in" height="4.084436789151356in"}
 
 This structure tests another condition (whether the sky is clear) inside
 an outer condition (whether the temperature is greater than 20).
@@ -1016,15 +1016,15 @@ execute if it\'s false.
 
 Syntax:
 
-![](./images/media/image046.jpg){width="1.4482163167104112in" height="0.26048665791776027in"}
+![](./images/image046.jpg){width="1.4482163167104112in" height="0.26048665791776027in"}
 
 condition ? exprIfTrue exprIfFaIse;
 
-[](./images/media/image047.jpg){width="8.460082020997376in" height="0.9481725721784777in"}
+[](./images/image047.jpg){width="8.460082020997376in" height="0.9481725721784777in"}
 
 Example:
 
-![](./images/media/image048.jpg){width="15.44069116360455in" height="1.7921511373578303in"}
+![](./images/image048.jpg){width="15.44069116360455in" height="1.7921511373578303in"}
 
 Here, message is assigned one of the two strings based on whether
 temperature is greater than 30.
@@ -1046,7 +1046,7 @@ The ^Q^ for\' loop is one of the most commonly used loops. Its
 particularly useful when the number of iterations is known beforehand,
 Syntax:
 
-![](./images/media/image049.jpg){width="15.430272309711286in" height="2.000541338582677in"}
+![](./images/image049.jpg){width="15.430272309711286in" height="2.000541338582677in"}
 
 -   initialExpression: Initializes a counter variable.
 
@@ -1058,7 +1058,7 @@ Syntax:
 
 Example:
 
-![](./images/media/image050.jpg){width="15.430272309711286in" height="1.9276038932633421in"}
+![](./images/image050.jpg){width="15.430272309711286in" height="1.9276038932633421in"}
 
 This loop prints a message five times, with ^s^ i representing the
 current iteration number from O to 4.
@@ -1068,7 +1068,7 @@ current iteration number from O to 4.
 The while loop creates a loop that executes as long as the specified
 condition evaluates to true. Unlike the
 
-![](./images/media/image051.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+![](./images/image051.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
 
 for loop, the while loop only requires the condition expression.
 
@@ -1076,7 +1076,7 @@ Syntax:
 
 Example:
 
-![](./images/media/image053.jpg){width="15.430272309711286in" height="2.8340988626421697in"}
+![](./images/image053.jpg){width="15.430272309711286in" height="2.8340988626421697in"}
 
 This does the same as the previous for loop example but demonstrates a
 different syntax and approach.
@@ -1091,13 +1091,13 @@ do {
 
 // code [blo]{.underline}ck to be executed
 
-![](./images/media/image054.jpg){width="0.9897878390201225in" height="6.251749781277341e-2in"}
+![](./images/image054.jpg){width="0.9897878390201225in" height="6.251749781277341e-2in"}
 
 } while (condition);
 
 Example:
 
-![](./images/media/image055.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
+![](./images/image055.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
 
 Even if the condition evaluates to false on the first try, the code
 block would still have executed once due to the nature of the do-while
@@ -1113,19 +1113,19 @@ Break Example:
 
 for (let i = e; i \< 10; i++) {
 
-![](./images/media/image0056.jpg){width="1.531567147856518in"
+![](./images/image0056.jpg){width="1.531567147856518in"
 height="6.251749781277341e-2in"}
 
 if (i break; // Exits [the] Loop [when]{.underline} is S
 
 =
 
-![](./images/media/image058.jpg){width="2.9797823709536306in" height="9.377515310586176e-2in"}
+![](./images/image058.jpg){width="2.9797823709536306in" height="9.377515310586176e-2in"}
 
 console.log( \'i is
-![](./images/media/image059.jpg){width="1.4169597550306212in" height="0.5001356080489939in"}
+![](./images/image059.jpg){width="1.4169597550306212in" height="0.5001356080489939in"}
 
-![](./images/media/image060.jpg){width="4.344647856517935in" height="0.12503390201224848in"}
+![](./images/image060.jpg){width="4.344647856517935in" height="0.12503390201224848in"}
 
 Continue
 
@@ -1193,12 +1193,12 @@ element in the array.
 
 Syntax:
 
-![](./images/media/image063.jpg){width="15.430272309711286in"
+![](./images/image063.jpg){width="15.430272309711286in"
 height="1.0419488188976378in"}
 
 Example:
 
-![](./images/media/image064.jpg){width="15.430272309711286in"
+![](./images/image064.jpg){width="15.430272309711286in"
 height="2.9695527121609797in"}
 
 This method is preferred for its readability and functional approach to
@@ -1253,19 +1253,19 @@ arrays or values based on the provided callback functions.
 -   map() creates a new array populated with the results of calling a
     provided function on every element in the calling array. Example:
 
-![](./images/media/image066.jpg){width="15.430272309711286in"
+![](./images/image066.jpg){width="15.430272309711286in"
 height="2.0526377952755905in"}
 
 -   filter() creates a new array with all elements that pass the test
     implemented by the provided function. Example:
 
-![](./images/media/image067.jpg){width="15.430272309711286in"
+![](./images/image067.jpg){width="15.430272309711286in"
 height="1.979701443569554in"}
 
 -   reduce() applies a reducer function on each element of the array,
     leading to a single output value. Example:
 
-![](./images/media/image068.jpg){width="15.430272309711286in"
+![](./images/image068.jpg){width="15.430272309711286in"
 height="1.8650874890638671in"}
 
 Understanding and using these array iteration techniques effectively can
@@ -1329,7 +1329,7 @@ crashing.
 
 Syntax:
 
-![](./images/media/image070.jpg){width="8.0in" height="2.0in"}
+![](./images/image070.jpg){width="8.0in" height="2.0in"}
 
 This example demonstrates error handling by catching an error when
 calling a function that doesn\'t exist.
@@ -1346,7 +1346,7 @@ throw new Error(\"Custom error message\");
 
 Example:
 
-![](./images/media/image071.jpg){width="8.0in" height="3.5in"}
+![](./images/image071.jpg){width="8.0in" height="3.5in"}
 
 This code throws an error if the dimensions for calculating an area are
 not positive, demonstrating how custom errors can control the flow of a
@@ -1372,18 +1372,18 @@ list of parameters enclosed in parentheses , and a block of code
 enclosed in curly braces
 O
 
-![](./images/media/image072.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
+![](./images/image072.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
 
-![](./images/media/image073.jpg){width="8.0in" height="1.0in"}
+![](./images/image073.jpg){width="8.0in" height="1.0in"}
 
 Example:
 
-![](./images/media/image074.jpg){width="8.0in" height="1.0in"}
+![](./images/image074.jpg){width="8.0in" height="1.0in"}
 
 To invoke or call the function, you use the function name followed by
 parentheses:
 
-![](./images/media/image075.jpg){width="8.0in" height="0.5in"}
+![](./images/image075.jpg){width="8.0in" height="0.5in"}
 
 ### 4.1.2 Parameters and Arguments
 
@@ -1404,7 +1404,7 @@ specified value.
 
 Example:
 
-![](./images/media/image078.jpg){width="8.0in" height="2.0in"}
+![](./images/image078.jpg){width="8.0in" height="2.0in"}
 
 If a function doesn\'t specify a return value, it returns undefined by
 default.
@@ -1421,14 +1421,14 @@ An IIFE is a function that runs as soon as it is defined.
 
 Syntax:
 
-![](./images/media/image079.jpg){width="8.0in" height="1.0in"}
+![](./images/image079.jpg){width="8.0in" height="1.0in"}
 
 IIFEs are useful for creating private scopes and avoiding polluting the
 global namespace.
 
 Example with Parameters:
 
-![](./images/media/image080.jpg){width="8.0in" height="1.0in"}
+![](./images/image080.jpg){width="8.0in" height="1.0in"}
 
 Functions as first-class citizens allow for flexible and powerful
 programming patterns, including callbacks, function factories, and more.
@@ -1453,11 +1453,11 @@ can be called before its declaration in the code.
 
 Syntax:
 
-![](./images/media/image081.jpg){width="8.0in" height="1.0in"}
+![](./images/image081.jpg){width="8.0in" height="1.0in"}
 
 Example:
 
-![](./images/media/image082.jpg){width="8.0in" height="1.5in"}
+![](./images/image082.jpg){width="8.0in" height="1.5in"}
 
 Despite sum being called before it appears in the code, the program can
 execute it without error due to hoisting.
@@ -1470,7 +1470,7 @@ be called before they are defined in the code.
 
 Syntax:
 
-![](./images/media/image083.jpg){width="8.0in" height="1.0in"}
+![](./images/image083.jpg){width="8.0in" height="1.0in"}
 
 Example:
 
@@ -1483,7 +1483,7 @@ Function expressions can be anonymous (as seen above) or named.
 
 Named Function Expression:
 
-![](./images/media/image087.jpg){width="8.0in" height="1.0in"}
+![](./images/image087.jpg){width="8.0in" height="1.0in"}
 
 A key difference is in debugging: named functions can be easier to
 identify in a stack trace. However, within the function body, you use
@@ -1492,7 +1492,7 @@ call.
 
 Anonymous Function Expression:
 
-![](./images/media/image88.jpg){width="8.0in" height="1.0in"}
+![](./images/image88.jpg){width="8.0in" height="1.0in"}
 
 Anonymous functions are common, especially as arguments to other
 functions or in IIFEs. The absence of a name simplifies the syntax but
@@ -1537,7 +1537,7 @@ instead.
 
 Basic Syntax:
 
-![](./images/media/image091.jpg){width="8.0in" height="1.0in"}
+![](./images/image091.jpg){width="8.0in" height="1.0in"}
 
 Without Parameters:
 
@@ -1547,7 +1547,7 @@ Without Parameters:
 
 const greet = name console. log(
 
-![](./images/media/image092.jpg){width="4.0in" height="0.5in"}
+![](./images/image092.jpg){width="4.0in" height="0.5in"}
 
 \"Hello,
 
@@ -1557,7 +1557,7 @@ const sum = (a, b)
 
 Returning Objects:
 
-![](./images/media/image93.jpg){width="8.0in" height="0.5in"}
+![](./images/image93.jpg){width="8.0in" height="0.5in"}
 
 ### 4.3.2 Arrow Functions and the this Keyword
 
@@ -1568,12 +1568,12 @@ lexical context and not by how the function is called.
 
 Example:
 
-![](./images/media/image094.jpg){width="8.0in" height="3.0in"}
+![](./images/image094.jpg){width="8.0in" height="3.0in"}
 
 In this example, this inside the arrow function correctly refers to the
 Timer object because it inherits
 
-![](./images/media/image095.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+![](./images/image095.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
 
 this from the surrounding code.
 
@@ -1593,7 +1593,7 @@ parameters.
 meaning it cannot be altered with methods like •call %
 or
 
-![](./images/media/image096.jpg){width="1.0835575240594926in" height="0.27090660542432193in"}
+![](./images/image096.jpg){width="1.0835575240594926in" height="0.27090660542432193in"}
 
 ### 4.3.4 Practical Uses ofArrow Functions
 
@@ -1602,14 +1602,14 @@ Arrow functions shine in several scenarios:
 -   Callbacks and Higher-Order Functions: Theyre perfect for short
     callback functions passed to methods
 
-![](./images/media/image097.jpg){width="8.0in" height="2.0in"}
+![](./images/image097.jpg){width="8.0in" height="2.0in"}
 
-![](./images/media/image098.jpg){width="8.0in" height="1.5in"}
+![](./images/image098.jpg){width="8.0in" height="1.5in"}
 
 -   Asynchronous Operations: Arrow functions are widely used in promises
     and asynchronous functions.
 
-![](./images/media/image099.jpg){width="8.0in" height="1.5in"}
+![](./images/image099.jpg){width="8.0in" height="1.5in"}
 
 Understanding when and how to use arrow functions effectively can
 greatly simplify your JavaScript code and help maintain this context in
@@ -1648,7 +1648,7 @@ function.
 and const are scoped to the nearest enclosing block, not just to
 function blocks.
 
-![](./images/media/image102.jpg){width="8.0in" height="1.5in"}
+![](./images/image102.jpg){width="8.0in" height="1.5in"}
 
 ### 4.4.3 Global Scope
 
@@ -1677,7 +1677,7 @@ Variable shadowing occurs when a variable of the same name is declared
 within a nested scope, effectively overshadowing the variable in the
 outer scope.
 
-![](./images/media/image103.jpg){width="8.0in" height="3.0in"}
+![](./images/image103.jpg){width="8.0in" height="3.0in"}
 
 The scope chain is the mechanism by which JavaScript searches for
 variables and functions: starting from the innermost scope and moving
@@ -1712,7 +1712,7 @@ libraries such as jQuery or Lodash.
 
 Example of Composition: Example of Function Chaining:
 
-![](./images/media/image104.jpg){width="8.0in" height="4.0in"}
+![](./images/image104.jpg){width="8.0in" height="4.0in"}
 
 ### 5.1.2 Recursive Functions
 
@@ -1722,7 +1722,7 @@ especially those that can be divided into similar subproblems.
 
 Example:
 
-![](./images/media/image105.jpg){width="8.0in" height="3.0in"}
+![](./images/image105.jpg){width="8.0in" height="3.0in"}
 
 Recursive functions must have a base condition to stop the recursion,
 preventing infinite loops and stack overflow errors.
@@ -1743,13 +1743,13 @@ always produce the same output and do not cause any side effects
 
 No Side Effects Example:
 
-![](./images/media/image108.jpg){width="8.0in" height="1.25in"}
+![](./images/image108.jpg){width="8.0in" height="1.25in"}
 
 function sum(a, b) {
 
 With Side Effects Example:
 
-![](./images/media/image109.jpg){width="8.0in" height="2.0in"}
+![](./images/image109.jpg){width="8.0in" height="2.0in"}
 
 Pure functions improve readability, testability, and maintainability of
 code as they don\'t depend on, nor modify the state outside their scope.
@@ -1772,19 +1772,19 @@ original state, alongside common pitfalls and tips for avoiding them.
 Primitive Types are stored directly in the location that the variable
 accesses. These include types such as
 
-![](./images/media/image110.jpg){width="5.209426946631671e-2in"
+![](./images/image110.jpg){width="5.209426946631671e-2in"
 height="7.293635170603674e-2in"}number string & ,'boolean', undefined
 null symbol , and 'bigint'They are passed to functions by value, meaning
 a copy of the value is made.
 
-![](./images/media/image111.jpg){width="8.0in" height="2.0in"}
+![](./images/image111.jpg){width="8.0in" height="2.0in"}
 
 Reference Types include objects, arrays, and functions. They are passed
 to functions by reference, meaning that a pointer to the original data
 is passed, and modifications within the function affect the original
 data,
 
-![](./images/media/image112.jpg){width="8.0in" height="2.0in"}
+![](./images/image112.jpg){width="8.0in" height="2.0in"}
 
 ### 5.2.2 Mutability and Immutability
 
@@ -1869,7 +1869,7 @@ components. Functions that return values can be seen as single-purpose
 units that output data based on the input they receive. This allows for
 building more complex functionality by composing these modular units.
 
-![](./images/media/image115.jpg){width="8.0in" height="3.5in"}
+![](./images/image115.jpg){width="8.0in" height="3.5in"}
 
 ### 5.3.2 Using Return Values to Create Composable Code
 
@@ -1885,7 +1885,7 @@ error handling more predictable. This strategy often involves returning
 an object with a status code and an error message or the result of the
 operation.
 
-![](./images/media/image116.jpg){width="8.0in" height="3.0in"}
+![](./images/image116.jpg){width="8.0in" height="3.0in"}
 
 By checking the success property, other parts of the code can
 appropriately respond to the outcome of the function.
@@ -1896,7 +1896,7 @@ Using early returns is a strategy to improve code readability by exiting
 a function as soon as a certain condition is met, avoiding deep nesting
 of if-else statements and making the principal action of the function clear.
 
-![](./images/media/image117.jpg){width="8.0in" height="4.5in"}
+![](./images/image117.jpg){width="8.0in" height="4.5in"}
 
 Early returns can help prevent unnecessary computation and make the
 logic of your functions easier to follow.
@@ -1931,7 +1931,7 @@ operations such as reading files, making
 HTTP requests, or querying a database, where you don\'t know when the
 response will be received,
 
-![](./images/media/image118.jpg){width="8.0in" height="3.0in"}
+![](./images/image118.jpg){width="8.0in" height="3.0in"}
 
 ### 5.4.3 Customizing Functionality with Callbacks
 
@@ -1952,7 +1952,7 @@ null if the operation is successful.
 
 Example:
 
-![](./images/media/image119.jpg){width="8.0in" height="5.0in"}
+![](./images/image119.jpg){width="8.0in" height="5.0in"}
 
 By understanding and effectively using callback functions, JavaScript
 developers can write more readable and maintainable code, especially
@@ -1977,11 +1977,11 @@ structures.
 
 Example:
 
-![](./images/media/image120.jpg){width="8.0in" height="2.0in"}
+![](./images/image120.jpg){width="8.0in" height="2.0in"}
 
 IIFEs can also take arguments or return values through assignment.
 
-![](./images/media/image121.jpg){width="8.0in" height="2.0in"}
+![](./images/image121.jpg){width="8.0in" height="2.0in"}
 
 ### 5.5.2 Throttling and Debouncing Functions
 
@@ -1996,7 +1996,7 @@ don\'t need to be handled immediately and can wait for the input to
 
 Example of Throttling:
 
-![](./images/media/image122.jpg){width="8.0in" height="5.0in"}
+![](./images/image122.jpg){width="8.0in" height="5.0in"}
 
 ### 5.5.3 Currying and Partial Application
 
@@ -2007,7 +2007,7 @@ Partial Application refers to the process of fixing a number of
 arguments to a function, producing another function of smaller arity.
 Example of Currying:
 
-![](./images/media/image123.jpg){width="8.0in" height="3.0in"}
+![](./images/image123.jpg){width="8.0in" height="3.0in"}
 
 ### 5.5.4 Using Functions to Encapsulate Private Data
 
@@ -2020,7 +2020,7 @@ variables.
 
 Example:
 
-![](./images/media/image124.jpg){width="8.0in" height="3.0in"}
+![](./images/image124.jpg){width="8.0in" height="3.0in"}
 
 By employing advanced function patterns like these, developers can write
 cleaner, more emcient, and secure JavaScript code, harnessing
@@ -2056,7 +2056,7 @@ Empty arrays can also be created and later populated with data.
 
 &minus; push: Adds one or more elements to the end of an array and returns the new length of the array.
 
-![](./images/media/image125.jpg){width="1.3023534558180228in" height="0.4688768591426072in"}
+![](./images/image125.jpg){width="1.3023534558180228in" height="0.4688768591426072in"}
 
 ```
 fruits . push ( &quot;Orange &quot; );
@@ -2070,29 +2070,29 @@ fruits . pop(); // Removes
 &quot;Cranee\'
 ```
 
-![](./images/media/image126.jpg){width="10.252119422572179in" height="1.2607578740157481in"}
+![](./images/image126.jpg){width="10.252119422572179in" height="1.2607578740157481in"}
 
 -   shift: Removes the first element from an array and returns that
     removed element. This method changes the length of the array.
 
-![](./images/media/image127.jpg){width="15.430272309711286in" height="1.0419477252843394in"}
+![](./images/image127.jpg){width="15.430272309711286in" height="1.0419477252843394in"}
 
 -   unshift: Adds one or more elements to the beginning of an array and
     returns the new length of the array.
 
-![](./images/media/image128.jpg){width="3.875800524934383in" height="0.36468175853018375in"}
+![](./images/image128.jpg){width="3.875800524934383in" height="0.36468175853018375in"}
 
 fruits . unshift ( \"Strawberry\" ) ;
 
-![](./images/media/image129.jpg){width="2.0212510936132984in" height="0.3021653543307087in"}
+![](./images/image129.jpg){width="2.0212510936132984in" height="0.3021653543307087in"}
 
 ### 6.1.3 Iterating Over Arrays
 
 Iterating over arrays can be done using various methods, including loops
 and array iteration methods like
-![](./images/media/image130.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}forEach .
+![](./images/image130.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}forEach .
 
-![](./images/media/image131.jpg){width="15.430272309711286in" height="2.438159448818898in"}
+![](./images/image131.jpg){width="15.430272309711286in" height="2.438159448818898in"}
 
 ### 6.1.4 Multi-Dimensional Arrays
 
@@ -2100,7 +2100,7 @@ Multi-dimensional arrays are arrays that contain arrays as their
 elements. They are useful for representing matrices or any grid-like
 structures.
 
-![](./images/media/image132.jpg){width="15.430272309711286in" height="4.907576552930884in"}
+![](./images/image132.jpg){width="15.430272309711286in" height="4.907576552930884in"}
 
 In multi-dimensional arrays, iterate over each dimension using nested
 loops or by applying forEach or other iteration methods recursively.
@@ -2120,40 +2120,40 @@ content to a single value.
 
 ### 6.2.1 Sorting and Reversing Arrays
 
-![](./images/media/image133.jpg){width="9.376968503937008e-2in"
+![](./images/image133.jpg){width="9.376968503937008e-2in"
 height="2.083880139982502e-2in"} \*\*Sorting Arrays:\*\* The sort()
 method sorts the elements of an array in place and returns the sorted
 array. By default, sort() orders the elements as strings in alphabetical
 and ascending order. However, a compare function can be provided to
 determine the sort order.
 
-![](./images/media/image134.jpg){width="15.430272309711286in" height="2.094316491688539in"}
+![](./images/image134.jpg){width="15.430272309711286in" height="2.094316491688539in"}
 
 \- Reversing Arrays: The reverse() method reverses an array in place.
 The first array element becomes the last, and the last array element
 becomes the first.
 
-![](./images/media/image135.jpg){width="15.430272309711286in" height="2.292286745406824in"}
+![](./images/image135.jpg){width="15.430272309711286in" height="2.292286745406824in"}
 
 ### 6.2.2 Filtering and Mapping Arrays
 
 -   Filtering Arrays: The filter()\' method creates a new array with all
     elements that pass the test implemented by the provided function,
 
-![](./images/media/image136.jpg){width="15.430272309711286in" height="1.979702537182852in"}
+![](./images/image136.jpg){width="15.430272309711286in" height="1.979702537182852in"}
 
 -   Mapping Arrays: The map() method creates a new array populated with
     the results of calling a provided function on every element in the
     calling array.
 
-![](./images/media/image137.jpg){width="15.430272309711286in" height="2.125574146981627in"}
+![](./images/image137.jpg){width="15.430272309711286in" height="2.125574146981627in"}
 
 ### 6.2.3 Reducing Arrays to a Single Value
 
 The reduce() method executes a reducer function (that you provide) on
 each element of the array, resulting in a single output value.
 
-![](./images/media/image138.jpg){width="15.430272309711286in" height="2.896616360454943in"}
+![](./images/image138.jpg){width="15.430272309711286in" height="2.896616360454943in"}
 
 ### 6.2.4 Combining and Slicing Arrays
 
@@ -2161,14 +2161,14 @@ each element of the array, resulting in a single output value.
     arrays. This method does not change the existing arrays but instead
     returns a new array.
 
-![](./images/media/image139.jpg){width="15.430272309711286in" height="2.604870953630796in"}
+![](./images/image139.jpg){width="15.430272309711286in" height="2.604870953630796in"}
 
 -   Slicing Arrays: The slice() method returns a shallow copy of a
     portion of an array into a new array object selected from stare to
     end • C end not included) where start and end represent the index of
     items in that array. The original array will not be modified.
 
-![](./images/media/image140.jpg){width="15.430272309711286in" height="2.250608048993876in"}
+![](./images/image140.jpg){width="15.430272309711286in" height="2.250608048993876in"}
 
 These operations illustrate the power and flexibility of arrays in
 JavaScript, providing developers with a rich set of tools for data
@@ -2190,11 +2190,11 @@ the Object constructor.
 
 Object Literal Syntax:
 
-![](./images/media/image141.jpg){width="15.430272309711286in" height="3.459268372703412in"}
+![](./images/image141.jpg){width="15.430272309711286in" height="3.459268372703412in"}
 
 Using the Object\' Constructor:
 
-![](./images/media/image142.jpg){width="15.430272309711286in" height="2.604870953630796in"}
+![](./images/image142.jpg){width="15.430272309711286in" height="2.604870953630796in"}
 
 Object literals are a concise and preferred way to create objects.
 
@@ -2202,16 +2202,16 @@ Object literals are a concise and preferred way to create objects.
 
 Objects can contain other objects, enabling the creation of complex data structures.
 
-![](./images/media/image143.jpg){width="15.430272309711286in" height="5.543164916885389in"}
+![](./images/image143.jpg){width="15.430272309711286in" height="5.543164916885389in"}
 
 Nested objects can be accessed using a chain of dot or bracket
 notations.
 
-![](./images/media/image144.jpg){width="15.430272309711286in" height="1.4691469816272966in"}
+![](./images/image144.jpg){width="15.430272309711286in" height="1.4691469816272966in"}
 
 ### 6.3.3 Iterating through Objects with for\...in• and Object.keys()
 
-![](./images/media/image145.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
+![](./images/image145.jpg){width="6.251312335958005e-2in" height="8.335629921259842e-2in"}
 
 To iterate over the properties of an object, you can use the for\...in
 loop or the Object.keys() method.
@@ -2228,11 +2228,11 @@ object properties.
 Destructuring provides a way to unpack properties from objects into
 distinct variables.
 
-![](./images/media/image147.jpg){width="15.430272309711286in" height="1.8755074365704287in"}
+![](./images/image147.jpg){width="15.430272309711286in" height="1.8755074365704287in"}
 
 You can also provide new variable names while destructuring.
 
-![](./images/media/image148.jpg){width="15.430272309711286in" height="2.0630577427821524in"}
+![](./images/image148.jpg){width="15.430272309711286in" height="2.0630577427821524in"}
 
 Destructuring can greatly simplify the process of working with objects,
 making the code cleaner and easier to read.
@@ -2254,7 +2254,7 @@ Dot notation is the most common and straightforward way to access a
 property of an object. It\'s preferable for its readability and
 simplicity.
 
-![](./images/media/image149.jpg){width="15.430272309711286in" height="4.1156966316710415in"}
+![](./images/image149.jpg){width="15.430272309711286in" height="4.1156966316710415in"}
 
 Dot notation should be used when:
 
@@ -2271,7 +2271,7 @@ Additionally, bracket
 
 notation is essential when property names are determined dynamically
 
-![](./images/media/image150.jpg){width="15.44069116360455in" height="3.959402887139108in"}
+![](./images/image150.jpg){width="15.44069116360455in" height="3.959402887139108in"}
 
 Use bracket notation when:
 
@@ -2287,7 +2287,7 @@ Bracket notation shines when working with properties that are
 dynamically determined (for instance, based on user input or runtime
 values).
 
-![](./images/media/image151.jpg){width="15.430272309711286in" height="3.5843022747156605in"}
+![](./images/image151.jpg){width="15.430272309711286in" height="3.5843022747156605in"}
 
 This capability is particularly useful in scenarios requiring
 flexibility, such as iterating over keys in an object or accessing
@@ -2298,13 +2298,13 @@ properties based on variable inputs.
 To check if an object has a specific property, you can use the in
 operator or Object.hasOwnProperty()
 
-![](./images/media/image152.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}method.
+![](./images/image152.jpg){width="7.29319772528434e-2in" height="8.335629921259842e-2in"}method.
 
-![](./images/media/image153.jpg){width="15.44069116360455in" height="4.188632983377078in"}
+![](./images/image153.jpg){width="15.44069116360455in" height="4.188632983377078in"}
 
 To enumerate (list) an object\'s properties, you can use
 
-![](./images/media/image154.jpg){width="2.156696194225722in" height="0.33342410323709537in"}
+![](./images/image154.jpg){width="2.156696194225722in" height="0.33342410323709537in"}
 
 , Object-values() , or Object.entries()
 methods which return the properties\' names, values, or both, respectively.
@@ -2315,7 +2315,7 @@ console.log(Object.values(person)); // \['John Doe', 30\]
 console.log(Object.entries(person)); // \[\['name', 'John Doe'\], \['age', 30\]\]
 ```
 
-![](./images/media/image155.jpg){width="15.430272309711286in" height="2.021379046369204in"}
+![](./images/image155.jpg){width="15.430272309711286in" height="2.021379046369204in"}
 
 Selecting the appropriate notation and understanding property existence
 and enumeration allows for more effective object manipulation and
@@ -2367,8 +2367,7 @@ easier to implement complex object structures.
 
 Example:
 
-![](./images/media/image156.jpg){width="15.44069116360455in"
-height="6.981053149606299in"}
+![](./images/image156.jpg){width="15.44069116360455in" height="6.981053149606299in"}
 
 ### 7.1.3 Encapsulation and Information Hiding
 
@@ -2416,19 +2415,22 @@ value can change depending on how a function is called.
 
 In the global execution context (outside of any function), this refers
 to the global object whether in strict mode or not. In web browsers, the
-global object is
-window![](./images/media/image158.jpg){width="0.19795713035870516in"
-height="0.26048665791776027in"}
+global object is window
 
-###### console. log (this ![](./images/media/image159.jpg){width="0.5521970691163605in" height="1.041994750656168e-2in"} window) ; // true
+![](./images/image158.jpg){width="0.19795713035870516in" height="0.26048665791776027in"}
+
+console. log (this 
+
+![](./images/image159.jpg){width="0.5521970691163605in" height="1.041994750656168e-2in"} 
+
+window) ; // true
 
 In a regular (non-arrow) function, this is set dynamically when the
 function is called. In the global scope or inside a function not
 associated with any object, \' this refers to the global object in
 non-strict mode and is handefined in strict mode.
 
-![](./images/media/image160.jpg){width="15.430272309711286in"
-height="2.563192257217848in"}
+![](./images/image160.jpg){width="15.430272309711286in" height="2.563192257217848in"}
 
 ### 7.2.2 \"this\" in Methods and Constructors
 
@@ -2440,7 +2442,7 @@ keyword), refers to the
 
 newly created object instance.
 
-![](./images/media/image161.jpg){width="15.44069116360455in"
+![](./images/image161.jpg){width="15.44069116360455in"
 height="5.074288057742782in"}
 
 ### 7.2.3 \"this\" with Call, Apply, and Bind
@@ -2462,7 +2464,7 @@ Arrow functions do not have their own this context; instead, they
 capture the this value ofthe enclosing scope at the time they are
 created. This is known as lexical scoping.
 
-![](./images/media/image162.jpg){width="15.430272309711286in"
+![](./images/image162.jpg){width="15.430272309711286in"
 height="5.063869203849519in"}
 
 Because of the lexical scoping of this in arrow functions, they are
@@ -2524,9 +2526,9 @@ explicitly. Factory functions can offer a more flexible way to create
 objects, as they can return any object and use any prototype for that
 object.
 
-![](./images/media/image164.jpg){width="9.272749343832022in"
-height="6.626791338582677in"}![](./images/media/image165.jpg){width="1.0210444006999124in"
-height="2.083880139982502e-2in"}![](./images/media/image166.jpg){width="0.7501552930883639in"
+![](./images/image164.jpg){width="9.272749343832022in"
+height="6.626791338582677in"}![](./images/image165.jpg){width="1.0210444006999124in"
+height="2.083880139982502e-2in"}![](./images/image166.jpg){width="0.7501552930883639in"
 height="2.083880139982502e-2in"}function createPerson(name, age) {
 return { name: name, age: age, introduce() { console.
 log[Cm]{.underline}y name is \${this.name} and I am
@@ -2542,7 +2544,7 @@ call or apply methods, allowing one constructor function to call another
 constructor function within it, setting up the context ( \' this ) to
 the newly created object.
 
-![](./images/media/image167.jpg){width="15.430272309711286in"
+![](./images/image167.jpg){width="15.430272309711286in"
 height="4.688767497812774in"}
 
 Using or apply ^f^ within constructors provides a powerful method for
@@ -2568,15 +2570,15 @@ In JavaScript, every function and object has a property named prototype
 chain. When a function is used as a constructor with the new keyword,
 the newly created object inherits properties and methods from the
 constructor function\'s prototype
-![](./images/media/image168.jpg){width="6.251202974628171e-2in"
+![](./images/image168.jpg){width="6.251202974628171e-2in"
 height="6.251749781277341e-2in"}
 
 The prototype property is a mechanism whereby JavaScript objects inherit
 features from one another. For instance, JavaScript arrays inherit from
 Array.prototype , enabling all arrays to utilize methods like
-![](./images/media/image169.jpg){width="5.209426946631671e-2in"
+![](./images/image169.jpg){width="5.209426946631671e-2in"
 height="6.251749781277341e-2in"}map\' , filter and
-•reduce![](./images/media/image170.jpg){width="0.18753827646544183in"
+•reduce![](./images/image170.jpg){width="0.18753827646544183in"
 height="0.26048665791776027in"}
 
 ### 7.4.2 Prototype Chain and Inheritance
@@ -2590,10 +2592,10 @@ the foundation of inheritance in JavaScript.
 
 For example, suppose we have an object O \' that inherits from Prototype
 B , which in turn inherits from
-![](./images/media/image169.jpg){width="5.209426946631671e-2in"
+![](./images/image169.jpg){width="5.209426946631671e-2in"
 height="6.251749781277341e-2in"}Prototype A . If a property is not found
 on ^Q^ , the search moves to , and if not found on \'B , it continues to
-A ![](./images/media/image171.jpg){width="4.167541557305337e-2in"
+A ![](./images/image171.jpg){width="4.167541557305337e-2in"
 height="6.251749781277341e-2in"}
 
 ### 7.4.3 Shadowing Prototype Properties
@@ -2608,7 +2610,7 @@ This can be useful, but it\'s also something to be aware of, as it can
 lead to unexpected behavior if you accidentally shadow prototypes
 properties.
 
-![](./images/media/image172.jpg){width="0.48968503937007873in"
+![](./images/image172.jpg){width="0.48968503937007873in"
 height="8.335629921259842e-2in"}javascript function Person() {l
 
 Person.prototype.name = \"Anonymous\";
@@ -2634,7 +2636,7 @@ using prototypes:
 
 Using Object.create() , you can easily set up inheritance:
 
-![](./images/media/image173.jpg){width="15.430272309711286in"
+![](./images/image173.jpg){width="15.430272309711286in"
 height="5.50148731408574in"}
 
 Each pattern has its own merits and use cases. The choice between them
@@ -2666,7 +2668,7 @@ can become cumbersome and fragile. Instead of asking, \"What object is
 this?\" we ask, \"What can this object do?\'i, focusing on capabilities
 rather than lineage.
 
-![](./images/media/image174.jpg){width="14.836398731408574in"
+![](./images/image174.jpg){width="14.836398731408574in"
 height="11.846953193350831in"}
 
 ### 7.5.2 Mixins and Object Composition
@@ -2676,7 +2678,7 @@ mixed into a composite object. This allows objects to be built from
 multiple sources, adding flexibility in how objects are defined and
 used.
 
-![](./images/media/image175.jpg){width="15.430272309711286in"
+![](./images/image175.jpg){width="15.430272309711286in"
 height="6.272528433945757in"}
 
 ### 7.5.3 Encapsulating Private Properties and Methods
@@ -2686,13 +2688,13 @@ methods, but they can be simulated.
 
 One common technique is to use closures:
 
-![](./images/media/image176.jpg){width="15.44069116360455in"
+![](./images/image176.jpg){width="15.44069116360455in"
 height="9.867250656167979in"}
 
 With ES6, JavaScript introduced a more formal way to define private
 fields using a hash \# prefix:
 
-![](./images/media/image177.jpg){width="15.430272309711286in"
+![](./images/image177.jpg){width="15.430272309711286in"
 height="6.0641393263342085in"}
 
 ### 7.5.4 Object Immutability and Read-Only Properties
@@ -2701,10 +2703,10 @@ Making objects immutable (unable to change after creation) is a powerful
 technique, especially in functional programming and for creating
 predictable state management. To make properties read-only, you can use
 Object.defineProperty() or
-Object-defineProperties()![](./images/media/image178.jpg){width="0.20837598425196852in"
+Object-defineProperties()![](./images/image178.jpg){width="0.20837598425196852in"
 height="0.27090660542432193in"}
 
-![](./images/media/image179.jpg){width="0.48968503937007873in"
+![](./images/image179.jpg){width="0.48968503937007873in"
 height="8.335520559930008e-2in"}javascript const obj = O;
 
 Object.defineProperty(obj, \'readonly, {
@@ -2716,7 +2718,7 @@ console.log(obj.readOnly); // This is read-only\'
 
 / / obj.readonly = ^I^New Value\'; Trying to write to this property will
 fail in strict mode.
-![](./images/media/image180.jpg){width="8.335083114610674e-2in"
+![](./images/image180.jpg){width="8.335083114610674e-2in"
 height="6.251749781277341e-2in"}
 
 For deep immutability, you can recursively freeze objects using
@@ -2761,7 +2763,7 @@ callbacks help manage asynchronous operations, they can lead to
 \"callback hell\" or \"pyramid of doom,\" where callbacks are nested
 within callbacks, making the code diffcult to read and maintain.
 
-![](./images/media/image181.jpg){width="15.430272309711286in"
+![](./images/image181.jpg){width="15.430272309711286in"
 height="4.959674103237095in"}
 
 ### 8.1.3 Promises: Creation and Chaining
@@ -2775,12 +2777,12 @@ allowing you to write code that\'s both more readable and easier to
 maintain. Additionally, .catch() provides a centralized way of handling
 errors.
 
-![](./images/media/image182.jpg){width="15.430272309711286in"
+![](./images/image182.jpg){width="15.430272309711286in"
 height="4.917996500437446in"}
 
 ### 8.1.4 Async/Await for Asynchronous Flow Control
 
-![](./images/media/image183.jpg){width="5.209426946631671e-2in"
+![](./images/image183.jpg){width="5.209426946631671e-2in"
 height="6.251749781277341e-2in"}async / await simplifies the syntax
 necessary to consume Promises, making asynchronous code look more like
 synchronous code, which can be easier to understand and debug.
@@ -2802,7 +2804,7 @@ handled manually within each callback. Promises and async / ^Q^ await\*
 offer more streamlined error handling via .catch() and try / catch
 blocks, respectively.
 
-![](./images/media/image185.jpg){width="15.430272309711286in"
+![](./images/image185.jpg){width="15.430272309711286in"
 height="6.084978127734034in"}
 
 Understanding these concepts and effectively utilizing the tools
@@ -2825,7 +2827,7 @@ more powerful and flexible feature set to handle requests and responses.
 It is built into the global window scope, making it readily available in
 modern browsers.
 
-![](./images/media/image186.jpg){width="15.430272309711286in"
+![](./images/image186.jpg){width="15.430272309711286in"
 height="2.5006758530183726in"}
 
 ### 8.2.2 AJAX with XMLHttpRequest
@@ -2884,7 +2886,7 @@ requests from your domain,
 Managing headers and understanding CORS are vital for developing web
 apps that interact securely and emciently with external services.
 
-![](./images/media/image188.jpg){width="15.430272309711286in"
+![](./images/image188.jpg){width="15.430272309711286in"
 height="5.084708005249344in"}
 
 Mastering these aspects of making HTTP requests opens up a vast array of
@@ -2926,12 +2928,12 @@ Data is structured in key/value pairs where every key is a string, and
 the value can be any of the JSON-supported data types. Strings in JSON
 must be written in double quotes.
 
-![](./images/media/image189.jpg){width="15.430272309711286in"
+![](./images/image189.jpg){width="15.430272309711286in"
 height="5.668198818897638in"}
 
 ### 8.3.2 Parsing JSON with JSON.parse
 
-![](./images/media/image190.jpg){width="5.209426946631671e-2in"
+![](./images/image190.jpg){width="5.209426946631671e-2in"
 height="7.293744531933509e-2in"}JSON.parse transforms a string of JSON
 format into a JavaScript object. This is especially useful when you
 receive JSON data as text from a server and need to convert it to a
@@ -2939,7 +2941,7 @@ JavaScript object for manipulation.
 
 ### 8.3.3 Stringifying Objects with JSON.stringify
 
-![](./images/media/image191.jpg){width="5.209426946631671e-2in"
+![](./images/image191.jpg){width="5.209426946631671e-2in"
 height="7.293635170603674e-2in"}JSON.stringify ^4^ takes a JavaScript
 object and converts it into a string in JSON format. This is
 particularly
@@ -2947,7 +2949,7 @@ particularly
 useful when you need to send data from the client to a server in JSON
 format.
 
-![](./images/media/image192.jpg){width="15.44069116360455in"
+![](./images/image192.jpg){width="15.44069116360455in"
 height="2.469417104111986in"}
 
 ### 8.3.4 Best Practices for Working with JSON Data
@@ -2991,7 +2993,7 @@ operations, and optimizing performance for high-frequency events.
 Promises are at the heart of modern asynchronous JavaScript, allowing
 for cleaner and more manageable code. When dealing with multiple
 asynchronous operations that need to run concurrently, Promise.all
-![](./images/media/image193.jpg){width="7.29319772528434e-2in"
+![](./images/image193.jpg){width="7.29319772528434e-2in"
 height="7.293635170603674e-2in"}comes into play. It takes an iterable of
 promises and returns a single Promise that resolves when all of the
 promises in the iterable have resolved or when the iterable contains no
@@ -3002,7 +3004,7 @@ promises.
 Async iterators and generators provide a way to handle asynchronous data
 streams seamlessly. An async
 
-![](./images/media/image195.jpg){width="3.5423982939632546in"
+![](./images/image195.jpg){width="3.5423982939632546in"
 height="2.1255752405949258in"}generator is a function that can pause its
 execution while waiting for asynchronous actions to complete,
 
@@ -3037,7 +3039,7 @@ significantly improve perfor-
 
 mance in web applications.
 
-![](./images/media/image196.jpg){width="15.430272309711286in"
+![](./images/image196.jpg){width="15.430272309711286in"
 height="8.220972222222223in"}
 
 ### 8.4.4 Using Web Workers for Non-blocking Background Tasks
@@ -3050,7 +3052,7 @@ without blocking the user interface, improving the performance and
 responsiveness of web applications.
 
   -----------------------------------------------------------------------
-  ![](./images/media/image197.jpg){width="15.305244969378828in"
+  ![](./images/image197.jpg){width="15.305244969378828in"
   height="9.117048337707786in"}e. data);
   -----------------------------------------------------------------------
 
@@ -3083,7 +3085,7 @@ appropriately.
 For example, executing two asynchronous tasks in sequence while
 maintaining state might look like this:
 
-![](./images/media/image198.jpg){width="15.430272309711286in"
+![](./images/image198.jpg){width="15.430272309711286in"
 height="6.543435039370078in"}
 
 ### 8.5.2 Using Libraries and Frameworks for State Management
@@ -3113,7 +3115,7 @@ useful in managing asynchronous operations and user interfaces.
 
 Here\'s basic JavaScript implementation of state machine:
 
-![](./images/media/image199.jpg){width="14.919748468941382in"
+![](./images/image199.jpg){width="14.919748468941382in"
 height="11.628143044619422in"}
 
 ### 8.5.4 Strategies for Testing Asynchronous Code
@@ -3130,7 +3132,7 @@ tests are reliable and run deterministically:
 -Async/Await: Modern testing frameworks support async/await in tests,
 providing a clean and intuitive way to test asynchronous operations.
 
-![](./images/media/image200.jpg){width="14.36755249343832in"
+![](./images/image200.jpg){width="14.36755249343832in"
 height="3.480107174103237in"}
 
 Proper management of state in asynchronous JavaScript is key to building
@@ -3182,7 +3184,7 @@ lexical scoping of this \* . Unlike functions declared with function ,
 this within an arrow function always refers to the context in which the
 function was created:
 
-![](./images/media/image201.jpg){width="15.430272309711286in"
+![](./images/image201.jpg){width="15.430272309711286in"
 height="5.188903105861767in"}
 
 This feature greatly simplifies working with asynchronous code and
@@ -3194,7 +3196,7 @@ ES6 introduced classes as syntactic sugar over the existing
 prototype-based inheritance, providing a cleaner and more intuitive way
 to create objects and handle inheritance:
 
-![](./images/media/image202.jpg){width="15.430272309711286in"
+![](./images/image202.jpg){width="15.430272309711286in"
 height="6.585113735783027in"}
 
 Classes support inheritance, static methods, and getters/setters, among
@@ -3212,7 +3214,7 @@ JavaScript:
 -   Import: Modules declare which parts they need from other modules
     (import). Example:
 
-![](./images/media/image203.jpg){width="15.430272309711286in"
+![](./images/image203.jpg){width="15.430272309711286in"
 height="4.021920384951881in"}
 
 ### 9.1.5 Additional ES6 Features and Syntax
@@ -3223,7 +3225,7 @@ smoother:
 
 -   Enhanced Object Literals: Support for setting the prototype at
     construction, shorthand for foo: foo
-    ![](./images/media/image204.jpg){width="7.293416447944007e-2in"
+    ![](./images/image204.jpg){width="7.293416447944007e-2in"
     height="7.293635170603674e-2in"}assignments, defining methods, and
     making super calls.
 
@@ -3232,7 +3234,7 @@ smoother:
 
 -   Iterators and For\...Of Loop: Providing a way to iterate over
     iterable objects like arrays, strings, and later,
-    ![](./images/media/image190.jpg){width="5.209426946631671e-2in"
+    ![](./images/image190.jpg){width="5.209426946631671e-2in"
     height="7.293744531933509e-2in"}Set ^4^ and Map\' .
 
 -   Promises: Native support for promises, providing a powerful way to
@@ -3259,12 +3261,12 @@ object literals):
 -   Arrays: Spread in arrays can be used to concatenate arrays or Insert
     array elements into a new array.
 
-![](./images/media/image205.jpg){width="15.430272309711286in"
+![](./images/image205.jpg){width="15.430272309711286in"
 height="1.6775360892388451in"}
 
 -   Objects: Spread in objects can be used to clone or merge objects.
 
-![](./images/media/image206.jpg){width="15.430272309711286in"
+![](./images/image206.jpg){width="15.430272309711286in"
 height="1.6671172353455819in"}
 
 ### 9.2.2 The Power of the Rest Operator in Functions
@@ -3272,7 +3274,7 @@ height="1.6671172353455819in"}
 The rest operator is used in function definitions to bundle an
 indefinite number of function arguments into a single array parameter:
 
-![](./images/media/image207.jpg){width="15.430272309711286in"
+![](./images/image207.jpg){width="15.430272309711286in"
 height="3.0841666666666665in"}
 
 This significantly improves the handling of function parameters,
@@ -3285,13 +3287,13 @@ Both operators simplify and enhance various common JavaScript tasks:
 -   Function Calls with Spread: Easily pass arrays as arguments to a
     function.
 
-![](./images/media/image208.jpg){width="15.430272309711286in"
+![](./images/image208.jpg){width="15.430272309711286in"
 height="1.5212445319335084in"}
 
 -   Copying Arrays and Objects: Create shallow copies of arrays and
     objects, protecting against mutations.
 
-![](./images/media/image209.jpg){width="15.430272309711286in"
+![](./images/image209.jpg){width="15.430272309711286in"
 height="1.6671172353455819in"}
 
 -   Merging Collections: Combine multiple arrays or objects compactly.
@@ -3306,14 +3308,14 @@ Beyond the basics, the spread and rest operators afford greater
 creativity and effciency in code patterns: - Conditional Object
 Properties: Dynamically include properties in an object.
 
-![](./images/media/image210.jpg){width="15.430272309711286in"
+![](./images/image210.jpg){width="15.430272309711286in"
 height="3.2612981189851267in"}
 
 -   Function Parameter Destructuring with Rest: Combine destructuring
     with the rest operator for more granular control over function
     inputs.
 
-![](./images/media/image211.jpg){width="15.430272309711286in"
+![](./images/image211.jpg){width="15.430272309711286in"
 height="3.782272528433946in"}
 
 -   Using Spread for Argument Unpacking in Nested Function Calls:
@@ -3353,7 +3355,7 @@ embedded:
 They also support multi-line strings without the need for concatenation
 or explicit newline characters:
 
-![](./images/media/image213.jpg){width="15.430272309711286in"
+![](./images/image213.jpg){width="15.430272309711286in"
 height="1.9171850393700787in"}
 
 ### 9.3.2 Tagged Template Literals: Advanced Examples
@@ -3363,7 +3365,7 @@ template literals through a function. The tag, a function placed before
 the template literal, receives the string segments and expressions as
 its arguments:
 
-![](./images/media/image214.jpg){width="15.44069116360455in"
+![](./images/image214.jpg){width="15.44069116360455in"
 height="5.074288057742782in"}
 
 This technique is particularly useful for sanitizing input,
@@ -3375,7 +3377,7 @@ React, and more.
 Template literals have significantly simplified generating and rendering
 HTML dynamically, making the code cleaner and easier to read:
 
-![](./images/media/image215.jpg){width="15.430272309711286in"
+![](./images/image215.jpg){width="15.430272309711286in"
 height="1.948442694663167in"}
 
 This approach is very powerful for creating templates in JavaScript
@@ -3387,7 +3389,7 @@ One of the strengths of template literals is their ability to compute
 expressions on the fly, integrating directly with JavaScript\'s
 expressiveness:
 
-![](./images/media/image216.jpg){width="15.430272309711286in"
+![](./images/image216.jpg){width="15.430272309711286in"
 height="2.5527734033245846in"}
 
 Dynamic expressions within template literals can include operations,
@@ -3413,7 +3415,7 @@ structures.
 Array destructuring allows you to unpack values from array elements into
 separate variables based on their position in the array:
 
-![](./images/media/image217.jpg){width="15.430272309711286in"
+![](./images/image217.jpg){width="15.430272309711286in"
 height="3.0841666666666665in"}
 
 This technique is very useful for swapping values without a temporary
@@ -3426,7 +3428,7 @@ Object destructuring enables extracting properties into variables. The
 variables can be directly mapped to properties of an object, even
 allowing for renaming and setting default values:
 
-![](./images/media/image218.jpg){width="15.430272309711286in"
+![](./images/image218.jpg){width="15.430272309711286in"
 height="5.459808617672791in"}
 
 This form of destructuring is particularly handy for dealing with
@@ -3447,7 +3449,7 @@ Destructuring can be used in function parameters to directly extract
 necessary properties. This simplifies working with options objects and
 reduces the need for manual property access within functions:
 
-![](./images/media/image219.jpg){width="15.430272309711286in"
+![](./images/image219.jpg){width="15.430272309711286in"
 height="3.615559930008749in"}
 
 This approach is particularly elegant for functions that accept complex
@@ -3474,7 +3476,7 @@ Maps are a key-value pair data structure that can use any type of key,
 unlike objects which only support strings and symbols as keys. This
 feature makes Maps more versatile for certain types of data handling:
 
-![](./images/media/image220.jpg){width="15.430272309711286in"
+![](./images/image220.jpg){width="15.430272309711286in"
 height="6.137075678040245in"}
 
 Maps preserve insertion order, making them suitable for ordered
@@ -3523,14 +3525,14 @@ Typed Arrays provide an interface for accessing raw binary data more
 effciently. They are particularly useful when dealing with files,
 streams, or complex data structures that involve numerical data:
 
-![](./images/media/image222.jpg){width="15.430272309711286in"
+![](./images/image222.jpg){width="15.430272309711286in"
 height="4.126115485564305in"}
 
 Typed Arrays support various data types, such as \'Int8 \'Uint8 Int16 %
-\'Uint16\'![](./images/media/image223.jpg){width="1.0522998687664042in"
+\'Uint16\'![](./images/image223.jpg){width="1.0522998687664042in"
 height="0.3230041557305337in"}
 
-![](./images/media/image224.jpg){width="5.209426946631671e-2in"
+![](./images/image224.jpg){width="5.209426946631671e-2in"
 height="6.251749781277341e-2in"}
 
 Uint32• Float32 , and Float64\* J providing flexibility in handling
@@ -3559,14 +3561,14 @@ as \"callback hell,\" where code became nested and diffcult to follow.
 ES6 introduced Promises as a solution to this issue, providing a more
 manageable structure for handling asynchronous operations:
 
-![](./images/media/image225.jpg){width="15.430272309711286in"
+![](./images/image225.jpg){width="15.430272309711286in"
 height="5.50148731408574in"}
 
 Building on Promises, async/await introduced in ES8 (ECMAScript 2017),
 allows for writing asynchronous code that looks and behaves like
 synchronous code, making it even cleaner and easier to understand:
 
-![](./images/media/image226.jpg){width="15.430272309711286in"
+![](./images/image226.jpg){width="15.430272309711286in"
 height="5.709876421697288in"}
 
 ### 9.6.2 Iterator and Generators: Creating Custom Iterables
@@ -3579,7 +3581,7 @@ time:
 
 ### 9.6.3 Handling Asynchronous Operations with Generators
 
-![](./images/media/image227.jpg){width="15.430272309711286in"
+![](./images/image227.jpg){width="15.430272309711286in"
 height="4.5428947944007in"}Generators can be combined with Promises to
 handle asynchronous operations in a way that looks synchronous. This
 pattern was a stepping stone toward the async/await syntax, allowing
@@ -3593,10 +3595,10 @@ evolution in handling asynchronous operations in JavaScript, providing a
 straightforward way to write asynchronous code that is both easy to read
 and write
 
-![](./images/media/image228.jpg){width="15.430272309711286in"
+![](./images/image228.jpg){width="15.430272309711286in"
 height="4.469958442694663in"}Async/await handles Promises behind the
 scenes, eliminating the need for manual and
-![](./images/media/image229.jpg){width="5.209426946631671e-2in"
+![](./images/image229.jpg){width="5.209426946631671e-2in"
 height="7.293635170603674e-2in"}.catch() methods, and reduces
 boilerplate code, especially when dealing with complex asynchronous
 workflows or when needing to perform multiple asynchronous operations in
@@ -3651,24 +3653,24 @@ from the root document node to individual text nodes:
 Accessing the DOM is typically done using JavaScript, which provides
 various methods to select nodes from the DOM tree:
 
-![](./images/media/image230.jpg){width="0.30214566929133857in"
+![](./images/image230.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}document.getElementById(id) : Selects a
 single element node by its id attribute.
 
-![](./images/media/image231.jpg){width="0.3334022309711286in"
+![](./images/image231.jpg){width="0.3334022309711286in"
 height="0.18755139982502186in"}document.getElementsByTagName(tagName) :
 Returns a live collection of elements with the specified tag name.
 
-![](./images/media/image232.jpg){width="0.30214566929133857in"
+![](./images/image232.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}document.getElementsByClassName(className)
 : Returns a live collection of elements that have the specified class
 name.
 
-![](./images/media/image233.jpg){width="9.376968503937008e-2in"
+![](./images/image233.jpg){width="9.376968503937008e-2in"
 height="3.1258748906386705e-2in"} document.querySelector(selector) :
 Returns the first element that matches a specified CSS selector.
 
-![](./images/media/image234.jpg){width="0.3229833770778653in"
+![](./images/image234.jpg){width="0.3229833770778653in"
 height="0.19797025371828522in"}document.querySelectorAll(selector) :
 Returns a NodeList of all elements matching the specified CSS selector.
 
@@ -3686,7 +3688,7 @@ properties to manipulate these elements:
     element.
 
 -   Creating and Removing Elements: Methods such as
-    ![](./images/media/image11.jpg){width="5.209426946631671e-2in"
+    ![](./images/image11.jpg){width="5.209426946631671e-2in"
     height="7.293744531933509e-2in"}document.createElement(tagName) and
     element.removeChild(child) allow for dynamic addition or removal of
     nodes in the DOM tree.
@@ -3714,24 +3716,24 @@ JavaScript.
 -getElementById:This method retrieves an element by its ID. It is one of
 the fastest and most common ways to select an element.
 
-![](./images/media/image235.jpg){width="15.430272309711286in"
+![](./images/image235.jpg){width="15.430272309711286in"
 height="1.1982403762029745in"}
 
 \- getElementsByClassName: This method returns a live HTMLCollection of
 all elements that have the specified class name(s).
 
-![](./images/media/image236.jpg){width="6.240873797025372in"
+![](./images/image236.jpg){width="6.240873797025372in"
 height="0.5001356080489939in"}
 
 const items = document . getE1ementsByC1assName( \' list-item\' ) ;
 
-![](./images/media/image237.jpg){width="6.240873797025372in"
+![](./images/image237.jpg){width="6.240873797025372in"
 height="0.29174540682414696in"}
 
 \- getElementsByTagName It returns a live HTMLCollection of elements
 with the given tag name.
 
-![](./images/media/image238.jpg){width="15.430272309711286in"
+![](./images/image238.jpg){width="15.430272309711286in"
 height="1.2711767279090114in"}
 
 ### 10.2.2 Introduction to Query Selectors
@@ -3744,7 +3746,7 @@ selection of elements within the DOM. They come in two varieties:
 
 +----------------+-----------------------------------------------------+
 | ![](.          | ![](./ima                                           |
-| /images/media/ | ges/media/image240.jpg){width="4.386323272090989in" |
+| /images/ | ges/media/image240.jpg){width="4.386323272090989in" |
 | image239.jpg){ | height="0.4897156605424322in"}= document.           |
 | width="2.08376 | querySe1ector( \' button )                          |
 | 42169728783in" | ;![](./ima                                          |
@@ -3760,12 +3762,12 @@ selection of elements within the DOM. They come in two varieties:
 -   querySelectorAll: Returns a static NodeList representing a list of
     elements matching the specified group of CSS selectors.
 
-![](./images/media/image244.jpg){width="1.5211482939632546in"
+![](./images/image244.jpg){width="1.5211482939632546in"
 height="0.4688768591426072in"}
 
 const allButtons = document. querySe1ectorA11( \' .btn ) ;
 
-![](./images/media/image245.jpg){width="7.501549650043745in"
+![](./images/image245.jpg){width="7.501549650043745in"
 height="0.34384295713035873in"}
 
 Query selectors are highly versatile and capable of selecting elements
@@ -3779,10 +3781,10 @@ properties are the values on the JavaScript object representation of
 these elements. -Setting and Getting Attributes: Use setAttribute to set
 an attribute\'s value, or getAttribute\* to retrieve it.
 
-![](./images/media/image246.jpg){width="15.430272309711286in"
+![](./images/image246.jpg){width="15.430272309711286in"
 height="2.219349300087489in"}
 
-![](./images/media/image247.jpg){width="15.430272309711286in"
+![](./images/image247.jpg){width="15.430272309711286in"
 height="2.4173206474190727in"}
 
 ### 10.2.4 Creating, Inserting, and Removing Nodes
@@ -3795,7 +3797,7 @@ developers the ability to add, replace, or remove elements on the page.
 
   -----------------------------------------------------------------------
   const newParagraph = document. createE1ement( \' p \' )
-  ;![](./images/media/image250.jpg){width="5.6782567804024495in"
+  ;![](./images/image250.jpg){width="5.6782567804024495in"
   height="1.208659230096238in"}
   -----------------------------------------------------------------------
 
@@ -3806,14 +3808,14 @@ developers the ability to add, replace, or remove elements on the page.
 
 DOM.
 
-![](./images/media/image251.jpg){width="15.430272309711286in"
+![](./images/image251.jpg){width="15.430272309711286in"
 height="1.7087948381452318in"}
 
 -   Removing Elements: removechild() method removes an element from the
     DOM. Newer approaches include remove() , which does not require a
     parent node reference.
 
-![](./images/media/image252.jpg){width="15.430272309711286in"
+![](./images/image252.jpg){width="15.430272309711286in"
 height="2.135994094488189in"}
 
 These techniques and tools provided by the DOM are fundamental to
@@ -3845,7 +3847,7 @@ listener should occur during the
 
 capturing or bubbling phase through the third parameter:
 
-![](./images/media/image253.jpg){width="15.430272309711286in"
+![](./images/image253.jpg){width="15.430272309711286in"
 height="2.115155293088364in"}
 
 ### 10.3.2 Adding and Removing Event Listeners
@@ -3854,7 +3856,7 @@ Adding an event listener is straightforward with the addEventListener
 method. Removing an event listener, however, requires a reference to the
 exact function that was added.
 
-![](./images/media/image254.jpg){width="15.430272309711286in"
+![](./images/image254.jpg){width="15.430272309711286in"
 height="5.147224409448819in"}
 
 103.3 Common DOM Events and Event Object Properties
@@ -3862,11 +3864,11 @@ height="5.147224409448819in"}
 Common DOM events include:
 
 -   Mouse Events: click j, dblclicle mousedown ^f^ mouseup mouseover
-    mouseleave![](./images/media/image255.jpg){width="7.292979002624672e-2in"
+    mouseleave![](./images/image255.jpg){width="7.292979002624672e-2in"
     height="7.293635170603674e-2in"}
 
 -   Keyboard Events: ^q^ keydown , keyup ,
-    keypress![](./images/media/image256.jpg){width="6.251312335958005e-2in"
+    keypress![](./images/image256.jpg){width="6.251312335958005e-2in"
     height="7.293635170603674e-2in"}
 
 \- Form Events: \* submit change focus \'blur\'
@@ -3874,18 +3876,18 @@ Common DOM events include:
 Every event handler receives an event object with properties and methods
 related to the event. Common properties include:
 
-![](./images/media/image257.jpg){width="0.30214566929133857in"
+![](./images/image257.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}type : the type of event (e.g.,
-![](./images/media/image258.jpg){width="1.1148129921259842in"
-height="0.3230041557305337in"}![](./images/media/image259.jpg){width="0.30214566929133857in"
+![](./images/image258.jpg){width="1.1148129921259842in"
+height="0.3230041557305337in"}![](./images/image259.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}target : the target element that
 initiated the event.
 
-![](./images/media/image260.jpg){width="0.30214566929133857in"
+![](./images/image260.jpg){width="0.30214566929133857in"
 height="0.18755030621172353in"}currentTarget : the element that the
 event listener is attached to.
 
-![](./images/media/image30.jpg){width="0.30214566929133857in"
+![](./images/image30.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}preventDefault() : a method that prevents
 the default action associated with the event.
 
@@ -3898,7 +3900,7 @@ keypress) is executed, enhancing performance and user experience.
 event has stopped firing for a predetermined amount of time. Useful for
 events like window resizing, where you only care about the final state.
 
-![](./images/media/image261.jpg){width="15.430272309711286in"
+![](./images/image261.jpg){width="15.430272309711286in"
 height="5.032610454943132in"}
 
 \- Throttling: Ensures that a function is called at most once within a
@@ -3906,7 +3908,7 @@ specified time period, regardless of how many times the triggering event
 fires. Useful for events like scrolling, where you want to limit
 updates.
 
-![](./images/media/image262.jpg){width="15.44069116360455in"
+![](./images/image262.jpg){width="15.44069116360455in"
 height="10.35696631671041in"}
 
 Debouncing and throttling are invaluable for handling events emciently,
@@ -3938,12 +3940,12 @@ The History API provides a standard way to manipulate the browser
 history, enabling developers to implement sophisticated navigation
 mechanisms within web applications:
 
-![](./images/media/image263.jpg){width="0.30214566929133857in"
+![](./images/image263.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}history.pushState() : Adds a state to the
 browser\'s session history stack, allowing you to change the URL
 displayed in the address bar without reloading the page.
 
-![](./images/media/image264.jpg){width="0.3334022309711286in"
+![](./images/image264.jpg){width="0.3334022309711286in"
 height="0.19797025371828522in"}history.replaceState() : Replaces the
 current state in the session history stack with a new state, effectively
 allowing you to modify the current URL without reloading the page.
@@ -3992,7 +3994,7 @@ exchanging small amounts of data with the server behind the scenes.
     powerful than the older XMLHttpRequest object used in traditional
     AJAX.
 
-![](./images/media/image265.jpg){width="15.430272309711286in"
+![](./images/image265.jpg){width="15.430272309711286in"
 height="2.6673873578302714in"}
 
 The combination ofthese technologies allows developers to create
@@ -4017,7 +4019,7 @@ the active DOM tree, modifying it doesn\'t cause reflow or repaint. Once
 you^l^re done, you can append the entire Fragment to the DOM, triggering
 just a single reflow and repaint cycle.
 
-![](./images/media/image266.jpg){width="15.430272309711286in"
+![](./images/image266.jpg){width="15.430272309711286in"
 height="6.585113735783027in"}
 
 ### 10.5.2 Effciently Handling Large Lists and Scroll Events
@@ -4059,7 +4061,7 @@ manually. It can be used to observe additions, removals, attribute
 changes, and more, making it invaluable for dynamically updating UIs or
 triggering functionality in response to user interactions.
 
-![](./images/media/image267.jpg){width="15.430272309711286in"
+![](./images/image267.jpg){width="15.430272309711286in"
 height="8.596073928258967in"}
 
 While highly useful, it\'s important to use MutationObserver judiciously
@@ -4139,24 +4141,24 @@ where the error occurred.
 The console object provides several methods that go beyond console.log()
 and can be incredibly useful for debugging:
 
-![](./images/media/image268.jpg){width="0.30214566929133857in"
+![](./images/image268.jpg){width="0.30214566929133857in"
 height="0.18755139982502186in"}console.error() : Highlights messages as
 errors in the console, making them more visible.
 
-![](./images/media/image269.jpg){width="0.30214566929133857in"
+![](./images/image269.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}console-warn() : Used to log warning
 messages, useful for potential issues that don\'t qualify as errors.
 
-![](./images/media/image269.jpg){width="0.30214566929133857in"
+![](./images/image269.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}console-table() : Displays data in a
 tabular form, making it easier to read.
 
-![](./images/media/image270.jpg){width="0.34382108486439195in"
+![](./images/image270.jpg){width="0.34382108486439195in"
 height="0.19797025371828522in"}console.group() and console.groupEnd() :
 Allows grouping of console messages, which can be collapsed and
 expanded, useful for organizing logged information.
 
-![](./images/media/image271.jpg){width="0.3229833770778653in"
+![](./images/image271.jpg){width="0.3229833770778653in"
 height="0.19797025371828522in"}console.assert() : Logs a message only if
 the asserted condition is false, useful for testing assumptions in the
 code.
@@ -4279,7 +4281,7 @@ JavaScript\'s try\...catch statement offers a structured approach to
 catching and handling runtime errors, preventing them from abruptly
 stopping script execution.
 
-![](./images/media/image272.jpg){width="15.430272309711286in"
+![](./images/image272.jpg){width="15.430272309711286in"
 height="3.1050054680664916in"}
 
 -   The •try\* block contains the code to be executed.
@@ -4300,7 +4302,7 @@ per-
 forming certain final actions.
 
 +-----------------------------------------------------------------------+
-| ![](./images/media/image273.jpg){width="15.190636482939633in"         |
+| ![](./images/image273.jpg){width="15.190636482939633in"         |
 | height="0.4584569116360455in"}                                        |
 |                                                                       |
 | // Code that may t[hrow]{.underline} an error                         |
@@ -4319,13 +4321,13 @@ To provide more specific error information or to handle particular error
 conditions differently, JavaScript allows throwing custom errors using
 the throw statement.
 
-![](./images/media/image277.jpg){width="15.430272309711286in"
+![](./images/image277.jpg){width="15.430272309711286in"
 height="1.9588637357830272in"}
 
--   ![](./images/media/image191.jpg){width="5.209426946631671e-2in"
+-   ![](./images/image191.jpg){width="5.209426946631671e-2in"
     height="7.293744531933509e-2in"}Custom errors can include any type
     of error object, including built-in Error types ( Error TypeError
-    ![](./images/media/image278.jpg){width="0.20837598425196852in"
+    ![](./images/image278.jpg){width="0.20837598425196852in"
     height="0.3230041557305337in"}ReferenceError\' , etc.) and custom
     error classes that extend the Error class.
 
@@ -4434,12 +4436,12 @@ throw]{.underline} if (canHandIe(e)) { handle(e) ;
 
 } else { throw e; // Rethrow If not h[and! e]{.underline}d
 
-![](./images/media/image279.jpg){width="2.8443372703412075in"
+![](./images/image279.jpg){width="2.8443372703412075in"
 height="0.8648173665791776in"}try { may throw
 
 } catch (e) { handleError(e) ;
 
-![](./images/media/image280.jpg){width="3.3131846019247595in"
+![](./images/image280.jpg){width="3.3131846019247595in"
 height="0.16671259842519684in"}
 
 \- Promise Rejection: In asynchronous operations, use .catch() on
@@ -4475,7 +4477,7 @@ their severity, type, or other criteria.
     custom error types. This is useful for differentiating between error
     contexts and for providing additional information about the error.
 
-![](./images/media/image282.jpg){width="15.430272309711286in"
+![](./images/image282.jpg){width="15.430272309711286in"
 height="5.626521216097988in"}
 
 -   Centralized Error Handler: Implement a central function or module to
@@ -4489,7 +4491,7 @@ with callbacks and promises. - Promises: Use the .catch() method or ^Q^
 try\* / \' catch with async\* / • await to handle errors in asynchronous
 code running in a Promise context.
 
-![](./images/media/image283.jpg){width="15.430272309711286in"
+![](./images/image283.jpg){width="15.430272309711286in"
 height="4.886737751531059in"}
 
 \- Callbacks: Wrap callback functions in try\* / • catch and use an
@@ -4538,18 +4540,18 @@ scaling your web application. Begin with creating a new directory for
 your project. Within this directory, create subdirectories and files as
 follows:
 
-![](./images/media/image284.jpg){width="0.30214566929133857in"
+![](./images/image284.jpg){width="0.30214566929133857in"
 height="0.18755030621172353in"}/css -for storing CSS files. Start with
 style.css .
 
-![](./images/media/image269.jpg){width="0.30214566929133857in"
+![](./images/image269.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"} /js - for JavaScript files. Start with
 scriptjs .
-![](./images/media/image285.jpg){width="0.30214566929133857in"
+![](./images/image285.jpg){width="0.30214566929133857in"
 height="0.19797025371828522in"}/images - a directory for all your
 images.
 
-![](./images/media/image284.jpg){width="0.30214566929133857in"
+![](./images/image284.jpg){width="0.30214566929133857in"
 height="0.18755030621172353in"}index.html - your main HTML file at the
 root of the project.
 
@@ -4562,9 +4564,9 @@ The user interface is what your users interact with. HTML provides the
 structure, while CSS styles it.
 
 1.  HTML: Start by defining the structure of your application in
-    ![](./images/media/image286.jpg){width="1.9066447944007in"
+    ![](./images/image286.jpg){width="1.9066447944007in"
     height="0.26048665791776027in"} . Use semantic tags like
-    ![](./images/media/image287.jpg){width="5.209426946631671e-2in"
+    ![](./images/image287.jpg){width="5.209426946631671e-2in"
     height="7.293635170603674e-2in"} \<header\> \<footer\> \<nav\> , and
     \<main\> to outline the main areas.
 
@@ -4577,10 +4579,10 @@ structure, while CSS styles it.
 JavaScript adds interactivity to your web application.
 
 1.  Connecting JS to HTML: Include your script.js• file before the
-    closing ![](./images/media/image288.jpg){width="1.510728346456693in"
+    closing ![](./images/image288.jpg){width="1.510728346456693in"
     height="0.333423009623797in"}tag in your ^Q^ index.html with
     \<script src=\"js/script.js\"\>\</script\>
-    ![](./images/media/image289.jpg){width="0.20837707786526685in"
+    ![](./images/image289.jpg){width="0.20837707786526685in"
     height="0.27090660542432193in"}
 
 2.  Manipulating the DOM: Use JavaScript to interact with and modify the
@@ -4595,8 +4597,8 @@ Event handling is crucial for interactive applications.
 1.  Listening to Events: Add listeners to buttons or other interface
     elements to trigger JavaScript functions. Example:
 
-![](./images/media/image290.jpg){width="9.522800743657044in"
-height="0.33342410323709537in"}myFunction);![](./images/media/image291.jpg){width="6.251312335958005e-2in"
+![](./images/image290.jpg){width="9.522800743657044in"
+height="0.33342410323709537in"}myFunction);![](./images/image291.jpg){width="6.251312335958005e-2in"
 height="7.293744531933509e-2in"}
 
 2.  Manipulating the DOM: Change content, styles, or attributes of HTML
@@ -4613,7 +4615,7 @@ dynamic and fast.
 1.  Fetch API: Use the Fetch API to make HTTP requests to retrieve data.
     fetch(^l^https://api.example.com/ data).then(response =\>
     responsejson()).then(data = \>
-    console.log(data));![](./images/media/image292.jpg){width="6.251312335958005e-2in"
+    console.log(data));![](./images/image292.jpg){width="6.251312335958005e-2in"
     height="7.293635170603674e-2in"}
 
 2.  Updating the UI: Once the data is fetched, use JavaScript to
@@ -4641,7 +4643,7 @@ sessionStorage ^s^ . Both provide the same methods and properties, but
 their lifespan differs. sessionStorage \' maintains a separate storage
 area for each given origin that\'s available for the duration of the
 page session. In contrast, localStorage
-![](./images/media/image293.jpg){width="7.29319772528434e-2in"
+![](./images/image293.jpg){width="7.29319772528434e-2in"
 height="7.293635170603674e-2in"}does the same, but persists even when
 the browser is closed and reopened.
 
@@ -4663,15 +4665,15 @@ local Storage. set Item( key\' ,
 
 \'value\');
 
-![](./images/media/image295.jpg){width="0.48968503937007873in"
+![](./images/image295.jpg){width="0.48968503937007873in"
 height="8.335629921259842e-2in"}javascript localStorage.setItem(lkey\',
-\'value\');![](./images/media/image296.jpg){width="0.4896839457567804in"
+\'value\');![](./images/image296.jpg){width="0.4896839457567804in"
 height="8.335520559930008e-2in"}
 
 Retrieving Data: To retrieve the stored data, use the getltem() method,
 specifying the key associated with the value you want to retrieve.
 
-![](./images/media/image297.jpg){width="15.430272309711286in"
+![](./images/image297.jpg){width="15.430272309711286in"
 height="2.7715824584426945in"}
 
 ### 12.2.3 Implementing Todo List with Local Storage
@@ -4681,19 +4683,19 @@ a practical example of localStorage utility.
 
 1\. Add a Task: When a task is added, store it in \* localstorage .
 
-![](./images/media/image298.jpg){width="15.430272309711286in"
+![](./images/image298.jpg){width="15.430272309711286in"
 height="3.1258442694663167in"}
 
-![](./images/media/image299.jpg){width="15.430272309711286in"
+![](./images/image299.jpg){width="15.430272309711286in"
 height="7.710417760279965in"}
 
 ### 12.2.4 Best Practices for Using Local Storage
 
 -   Do Not Store Sensitive Information:
-    ![](./images/media/image300.jpg){width="2.0212510936132984in"
+    ![](./images/image300.jpg){width="2.0212510936132984in"
     height="0.333423009623797in"} is not secure. Never store sensitive
     or personal information in
-    localStorage![](./images/media/image301.jpg){width="0.19795713035870516in"
+    localStorage![](./images/image301.jpg){width="0.19795713035870516in"
     height="0.26048665791776027in"}
 
 -   Stringify Non-String Data: localStorage can only store strings, so
@@ -4772,8 +4774,8 @@ repository, specify the folder.
 
 4. Visit Your Site: Your application will be live at 
 
-<!-- ![](./images/media/image302.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}
-![](./images/media/image303.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
+<!-- ![](./images/image302.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"}
+![](./images/image303.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
 -->
 
 <h3 id="ch12-3-4">12.3.4 Monitoring and Updating Your Live Application</h3>
