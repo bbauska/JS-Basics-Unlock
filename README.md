@@ -84,6 +84,7 @@ title: "JS Unlock JavaScript: JavaScript Introduction"
 <h3 id="toc">Table of Contents</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch1">Chapter 1: Exploring the Basics of JavaScript</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch-1-1">1.1 Introduction to JavaScript:</h4>
 <h4 id="ch1-2">1.2 Its Importance and Applications</h4>
 <h4 id="ch1-3">1.3 Writing Your First JavaScript Program: The &quot;Hello World!&quot;</h4>
@@ -91,6 +92,7 @@ title: "JS Unlock JavaScript: JavaScript Introduction"
 <h4 id="ch1-5">1.5 Linking a JavaScript File</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2">Chapter 2: Working with Data in JavaScript</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch2-1">2.1 Understanding JavaScript Values and Variables</h4>
 <h4 id="ch2-2">2.2 Exploring Data Types:</h4>
 <h4 id="ch2-3">2.3 From Numbers to Strings</h4>
@@ -102,6 +104,7 @@ Understanding Operator Precedence
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch3">Chapter 3: Controlling the Plow</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Making Decisions: if/else Statements
 
@@ -111,6 +114,7 @@ Iterating over Data: Looping Through Arrays
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch4">Chapter 4: Functions and Scope 38 Defining and Invoking Functions</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Exploring Function Declarations vs. Expressions
 
@@ -120,6 +124,7 @@ Scope: Understanding Local vs. Global
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5">Chapter 5: More on Functions</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Functions Calling Functions: A Deeper Dive
 
@@ -131,6 +136,7 @@ Understanding Callback Functions
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch6">Chapter 6: Arrays and Objects</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Introduction to Arrays:
 
@@ -142,6 +148,7 @@ Accessing Object Properties: Dot vs. Bracket Notation
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch7">Chapter 7: Deeper into Objects</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Introduction to Object-Oriented JavaScript
 
@@ -153,6 +160,7 @@ Prototypes and Inheritance
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id=""ch8">Chapter 8: Asynchronous JavaScript</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Understanding Asynchronous JavaScript:
 
@@ -164,6 +172,7 @@ Handling JSON Data
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch9">Chapter 9: Modern JavaScript Developments</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ES6 and Beyond:
 
@@ -177,6 +186,7 @@ Destructuring: Making Data Extraction Easier
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10">Chapter 10: The Browser Environment</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Introduction to the DOM (Document Object Model)
 
@@ -188,6 +198,7 @@ Creating and Navigating Between Pages Dynamically
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch11">Chapter 11: Debugging and Error Handling</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Introduction to Debugging in JavaScript
 
@@ -198,6 +209,7 @@ Understanding Runtime Errors and Handling Exceptions
 Best Practices for Debugging
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch12">Chapter 12: JavaScript in the Real World</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Building a Simple Web Application:
 
@@ -267,14 +279,16 @@ of JavaScript: Unlock the Power Of Web Programming", to the aspiring
 architects of the digital world. This book stands as a testament to the
 collective efforts and unwavering dedication cf our team of experts in 
 programming and instructional design.</p>
-<!-- ![](./images/media/image6.jpg){width="3.125546806649169e-2in" height="3.1258748906386705e-2in"}  -->
+
+<!-- ![](./images/media/image006.jpg){width="3.125546806649169e-2in" height="3.1258748906386705e-2in"}  -->
 
 <p>First and foremost, we extend our deepest gratitude to all the engineers
 developers, and educators who have shared their knowledge, expertise,
 and passion Their commitment to excellence and their profound
 understanding of JavaScript have been pivotal in creating a comprehensive
 guide for learning JavaScript.</p>
-<!-- ![](./images/media/image7.jpg){width="4.167541557305337e-2in" height="2.083880139982502e-2in"}  -->
+
+<!-- ![](./images/media/image007.jpg){width="4.167541557305337e-2in" height="2.083880139982502e-2in"}  -->
 
 <p>Our appreciation also goes out to our esteemed authors, who have
 invested their creativity and expertise in shaping the contents ofthis
@@ -334,7 +348,9 @@ without needing to communicate with the server for every operation. This
 client-side execution capability makes JavaScript a key player in
 creating seamless and dynamic user experiences on the web.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.1.2 The Role of JavaScript in Modern Web Development
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>In modern web development, JavaScript plays a critical role in both
 front-end and backend development, On the front end, it is used to
@@ -347,7 +363,9 @@ run on servers as well. This means that developers can write server-side
 code in JavaScript, allowing for a more unified and emcient development
 process because the same language can be used across the entire stack.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.1.3 Applications: From Web Pages to Server-Side Development
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>JavaScript's applications extend far beyond simple animations and
 validations on web pages. With the advent of sophisticated frameworks
@@ -361,7 +379,9 @@ has revolutionized how developers build scalable and high-performance
 web servers. This full-stack capability means that JavaScript is now
 used in practically every aspect of software development.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.1.4 JavaScript Frameworks and Libraries: Enhancing Functionality
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>The JavaScript ecosystem is rich with frameworks and libraries designed
 to simplify and enhance web development. Frameworks like Angular, React,
@@ -381,9 +401,11 @@ principles and learning to leverage its frameworks and libraries,
 developers can build emcient, interactive, and dynamic web applications
 that stand out in the digital age.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.2 Writing Your First JavaScript Program: The "Hello World!"
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.2.1 Understanding the Structure of a JavaScript Program
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>A JavaScript program is made up of statements that are executed by the browser in the 
 order in which they appear. At its core, a JavaScript program can be as simple as a single 
@@ -397,7 +419,9 @@ repeating actions, functions to organize code into reusable blocks, and
 much more. The basic structure hinges on these constructs to build more
 complex operations and workflows.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.2.2 Creating a Simple "Hello World!" Script
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>The "Hello World!" program is a simple exercise that prints the string
 "Hello, World!" on the screen. It is a traditional way to introduce a
@@ -412,7 +436,9 @@ script in JavaScript:</p>
 within &lt;script&gt; tags, or in an external JavaScript file, to display
 the message in the web browser's console.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1.2.3 Using the Browser Console to Execute JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>One of the easiest ways to run JavaScript code is using the browser&pos;s console. The console is part of the web browser&apos;s developer tools, and it provides a way to write, manage, and monitor JavaScript on demand.</p>
 
@@ -428,7 +454,9 @@ the message in the web browser's console.</p>
 
 <p>Using the console is a great way to test and debug small snippets of JavaScript code.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1 .2.4 Best Practices for Writing and Organizing Your JavaScript Code
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>As you learn to write more complex JavaScript programs, it's important
 to follow best practices to ensure your code is readable, maintainable,
@@ -458,9 +486,11 @@ journey.</p>
 
 <p>Working with Data in JavaScript</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2. I Understanding JavaScript Values and Variables
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.1.1 What Are Values and Variables in JavaScript?
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>In JavaScript, the concept of values and variables is foundational. A
 value refers to the actual data represented in the program, such as a
@@ -475,9 +505,11 @@ easily by the computer. For example, instead of remembering that the
 number 3.14 represents the mathematical constant Pi, we can simply store
 it in a variable named
 
-<!-- ![](./images/media/image8.jpg){width="0.6980610236220472in" height="0.33342410323709537in"}  -->
+<!-- ![](./images/media/image008.jpg){width="0.6980610236220472in" height="0.33342410323709537in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.1.2 The Distinction Between Values and Variables
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>Understanding the distinction between values and variables is crucial
 for effective programming in JavaScript. A value is an immutable piece
@@ -491,7 +523,9 @@ when we assign a new value to a variable. The content of the memory
 location pointed to by the variable can change, but the value itself
 (for example, the number 42 or the string "hello" ) is immutable.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.1.3 Declaring Variables in JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>JavaScript provides three keywords for declaring variables: var let', and const.</p>
 
@@ -512,9 +546,11 @@ location pointed to by the variable can change, but the value itself
 
 <p>To declare a variable, you specify the keyword followed by the variable 
 name: let age = 30;</p>
-<!-- ![](./images/media/image9.jpg){width="7.293088363954506e-2in" height="7.293635170603674e-2in"}  -->
+<!-- ![](./images/media/image009.jpg){width="7.293088363954506e-2in" height="7.293635170603674e-2in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.1.4 Variable Naming Conventions and Best Practices
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>When naming variables in JavaScript, there are several conventions and best practices to 
 follow:</p>
@@ -522,7 +558,7 @@ follow:</p>
 -   Use descriptive and meaningful names that clearly indicate what data
     the variable represents. For example, use userName instead of str'
     or ^q^
-    n![](./images/media/image10.jpg){width="0.20837707786526685in"
+    n![](./images/media/image010.jpg){width="0.20837707786526685in"
     height="0.26048665791776027in"}
 
 -   Stick to camelCase for variable names (e.g., * userProfile
@@ -531,14 +567,14 @@ follow:</p>
 -   For const* variables that hold constant values, it's common to use
     UPPER_CASE with underscores (e.g.,
 
-<!-- ![](./images/media/image11.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
+<!-- ![](./images/media/image011.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}  -->
 MAX_USERS ,
-<!-- ![](./images/media/image12.jpg){width="1.5211472003499562in" height="0.29174540682414696in"} ).  -->
+<!-- ![](./images/media/image012.jpg){width="1.5211472003499562in" height="0.29174540682414696in"} ).  -->
 
 -   Avoid using JavaScript reserved words (like new 'class function '
     ) as variable names.
 
-<!-- ![](./images/media/image13.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
+<!-- ![](./images/media/image013.jpg){width="9.376968503937008e-2in" height="2.083880139982502e-2in"}  -->
 
 <p>Keep name length reasonable. While descriptive names are good, overly long names can make your 
 code harder to read,</p>
@@ -546,9 +582,11 @@ code harder to read,</p>
 <p>Following these conventions and best practices not only makes your code more readable but also 
 helps avoid some common pitfalls related to variable declaration and naming in JavaScript.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.2 Exploring Data Types: From Numbers to Strings
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.2.1 Primitive Data Types: Overview and Usage
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>JavaScript supports several primitives, fundamental data types that
 constitute the basic building blocks of code. These include:</p>
@@ -568,23 +606,27 @@ constitute the basic building blocks of code. These include:</p>
 <p>Each ofthese primitive types serves specific purposes in JavaScript applications, from 
 controlling flow with booleans to representing and manipulating data with numbers and strings.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.2.2 Understanding Numbers and Mathematical Operations
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>In JavaScript, the Number* type represents both integers and floating-point numbers. Arithmetic 
 operations such as addition ( * + ' subtraction ( - ' ), multiplication ( * ' ), and division 
 C / • ) are available for constructing expressions with numbers. Special numerical values under the 
 Number type also exist, including Infinity -Infinity, and * NaN (Not a Number). Examples of numerical operations:
 
-![](./images/media/image14.jpg){width="10.159022309711286in"
+![](./images/media/image014.jpg){width="10.159022309711286in"
 height="1.51082895888014in"}
 
 JavaScript also includes the Math object, which provides more complex
 mathematical functions and constants, like Math.sqrt() (square root),
 Math.pow() (exponentiation), and
-Math.PI![](./images/media/image15.jpg){width="0.6980610236220472in"
+Math.PI![](./images/media/image015.jpg){width="0.6980610236220472in"
 height="0.31258530183727035in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.2.3 Working with Strings: Creating and Manipulating Text
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Strings in JavaScript are sequences of characters used to represent
 text. They can be defined using single quotes ( double quotes C ' or
@@ -614,7 +656,9 @@ string
 
 manipulation:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.2.4 Boolean, Null, and Undefined: Special Data Types
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   Booleans represent logical values and can be either or . They are
     often used in control structures like if' statements to determine
@@ -632,9 +676,11 @@ Understanding these data types and their operations is crucial for
 effectively programming in JavaScript, as they form the foundation upon
 which more complex structures and logic are built.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 2.3 Declaring Variables: let const , and var
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### **2.3.1 Differences Between let , const , and** var
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   var: This keyword declares a variable, optionally initializing it to
     a value. -declared variables are function-scoped or globally scoped
@@ -646,8 +692,10 @@ which more complex structures and logic are built.
     declaration ofblock-scoped variables, significantly reducing the
     scope in which a variable is visible compared to %vrar• . Variables
     declared with
-    ![](./images/media/image17.jpg){width="0.6563856080489939in"
-    height="0.27090660542432193in"}can be updated but not re-declared
+	
+![](./images/media/image017.jpg){width="0.6563856080489939in" height="0.27090660542432193in"}
+	
+	can be updated but not re-declared
     within the same scope.
 
 -   const: Also introduced in ES6, const is used for declaring variables
@@ -657,7 +705,10 @@ which more complex structures and logic are built.
     reference is immutable, the object it points to can still be mutated
     if it is an object.
 
-### 2.3.2 When to Use let € vs. const![](./images/media/image18.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### 2.3.2 When to Use let € vs. const!
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- [](./images/media/image018.jpg){width="7.292979002624672e-2in" height="8.335629921259842e-2in"}  -->
 
 The choice between let and const should be guided by the intended use
 ofthe variable:
@@ -673,7 +724,11 @@ ofthe variable:
 By following this approach, code maintainability and readability are
 improved.
 
-### 2.3.3 The Scope of let • , ' const , and var![](./images/media/image19.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### 2.3.3 The Scope of let • , ' const , and var
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<!-- ![](./images/media/image019.jpg){width="8.335083114610674e-2in" height="8.335629921259842e-2in"}  -->
 
 -   var: Variables declared with •var are either function-scoped or
     global-scoped, meaning they are visible throughout the entire
@@ -686,27 +741,31 @@ improved.
     feature for managing variable lifecycle and avoiding unintentional
     interference between different parts of a program.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.3.4 Examples and Common Pitfalls
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 - Hoisting: var declarations are hoisted to the top of their scope,
 which can lead to surprising behavior if not understood properly.
 
-![](./images/media/image20.jpg){width="8.0in" height="0.75in"}
+![](./images/media/image020.jpg){width="8.0in" height="0.75in"}
 
-![](./images/media/image21.jpg){width="5.209426946631671e-2in"
+![](./images/media/image021.jpg){width="5.209426946631671e-2in"
 height="7.293635170603674e-2in"}let' and const are also hoisted but not
 initialized, which means they cannot be
 
 accessed before their declaration due to the temporal dead zone. - Block
 Scope vs. Function Scope:
 
-![](./images/media/image22.jpg){width="8.0in" height="2.0in"}
+![](./images/media/image022.jpg){width="8.0in" height="2.0in"}
 
 cases, is critical for writing robust and error-free JavaScript code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4 Performing Operations: Basic Operators
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4.1 Arithmetic Operators and Their Use
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Arithmetic operators in JavaScript include the more familiar ones such
 as addition ( + ), subtraction ( - }
@@ -716,9 +775,11 @@ the remainder of a division, increment ( ++ ) and decrement ( -- ) operators
 that increase or decrease a number by one, respectively. These operators
 are used to perform mathematical calculations. For example:
 
-<!-- ![](./images/media/image24.jpg){width="8.0in" height="1.75in"} -->
+<!-- ![](./images/media/image024.jpg){width="8.0in" height="1.75in"} -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4.2 String Operators for Concatenation
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In JavaScript, the + • operator is also used for concatenating strings.
 When a operator is used with strings, it joins them together into one:
@@ -731,29 +792,31 @@ create and manipulate strings. Enclosed by
 backticks (\\ \\ they can contain placeholders marked by &dollar;{expression)
 , which are replaced by the values of the expressions:
 
-<!-- ![](./images/media/image25.jpg){width="8.0in" height="1.0in"}  -->
+<!-- ![](./images/media/image025.jpg){width="8.0in" height="1.0in"}  -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4.3 Comparison Operators and Evaluating Conditions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Comparison operators are used to compare two values and return a Boolean
 value, either true or false . These include:
 
-<!-- ![](./images/media/image26.jpg){width="0.8855993000874891in"
+<!-- ![](./images/media/image026.jpg){width="0.8855993000874891in"
 height="0.18755030621172353in"} -->
 
 (equal to)
 
-<!-- ![](./images/media/image27.jpg){width="1.0835575240594926in"
+<!-- ![](./images/media/image027.jpg){width="1.0835575240594926in"
 height="0.19797025371828522in"} -->
 
 (strictly equal to, meaning equal in
 value and type)
 
-<!-- ![](./images/media/image28.jpg){width="0.781411854768154in"
+<!-- ![](./images/media/image028.jpg){width="0.781411854768154in"
 height="0.26048665791776027in"} -->
 (not equal to)
 
-<!-- ![](./images/media/image29.jpg){width="0.9689501312335957in"
+<!-- ![](./images/media/image029.jpg){width="0.9689501312335957in"
 height="0.26048665791776027in"} -->
 
 (strictly not equal to)
@@ -764,42 +827,42 @@ height="0.26048665791776027in"} -->
 
 &gt;= (greater than or equal to)
 
-<!-- ![](./images/media/image33.jpg){width="0.7397364391951006in"
+<!-- ![](./images/media/image033.jpg){width="0.7397364391951006in"
 height="0.14587270341207348in"} -->
 
 &lt;= (less than or equal to)
 
 For example:
 
-![](./images/media/image34.jpg){width="15.430272309711286in"
+![](./images/media/image034.jpg){width="15.430272309711286in"
 height="1.8963462379702538in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 2.4.4 Logical Operators: Combining Conditions
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Logical operators allow you to combine multiple conditions. They
 include:
 
-<!-- ![](./images/media/image35.jpg){width="1.000206692913386in"
+<!-- ![](./images/media/image035.jpg){width="1.000206692913386in"
 height="0.26048665791776027in"} -->
 (logical AND): Returns true if both
 operands are true.
 
-<!-- ![](./images/media/image36.jpg){width="0.30214566929133857in"
-height="0.18755030621172353in"} -->
+<!-- ![](./images/media/image036.jpg){width="0.30214566929133857in" height="0.18755030621172353in"} -->
 
 I l (logical OR): Returns true if one or
 both operands are true.
 
-<!-- ![](./images/media/image30.jpg){width="0.30214566929133857in"
-height="0.19797025371828522in"} -->
+<!-- ![](./images/media/image030.jpg){width="0.30214566929133857in" height="0.19797025371828522in"} -->
+
 ! (logical NOT): Returns true if the
 operand is false, and vice versa,
 
 These operators are commonly used in conditionals to combine multiple
 conditions:
 
-<!-- ![](./images/media/image37.jpg){width="15.22189523184602in"
-height="3.438429571303587in"} -->
+<!-- ![](./images/media/image037.jpg){width="15.22189523184602in" height="3.438429571303587in"} -->
 
 Understanding these operators and how to use them effectively is a key
 part of programming logic in JavaScript, enabling complex conditions and
@@ -853,7 +916,7 @@ Examples of operator precedence levels from highest to lower:
 
 -   Assignment: ,
     and 
-<!-- ![](./images/media/image38.jpg){width="0.7397364391951006in"
+<!-- ![](./images/media/image038.jpg){width="0.7397364391951006in"
     height="0.2813254593175853in"} -->
 
 ### 2.5.3 Overriding Default Precedence: The Use of Parentheses
@@ -885,7 +948,7 @@ from left to right according to their associativity.
 
 4.  Logical Operators:
 
-<!-- ![](./images/media/image39.jpg){width="8.0in" height="0.5in"}  -->
+<!-- ![](./images/media/image039.jpg){width="8.0in" height="0.5in"}  -->
 
 Logical AND ( && ) has a higher precedence than logical OR ( I l &apos; ),
 but using parentheses can change the evaluation order for clarity or to
@@ -910,13 +973,11 @@ An i? statement is the simplest form of control flow, allowing you to
 execute a block of code only if a given condition is true. Its basic
 syntax is:
 
-![](./images/media/image40.jpg){width="15.430272309711286in"
-height="1.8546675415573053in"}
+![](./images/media/image040.jpg){width="15.430272309711286in" height="1.8546675415573053in"}
 
 Example:
 
-![](./images/media/image41.jpg){width="15.430272309711286in"
-height="2.3027055993000873in"}
+![](./images/media/image041.jpg){width="15.430272309711286in" height="2.3027055993000873in"}
 
 Here, the message is logged to the console only if the temperature is
 greater than 30.
@@ -927,24 +988,21 @@ To provide an alternative path when the if\* condition is false, you can
 use an else clause. For multiple conditions, else if can be used,
 Syntax:
 
-![](./images/media/image42.jpg){width="15.430272309711286in"
-height="3.8864665354330707in"}
+![](./images/media/image042.jpg){width="15.430272309711286in" height="3.8864665354330707in"}
 
 Example:
 
-![](./images/media/image43.jpg){width="15.430272309711286in"
-height="4.094856736657918in"}
+![](./images/media/image043.jpg){width="15.430272309711286in" height="4.094856736657918in"}
 
 ### 3.1.3 Nested if Statements
 
-![](./images/media/image44.jpg){width="5.209426946631671e-2in"
-height="6.251749781277341e-2in"} if\' statements can be nested within
-each other, allowing for more complex decisionmaking.
+![](./images/media/image044.jpg){width="5.209426946631671e-2in" height="6.251749781277341e-2in"} 
+
+if\' statements can be nested within each other, allowing for more complex decisionmaking.
 
 Example:
 
-![](./images/media/image45.jpg){width="15.430272309711286in"
-height="4.084436789151356in"}
+![](./images/media/image045.jpg){width="15.430272309711286in" height="4.084436789151356in"}
 
 This structure tests another condition (whether the sky is clear) inside
 an outer condition (whether the temperature is greater than 20).
@@ -958,15 +1016,15 @@ execute if it\'s false.
 
 Syntax:
 
-![](./images/media/image46.jpg){width="1.4482163167104112in"
-height="0.26048665791776027in"}condition ? exprIfTrue
-exprIfFaIse;![](./images/media/image47.jpg){width="8.460082020997376in"
-height="0.9481725721784777in"}
+![](./images/media/image046.jpg){width="1.4482163167104112in" height="0.26048665791776027in"}
+
+condition ? exprIfTrue exprIfFaIse;
+
+[](./images/media/image047.jpg){width="8.460082020997376in" height="0.9481725721784777in"}
 
 Example:
 
-![](./images/media/image48.jpg){width="15.44069116360455in"
-height="1.7921511373578303in"}
+![](./images/media/image048.jpg){width="15.44069116360455in" height="1.7921511373578303in"}
 
 Here, message is assigned one of the two strings based on whether
 temperature is greater than 30.
@@ -988,8 +1046,7 @@ The ^Q^ for\' loop is one of the most commonly used loops. Its
 particularly useful when the number of iterations is known beforehand,
 Syntax:
 
-![](./images/media/image49.jpg){width="15.430272309711286in"
-height="2.000541338582677in"}
+![](./images/media/image049.jpg){width="15.430272309711286in" height="2.000541338582677in"}
 
 -   initialExpression: Initializes a counter variable.
 
@@ -1001,8 +1058,7 @@ height="2.000541338582677in"}
 
 Example:
 
-![](./images/media/image50.jpg){width="15.430272309711286in"
-height="1.9276038932633421in"}
+![](./images/media/image050.jpg){width="15.430272309711286in" height="1.9276038932633421in"}
 
 This loop prints a message five times, with ^s^ i representing the
 current iteration number from O to 4.
@@ -1011,16 +1067,16 @@ current iteration number from O to 4.
 
 The while loop creates a loop that executes as long as the specified
 condition evaluates to true. Unlike the
-![](./images/media/image51.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}for loop, the while loop only requires
-the condition expression.
+
+![](./images/media/image051.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+
+for loop, the while loop only requires the condition expression.
 
 Syntax:
 
 Example:
 
-![](./images/media/image53.jpg){width="15.430272309711286in"
-height="2.8340988626421697in"}
+![](./images/media/image053.jpg){width="15.430272309711286in" height="2.8340988626421697in"}
 
 This does the same as the previous for loop example but demonstrates a
 different syntax and approach.
@@ -1035,15 +1091,13 @@ do {
 
 // code [blo]{.underline}ck to be executed
 
-![](./images/media/image54.jpg){width="0.9897878390201225in"
-height="6.251749781277341e-2in"}
+![](./images/media/image054.jpg){width="0.9897878390201225in" height="6.251749781277341e-2in"}
 
 } while (condition);
 
 Example:
 
-![](./images/media/image55.jpg){width="15.430272309711286in"
-height="3.0216502624671917in"}
+![](./images/media/image055.jpg){width="15.430272309711286in" height="3.0216502624671917in"}
 
 Even if the condition evaluates to false on the first try, the code
 block would still have executed once due to the nature of the do-while
@@ -1059,22 +1113,19 @@ Break Example:
 
 for (let i = e; i \< 10; i++) {
 
-![](./images/media/image56.jpg){width="1.531567147856518in"
+![](./images/media/image0056.jpg){width="1.531567147856518in"
 height="6.251749781277341e-2in"}
 
-if (i break; // Exits [the]{.underline} Loop [when]{.underline} is S
+if (i break; // Exits [the] Loop [when]{.underline} is S
 
 =
 
-![](./images/media/image58.jpg){width="2.9797823709536306in"
-height="9.377515310586176e-2in"}
+![](./images/media/image058.jpg){width="2.9797823709536306in" height="9.377515310586176e-2in"}
 
 console.log( \'i is
-![](./images/media/image59.jpg){width="1.4169597550306212in"
-height="0.5001356080489939in"}
+![](./images/media/image059.jpg){width="1.4169597550306212in" height="0.5001356080489939in"}
 
-![](./images/media/image60.jpg){width="4.344647856517935in"
-height="0.12503390201224848in"}
+![](./images/media/image060.jpg){width="4.344647856517935in" height="0.12503390201224848in"}
 
 Continue
 
@@ -1142,12 +1193,12 @@ element in the array.
 
 Syntax:
 
-![](./images/media/image63.jpg){width="15.430272309711286in"
+![](./images/media/image063.jpg){width="15.430272309711286in"
 height="1.0419488188976378in"}
 
 Example:
 
-![](./images/media/image64.jpg){width="15.430272309711286in"
+![](./images/media/image064.jpg){width="15.430272309711286in"
 height="2.9695527121609797in"}
 
 This method is preferred for its readability and functional approach to
@@ -1202,19 +1253,19 @@ arrays or values based on the provided callback functions.
 -   map() creates a new array populated with the results of calling a
     provided function on every element in the calling array. Example:
 
-![](./images/media/image66.jpg){width="15.430272309711286in"
+![](./images/media/image066.jpg){width="15.430272309711286in"
 height="2.0526377952755905in"}
 
 -   filter() creates a new array with all elements that pass the test
     implemented by the provided function. Example:
 
-![](./images/media/image67.jpg){width="15.430272309711286in"
+![](./images/media/image067.jpg){width="15.430272309711286in"
 height="1.979701443569554in"}
 
 -   reduce() applies a reducer function on each element of the array,
     leading to a single output value. Example:
 
-![](./images/media/image68.jpg){width="15.430272309711286in"
+![](./images/media/image068.jpg){width="15.430272309711286in"
 height="1.8650874890638671in"}
 
 Understanding and using these array iteration techniques effectively can
@@ -1278,7 +1329,7 @@ crashing.
 
 Syntax:
 
-![](./images/media/image70.jpg){width="8.0in" height="2.0in"}
+![](./images/media/image070.jpg){width="8.0in" height="2.0in"}
 
 This example demonstrates error handling by catching an error when
 calling a function that doesn\'t exist.
@@ -1295,7 +1346,7 @@ throw new Error(\"Custom error message\");
 
 Example:
 
-![](./images/media/image71.jpg){width="8.0in" height="3.5in"}
+![](./images/media/image071.jpg){width="8.0in" height="3.5in"}
 
 This code throws an error if the dimensions for calculating an area are
 not positive, demonstrating how custom errors can control the flow of a
@@ -1319,19 +1370,20 @@ concerns.
 A function is declared using the function keyword, followed by a name, a
 list of parameters enclosed in parentheses , and a block of code
 enclosed in curly braces
-O![](./images/media/image72.jpg){width="0.20837707786526685in"
-height="0.26048665791776027in"}
+O
 
-![](./images/media/image73.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image072.jpg){width="0.20837707786526685in" height="0.26048665791776027in"}
+
+![](./images/media/image073.jpg){width="8.0in" height="1.0in"}
 
 Example:
 
-![](./images/media/image74.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image074.jpg){width="8.0in" height="1.0in"}
 
 To invoke or call the function, you use the function name followed by
 parentheses:
 
-![](./images/media/image75.jpg){width="8.0in" height="0.5in"}
+![](./images/media/image075.jpg){width="8.0in" height="0.5in"}
 
 ### 4.1.2 Parameters and Arguments
 
@@ -1352,7 +1404,7 @@ specified value.
 
 Example:
 
-![](./images/media/image78.jpg){width="8.0in" height="2.0in"}
+![](./images/media/image078.jpg){width="8.0in" height="2.0in"}
 
 If a function doesn\'t specify a return value, it returns undefined by
 default.
@@ -1369,14 +1421,14 @@ An IIFE is a function that runs as soon as it is defined.
 
 Syntax:
 
-![](./images/media/image79.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image079.jpg){width="8.0in" height="1.0in"}
 
 IIFEs are useful for creating private scopes and avoiding polluting the
 global namespace.
 
 Example with Parameters:
 
-![](./images/media/image80.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image080.jpg){width="8.0in" height="1.0in"}
 
 Functions as first-class citizens allow for flexible and powerful
 programming patterns, including callbacks, function factories, and more.
@@ -1401,11 +1453,11 @@ can be called before its declaration in the code.
 
 Syntax:
 
-![](./images/media/image81.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image081.jpg){width="8.0in" height="1.0in"}
 
 Example:
 
-![](./images/media/image82.jpg){width="8.0in" height="1.5in"}
+![](./images/media/image082.jpg){width="8.0in" height="1.5in"}
 
 Despite sum being called before it appears in the code, the program can
 execute it without error due to hoisting.
@@ -1418,7 +1470,7 @@ be called before they are defined in the code.
 
 Syntax:
 
-![](./images/media/image83.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image083.jpg){width="8.0in" height="1.0in"}
 
 Example:
 
@@ -1431,7 +1483,7 @@ Function expressions can be anonymous (as seen above) or named.
 
 Named Function Expression:
 
-![](./images/media/image87.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image087.jpg){width="8.0in" height="1.0in"}
 
 A key difference is in debugging: named functions can be easier to
 identify in a stack trace. However, within the function body, you use
@@ -1485,27 +1537,23 @@ instead.
 
 Basic Syntax:
 
-![](./images/media/image91.jpg){width="8.0in" height="1.0in"}
+![](./images/media/image091.jpg){width="8.0in" height="1.0in"}
 
 Without Parameters:
 
-+-----------------------------------+-----------------------------------+
 | const sayHe110 = ( )              | console. log( \"Hello! \" ) •     |
 |                                   |                                   |
 | With a Single Parameter:          |                                   |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
 
 const greet = name console. log(
-![](./images/media/image92.jpg){width="4.0in" height="0.5in"}\"Hello,
+
+![](./images/media/image092.jpg){width="4.0in" height="0.5in"}
+
+\"Hello,
 
 With Multiple Parameters:
 
-  -----------------------------------------------------------------------
-  const sum = (a, b)
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+const sum = (a, b)
 
 Returning Objects:
 
@@ -1520,12 +1568,14 @@ lexical context and not by how the function is called.
 
 Example:
 
-![](./images/media/image94.jpg){width="8.0in" height="3.0in"}
+![](./images/media/image094.jpg){width="8.0in" height="3.0in"}
 
 In this example, this inside the arrow function correctly refers to the
 Timer object because it inherits
-![](./images/media/image95.jpg){width="5.209426946631671e-2in"
-height="7.293635170603674e-2in"}this from the surrounding code.
+
+![](./images/media/image095.jpg){width="5.209426946631671e-2in" height="7.293635170603674e-2in"}
+
+this from the surrounding code.
 
 ### 4.3.3 Limitations and Features
 
@@ -1541,8 +1591,9 @@ parameters.
 
 \- Cannot Change \' this : The value of this \' is lexically bound,
 meaning it cannot be altered with methods like •call %
-or![](./images/media/image96.jpg){width="1.0835575240594926in"
-height="0.27090660542432193in"}
+or
+
+![](./images/media/image096.jpg){width="1.0835575240594926in" height="0.27090660542432193in"}
 
 ### 4.3.4 Practical Uses ofArrow Functions
 
@@ -1551,14 +1602,14 @@ Arrow functions shine in several scenarios:
 -   Callbacks and Higher-Order Functions: Theyre perfect for short
     callback functions passed to methods
 
-![](./images/media/image97.jpg){width="8.0in" height="2.0in"}
+![](./images/media/image097.jpg){width="8.0in" height="2.0in"}
 
-![](./images/media/image98.jpg){width="8.0in" height="1.5in"}
+![](./images/media/image098.jpg){width="8.0in" height="1.5in"}
 
 -   Asynchronous Operations: Arrow functions are widely used in promises
     and asynchronous functions.
 
-![](./images/media/image99.jpg){width="8.0in" height="1.5in"}
+![](./images/media/image099.jpg){width="8.0in" height="1.5in"}
 
 Understanding when and how to use arrow functions effectively can
 greatly simplify your JavaScript code and help maintain this context in
@@ -4848,4 +4899,5 @@ date last editted: "8/17/2025 Sun 3+pm"
 date last editted: "9/11/2025 Thu 11+am"
 date last editted: "9/18/2025 Thu 2+pm"
 date last editted: "12/12/2025 Fri 12+pm"
+date last editted: "12/16/2025 Tue 1+am"
 
