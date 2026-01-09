@@ -1,0 +1,363 @@
+/*
+ * css/styles.css of js-basics-unlock
+ */
+
+main {
+  width: calc(100% - 240px);
+  max-width: 680px;
+  margin: 100px auto;
+}
+* {
+  scroll-behavior: smooth;
+}
+
+/* Menu code starts here */
+#menuToggle
+{
+  display: block;
+  /* You can also use relative/absolute here if you want to stay on the top */
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  z-index: 1;  
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+#menuToggle a
+{
+  text-decoration: none;
+  color: #232323;
+  transition: color 0.3s ease;
+}
+#menuToggle a:hover
+{
+  color: tomato;
+}
+#menuToggle input
+{
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;
+  cursor: pointer;
+  opacity: 0; /* hide this */
+  z-index: 2; /* and place it over the hamburger */
+  -webkit-touch-callout: none;
+}
+
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span
+{
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  background: #cdcdcd;
+  border-radius: 3px;
+  z-index: 1;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #232323;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu
+{
+  position: absolute;
+  max-width: 400px;
+  width: 100vw;
+  max-height: 100vh;
+  margin: -100px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+  box-sizing: border-box;
+  overflow-y: auto;
+  background: #ededed;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  padding: 10px 0;
+  font-size: 22px;
+}
+
+#menu li label
+{
+  cursor: pointer;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+
+/* above added 7-15-2025 */
+img.displayed {
+  display: block;
+  margin: 0 auto; 
+}
+.border {
+  border-width: 1px;
+  border-color: #778899;  /* dark grayish blue */
+  border-style: solid; 
+}
+
+ul,ol li {
+  font-size: 1.2em;  /* 15px; */
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  padding: 15px;  /* 10px */
+  margin-left: 15px; /* was blank */
+  line-height: 110%;  /* 110% */
+}
+
+p { 
+  font-size: 14.5px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  text-align: left;
+  margin-left: 15px;  /* 10px */
+}
+
+a:link {
+  color: #013220;  /* very dark green */
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #037d50;  /* green, next: 0000ff: pure (or mostly pure) blue, was: dark red: #a5682a */
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #00000;
+  background-color: #ffff00;  /* yellow */
+  text-decoration: underline;
+}
+a[href]:hover {
+  text-decoration: underline; 
+  text-decoration-color: 0000ff;
+}
+
+div {
+  float: left;
+}
+
+h1 {
+  font-size: 23px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  text-align: center;
+}
+h2 {
+  font-size: 21px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  margin-left: 15px;  /* 10px */
+  margin-right: 15px;
+}
+h3 {
+  font-size: 19px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+h4 { 
+  font-size: 18px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
+  margin-left: 15px;
+  margin-right: 15px;
+}
+h5 { 
+  font-size: 15px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
+  margin-left: 15px;
+}
+h6 { 
+  font-size: 13px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+details {
+  font: 10px Inter, sans-serif, Bahnschrift, Calibri;
+  width: 65%;
+}
+details > summary {
+  width: 12em;
+  padding: 2px 6px;
+  background-color: #eee;  /* very light gray */
+  border: none;
+  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
+  cursor: pointer;
+}
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;  /* white */
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px #00008b;  /* dark blue*/
+}
+details[open] > summary {
+  background-color: yellow;
+}
+
+background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
+
+body {
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  font-size: 14.5px;  /* 1.2rem; */
+  background-color: #eee;  /* very light gray */
+  color: #000000;  /* black */
+  text-align: left;
+  padding: 10px;
+  margin: 15px;  /* was margin-left: 10px; */
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 11px;
+  border: none;
+  outline: none;
+  background-color: #8b0000;  /* dark red */
+  color: #fdfeff;  /* very pale (mostly white) blue */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 1px;
+}
+#myBtn:hover {
+  background-color: #555;  /* very dark gray */
+}
+
+pre {
+  font: normal normal 10px/12px consolas,Courier,Monospace;
+  background-color: #eee;
+  overflow: auto;
+  margin: 0 0 1em;
+  padding: .5em 1em;
+  white-space: pre-wraps;
+  overflow-x: auto;
+}
+pre > code {
+  display: block;
+  margin-left: 15px;  /* 10px */
+  padding: 1rem;
+  word-wrap: normal;
+}
+pre code,
+pre .line-number {
+  font: normal normal 10px/12px consolas,Courier,Monospace;
+  color: #000;  /* black */
+  display: block;
+}
+pre .line-number {
+  font: normal normal 10px/12px consolas,Courier,Monospace;
+  float: left;
+  margin: 0 1em 0 -1em;
+  border-right: 1px solid;
+  text-align: right;
+  color: #ff0000;  /* pure (or mostly pure) red */
+}
+pre .line-number span {
+  display: block;
+  padding: 0 .5em 0 1em;
+}
+pre .cl {
+  display: block;
+  clear: both;
+}
+pre {
+  width: 400px;
+  overflow: auto;
+}
+pre[href]:hover  {
+  text-decoration: none;
+}
+pre:hover, pre:focus {
+  width: 400px;  /* was: 50%, fit-content; before that; width: min-content */
+}
+
+.makeKnown {
+  color: red;
+  background-color: yellow;
+}
+ table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
+  div.example {
+    font-size: 50px;
+    padding: 50px;
+    border: 8px solid black;
+    background: yellow;
+  }
+}
