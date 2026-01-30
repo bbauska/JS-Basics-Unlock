@@ -1,72 +1,10 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ index.html of bbauska/js-unlock-js making js-unlock-js.bauska.org ~~~~~~~~~~~~-->
-<head>
-  <meta charset="utf-8">
-
-  <!-- meta viewport, title, desc, robot for SEO -->
-  <meta name="author" content="Brian Bauska">
-  <meta name="title" content="JS Unlock JavaScript">
-  <meta name="description" content="JS unlock JavaScript.">
-  <meta name="keywords" content="website,web site,zombie,Politics,culture,casino,capitalism,capitalize,
-    political,disposability,death,America,culture,power,society,greed,avarice,excess,gluttony,selfishness,
-    MIC,Military,Industrial,Complex,corruption,Dulles,Bush,Reagan,justice,youth,democracy,psychology,
-    ideology,governance,spectacle,casino capitalism,zombie,steak,Steak,YouTube,Sonic,sonic,SONIC,
-    Silus,Gaming,World,Silus Gaming World,Luccas Neto,T-Series,SET India,Cocomelon,Mr Beast,MrBeast,
-    Beast,CE1,C-E-1,MRBEAST,BEAST,Silus Gaming World,Silus,Silus Spider,Nick AR,Nick,NY,NYNick,
-    New York Nick,NY Nick,UR Cristiano,UR,Cristiano,Kids Dima Show,Vlad and Niki,Luisito Comunica,
-    Bright Side,Zee TV,Dude Perfect,Tips Official,Tips Official,FNAF,Five Nights at Freddies,
-    The Music Company,PewDiePie,5 minute crafts,A4,Sambucha,Sam & Colby,Sam&ColbyReacts,Juice World,
-    Ray William Johnson,FGTV,KaicenatLive,IShowSpeed,Jelly,DanTDM,KSI,Logan Paul,JackSucksAtLife,
-    PackGOD,JakePaul,Jake,Paul Jake Paul,SamGaming01,Veshreny,WWE,WorldWrestlingEntertainment,
-    Smosh,DadsSpeed,TopperGuild,InternetAnarchist,GuavaJuice,Fortnite Youtubers,Sypherpk,LiveSPEEDY,
-    AdenRoss,Preston,JohnnieJuilbert,YouTube Movies,AnnoyingOrange,JackSepticeye,JackFilms,BBNo$,
-    Unspeakable,MarkRober,TheFilmTheorist,TheGameTheorist,Minecraft,TheBoys,JTMusic,DAFUQBoom!?,
-    AIMIN,Robby,BrentTV,EYStream,Fortnite,Ninja,SunnyV2,N30N,SamFrank,Dream,Technoblade,
-    RyanTrhan,Stellar,DJCook,AnthonyMadia,AnthonyIlla,SmoshGaming,SmoshPit,SmoshCast,Fred,cellardoor,
-    Brian's Blog,Cellar Door">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="robots" content="index, follow">
-  <link rel="manifest" href="manifest.json">
-  <title>JS Unlock JavaScript</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon/favicon.ico">
-  <link rel="canonical" href="https://js-unlock.bauska.org">
-
-  <!-- favicon images -->
-  <link rel="shortcut icon" type="image/jpg" href="/images/favicon/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png" />
-  <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png" />
-  <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png" />
-  <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png" />
-  <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png" />
-  <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png" />
-  <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png" />
-  <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png" />
-  <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png" />
-  <link rel="manifest" href="/manifest.json" />
-  <meta name="msapplication-TileColor" content="#ffffff" />
-  <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png" />
-  <meta name="theme-color" content="#ffffff" />
-</head>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<body>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of bbauska/js-unlock-js ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 title: "JS Unlock JavaScript: JavaScript Introduction"
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 style="text-align:center">Basics of JS: Unlock the Power of Web Programming</h1>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 style="text-align:center">JS Unlock JavaScript</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Basics of JS: Unlock the Power of Web Programming
+JS Unlock JavaScript
 <br/>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of js-unlock-javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image005.png"
   style="width:4in;"
@@ -90,6 +28,7 @@ title: "JS Unlock JavaScript: JavaScript Introduction"
 <h4 id="ch1-3">1.3 Writing Your First JavaScript Program: The &quot;Hello World!&quot;</h4>
 <h4 id="ch1-4">1.4 How JavaScript Works in Web Pages:</h4>
 <h4 id="ch1-5">1.5 Linking a JavaScript File</h4>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2">Chapter 2: Working with Data in JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -97,130 +36,89 @@ title: "JS Unlock JavaScript: JavaScript Introduction"
 <h4 id="ch2-2">2.2 Exploring Data Types:</h4>
 <h4 id="ch2-3">2.3 From Numbers to Strings</h4>
 <h4 id="ch2-4">2.4 Declaring Variables: let, const, and var</h4>
-
-Performing Operations: Basic Operators
-
-Understanding Operator Precedence
+<h4 id="ch2-5">2.5 Performing Operations: Basic Operators</h4>
+<h4 id="ch2-6">2.6 Understanding Operator Precedence</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch3">Chapter 3: Controlling the Plow</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-Making Decisions: if/else Statements
-
-Repeating Actions: for and while Loops
-
-Iterating over Data: Looping Through Arrays
+<h4 id="ch3-1">3.1 Making Decisions: if/else Statements</h4>
+<h4 id="ch3-2">3.2 Repeating Actions: for and while Loops</h4>
+<h4 id="ch3-3">3.3 Iterating over Data: Looping Through Arrays</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch4">Chapter 4: Functions and Scope 38 Defining and Invoking Functions</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Exploring Function Declarations vs. Expressions
-
-Arrow Functions: A Concise Syntax
-
-Scope: Understanding Local vs. Global
+<h4 id="ch7-1">4.1 Exploring Function Declarations vs. Expressions</h4>
+<h4 id="ch7-2">4.2 Arrow Functions: A Concise Syntax</h4>
+<h4 id="ch7-3">4.3 Scope: Understanding Local vs. Global</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5">Chapter 5: More on Functions</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Functions Calling Functions: A Deeper Dive
-
-Functions: Passing Values and Reference
-
-The Power of Return Values
-
-Understanding Callback Functions
+<h4 id="ch5-1">5.1 Functions Calling Functions: A Deeper Dive</h4>
+<h4 id="ch5-2">5.2 Functions: Passing Values and Reference</h4>
+<h4 id="ch5-3">5.3 The Power of Return Values</h4>
+<h4 id="ch5-4">5.4 Understanding Callback Functions</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch6">Chapter 6: Arrays and Objects</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Introduction to Arrays:
-
-Handling Collections of Data Basic and Advanced Array Operations
-
-Understanding Objects: Key-Value Pairs
-
-Accessing Object Properties: Dot vs. Bracket Notation
+<h4 id="ch6-1">6.1 Introduction to Arrays:</h4>
+<h4 id="ch6-2">6.2 Handling Collections of Data Basic and Advanced Array Operations</h4>
+<h4 id="ch6-3">6.3 Understanding Objects: Key-Value Pairs</h4>
+<h4 id="ch6-4">6.4 Accessing Object Properties: Dot vs. Bracket Notation</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch7">Chapter 7: Deeper into Objects</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Introduction to Object-Oriented JavaScript
-
-Understanding this Keyword
-
-Constructors and Object Instances
-
-Prototypes and Inheritance
+<h4 id="ch7-1">7.1 Introduction to Object-Oriented JavaScript</h4>
+<h4 id="ch7-2">7.2 Understanding this Keyword</h4>
+<h4 id="ch7-3">7.3 Constructors and Object Instances</h4>
+<h4 id="ch7-4">7.4 Prototypes and Inheritance</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id=""ch8">Chapter 8: Asynchronous JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Understanding Asynchronous JavaScript:
-
-Callbacks, Promises, and Async/Await
-
-Making HTTP Requests: Fetch API and AJAX
-
-Handling JSON Data
+<h4 id="ch8-1">8.1 Understanding Asynchronous JavaScript:</h4>
+<h4 id="ch8-2">8.2 Callbacks, Promises, and Async/Await</h4>
+<h4 id="ch8-3">8.3 Making HTTP Requests: Fetch API and AJAX</h4>
+<h4 id="ch8-4">8.4 Handling JSON Data</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch9">Chapter 9: Modern JavaScript Developments</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-ES6 and Beyond:
-
-Arrow Functions, Classes, and Modules
-
-Spread and Rest Operators: simplifying Arrays and Objects
-
-Template Literals: A New Way to Handle Strings
-
-Destructuring: Making Data Extraction Easier
+<h4 id="ch9-1">9.1 ES6 and Beyond:</h4>
+<h4 id="ch9-2">9.2 Arrow Functions, Classes, and Modules</h4>
+<h4 id="ch9-3">9.3 Spread and Rest Operators: simplifying Arrays and Objects</h4>
+<h4 id="ch9-4">9.4 Template Literals: A New Way to Handle Strings</h4>
+<h4 id="ch9-5">9.5 Destructuring: Making Data Extraction Easier</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch10">Chapter 10: The Browser Environment</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Introduction to the DOM (Document Object Model)
-
-Selecting and Manipulating DOM Elements
-
-Handling Events: Responding to User Input
-
-Creating and Navigating Between Pages Dynamically
+<h4 id="ch10-1">10.1 Introduction to the DOM (Document Object Model)</h4>
+<h4 id="ch10-2">10.2 Selecting and Manipulating DOM Elements</h4>
+<h4 id="ch10-3">10.3 Handling Events: Responding to User Input</h4>
+<h4 id="ch10-4">10.4 Creating and Navigating Between Pages Dynamically</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch11">Chapter 11: Debugging and Error Handling</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch11-1">11.1 Introduction to Debugging in JavaScript</h4>
+<h4 id="ch11-2">11.2 Using Browser Developer Tools</h4>
+<h4 id="ch11-3">11.3 Understanding Runtime Errors and Handling Exceptions</h4>
+<h4 id="ch11-4">11.4 Best Practices for Debugging</h4>
 
-Introduction to Debugging in JavaScript
-
-Using Browser Developer Tools
-
-Understanding Runtime Errors and Handling Exceptions
-
-Best Practices for Debugging
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch12">Chapter 12: JavaScript in the Real World</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Building a Simple Web Application:
-
-Integrating HTML, CSS, and JavaScript
-
-Utilizing Local Storage for Data Persistence
-
-Deploying Your JavaScript Web Application
-
-Where to Go from Here: Continuing Your JavaScript Journey
-
+<h4 id="ch12-1">12.1 Building a Simple Web Application:</h4>
+<h4 id="ch12-2">12.2 Integrating HTML, CSS, and JavaScript</h4>
+<h4 id="ch12-3">12.3 Utilizing Local Storage for Data Persistence</h4>
+<h4 id="ch12-4">12.4 Deploying Your JavaScript Web Application</h4>
+<h4 id="ch12-5">12.5 Where to Go from Here: Continuing Your JavaScript Journey</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Preface</h2>
 
@@ -246,14 +144,12 @@ without feeling overvthelmed. Imagine diving into the subject matter through con
 mentor, one who uses real-world examples, practical demonstrations, and a touch of humor to bring 
 the essence of JavaScript to lifer.</p>
 
-<p>Our intention is to ignite your passion for learning and to make your
-educational journey as exhilarating as it is enlightening. We believe
-that the process Of mastering JavaScript should spark curiosity,
-challenge your thinking, and ultimately, be immensely rewarding. To facilitate this, the book includes a variety Of exercises, projects,
-and hands-on examples, encouraging you to apply what you've learned and
-experiment beyond the page. These activities are not just instructional;
-they are invitations to explore the limitless possibilities that
-JavaScript offers.</p>
+<p>Our intention is to ignite your passion for learning and to make your educational journey as 
+exhilarating as it is enlightening. We believe that the process Of mastering JavaScript should 
+spark curiosity, challenge your thinking, and ultimately, be immensely rewarding. To facilitate 
+this, the book includes a variety Of exercises, projects, and hands-on examples, encouraging you 
+to apply what you've learned and experiment beyond the page. These activities are not just 
+instructional; they are invitations to explore the limitless possibilities that JavaScript offers.</p>
 
 <p>Commencing with "Basics of JavaScript" is merely the first step into a
 broadere constantly changing universe ofdevelopment opportunities. The
